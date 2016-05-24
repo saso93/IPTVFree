@@ -69,6 +69,7 @@
     <string name="dialog_loader_list_message" translatable="false">You have not uploaded any list!</string>
     <string name="dialog_loader_list_favorite" translatable="false">Error!</string>
     <string name="dialog_loader_list_favorite_message" translatable="false">You have not added any favorite!</string>
+    <string name="dialog_exit">Are you sure you want to quit?</string>
     <!-- Intro View -->
     <string name="intro_understand">Got it!</string>
     <string name="intro_navbar">Use the side menu to scroll through the various IPTV categories!</string>

@@ -33,13 +33,9 @@ import it.michelelacorte.iptvfree.util.Utils;
  * Created by Michele on 23/04/2016.
  */
 public class FragmentIPTVFavorite  extends Fragment {
-    private RecyclerView rv;
-    private LinearLayoutManager llm;
-    private FastScroller fastScroller;
     public static CardViewAdapterFavorite adapter;
     private List<String> channelLink = new ArrayList<String>();
     private List<String> channelName = new ArrayList<String>();
-    private List<M3UData> m3UDatas = new ArrayList<>();
 
     public static FragmentIPTVFavorite newInstance(ArrayList<String> channelNames, ArrayList<String> channelLinks) {
         FragmentIPTVFavorite fragmentIPTV = new FragmentIPTVFavorite();
@@ -62,13 +58,13 @@ public class FragmentIPTVFavorite  extends Fragment {
 
     @Override
     public void onViewCreated(final View view, Bundle savedInstanceState) {
-        rv = (RecyclerView) view.findViewById(R.id.rv);
-        llm = new LinearLayoutManager(getContext());
+        RecyclerView rv = (RecyclerView) view.findViewById(R.id.rv);
+        LinearLayoutManager llm = new LinearLayoutManager(getContext());
         rv.setLayoutManager(llm);
-        m3UDatas = Utils.convertToM3UData(channelName, channelLink);
+        List<M3UData> m3UDatas = Utils.convertToM3UData(channelName, channelLink);
         adapter = new CardViewAdapterFavorite(m3UDatas, getContext());
         rv.setAdapter(adapter);
-        fastScroller=(FastScroller) view.findViewById(R.id.fastscroller);
+        FastScroller fastScroller=(FastScroller) view.findViewById(R.id.fastscroller);
         fastScroller.setViewsToUse(R.layout.recycler_view_fast_scroller__fast_scroller, R.id.fastscroller_bubble, R.id.fastscroller_handle);
         fastScroller.setRecyclerView(rv);
     }

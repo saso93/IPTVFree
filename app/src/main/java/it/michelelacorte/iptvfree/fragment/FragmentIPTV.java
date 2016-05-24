@@ -38,13 +38,8 @@ import it.michelelacorte.iptvfree.util.Utils;
  * Created by Michele on 20/04/2016.
  */
 public class FragmentIPTV extends Fragment {
-    private RecyclerView rv;
-    private LinearLayoutManager llm;
-    private CardViewAdapter adapter;
-    private FastScroller fastScroller;
     private List<String> channelLink = new ArrayList<>();
     private List<String> channelName = new ArrayList<>();
-    private List<M3UData> m3uDatas = new ArrayList<>();
 
     public static FragmentIPTV newInstance(ArrayList<String> channelNames, ArrayList<String> channelLinks) {
         FragmentIPTV fragmentIPTV = new FragmentIPTV();
@@ -67,13 +62,13 @@ public class FragmentIPTV extends Fragment {
 
     @Override
     public void onViewCreated(final View view, Bundle savedInstanceState) {
-        rv = (RecyclerView) view.findViewById(R.id.rv);
-        llm = new LinearLayoutManager(getContext());
+        RecyclerView rv = (RecyclerView) view.findViewById(R.id.rv);
+        LinearLayoutManager llm = new LinearLayoutManager(getContext());
         rv.setLayoutManager(llm);
-        m3uDatas = Utils.convertToM3UData(channelName, channelLink);
-        adapter = new CardViewAdapter(m3uDatas, getContext());
+        List<M3UData> m3uDatas = Utils.convertToM3UData(channelName, channelLink);
+        CardViewAdapter adapter = new CardViewAdapter(m3uDatas, getContext());
         rv.setAdapter(adapter);
-        fastScroller=(FastScroller) view.findViewById(R.id.fastscroller);
+        FastScroller fastScroller=(FastScroller) view.findViewById(R.id.fastscroller);
         fastScroller.setViewsToUse(R.layout.recycler_view_fast_scroller__fast_scroller, R.id.fastscroller_bubble, R.id.fastscroller_handle);
         fastScroller.setRecyclerView(rv);
     }
@@ -149,8 +144,8 @@ class CardViewAdapter extends RecyclerView.Adapter<CardViewAdapter.ViewHolder> i
             }
         });
         Picasso.with(context)
-                .load("http://iptvfree.altervista.org/IconStandard/" + viewHolder.channelName.getText().toString().replace(' ', '_') + ".png")
-                .resize(200, 150)
+                .load("http://iptvfree.altervista.org/IconStandard/" + viewHolder.channelName.getText().toString().replace(' ', '_').replace('+', '_') + ".png")
+                .resize(230, 150)
                 .into(viewHolder.channelImage, new Callback(){
                     @Override
                     public void onSuccess() {
@@ -160,8 +155,8 @@ class CardViewAdapter extends RecyclerView.Adapter<CardViewAdapter.ViewHolder> i
                     @Override
                     public void onError() {
                         Picasso.with(context)
-                                .load("http://iptvfree.altervista.org/IconStandard/" + viewHolder.channelName.getText().toString().replace(' ', '_') + ".jpg")
-                                .resize(200, 150)
+                                .load("http://iptvfree.altervista.org/IconStandard/" + viewHolder.channelName.getText().toString().replace(' ', '_').replace('+', '_') + ".jpg")
+                                .resize(230, 150)
                                 .into(viewHolder.channelImage, new Callback(){
                                     @Override
                                     public void onSuccess() {

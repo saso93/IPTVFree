@@ -21,10 +21,10 @@
     <string name="share_message">"Hello!\nSee IPTVFree at https://github.com/michelelacorte/IPTVFree"</string>
     <!-- Dialog Info-->
     <string name="ok_dialog">OK</string>
-    <string name="dialog_message">This App is totally free and is available on <a href="https://github.com/michelelacorte/IPTVFree">GitHub</a>.\nThe App is licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache</a> license.\n\nApplication Version 1.0</string>
+    <string name="dialog_message">Questa app è totalmente gratuita e disponibile su <a href="https://github.com/michelelacorte/IPTVFree">GitHub</a>.\nQuesta app è sotto licenza <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache</a>.\n\nApplication Version 1.0.2</string>
     <string name="drawer_open">Open</string>
     <string name="drawer_close">Close</string>
-    <string name="donate_message">If you like IPTV Free, please help developer!\n\n<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D6QRUWYCM5DFE">Donate</a></string>
+    <string name="donate_message">Se ti piace IPTV Free, per favore aiuta gli sviluppatori!\n\n<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D6QRUWYCM5DFE">Dona</a></string>
     <!-- Email String -->
     <string name="email">bdscompany1990@gmail.com</string>
     <string name="email_subject">IPTV Link non funzionante</string>
@@ -69,6 +69,7 @@
     <string name="dialog_loader_list_message">Non hai caricato nessuna lista!</string>
     <string name="dialog_loader_list_favorite">Errore!</string>
     <string name="dialog_loader_list_favorite_message">Non hai aggiunto nessun preferito!</string>
+    <string name="dialog_exit">Sei sicuro di voler uscire?</string>
     <!-- Intro View -->
     <string name="intro_understand">Ho capito!</string>
     <string name="intro_navbar">Usa il menù laterale per scorrere nelle varie categorie dell\'IPTV!</string>

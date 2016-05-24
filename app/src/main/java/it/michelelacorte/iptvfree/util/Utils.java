@@ -1,24 +1,37 @@
 package it.michelelacorte.iptvfree.util;
 
 import android.app.Activity;
+import android.app.Notification;
+import android.app.NotificationManager;
+import android.app.PendingIntent;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.content.res.Configuration;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.PorterDuff;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Build;
+import android.os.Handler;
+import android.os.Vibrator;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.TabLayout;
+import android.support.v4.app.TaskStackBuilder;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AlertDialog;
+import android.support.v7.app.NotificationCompat;
 import android.support.v7.graphics.drawable.DrawerArrowDrawable;
 import android.support.v7.widget.Toolbar;
+import android.text.method.LinkMovementMethod;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.TextView;
 import android.widget.Toast;
 import com.miguelcatalan.materialsearchview.MaterialSearchView;
 import java.util.ArrayList;
@@ -210,28 +223,32 @@ public class Utils {
     public static void tutorialView(Activity activity, String SHOWCASE_ID, Toolbar toolbar, FloatingActionButton floatingActionButton
     , TabLayout tabLayout, ViewPager viewPager, MaterialSearchView searchView)
     {
-        ShowcaseConfig config = new ShowcaseConfig();
-        config.setDelay(500);
+        int orientation= activity.getResources().getConfiguration().orientation;
+        if(orientation== Configuration.ORIENTATION_PORTRAIT){
+            ShowcaseConfig config = new ShowcaseConfig();
+            config.setDelay(500);
 
-        MaterialShowcaseSequence sequence = new MaterialShowcaseSequence(activity, SHOWCASE_ID);
+            MaterialShowcaseSequence sequence = new MaterialShowcaseSequence(activity, SHOWCASE_ID);
 
-        sequence.setConfig(config);
+            sequence.setConfig(config);
 
-        sequence.addSequenceItem(getNavButtonInToolBar(toolbar),
-                activity.getResources().getString(R.string.intro_navbar), activity.getResources().getString(R.string.intro_understand));
+            sequence.addSequenceItem(getNavButtonInToolBar(toolbar),
+                    activity.getResources().getString(R.string.intro_navbar), activity.getResources().getString(R.string.intro_understand));
 
-        sequence.addSequenceItem(floatingActionButton,
-                activity.getResources().getString(R.string.intro_fab), activity.getResources().getString(R.string.intro_understand));
+            sequence.addSequenceItem(floatingActionButton,
+                    activity.getResources().getString(R.string.intro_fab), activity.getResources().getString(R.string.intro_understand));
 
-        sequence.addSequenceItem(tabLayout,
-                activity.getResources().getString(R.string.intro_tab_1), activity.getResources().getString(R.string.intro_understand));
+            sequence.addSequenceItem(tabLayout,
+                    activity.getResources().getString(R.string.intro_tab_1), activity.getResources().getString(R.string.intro_understand));
 
-        sequence.addSequenceItem(tabLayout,
-                activity.getResources().getString(R.string.intro_tab_2), activity.getResources().getString(R.string.intro_understand));
+            sequence.addSequenceItem(tabLayout,
+                    activity.getResources().getString(R.string.intro_tab_2), activity.getResources().getString(R.string.intro_understand));
 
-        sequence.addSequenceItem(searchView,
-                activity.getResources().getString(R.string.intro_search), activity.getResources().getString(R.string.intro_understand));
-        sequence.start();
+            sequence.addSequenceItem(searchView,
+                    activity.getResources().getString(R.string.intro_search), activity.getResources().getString(R.string.intro_understand));
+            sequence.start();
+        }
+        //No tutorial in landscape mode
     }
 
     /**
@@ -248,5 +265,48 @@ public class Utils {
             }
         }
         return null;
+    }
+
+    /**
+     * Show message every 30 minutes
+     * @param activity Activity
+     * @param TAG String
+     */
+    public static void showDonateMessage(final Activity activity, final String TAG)
+    {
+        final Handler handler = new Handler();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                while (true) {
+                    try {
+                        Thread.sleep(1800000);
+                        handler.post(new Runnable() {
+
+                            @Override
+                            public void run() {
+                                if(!(activity.isFinishing())) {
+                                    AlertDialog.Builder donate = new AlertDialog.Builder(activity, R.style.AlertDialogCustom);
+                                    donate.setTitle(activity.getResources().getString(R.string.donate))
+                                            .setMessage(R.string.donate_message)
+                                            .setCancelable(false)
+                                            .setNegativeButton(activity.getResources().getString(R.string.ok_dialog), new DialogInterface.OnClickListener() {
+                                                public void onClick(DialogInterface dialog, int id) {
+                                                    dialog.dismiss();
+                                                }
+                                            });
+
+                                    AlertDialog donation = donate.create();
+                                    donation.show();
+                                    ((TextView) donation.findViewById(android.R.id.message)).setMovementMethod(LinkMovementMethod.getInstance());
+                                }
+                            }
+                        });
+                    } catch (Exception e) {
+                        Log.e(TAG, e.toString());
+                    }
+                }
+            }
+        }).start();
     }
 }

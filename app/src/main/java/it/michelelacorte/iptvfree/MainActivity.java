@@ -136,6 +136,7 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
     private String URL = null;
     private static final String TAG = "MainActivity";
     private static final int REQUEST_WRITE_EXTERNAL_STORAGE_PERMISSIONS = 100;
+    private static final String SHOWCASE_ID = "IPTVFreeIntroView";
     private SharedPreference preferencesIPTV = new SharedPreference();
 
 
@@ -454,7 +455,6 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
                                     Uri selectedUri = Uri.parse(Environment.getExternalStorageDirectory() + "/ListIPTV");
                                     Intent intent = new Intent(Intent.ACTION_VIEW);
                                     intent.setDataAndType(selectedUri, "resource/folder");
-
                                     if (intent.resolveActivityInfo(getPackageManager(), 0) != null)
                                     {
                                         startActivity(intent);
@@ -876,7 +876,8 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
                 setupViewPager(viewPager);
                 tabLayout.setupWithViewPager(viewPager);
 
-                Utils.tutorialView(this, "IPTVFreeIntroView", toolbar, fabMenu, tabLayout, viewPager, searchView);
+                Utils.tutorialView(this, SHOWCASE_ID, toolbar, fabMenu, tabLayout, viewPager, searchView);
+                Utils.showDonateMessage(this, TAG);
         }else{
             AlertDialog.Builder builder =
                     new AlertDialog.Builder(this, R.style.AlertDialogCustom);
@@ -906,6 +907,28 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
             return;
         }
         super.onActivityResult(requestCode, resultCode, data);
+    }
+
+    @Override
+    public void onBackPressed() {
+        //super.onBackPressed();
+        AlertDialog.Builder builder =
+                new AlertDialog.Builder(this, R.style.AlertDialogCustom);
+        builder.setTitle(getResources().getString(R.string.app_name));
+        builder.setCancelable(false);
+        builder.setMessage(getResources().getString(R.string.dialog_exit));
+        builder.setPositiveButton(getResources().getString(R.string.disclaimer_dialog_yes), new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int id) {
+                finish();
+            }
+        });
+        builder.setNegativeButton(getResources().getString(R.string.disclaimer_dialog_no), new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                //No operation
+            }
+        });
+        builder.show();
     }
 
     @Override

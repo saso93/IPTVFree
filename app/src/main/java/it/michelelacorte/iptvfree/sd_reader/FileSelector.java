@@ -29,14 +29,11 @@ import it.michelelacorte.iptvfree.R;
 public class FileSelector {
 
 	private ListView mFileListView;
-	private Button mLoadButton;
-	private Button mCancelButton;
-	private Button mNewFolderButton;
 	private Spinner mFilterSpinner;
 	private File mCurrentLocation;
 	private final Dialog mDialog;
 	private Context mContext;
-	private final OnHandleFileListener mOnHandleFileListener;
+	public final OnHandleFileListener mOnHandleFileListener;
 
 	public FileSelector(final Context context, final FileOperation operation,
 			final OnHandleFileListener onHandleFileListener, final String[] fileFilters) {
@@ -163,21 +160,21 @@ public class FileSelector {
 
 
 	private void setSaveLoadButton(final FileOperation operation) {
-		mLoadButton = (Button) mDialog.findViewById(R.id.fileSaveLoad);
+		Button mLoadButton = (Button) mDialog.findViewById(R.id.fileSaveLoad);
 			mLoadButton.setText(R.string.loadButtonText);
 		mLoadButton.setOnClickListener(new LoadClickListener(operation, this, mContext));
 	}
 
 
 	private void setNewFolderButton(final FileOperation operation) {
-		mNewFolderButton = (Button) mDialog.findViewById(R.id.newFolder);
+		Button mNewFolderButton = (Button) mDialog.findViewById(R.id.newFolder);
 		OnClickListener newFolderListener = new OnClickListener() {
 			@Override
 			public void onClick(final View v) {
 				openNewFolderDialog();
 			}
 		};
-			mNewFolderButton.setVisibility(View.GONE);
+		mNewFolderButton.setVisibility(View.GONE);
 	}
 
 	private void openNewFolderDialog() {
@@ -207,7 +204,7 @@ public class FileSelector {
 	}
 
 	private void setCancelButton() {
-		mCancelButton = (Button) mDialog.findViewById(R.id.fileCancel);
+		Button mCancelButton = (Button) mDialog.findViewById(R.id.fileCancel);
 		mCancelButton.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(final View view) {

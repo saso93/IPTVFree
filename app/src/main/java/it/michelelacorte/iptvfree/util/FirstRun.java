@@ -21,7 +21,7 @@ public class FirstRun {
      * @param context Context
      * @return boolean
      */
-    public synchronized static boolean isFirstLaunch(Context context) {
+    public synchronized static boolean isFirstLaunch(Context context) throws RuntimeException{
         String sID = null;
         boolean launchFlag = false;
         if (sID == null) {

@@ -57,6 +57,7 @@ Android API 14+
 - Fixed tutorial issue with low density screen
 - Added link to XMTV Player (best media player)
 - Improved code review from B to A on Codacy
+- Improved icon of channel
 
 
 **v1.0.0**

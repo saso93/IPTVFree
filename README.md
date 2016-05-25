@@ -44,6 +44,11 @@ Android API 14+
 
 ##CHANGELOG
 
+**v1.0.2 (Coming soon!)**
+
+- Fixed tutorial issue with landscape mode
+- Improved code review
+
 **v1.0.1**
 
 - All player supported

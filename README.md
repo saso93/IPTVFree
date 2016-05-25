@@ -2,6 +2,8 @@
 
 <h2 align="center">Watch all your favorite channels!!</h1>
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-IPTVFree-green.svg?style=true)](https://android-arsenal.com/details/3/3625)
+
 ##DOWNLOAD
 
 ####IPTV Free is on Google Play!!!

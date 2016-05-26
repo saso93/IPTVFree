@@ -21,7 +21,7 @@
     <string name="share_message">"Hello!\nSee IPTVFree at https://github.com/michelelacorte/IPTVFree"</string>
     <!-- Dialog Info-->
     <string name="ok_dialog">OK</string>
-    <string name="dialog_message" translatable="false">This App is totally free and is available on <a href="https://github.com/michelelacorte/IPTVFree">GitHub</a>.\nThe App is licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache</a> license.\n\nApplication Version 1.0</string>
+    <string name="dialog_message" translatable="false">This App is totally free and is available on <a href="https://github.com/michelelacorte/IPTVFree">GitHub</a>.\nThe App is licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache</a> license.\n\nApplication Version 1.0.3</string>
     <string name="drawer_open" translatable="false">Open</string>
     <string name="drawer_close" translatable="false">Close</string>
     <string name="donate_message" translatable="false">If you like IPTV Free, please help developer!\n\n<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LY7EX8WMWPWV6">Donate</a></string>
@@ -80,9 +80,9 @@
     <!-- Disclaimer Dialog -->
     <string name="disclaimer_dialog_yes">YES</string>
     <string name="disclaimer_dialog_no">NO</string>
-    <string name="disclaimer_dialog_message">Welcome to IPTVFree!\n\nThis app is totally free, no ad, please help by voting positively developers! \nDevelopers do not assume any responsibility for the use that you will make, this app is only for INFORMATION.</string>
+    <string name="disclaimer_dialog_message">Welcome to IPTVFree!\n\n\n\nThis app is totally free, no ad, please help by voting positively developers! \n\nDevelopers do not assume any responsibility for the use that you will make, this app is only for INFORMATION and didactic scope.\n\nFree IPTV is an indexing engine, is not the content provider.\n\nIf you like IPTV Free, please help developer!\n\n<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LY7EX8WMWPWV6">Donate</a></string>
     <string name="disclaimer_link">Streaming source:</string>
-    <string name="disclaimer_channel">You are about to start streaming from a pay channel.\nContinuing you understand the risks.</string>
+    <string name="disclaimer_channel">You are about to start streaming from a copyrighted channel.\nContinuing you understand the risks.</string>
     <!-- Fab menu text -->
     <string name="fab_download">Download PlayList</string>
     <string name="fab_add">Add PlayList</string>

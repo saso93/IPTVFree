@@ -8,13 +8,15 @@ import java.util.UUID;
 
 import android.content.Context;
 
+import it.michelelacorte.iptvfree.MainActivity;
+
 /**
  * This class check and save if app is running for the first time
  *
  * Created by Michele on 02/05/2016.
  */
 public class FirstRun {
-    private static final String INSTALLATION = "INSTALLATION";
+    public static final String CHECK_DISCLAIMER = "CHECKDISCLAIMER";
 
     /**
      * Get boolean rapresent first launch
@@ -25,7 +27,7 @@ public class FirstRun {
         String sID = null;
         boolean launchFlag = false;
         if (sID == null) {
-            File installation = new File(context.getFilesDir(), INSTALLATION);
+            File installation = new File(context.getFilesDir(), CHECK_DISCLAIMER);
             try {
                 if (!installation.exists()) {
                     launchFlag = true;

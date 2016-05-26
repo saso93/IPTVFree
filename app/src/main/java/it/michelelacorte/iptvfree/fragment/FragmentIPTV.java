@@ -40,12 +40,14 @@ import it.michelelacorte.iptvfree.util.Utils;
 public class FragmentIPTV extends Fragment {
     private List<String> channelLink = new ArrayList<>();
     private List<String> channelName = new ArrayList<>();
+    private String name;
 
-    public static FragmentIPTV newInstance(ArrayList<String> channelNames, ArrayList<String> channelLinks) {
+    public static FragmentIPTV newInstance(ArrayList<String> channelNames, ArrayList<String> channelLinks, String name) {
         FragmentIPTV fragmentIPTV = new FragmentIPTV();
         Bundle bundle = new Bundle();
         bundle.putStringArrayList("channels", channelNames);
         bundle.putStringArrayList("links", channelLinks);
+        bundle.putString("name", name);
         fragmentIPTV.setArguments(bundle);
         return fragmentIPTV;
     }
@@ -53,9 +55,11 @@ public class FragmentIPTV extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        if(getArguments() != null && getArguments().getStringArrayList("links") != null && getArguments().getStringArrayList("channels") != null) {
+        if(getArguments() != null && getArguments().getStringArrayList("links") != null && getArguments().getStringArrayList("channels") != null
+                && getArguments().getString("name") != null) {
             channelLink = getArguments().getStringArrayList("links");
             channelName = getArguments().getStringArrayList("channels");
+            name = getArguments().getString("name");
         }
         return inflater.inflate(R.layout.fragment_iptv, container, false);
     }
@@ -66,7 +70,7 @@ public class FragmentIPTV extends Fragment {
         LinearLayoutManager llm = new LinearLayoutManager(getContext());
         rv.setLayoutManager(llm);
         List<M3UData> m3uDatas = Utils.convertToM3UData(channelName, channelLink);
-        CardViewAdapter adapter = new CardViewAdapter(m3uDatas, getContext());
+        CardViewAdapter adapter = new CardViewAdapter(m3uDatas, getContext(), name);
         rv.setAdapter(adapter);
         FastScroller fastScroller=(FastScroller) view.findViewById(R.id.fastscroller);
         fastScroller.setViewsToUse(R.layout.recycler_view_fast_scroller__fast_scroller, R.id.fastscroller_bubble, R.id.fastscroller_handle);
@@ -83,10 +87,12 @@ public class FragmentIPTV extends Fragment {
 class CardViewAdapter extends RecyclerView.Adapter<CardViewAdapter.ViewHolder> implements BubbleTextGetter {
     private List<M3UData> m3UData;
     private Context context;
+    private String name;
 
-    public CardViewAdapter(List<M3UData> m3UDatas, Context context) {
+    public CardViewAdapter(List<M3UData> m3UDatas, Context context, String name) {
         this.m3UData = m3UDatas;
         this.context = context;
+        this.name = name;
     }
 
     @Override
@@ -113,34 +119,51 @@ class CardViewAdapter extends RecyclerView.Adapter<CardViewAdapter.ViewHolder> i
         viewHolder.cv.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                AlertDialog.Builder builder =
-                        new AlertDialog.Builder(context, R.style.AlertDialogCustom);
-                builder.setTitle(context.getString(R.string.app_name));
-                builder.setCancelable(false);
-                builder.setMessage(context.getString(R.string.disclaimer_channel));
-                builder.setPositiveButton(context.getString(R.string.disclaimer_dialog_yes), new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int id) {
-                        //Accepted Disclaimer
-                        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(m3UData.get(i).getChannelLink()));
-                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                        context.startActivity(intent);
-                        try {
-                            URL domainUrl = new URL(m3UData.get(i).getChannelLink());
-                            Toast.makeText(context, context.getResources().getString(R.string.disclaimer_link)
-                                    + " " + domainUrl.getHost(), Toast.LENGTH_SHORT).show();
-                        } catch (MalformedURLException e) {
-                            e.printStackTrace();
-                            Toast.makeText(context, context.getResources().getString(R.string.disclaimer_link)
-                                    + " " + m3UData.get(i).getChannelLink(), Toast.LENGTH_SHORT).show();
+                if(name.equalsIgnoreCase("DEFAULT") || name.equalsIgnoreCase("CANALI REGIONALI"))
+                {
+                    //Accepted Disclaimer
+                    Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(m3UData.get(i).getChannelLink()));
+                    intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                    context.startActivity(intent);
+                    try {
+                        URL domainUrl = new URL(m3UData.get(i).getChannelLink());
+                        Toast.makeText(context, context.getResources().getString(R.string.disclaimer_link)
+                                + " " + domainUrl.getHost(), Toast.LENGTH_SHORT).show();
+                    } catch (MalformedURLException e) {
+                        e.printStackTrace();
+                        Toast.makeText(context, context.getResources().getString(R.string.disclaimer_link)
+                                + " " + m3UData.get(i).getChannelLink(), Toast.LENGTH_SHORT).show();
+                    }
+                }else {
+                    AlertDialog.Builder builder =
+                            new AlertDialog.Builder(context, R.style.AlertDialogCustom);
+                    builder.setTitle(context.getString(R.string.app_name));
+                    builder.setCancelable(false);
+                    builder.setMessage(context.getString(R.string.disclaimer_channel));
+                    builder.setPositiveButton(context.getString(R.string.disclaimer_dialog_yes), new DialogInterface.OnClickListener() {
+                        public void onClick(DialogInterface dialog, int id) {
+                            //Accepted Disclaimer
+                            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(m3UData.get(i).getChannelLink()));
+                            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                            context.startActivity(intent);
+                            try {
+                                URL domainUrl = new URL(m3UData.get(i).getChannelLink());
+                                Toast.makeText(context, context.getResources().getString(R.string.disclaimer_link)
+                                        + " " + domainUrl.getHost(), Toast.LENGTH_SHORT).show();
+                            } catch (MalformedURLException e) {
+                                e.printStackTrace();
+                                Toast.makeText(context, context.getResources().getString(R.string.disclaimer_link)
+                                        + " " + m3UData.get(i).getChannelLink(), Toast.LENGTH_SHORT).show();
+                            }
                         }
-                    }
-                });
-                builder.setNegativeButton(context.getString(R.string.disclaimer_dialog_no), new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int id) {
-                        //Discard Disclaimer
-                    }
-                });
-                builder.show();
+                    });
+                    builder.setNegativeButton(context.getString(R.string.disclaimer_dialog_no), new DialogInterface.OnClickListener() {
+                        public void onClick(DialogInterface dialog, int id) {
+                            //Discard Disclaimer
+                        }
+                    });
+                    builder.show();
+                }
             }
         });
         Picasso.with(context)

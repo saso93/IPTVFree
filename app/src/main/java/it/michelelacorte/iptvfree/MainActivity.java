@@ -32,9 +32,11 @@ import android.text.Spanned;
 import android.text.TextUtils;
 import android.text.method.LinkMovementMethod;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.WindowManager;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.TextView;
@@ -123,6 +125,7 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
     public static List<String> channelLinkPersonal = new ArrayList<>();
     public static List<Integer> categorySizePersonal = new ArrayList<>();
     private static List<String> state;
+    private static List<String> disclaimerState;
     /**
      * Other variable
      */
@@ -133,6 +136,7 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
     public static boolean DEFAULT = true;
     public static boolean isMyListLoadedFromPath = false;
     public static boolean isMyListLoadedFromURL = false;
+    public static boolean isDisclaimerAccepted = false;
     private String URL = null;
     private static final String TAG = "MainActivity";
     private static final int REQUEST_WRITE_EXTERNAL_STORAGE_PERMISSIONS = 100;
@@ -507,6 +511,38 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
     }
 
 
+    private class RestoreDisclaimerAsync extends AsyncTask<Void, Void, Boolean> {
+        ProgressDialog ringProgressDialog;
+        Activity activity;
+
+        public RestoreDisclaimerAsync(Activity activity)
+        {
+            this.activity = activity;
+        }
+
+        @Override
+        protected void onPreExecute() {
+            super.onPreExecute();
+            ringProgressDialog = ProgressDialog.show(activity, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
+            ringProgressDialog.setCancelable(false);
+        }
+
+
+        @Override
+        protected Boolean doInBackground(Void... url) {
+            //Restore Data from SharedPreferences
+            restoreDisclaimerState();
+            return true;
+        }
+
+        @Override
+        protected void onPostExecute(Boolean success) {
+            super.onPostExecute(success);
+            ringProgressDialog.dismiss();
+        }
+    }
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -525,12 +561,13 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         }
         //Check if connection is enabled, it is necessary!
         if(Utils.isOnline(getApplicationContext())) {
+            restoreDisclaimerState();
             PackageManager pm = getApplicationContext().getPackageManager();
             boolean isInstalledMXPlayer = Utils.isPackageInstalled("com.mxtech.videoplayer.ad", pm);
             boolean isInstalledXMTVPlayer = Utils.isPackageInstalled("com.xmtvplayer.watch.live.streams", pm);
             //Check if MXPlayer is installed, it is necessary!
             if(!isInstalledMXPlayer && !isInstalledXMTVPlayer) {
-                    Spanned alertText = null;
+                Spanned alertText = null;
                     if(Locale.getDefault().getDisplayLanguage().equalsIgnoreCase("English"))
                     {
                         alertText = Html.fromHtml("Please install a media player to use IPTV Free. \n\n\nWe suggest you <a href=\"https://github.com/michelelacorte/IPTVFree/raw/master/xmtvplayer.apk\">XMTV Player</a> or <a href=\"https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=it\">MX Player</a>");
@@ -553,268 +590,129 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
                             .findViewById(android.R.id.message))
                             .setMovementMethod(LinkMovementMethod.getInstance());
             }
-                if(FirstRun.isFirstLaunch(getApplicationContext())) {
+                if((FirstRun.isFirstLaunch(getApplicationContext())) || !isDisclaimerAccepted) {
                     //Show disclaimer
                     disclaimerAlertDialog();
                 }
 
-                try {
-                    new GetDataAsync(this).execute(URL).get();
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                } catch (ExecutionException e) {
-                    e.printStackTrace();
-                }
+                    try {
+                        new GetDataAsync(this).execute(URL).get();
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    } catch (ExecutionException e) {
+                        e.printStackTrace();
+                    }
 
 
-                //Request explicit permission (on android M)
-                requestWriteExternalStoragePermission(this);
+                    //Request explicit permission (on android M)
+                    requestWriteExternalStoragePermission(this);
 
 
-                //Other inizialize object
-                toolbar = (Toolbar) findViewById(R.id.toolbar);
-                setSupportActionBar(toolbar);
-                tabLayout = (TabLayout) findViewById(R.id.tabs);
-                viewPager = (ViewPager) findViewById(R.id.viewpager);
-                coordinatorLayout = (CoordinatorLayout) findViewById(R.id
-                        .coordinatorLayout);
+                    //Other inizialize object
+                    toolbar = (Toolbar) findViewById(R.id.toolbar);
+                    setSupportActionBar(toolbar);
+                    tabLayout = (TabLayout) findViewById(R.id.tabs);
+                    viewPager = (ViewPager) findViewById(R.id.viewpager);
+                    coordinatorLayout = (CoordinatorLayout) findViewById(R.id
+                            .coordinatorLayout);
 
-                //Fab menù initialize object
-                labelAdd = (TextView)findViewById(R.id.labeAdd);
-                labelDownload = (TextView)findViewById(R.id.labelDownload);
-                fabMenu = (FloatingActionButton)findViewById(R.id.fabMenu);
-                fabAdd = (FloatingActionButton)findViewById(R.id.fabAdd);
-                fabDownload = (FloatingActionButton)findViewById(R.id.fabDownload);
-                fab_open = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.fab_open);
-                fab_close = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.fab_close);
-                rotate_forward = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.rotate_forward);
-                rotate_backward = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.rotate_backward);
-                fabMenu.setOnClickListener(this);
-                fabAdd.setOnClickListener(this);
-                fabDownload.setOnClickListener(this);
+                    //Fab menù initialize object
+                    labelAdd = (TextView) findViewById(R.id.labeAdd);
+                    labelDownload = (TextView) findViewById(R.id.labelDownload);
+                    fabMenu = (FloatingActionButton) findViewById(R.id.fabMenu);
+                    fabAdd = (FloatingActionButton) findViewById(R.id.fabAdd);
+                    fabDownload = (FloatingActionButton) findViewById(R.id.fabDownload);
+                    fab_open = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.fab_open);
+                    fab_close = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.fab_close);
+                    rotate_forward = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.rotate_forward);
+                    rotate_backward = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.rotate_backward);
+                    fabMenu.setOnClickListener(this);
+                    fabAdd.setOnClickListener(this);
+                    fabDownload.setOnClickListener(this);
 
-                searchView = (MaterialSearchView) findViewById(R.id.search_view);
-                channelNameArray = channelName.toArray(new String[channelName.size()]);
-                searchView.setSuggestions(channelNameArray);
-                searchView.setOnQueryTextListener(new MaterialSearchView.OnQueryTextListener() {
-                    @Override
-                    public boolean onQueryTextSubmit(String query) {
-                        int position = 0;
-                        for(int i = 0; i < channelName.size(); i++)
-                        {
-                            if(channelName.get(i).equalsIgnoreCase(query))
-                            {
-                                position = i;
+                    searchView = (MaterialSearchView) findViewById(R.id.search_view);
+                    channelNameArray = channelName.toArray(new String[channelName.size()]);
+                    searchView.setSuggestions(channelNameArray);
+                    searchView.setOnQueryTextListener(new MaterialSearchView.OnQueryTextListener() {
+                        @Override
+                        public boolean onQueryTextSubmit(String query) {
+                            int position = 0;
+                            for (int i = 0; i < channelName.size(); i++) {
+                                if (channelName.get(i).equalsIgnoreCase(query)) {
+                                    position = i;
+                                }
                             }
+                            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(channelLink.get(position)));
+                            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                            startActivity(intent);
+                            return true;
                         }
-                        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(channelLink.get(position)));
-                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                        startActivity(intent);
-                        return true;
+
+                        @Override
+                        public boolean onQueryTextChange(String newText) {
+                            //Do some magic
+                            return false;
+                        }
+                    });
+
+                    if (!FirstRun.isFirstLaunch(getApplicationContext())) {
+                        //Restore Data from SharedPreferences asynchronous
+                        new RestoreDataAsync(this).execute();
                     }
 
-                    @Override
-                    public boolean onQueryTextChange(String newText) {
-                        //Do some magic
-                        return false;
-                    }
-                });
+                    NavigationView navigationView = (NavigationView) findViewById(R.id.navigation_view);
+                    navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
+                        @Override
+                        public boolean onNavigationItemSelected(MenuItem menuItem) {
+                            switch (menuItem.getItemId()) {
+                                case R.id.About:
+                                    AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this, R.style.AlertDialogCustom);
+                                    builder.setTitle(getResources().getString(R.string.app_name))
+                                            .setMessage(R.string.dialog_message)
+                                            .setCancelable(false)
+                                            .setNegativeButton(getResources().getString(R.string.ok_dialog), new DialogInterface.OnClickListener() {
+                                                public void onClick(DialogInterface dialog, int id) {
+                                                    dialog.dismiss();
+                                                }
+                                            });
 
-                if(!FirstRun.isFirstLaunch(getApplicationContext())) {
-                    //Restore Data from SharedPreferences asynchronous
-                    new RestoreDataAsync(this).execute();
-                }
-
-                NavigationView navigationView = (NavigationView) findViewById(R.id.navigation_view);
-                navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
-                    @Override
-                    public boolean onNavigationItemSelected(MenuItem menuItem) {
-                        switch (menuItem.getItemId()) {
-                            case R.id.About:
-                                AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this, R.style.AlertDialogCustom);
-                                builder.setTitle(getResources().getString(R.string.app_name))
-                                        .setMessage(R.string.dialog_message)
-                                        .setCancelable(false)
-                                        .setNegativeButton(getResources().getString(R.string.ok_dialog), new DialogInterface.OnClickListener() {
-                                            public void onClick(DialogInterface dialog, int id) {
-                                                dialog.dismiss();
-                                            }
-                                        });
-
-                                AlertDialog about = builder.create();
-                                about.show();
-                                ((TextView) about.findViewById(android.R.id.message)).setMovementMethod(LinkMovementMethod.getInstance());
-                                drawerLayout.closeDrawers();
-                                break;
-                            case R.id.Donate:
-                                AlertDialog.Builder donate = new AlertDialog.Builder(MainActivity.this, R.style.AlertDialogCustom);
-                                donate.setTitle(getResources().getString(R.string.donate))
-                                        .setMessage(R.string.donate_message)
-                                        .setCancelable(false)
-                                        .setNegativeButton(getResources().getString(R.string.ok_dialog), new DialogInterface.OnClickListener() {
-                                            public void onClick(DialogInterface dialog, int id) {
-                                                dialog.dismiss();
-                                            }
-                                        });
-
-                                AlertDialog donation = donate.create();
-                                donation.show();
-                                ((TextView) donation.findViewById(android.R.id.message)).setMovementMethod(LinkMovementMethod.getInstance());
-                                drawerLayout.closeDrawers();
-                                break;
-                            case R.id.Share:
-                                Intent share = new Intent(Intent.ACTION_SEND);
-                                share.setType("text/plain");
-                                share.putExtra(Intent.EXTRA_TEXT, getResources().getString(R.string.share_message));
-                                startActivity(Intent.createChooser(share, getResources().getString(R.string.app_name)));
-                                drawerLayout.closeDrawers();
-                                break;
-                            case R.id.italian:
-                                MainActivity.this.setTitle(getResources().getString(R.string.italian));
-                                item.setVisible(true);
-                                ringProgressDialog = ProgressDialog.show(MainActivity.this, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
-                                ringProgressDialog.setCancelable(false);
-                                Utils.clearIfNotEmpty(categoryName, categorySize, channelName, channelLink);
-                                URL = "https://raw.githubusercontent.com/michelelacorte/IPTVFree/master/Italiano/iptvlistItalian.xml";
-                                try {
-                                    new GetDataAsync(MainActivity.this).execute(URL).get();
-                                } catch (InterruptedException e) {
-                                    e.printStackTrace();
-                                } catch (ExecutionException e) {
-                                    e.printStackTrace();
-                                }
-                                myrunnable = new Runnable() {
-                                    public void run() {
-                                        setupViewPager(viewPager);
-                                        tabLayout.setupWithViewPager(viewPager);
-                                        ringProgressDialog.dismiss();
-                                    }
-                                };
-                                handler.postDelayed(myrunnable, 1000);
-                                channelNameArray = channelName.toArray(new String[channelName.size()]);
-                                searchView.setSuggestions(channelNameArray);
-                                drawerLayout.closeDrawers();
-                                break;
-                            case R.id.english:
-                                MainActivity.this.setTitle(getResources().getString(R.string.english));
-                                item.setVisible(true);
-                                ringProgressDialog = ProgressDialog.show(MainActivity.this, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
-                                ringProgressDialog.setCancelable(false);
-                                Utils.clearIfNotEmpty(categoryName, categorySize, channelName, channelLink);
-                                URL = "https://raw.githubusercontent.com/michelelacorte/IPTVFree/master/English/iptvlistEnglish.xml";
-                                try {
-                                    new GetDataAsync(MainActivity.this).execute(URL).get();
-                                } catch (InterruptedException e) {
-                                    e.printStackTrace();
-                                } catch (ExecutionException e) {
-                                    e.printStackTrace();
-                                }
-                                myrunnable = new Runnable() {
-                                    public void run() {
-                                        setupViewPager(viewPager);
-                                        tabLayout.setupWithViewPager(viewPager);
-                                        ringProgressDialog.dismiss();
-                                    }
-                                    };
-                                handler.postDelayed(myrunnable, 1000);
-                                channelNameArray = channelName.toArray(new String[channelName.size()]);
-                                searchView.setSuggestions(channelNameArray);
-                                drawerLayout.closeDrawers();
-                                break;
-                            case R.id.mixed:
-                                MainActivity.this.setTitle(getResources().getString(R.string.mixed));
-                                item.setVisible(true);
-                                ringProgressDialog = ProgressDialog.show(MainActivity.this, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
-                                ringProgressDialog.setCancelable(false);
-                                Utils.clearIfNotEmpty(categoryName, categorySize, channelName, channelLink);
-                                URL = "https://raw.githubusercontent.com/michelelacorte/IPTVFree/master/Mixed/iptvlistMixed.xml";
-                                try {
-                                    new GetDataAsync(MainActivity.this).execute(URL).get();
-                                } catch (InterruptedException e) {
-                                    e.printStackTrace();
-                                } catch (ExecutionException e) {
-                                    e.printStackTrace();
-                                }
-                                myrunnable = new Runnable() {
-                                    public void run() {
-                                        setupViewPager(viewPager);
-                                        tabLayout.setupWithViewPager(viewPager);
-                                        ringProgressDialog.dismiss();
-                                    }
-                                };
-                                handler.postDelayed(myrunnable, 1000);
-                                channelNameArray = channelName.toArray(new String[channelName.size()]);
-                                searchView.setSuggestions(channelNameArray);
-                                drawerLayout.closeDrawers();
-                                break;
-                            case R.id.favorite:
-                                if(favoriteLink != null && favoriteName != null
-                                        && favoriteLink.size() > 0 && favoriteName.size() > 0) {
-                                    MainActivity.this.setTitle(getResources().getString(R.string.favorite));
-                                    item.setVisible(false);
-                                    ringProgressDialog = ProgressDialog.show(MainActivity.this, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
-                                    ringProgressDialog.setCancelable(false);
-                                    isFavorite = true;
-                                    myrunnable = new Runnable() {
-                                        public void run() {
-                                            setupViewPagerFavorite(viewPager);
-                                            tabLayout.setupWithViewPager(viewPager);
-                                            ringProgressDialog.dismiss();
-                                        }
-                                    };
-                                    handler.postDelayed(myrunnable, 1000);
-                                }else{
-                                    AlertDialog.Builder dialog = new AlertDialog.Builder(MainActivity.this, R.style.AlertDialogCustom);
-                                    dialog.setTitle(getResources().getString(R.string.dialog_loader_list_favorite));
-                                    dialog.setMessage(getResources().getString(R.string.dialog_loader_list_favorite_message));
-                                    dialog.setCancelable(true);
-                                    dialog.setNegativeButton(getResources().getString(R.string.dialog_loader_cancel), new DialogInterface.OnClickListener() {
-                                        @Override
-                                        public void onClick(DialogInterface dialog, int which) {
-                                            dialog.cancel();
-                                        }
-                                    });
-                                    dialog.create();
-                                    dialog.show();
-                                }
-                                drawerLayout.closeDrawers();
-                                break;
-                            case R.id.Bug:
-                                BugReport.reportBug(MainActivity.this);
-                                drawerLayout.closeDrawers();
-                                break;
-                            case R.id.mylist:
-                                if(isMyListLoadedFromPath) {
-                                    MainActivity.this.setTitle(getResources().getString(R.string.mylist));
-                                    item.setVisible(false);
-                                    ringProgressDialog = ProgressDialog.show(MainActivity.this, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
-                                    ringProgressDialog.setCancelable(false);
-                                    myrunnable = new Runnable() {
-                                        public void run() {
-                                            setupViewPagerPersonal(viewPager);
-                                            tabLayout.setupWithViewPager(viewPager);
-                                            ringProgressDialog.dismiss();
-                                        }
-                                    };
-                                    handler.postDelayed(myrunnable, 1000);
+                                    AlertDialog about = builder.create();
+                                    about.show();
+                                    ((TextView) about.findViewById(android.R.id.message)).setMovementMethod(LinkMovementMethod.getInstance());
                                     drawerLayout.closeDrawers();
-                                }else if(isMyListLoadedFromURL) {
-                                    MainActivity.this.setTitle(getResources().getString(R.string.mylist));
-                                    item.setVisible(false);
+                                    break;
+                                case R.id.Donate:
+                                    AlertDialog.Builder donate = new AlertDialog.Builder(MainActivity.this, R.style.AlertDialogCustom);
+                                    donate.setTitle(getResources().getString(R.string.donate))
+                                            .setMessage(R.string.donate_message)
+                                            .setCancelable(false)
+                                            .setNegativeButton(getResources().getString(R.string.ok_dialog), new DialogInterface.OnClickListener() {
+                                                public void onClick(DialogInterface dialog, int id) {
+                                                    dialog.dismiss();
+                                                }
+                                            });
+
+                                    AlertDialog donation = donate.create();
+                                    donation.show();
+                                    ((TextView) donation.findViewById(android.R.id.message)).setMovementMethod(LinkMovementMethod.getInstance());
+                                    drawerLayout.closeDrawers();
+                                    break;
+                                case R.id.Share:
+                                    Intent share = new Intent(Intent.ACTION_SEND);
+                                    share.setType("text/plain");
+                                    share.putExtra(Intent.EXTRA_TEXT, getResources().getString(R.string.share_message));
+                                    startActivity(Intent.createChooser(share, getResources().getString(R.string.app_name)));
+                                    drawerLayout.closeDrawers();
+                                    break;
+                                case R.id.italian:
+                                    MainActivity.this.setTitle(getResources().getString(R.string.italian));
+                                    item.setVisible(true);
                                     ringProgressDialog = ProgressDialog.show(MainActivity.this, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
                                     ringProgressDialog.setCancelable(false);
-                                    Utils.clearIfNotEmpty(categoryNamePersonal, categorySizePersonal, channelNamePersonal, channelLinkPersonal);
-                                    URL = Utils.getLoadedFromURLString();
-                                    if(FirstRun.isFirstLaunch(getApplicationContext()))
-                                    {
-                                        preferencesIPTV.savePreferencesURL(getApplicationContext(), "PersonalURL", URL);
-                                    }else if(URL == null)
-                                    {
-                                        URL = preferencesIPTV.loadPreferencesURL(getApplicationContext(), "PersonalURL");
-                                    }
-                                    preferencesIPTV.savePreferencesURL(getApplicationContext(), "PersonalURL", URL);
+                                    Utils.clearIfNotEmpty(categoryName, categorySize, channelName, channelLink);
+                                    URL = "https://raw.githubusercontent.com/michelelacorte/IPTVFree/master/Italiano/iptvlistItalian.xml";
                                     try {
-                                        new GetDataAsyncPersonal(MainActivity.this).execute(URL).get();
+                                        new GetDataAsync(MainActivity.this).execute(URL).get();
                                     } catch (InterruptedException e) {
                                         e.printStackTrace();
                                     } catch (ExecutionException e) {
@@ -822,62 +720,197 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
                                     }
                                     myrunnable = new Runnable() {
                                         public void run() {
-                                            setupViewPagerPersonal(viewPager);
+                                            setupViewPager(viewPager);
                                             tabLayout.setupWithViewPager(viewPager);
                                             ringProgressDialog.dismiss();
                                         }
                                     };
-                                    handler.postDelayed(myrunnable, 10000);
+                                    handler.postDelayed(myrunnable, 1000);
+                                    channelNameArray = channelName.toArray(new String[channelName.size()]);
+                                    searchView.setSuggestions(channelNameArray);
                                     drawerLayout.closeDrawers();
-                                }else{
-                                    AlertDialog.Builder dialog = new AlertDialog.Builder(MainActivity.this, R.style.AlertDialogCustom);
-                                    dialog.setTitle(getResources().getString(R.string.dialog_loader_list_title));
-                                    dialog.setMessage(getResources().getString(R.string.dialog_loader_list_message));
-                                    dialog.setCancelable(true);
-                                    dialog.setNegativeButton(getResources().getString(R.string.dialog_loader_cancel), new DialogInterface.OnClickListener() {
-                                        @Override
-                                        public void onClick(DialogInterface dialog, int which) {
-                                            dialog.cancel();
+                                    break;
+                                case R.id.english:
+                                    MainActivity.this.setTitle(getResources().getString(R.string.english));
+                                    item.setVisible(true);
+                                    ringProgressDialog = ProgressDialog.show(MainActivity.this, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
+                                    ringProgressDialog.setCancelable(false);
+                                    Utils.clearIfNotEmpty(categoryName, categorySize, channelName, channelLink);
+                                    URL = "https://raw.githubusercontent.com/michelelacorte/IPTVFree/master/English/iptvlistEnglish.xml";
+                                    try {
+                                        new GetDataAsync(MainActivity.this).execute(URL).get();
+                                    } catch (InterruptedException e) {
+                                        e.printStackTrace();
+                                    } catch (ExecutionException e) {
+                                        e.printStackTrace();
+                                    }
+                                    myrunnable = new Runnable() {
+                                        public void run() {
+                                            setupViewPager(viewPager);
+                                            tabLayout.setupWithViewPager(viewPager);
+                                            ringProgressDialog.dismiss();
                                         }
-                                    });
-                                    dialog.create();
-                                    dialog.show();
-                                }
-                                drawerLayout.closeDrawers();
-                                break;
-                            default:
-                                break;
+                                    };
+                                    handler.postDelayed(myrunnable, 1000);
+                                    channelNameArray = channelName.toArray(new String[channelName.size()]);
+                                    searchView.setSuggestions(channelNameArray);
+                                    drawerLayout.closeDrawers();
+                                    break;
+                                case R.id.mixed:
+                                    MainActivity.this.setTitle(getResources().getString(R.string.mixed));
+                                    item.setVisible(true);
+                                    ringProgressDialog = ProgressDialog.show(MainActivity.this, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
+                                    ringProgressDialog.setCancelable(false);
+                                    Utils.clearIfNotEmpty(categoryName, categorySize, channelName, channelLink);
+                                    URL = "https://raw.githubusercontent.com/michelelacorte/IPTVFree/master/Mixed/iptvlistMixed.xml";
+                                    try {
+                                        new GetDataAsync(MainActivity.this).execute(URL).get();
+                                    } catch (InterruptedException e) {
+                                        e.printStackTrace();
+                                    } catch (ExecutionException e) {
+                                        e.printStackTrace();
+                                    }
+                                    myrunnable = new Runnable() {
+                                        public void run() {
+                                            setupViewPager(viewPager);
+                                            tabLayout.setupWithViewPager(viewPager);
+                                            ringProgressDialog.dismiss();
+                                        }
+                                    };
+                                    handler.postDelayed(myrunnable, 1000);
+                                    channelNameArray = channelName.toArray(new String[channelName.size()]);
+                                    searchView.setSuggestions(channelNameArray);
+                                    drawerLayout.closeDrawers();
+                                    break;
+                                case R.id.favorite:
+                                    if (favoriteLink != null && favoriteName != null
+                                            && favoriteLink.size() > 0 && favoriteName.size() > 0) {
+                                        MainActivity.this.setTitle(getResources().getString(R.string.favorite));
+                                        item.setVisible(false);
+                                        ringProgressDialog = ProgressDialog.show(MainActivity.this, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
+                                        ringProgressDialog.setCancelable(false);
+                                        isFavorite = true;
+                                        myrunnable = new Runnable() {
+                                            public void run() {
+                                                setupViewPagerFavorite(viewPager);
+                                                tabLayout.setupWithViewPager(viewPager);
+                                                ringProgressDialog.dismiss();
+                                            }
+                                        };
+                                        handler.postDelayed(myrunnable, 1000);
+                                    } else {
+                                        AlertDialog.Builder dialog = new AlertDialog.Builder(MainActivity.this, R.style.AlertDialogCustom);
+                                        dialog.setTitle(getResources().getString(R.string.dialog_loader_list_favorite));
+                                        dialog.setMessage(getResources().getString(R.string.dialog_loader_list_favorite_message));
+                                        dialog.setCancelable(true);
+                                        dialog.setNegativeButton(getResources().getString(R.string.dialog_loader_cancel), new DialogInterface.OnClickListener() {
+                                            @Override
+                                            public void onClick(DialogInterface dialog, int which) {
+                                                dialog.cancel();
+                                            }
+                                        });
+                                        dialog.create();
+                                        dialog.show();
+                                    }
+                                    drawerLayout.closeDrawers();
+                                    break;
+                                case R.id.Bug:
+                                    BugReport.reportBug(MainActivity.this);
+                                    drawerLayout.closeDrawers();
+                                    break;
+                                case R.id.mylist:
+                                    if (isMyListLoadedFromPath) {
+                                        MainActivity.this.setTitle(getResources().getString(R.string.mylist));
+                                        item.setVisible(false);
+                                        ringProgressDialog = ProgressDialog.show(MainActivity.this, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
+                                        ringProgressDialog.setCancelable(false);
+                                        myrunnable = new Runnable() {
+                                            public void run() {
+                                                setupViewPagerPersonal(viewPager);
+                                                tabLayout.setupWithViewPager(viewPager);
+                                                ringProgressDialog.dismiss();
+                                            }
+                                        };
+                                        handler.postDelayed(myrunnable, 1000);
+                                        drawerLayout.closeDrawers();
+                                    } else if (isMyListLoadedFromURL) {
+                                        MainActivity.this.setTitle(getResources().getString(R.string.mylist));
+                                        item.setVisible(false);
+                                        ringProgressDialog = ProgressDialog.show(MainActivity.this, getResources().getString(R.string.please_wait), getResources().getString(R.string.getting_data), true);
+                                        ringProgressDialog.setCancelable(false);
+                                        Utils.clearIfNotEmpty(categoryNamePersonal, categorySizePersonal, channelNamePersonal, channelLinkPersonal);
+                                        URL = Utils.getLoadedFromURLString();
+                                        if (FirstRun.isFirstLaunch(getApplicationContext())) {
+                                            preferencesIPTV.savePreferencesURL(getApplicationContext(), "PersonalURL", URL);
+                                        } else if (URL == null) {
+                                            URL = preferencesIPTV.loadPreferencesURL(getApplicationContext(), "PersonalURL");
+                                        }
+                                        preferencesIPTV.savePreferencesURL(getApplicationContext(), "PersonalURL", URL);
+                                        try {
+                                            new GetDataAsyncPersonal(MainActivity.this).execute(URL).get();
+                                        } catch (InterruptedException e) {
+                                            e.printStackTrace();
+                                        } catch (ExecutionException e) {
+                                            e.printStackTrace();
+                                        }
+                                        myrunnable = new Runnable() {
+                                            public void run() {
+                                                setupViewPagerPersonal(viewPager);
+                                                tabLayout.setupWithViewPager(viewPager);
+                                                ringProgressDialog.dismiss();
+                                            }
+                                        };
+                                        handler.postDelayed(myrunnable, 10000);
+                                        drawerLayout.closeDrawers();
+                                    } else {
+                                        AlertDialog.Builder dialog = new AlertDialog.Builder(MainActivity.this, R.style.AlertDialogCustom);
+                                        dialog.setTitle(getResources().getString(R.string.dialog_loader_list_title));
+                                        dialog.setMessage(getResources().getString(R.string.dialog_loader_list_message));
+                                        dialog.setCancelable(true);
+                                        dialog.setNegativeButton(getResources().getString(R.string.dialog_loader_cancel), new DialogInterface.OnClickListener() {
+                                            @Override
+                                            public void onClick(DialogInterface dialog, int which) {
+                                                dialog.cancel();
+                                            }
+                                        });
+                                        dialog.create();
+                                        dialog.show();
+                                    }
+                                    drawerLayout.closeDrawers();
+                                    break;
+                                default:
+                                    break;
+                            }
+                            return false;
                         }
-                        return false;
-                    }
-                });
+                    });
 
-                drawerLayout = (DrawerLayout) findViewById(R.id.DrawerLayout);
-                mDrawerToggle = new ActionBarDrawerToggle(this, drawerLayout, toolbar, R.string.drawer_open, R.string.drawer_close) {
-                    @Override
-                    public void onDrawerClosed(View drawerView) {
-                        super.onDrawerClosed(drawerView);
-                    }
+                    drawerLayout = (DrawerLayout) findViewById(R.id.DrawerLayout);
+                    mDrawerToggle = new ActionBarDrawerToggle(this, drawerLayout, toolbar, R.string.drawer_open, R.string.drawer_close) {
+                        @Override
+                        public void onDrawerClosed(View drawerView) {
+                            super.onDrawerClosed(drawerView);
+                        }
 
-                    @Override
-                    public void onDrawerOpened(View drawerView) {
-                        super.onDrawerOpened(drawerView);
-                    }
-                };
-                drawerLayout.post(new Runnable() {
-                    @Override
-                    public void run() {
-                        mDrawerToggle.syncState();
-                    }
-                });
-                drawerLayout.setDrawerListener(mDrawerToggle);
-                mDrawerToggle.syncState();
-                //Set-up Tab
-                setupViewPager(viewPager);
-                tabLayout.setupWithViewPager(viewPager);
+                        @Override
+                        public void onDrawerOpened(View drawerView) {
+                            super.onDrawerOpened(drawerView);
+                        }
+                    };
+                    drawerLayout.post(new Runnable() {
+                        @Override
+                        public void run() {
+                            mDrawerToggle.syncState();
+                        }
+                    });
+                    drawerLayout.setDrawerListener(mDrawerToggle);
+                    mDrawerToggle.syncState();
+                    //Set-up Tab
+                    setupViewPager(viewPager);
+                    tabLayout.setupWithViewPager(viewPager);
 
-                Utils.tutorialView(this, SHOWCASE_ID, toolbar, fabMenu, tabLayout, viewPager, searchView);
-                Utils.showDonateMessage(this, TAG);
+                    Utils.tutorialView(this, SHOWCASE_ID, toolbar, fabMenu, tabLayout, viewPager, searchView);
+                    Utils.showDonateMessage(this, TAG);
         }else{
             AlertDialog.Builder builder =
                     new AlertDialog.Builder(this, R.style.AlertDialogCustom);
@@ -1011,6 +1044,13 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         savePersonalList();
         saveFavoriteList();
         saveListState();
+        if(!isDisclaimerAccepted)
+        {
+            File installation = new File(getFilesDir(), FirstRun.CHECK_DISCLAIMER);
+            installation.delete();
+        }else{
+            saveDisclaimerState();
+        }
     }
 
     /**
@@ -1022,6 +1062,13 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         savePersonalList();
         saveFavoriteList();
         saveListState();
+        if(!isDisclaimerAccepted)
+        {
+            File installation = new File(getFilesDir(), FirstRun.CHECK_DISCLAIMER);
+            installation.delete();
+        }else{
+            saveDisclaimerState();
+        }
     }
 
     /**
@@ -1034,6 +1081,13 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         savePersonalList();
         saveFavoriteList();
         saveListState();
+        if(!isDisclaimerAccepted)
+        {
+            File installation = new File(getFilesDir(), FirstRun.CHECK_DISCLAIMER);
+            installation.delete();
+        }else{
+            saveDisclaimerState();
+        }
     }
 
     /**
@@ -1098,13 +1152,13 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
                         ArrayList<String> links = new ArrayList<String>(channelLink.subList(CATEGORY, categorySize.get(CATEGORY_INDEX)));
                         CATEGORY = categorySize.get(CATEGORY_INDEX);
                         CATEGORY_INDEX++;
-                        adapter.addFragment(FragmentIPTV.newInstance(channels, links), categoryName.get(i));
+                        adapter.addFragment(FragmentIPTV.newInstance(channels, links, categoryName.get(i)), categoryName.get(i));
                         DEFAULT = false;
                     }
                 } catch (Exception e) {
                         ArrayList<String> channels = new ArrayList<String>(channelName.subList(CATEGORY, channelName.size()));
                         ArrayList<String> links = new ArrayList<String>(channelLink.subList(CATEGORY, channelLink.size()));
-                        adapter.addFragment(FragmentIPTV.newInstance(channels, links), categoryName.get(i));
+                        adapter.addFragment(FragmentIPTV.newInstance(channels, links, categoryName.get(i)), categoryName.get(i));
 
                 }
             }
@@ -1130,13 +1184,13 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
                         ArrayList<String> links = new ArrayList<String>(channelLinkPersonal.subList(CATEGORY, categorySizePersonal.get(CATEGORY_INDEX)));
                         CATEGORY = categorySizePersonal.get(CATEGORY_INDEX);
                         CATEGORY_INDEX++;
-                        adapter.addFragment(FragmentIPTV.newInstance(channels, links), categoryNamePersonal.get(i));
+                        adapter.addFragment(FragmentIPTV.newInstance(channels, links, categoryName.get(i)), categoryNamePersonal.get(i));
                         DEFAULT = false;
                     }
                 } catch (Exception e) {
                     ArrayList<String> channels = new ArrayList<String>(channelNamePersonal.subList(CATEGORY, channelNamePersonal.size()));
                     ArrayList<String> links = new ArrayList<String>(channelLinkPersonal.subList(CATEGORY, channelLinkPersonal.size()));
-                    adapter.addFragment(FragmentIPTV.newInstance(channels, links), categoryNamePersonal.get(i));
+                    adapter.addFragment(FragmentIPTV.newInstance(channels, links, categoryName.get(i)), categoryNamePersonal.get(i));
 
                 }
             }
@@ -1333,23 +1387,54 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         }
     }
 
+
+    /**
+     * Save disclaimer state on Shared Preferences
+     */
+    private void saveDisclaimerState()
+    {
+        disclaimerState = new ArrayList<>();
+        disclaimerState.add(String.valueOf(isDisclaimerAccepted));
+        preferencesIPTV.savePreferencesData(getApplicationContext(), "stateDisclaimer", disclaimerState);
+    }
+
+    /**
+     * Restore disclaimer state on Shared Preferences
+     */
+    private void restoreDisclaimerState()
+    {
+        try {
+            disclaimerState = preferencesIPTV.loadPreferencesData(getApplicationContext(), "stateDisclaimer");
+            isDisclaimerAccepted = Boolean.valueOf(disclaimerState.get(0));
+        }catch(Exception e){
+            Log.e(TAG, "Error:" + e);
+        }
+    }
+
     private void disclaimerAlertDialog()
     {
-        AlertDialog.Builder builder =
-                new AlertDialog.Builder(this, R.style.AlertDialogCustom);
-        builder.setTitle(getResources().getString(R.string.app_name));
-        builder.setCancelable(false);
-        builder.setMessage(getResources().getString(R.string.disclaimer_dialog_message));
-        builder.setNegativeButton(getResources().getString(R.string.disclaimer_dialog_no), new DialogInterface.OnClickListener() {
+        AlertDialog builder =
+                new AlertDialog.Builder(this, R.style.AlertDialogCustom).setTitle(getResources().getString(R.string.app_name))
+            .setCancelable(false)
+            .setIcon(R.drawable.ic_launcher)
+            .setMessage(R.string.disclaimer_dialog_message)
+            .setNegativeButton(getResources().getString(R.string.disclaimer_dialog_no), new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int id) {
+                File installation = new File(getFilesDir(), FirstRun.CHECK_DISCLAIMER);
+                installation.delete();
+                isDisclaimerAccepted = false;
                 finish();
             }
-        });
-        builder.setNegativeButton(getResources().getString(R.string.disclaimer_dialog_yes), new DialogInterface.OnClickListener() {
+        })
+            .setPositiveButton(getResources().getString(R.string.disclaimer_dialog_yes), new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int id) {
-               //no operation
+                isDisclaimerAccepted = true;
+                saveDisclaimerState();
             }
-        });
+        }).create();
         builder.show();
+        ((TextView)builder.findViewById(android.R.id.message)).setMovementMethod(LinkMovementMethod.getInstance());
+        ((TextView)builder.findViewById(android.R.id.message)).setGravity(Gravity.CENTER_VERTICAL);
+        builder.getWindow().setLayout(WindowManager.LayoutParams.FILL_PARENT, WindowManager.LayoutParams.MATCH_PARENT);
     }
 }

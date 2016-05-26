@@ -602,13 +602,9 @@ http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/188.ts
 #EXTINF:-1,Fox SD
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/263.ts
 #EXTINF:-1,Fox Animation HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/87.ts
-#EXTINF:-1,Fox Animation SD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/312.ts
+http://kernel.brasilia.me:8000/live/ezio/ezio/5507.ts
 #EXTINF:-1,Fox Comedy HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/86.ts
-#EXTINF:-1,Fox Comedy SD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/313.ts
+http://kernel.brasilia.me:8000/live/ezio/ezio/5506.ts
 #EXTINF:-1,Fox Crime HD
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/85.ts
 #EXTINF:-1,Fox Crime +1 HD

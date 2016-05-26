@@ -46,7 +46,7 @@ Android API 14+
 
 ##CHANGELOG
 
-**v1.0.3**
+**v1.0.3 (Coming Soon!)**
 
 - Improved code review
 - Update disclaimer

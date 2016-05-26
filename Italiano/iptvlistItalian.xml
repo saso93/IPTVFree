@@ -78,7 +78,7 @@ http://b2.stream6.rai.it/italy/smil:raistoria.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Rai Sport 1
 http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 ,Rai Sport 2
-http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8
+http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RsiLa 1
 https://srgssruni12ch-lh.akamaihd.net/i/enc12uni_ch@191527/index_1200_av-p.m3u8?id=|x-forwarded-for=85.195.192.12
 #EXTINF:-1,RsiLa 2

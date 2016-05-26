@@ -46,11 +46,12 @@ Android API 14+
 
 ##CHANGELOG
 
-**v1.0.2 (Coming soon!)**
+**v1.0.2**
 
 - Fixed tutorial issue with landscape mode
 - Improved code review
 - Improved icon of channel (add new icon and style)
+- Minor bug fixed
 
 **v1.0.1**
 

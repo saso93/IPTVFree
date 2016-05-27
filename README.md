@@ -24,10 +24,10 @@
 
 ##SCREENSHOT
 
-![alt tag](http://s32.postimg.org/cdi0frgo5/screen1.png) 
-![alt tag](http://s32.postimg.org/5gaz0re3p/screen2.png) 
-![alt tag](http://s32.postimg.org/uacjv8mcl/screen3.png) 
-![alt tag](http://s32.postimg.org/aud6gb6h1/screen5.png) 
+![alt tag](http://s33.postimg.org/kpqtu12yn/screen1.png) 
+![alt tag](http://s33.postimg.org/6pgk0owu7/screen2.png) 
+![alt tag](http://s33.postimg.org/t9ck470hr/screen3.png) 
+![alt tag](http://s33.postimg.org/jclag818f/screen5.png) 
 ![alt tag](http://s32.postimg.org/4bcs10j6t/screen4.png) 
 
 ##SYSTEM REQUIREMENT

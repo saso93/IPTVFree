@@ -46,6 +46,12 @@ Android API 14+
 
 ##CHANGELOG
 
+**v1.0.3**
+
+- Improved code review
+- Update disclaimer
+- Fixed alert dialog on free channels
+
 **v1.0.2**
 
 - Fixed tutorial issue with landscape mode

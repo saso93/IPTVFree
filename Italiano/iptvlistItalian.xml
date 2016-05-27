@@ -78,7 +78,7 @@ http://b2.stream6.rai.it/italy/smil:raistoria.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Rai Sport 1
 http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 ,Rai Sport 2
-http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8
+http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RsiLa 1
 https://srgssruni12ch-lh.akamaihd.net/i/enc12uni_ch@191527/index_1200_av-p.m3u8?id=|x-forwarded-for=85.195.192.12
 #EXTINF:-1,RsiLa 2
@@ -602,13 +602,9 @@ http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/188.ts
 #EXTINF:-1,Fox SD
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/263.ts
 #EXTINF:-1,Fox Animation HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/87.ts
-#EXTINF:-1,Fox Animation SD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/312.ts
+http://kernel.brasilia.me:8000/live/ezio/ezio/5507.ts
 #EXTINF:-1,Fox Comedy HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/86.ts
-#EXTINF:-1,Fox Comedy SD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/313.ts
+http://kernel.brasilia.me:8000/live/ezio/ezio/5506.ts
 #EXTINF:-1,Fox Crime HD
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/85.ts
 #EXTINF:-1,Fox Crime +1 HD
@@ -884,15 +880,15 @@ http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/286.ts
 #EXTINF:-1,Sky Calcio 13
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/287.ts
 #EXTINF:-1,Milan Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/235.ts
+http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/100.ts
 #EXTINF:-1,Juventus TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/237.ts
+http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/102.ts
 #EXTINF:-1,Inter Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/238.ts
+http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/103.ts
 #EXTINF:-1,Roma TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/232.ts
+http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/101.ts
 #EXTINF:-1,Lazio Style Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/236.ts
+http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/2849.ts
 #EXTINF:-1,Caccia e Pesca
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/239.ts
 #EXTINF:-1,Pesca e Caccia
@@ -948,7 +944,7 @@ http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/2.ts
 #EXTINF:-1,Rai News 24
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/225.ts
 #EXTINF:-1,Tgcom24
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/96.ts
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(04)/index.m3u8
 #EXTINF:-1,Euronews
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/229.ts
 #EXTINF:-1,---- MUSICA ----
@@ -972,17 +968,15 @@ http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/243.ts
 #EXTINF:-1,---- BAMBINI ----
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/102.ts
 #EXTINF:-1,DeAKids
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/240.ts
+http://vision.myvisio.me:8000/live/luigi91/luigi91/102.ts
 #EXTINF:-1,Nick Jr
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/250.ts
-#EXTINF:-1,Nickelodeon
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/249.ts
+http://vision.myvisio.me:8000/live/luigi91/luigi91/103.ts
 #EXTINF:-1,MAN-GA
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/288.ts
 #EXTINF:-1,Cartoon Network
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/60.ts
 #EXTINF:-1,Boomerang
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/251.ts
+http://vision.myvisio.me:8000/live/luigi91/luigi91/105.ts
 #EXTINF:-1,DisneyChannel HD
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/205.ts
 #EXTINF:-1,Disney Channel +1
@@ -1385,56 +1379,1662 @@ http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3050.mkv
 http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3093.mkv
 #EXTINF:-1,2×04 Episodio 4
 http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3094.mkv
-#EXTINF:-1,***** Video ON DEMAND DE *****
-http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1599.ts
-#EXTINF:-1,The First Avenger: Civil War (2016
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2985.mkv
-#EXTINF:-1,The Boss (2016)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2987.mkv
-#EXTINF:-1,Pee-wee Big Holiday (2016)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2989.mkv
-#EXTINF:-1,Zoomania (2016)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2393.mkv
-#EXTINF:-1,Dirty Grandpa (2016)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2394.mkv
-#EXTINF:-1,Die Highligen drei Könige (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2395.mkv
-#EXTINF:-1,Deadpool (2016) DE
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2396.mkv
-#EXTINF:-1,Point Break (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2397.mkv
-#EXTINF:-1,Sisters (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2988.mkv
-#EXTINF:-1,Ride Along 2: Next Level Miami (2016)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1826.mkv
-#EXTINF:-1,Alvin und die Chipmunks: Road Chip (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1824.mkv
-#EXTINF:-1,The Hateful Eight (2015) DE
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1825.mkv
-#EXTINF:-1,GÃ¤nsehaut (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1827.mkv
-#EXTINF:-1,Die 5. Welle (2016)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1828.mkv
-#EXTINF:-1,Creed - Rocky Legacy (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1591.mp4
-#EXTINF:-1,Die Vorsehung (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1829.mkv
-#EXTINF:-1,The Revenant - Der RÃ¼ckkehrer (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1830.mkv
-#EXTINF:-1,Joy: Alles außer gewöhnlich (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1831.mkv
-#EXTINF:-1,The Big Short (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1832.mkv
-#EXTINF:-1,Die Peanuts - Der Film (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1833.mkv
-#EXTINF:-1,Dark Places: GefÃ¤hrliche Erinnerung (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1834.mkv
-#EXTINF:-1,Ashby (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1836.mkv
-#EXTINF:-1,Bridge of Spies: Der UnterhÃ¤ndler (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1839.mkv
-#EXTINF:-1,Arlo Spot (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/1840.mkv
-#EXTINF:-1,Krampus (2015)
-http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/2392.mkv
+#EXTINF:-1,2x05 Episodio 5
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3143.mkv
+#EXTINF:-1,2x06 Episodio 6
+http://iptvxsempre.zapto.org:8000/movie/alesandro/alesandro/3144.mkv
+#EXTINF:-1,---MR. ROBOT
+http://dummylink.com
+#EXTINF:-1,Mr.Robot.1x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1968.mkv
+#EXTINF:-1,Mr.Robot.1x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1969.mkv
+#EXTINF:-1,Mr.Robot.1x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1970.mkv
+#EXTINF:-1,Mr.Robot.1x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1971.mkv
+#EXTINF:-1,Mr.Robot.1x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1972.mkv
+#EXTINF:-1,Mr.Robot.1x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2104.mkv
+#EXTINF:-1,Mr.Robot.1x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2105.mkv
+#EXTINF:-1,Mr.Robot.1x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2182.mkv
+#EXTINF:-1,Mr.Robot.1x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2183.mkv
+#EXTINF:-1,Mr.Robot.1x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2184.mkv
+#EXTINF:-1,----THE WALKING DEAD
+http://dummylink.com
+#EXTINF:-1,The W. Dead S.01 EP.01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/388.mkv
+#EXTINF:-1,The W. Dead S.01 EP.02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/389.mkv
+#EXTINF:-1,The W. Dead S.01 EP.03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/390.mkv
+#EXTINF:-1,The W. Dead S.01 EP.04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/391.mkv
+#EXTINF:-1,The W. Dead S.01 EP.05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/392.mkv
+#EXTINF:-1,The W. Dead S.01 EP.06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/582.mkv
+#EXTINF:-1,The W. Dead S.02 EP.01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/584.mkv
+#EXTINF:-1,The W. Dead S.02 EP.02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/585.mkv
+#EXTINF:-1,The W. Dead S.02 EP.03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/586.mkv
+#EXTINF:-1,The W. Dead S.02 EP.04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/587.mkv
+#EXTINF:-1,The W. Dead S.02 EP.05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/588.mkv
+#EXTINF:-1,The W. Dead S.02 EP.06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/589.mkv
+#EXTINF:-1,The W. Dead S.02 EP.07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/590.mkv
+#EXTINF:-1,The W. Dead S.02 EP.08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/591.mkv
+#EXTINF:-1,The W. Dead S.02 EP.09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/592.mkv
+#EXTINF:-1,The W. Dead S.02 EP.10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/593.mkv
+#EXTINF:-1,The W. Dead S.02 EP.11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/594.mkv
+#EXTINF:-1,The W. Dead S.02 EP.12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/595.mkv
+#EXTINF:-1,The W. Dead S.02 EP.13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/596.mkv
+#EXTINF:-1,The W. Dead S.03 EP.00
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/597.mkv
+#EXTINF:-1,The W. Dead S.03 EP.01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/598.mkv
+#EXTINF:-1,The W. Dead S.03 EP.02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/599.mkv
+#EXTINF:-1,The W. Dead S.03 EP.03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/600.mkv
+#EXTINF:-1,The W. Dead S.03 EP.04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/601.mkv
+#EXTINF:-1,The W. Dead S.03 EP.05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/602.mkv
+#EXTINF:-1,The W. Dead S.03 EP.06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/603.mkv
+#EXTINF:-1,The W. Dead S.03 EP.07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/604.mkv
+#EXTINF:-1,The W. Dead S.03 EP.08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/605.mkv
+#EXTINF:-1,The W. Dead S.03 EP.09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/606.mkv
+#EXTINF:-1,The W. Dead S.03 EP.10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/607.mkv
+#EXTINF:-1,The W. Dead S.03 EP.11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/608.mkv
+#EXTINF:-1,The W. Dead S.03 EP.12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/609.mkv
+#EXTINF:-1,The W. Dead S.03 EP.13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/610.mkv
+#EXTINF:-1,The W. Dead S.03 EP.14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/611.mkv
+#EXTINF:-1,The W. Dead S.03 EP.15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/612.mkv
+#EXTINF:-1,The W. Dead S.03 EP.16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/614.mkv
+#EXTINF:-1,The W. Dead S.03 Spec 01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/615.mkv
+#EXTINF:-1,The W. Dead S.03 Spec 02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/616.mkv
+#EXTINF:-1,The W. Dead S.03 Spec 03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/617.mkv
+#EXTINF:-1,The W. Dead S.03 Spec 04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/620.mkv
+#EXTINF:-1,The W. Dead S.04 EP.01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/457.mkv
+#EXTINF:-1,The W. Dead S.04 EP.02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/458.mkv
+#EXTINF:-1,The W. Dead S.04 EP.03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/459.mkv
+#EXTINF:-1,The W. Dead S.04 EP.04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/460.mkv
+#EXTINF:-1,The W. Dead S.04 EP.05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/461.mkv
+#EXTINF:-1,The W. Dead S.04 EP.06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/463.mkv
+#EXTINF:-1,The W. Dead S.04 EP.07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/718.mkv
+#EXTINF:-1,The W. Dead S.04 EP.08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/719.mkv
+#EXTINF:-1,The W. Dead S.04 EP.09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/720.mkv
+#EXTINF:-1,The W. Dead S.04 EP.10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/721.mkv
+#EXTINF:-1,The W. Dead S.04 EP.11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/722.mkv
+#EXTINF:-1,The W. Dead S.04 EP.12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/723.mkv
+#EXTINF:-1,The W. Dead S.04 EP.13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/724.mkv
+#EXTINF:-1,The W. Dead S.04 EP.14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/725.mkv
+#EXTINF:-1,The W. Dead S.04 EP.15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/726.mkv
+#EXTINF:-1,The W. Dead S.04 EP.16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/727.mkv
+#EXTINF:-1,The W. Dead S.05 EP.01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/729.mkv
+#EXTINF:-1,The W. Dead S.05 EP.02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/730.mkv
+#EXTINF:-1,The W. Dead S.05 EP.03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/728.mkv
+#EXTINF:-1,The W. Dead S.05 EP.04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/731.mkv
+#EXTINF:-1,The W. Dead S.05 EP.05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/732.mkv
+#EXTINF:-1,The W. Dead S.05 EP.06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/733.mkv
+#EXTINF:-1,The W. Dead S.05 EP.07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/734.mkv
+#EXTINF:-1,The W. Dead S.05 EP.08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/735.mkv
+#EXTINF:-1,The W. Dead S.05 EP.09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/736.mkv
+#EXTINF:-1,The W. Dead S.05 EP.10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/737.mkv
+#EXTINF:-1,The W. Dead S.05 EP.11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/738.mkv
+#EXTINF:-1,The W. Dead S.05 EP.12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/739.mkv
+#EXTINF:-1,The W. Dead S.05 EP.13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/740.mkv
+#EXTINF:-1,The W. Dead S.05 EP.15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/742.mkv
+#EXTINF:-1,The W. Dead S.05 EP.14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/741.mkv
+#EXTINF:-1,The W. Dead S.05 EP.16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/743.mkv
+#EXTINF:-1,The W. Dead S.06 EP.01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/744.mkv
+#EXTINF:-1,The W. Dead S.06 EP.02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/745.mkv
+#EXTINF:-1,The W. Dead S.06 EP.03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/746.mkv
+#EXTINF:-1,The W. Dead S.06 EP.04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/747.mkv
+#EXTINF:-1,The W. Dead S.06 EP.05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/748.mkv
+#EXTINF:-1,The W. Dead S.06 EP.06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/749.mkv
+#EXTINF:-1,The W. Dead S.06 EP.07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/750.mkv
+#EXTINF:-1,The W. Dead S.06 EP.08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/897.mkv
+#EXTINF:-1,The W. Dead S.06 EP.09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1598.mkv
+#EXTINF:-1,The W. Dead S.06 EP.10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1599.mkv
+#EXTINF:-1,The W. Dead S.06 EP.11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1602.mkv
+#EXTINF:-1,The W. Dead S.06 EP.12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1603.mkv
+#EXTINF:-1,The W. Dead S.06 EP.13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1604.mkv
+#EXTINF:-1,The W. Dead S.06 EP.14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1605.mkv
+#EXTINF:-1,The W. Dead S.06 EP.15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1613.mkv
+#EXTINF:-1,The W. Dead S.06 EP.16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1985.mkv
+#EXTINF:-1,----Arrow
+http://dummylink.com
+#EXTINF:-1,Arrow.1x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1986.mkv
+#EXTINF:-1,Arrow.1x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1987.mkv
+#EXTINF:-1,Arrow.1x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1988.mkv
+#EXTINF:-1,Arrow.1x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1989.mkv
+#EXTINF:-1,Arrow.1x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1990.mkv
+#EXTINF:-1,Arrow.1x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1991.mkv
+#EXTINF:-1,Arrow.1x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1992.mkv
+#EXTINF:-1,Arrow.1x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1993.mkv
+#EXTINF:-1,Arrow.1x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1994.mkv
+#EXTINF:-1,Arrow.1x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1995.mkv
+#EXTINF:-1,Arrow.1x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1996.mkv
+#EXTINF:-1,Arrow.1x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1997.mkv
+#EXTINF:-1,Arrow.1x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1998.mkv
+#EXTINF:-1,Arrow.1x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1999.mkv
+#EXTINF:-1,Arrow.1x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2000.mkv
+#EXTINF:-1,Arrow.1x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2001.mkv
+#EXTINF:-1,Arrow.1x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2002.mkv
+#EXTINF:-1,Arrow.1x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2003.mkv
+#EXTINF:-1,Arrow.1x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2004.mkv
+#EXTINF:-1,Arrow.1x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2005.mkv
+#EXTINF:-1,Arrow.1x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2006.mkv
+#EXTINF:-1,Arrow.1x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2007.mkv
+#EXTINF:-1,Arrow.1x23
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2008.mkv
+#EXTINF:-1,Arrow.2x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2009.mkv
+#EXTINF:-1,Arrow.2x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2010.mkv
+#EXTINF:-1,Arrow.2x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2011.mkv
+#EXTINF:-1,Arrow.2x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2012.mkv
+#EXTINF:-1,Arrow.2x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2013.mkv
+#EXTINF:-1,Arrow.2x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2014.mkv
+#EXTINF:-1,Arrow.2x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2015.mkv
+#EXTINF:-1,Arrow.2x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2016.mkv
+#EXTINF:-1,Arrow.2x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2017.mkv
+#EXTINF:-1,Arrow.2x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2018.mkv
+#EXTINF:-1,Arrow.2x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2019.mkv
+#EXTINF:-1,Arrow.2x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2020.mkv
+#EXTINF:-1,Arrow.2x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2021.mkv
+#EXTINF:-1,Arrow.2x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2022.mkv
+#EXTINF:-1,Arrow.2x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2023.mkv
+#EXTINF:-1,Arrow.2x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2024.mkv
+#EXTINF:-1,Arrow.2x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2025.mkv
+#EXTINF:-1,Arrow.2x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2026.mkv
+#EXTINF:-1,Arrow.2x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2027.mkv
+#EXTINF:-1,Arrow.2x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2028.mkv
+#EXTINF:-1,Arrow.2x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2029.mkv
+#EXTINF:-1,Arrow.2x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2030.mkv
+#EXTINF:-1,Arrow.2x23
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2031.mkv
+#EXTINF:-1,Arrow.3x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2032.mkv
+#EXTINF:-1,Arrow.3x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2033.mkv
+#EXTINF:-1,Arrow.3x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2034.mkv
+#EXTINF:-1,Arrow.3x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2035.mkv
+#EXTINF:-1,Arrow.3x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2036.mkv
+#EXTINF:-1,Arrow.3x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2037.mkv
+#EXTINF:-1,Arrow.3x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2038.mkv
+#EXTINF:-1,Arrow.3x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2039.mkv
+#EXTINF:-1,Arrow.3x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2040.mkv
+#EXTINF:-1,Arrow.3x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2041.mkv
+#EXTINF:-1,Arrow.3x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2042.mkv
+#EXTINF:-1,Arrow.3x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2043.mkv
+#EXTINF:-1,Arrow.3x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2044.mkv
+#EXTINF:-1,Arrow.3x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2045.mkv
+#EXTINF:-1,Arrow.3x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2046.mkv
+#EXTINF:-1,Arrow.3x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2047.mkv
+#EXTINF:-1,Arrow.3x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2048.mkv
+#EXTINF:-1,Arrow.3x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2049.mkv
+#EXTINF:-1,Arrow.3x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2050.mkv
+#EXTINF:-1,Arrow.3x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2051.mkv
+#EXTINF:-1,Arrow.3x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2052.mkv
+#EXTINF:-1,Arrow.3x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2053.mkv
+#EXTINF:-1,Arrow.3x23
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2054.mkv
+#EXTINF:-1,Arrow.4x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2055.mkv
+#EXTINF:-1,Arrow.4x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2056.mkv
+#EXTINF:-1,Arrow.4x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2057.mkv
+#EXTINF:-1,Arrow.4x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2058.mkv
+#EXTINF:-1,Arrow.4x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2059.mkv
+#EXTINF:-1,Arrow.4x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2060.mkv
+#EXTINF:-1,Arrow.4x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2061.mkv
+#EXTINF:-1,Arrow.4x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2062.mkv
+#EXTINF:-1,Arrow.4x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2063.mkv
+#EXTINF:-1,Arrow.4x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2064.mkv
+#EXTINF:-1,Arrow.4x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2065.mkv
+#EXTINF:-1,Arrow.4x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2066.mkv
+#EXTINF:-1,Arrow.4x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2067.mkv
+#EXTINF:-1,Arrow.4x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2320.mkv
+#EXTINF:-1,Arrow.4x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2166.mkv
+#EXTINF:-1,Arrow.4x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2167.mkv
+#EXTINF:-1,Arrow.4x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2168.mkv
+#EXTINF:-1,Arrow.4x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2169.mkv
+#EXTINF:-1,Arrow.4x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2170.mkv
+#EXTINF:-1,Arrow.4x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2171.mkv
+#EXTINF:,-1----DR. HOUSE
+http://dummylink.com
+#EXTINF:-1,Dr.House.1x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1627.mkv
+#EXTINF:-1,Dr.House.1x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1628.mkv
+#EXTINF:-1,Dr.House.1x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1629.mkv
+#EXTINF:-1,Dr.House.1x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1630.mkv
+#EXTINF:-1,Dr.House.1x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1631.mkv
+#EXTINF:-1,Dr.House.1x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1632.mkv
+#EXTINF:-1,Dr.House.1x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1633.mkv
+#EXTINF:-1,Dr.House.1x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1634.mkv
+#EXTINF:-1,Dr.House.1x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1635.mkv
+#EXTINF:-1,Dr.House.1x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1636.mkv
+#EXTINF:-1,Dr.House.1x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1637.mkv
+#EXTINF:-1,Dr.House.1x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1638.mkv
+#EXTINF:-1,Dr.House.1x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1639.mkv
+#EXTINF:-1,Dr.House.1x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1640.mkv
+#EXTINF:-1,Dr.House.1x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1641.mkv
+#EXTINF:-1,Dr.House.1x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1642.mkv
+#EXTINF:-1,Dr.House.1x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1643.mkv
+#EXTINF:-1,Dr.House.1x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1644.mkv
+#EXTINF:-1,Dr.House.1x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1645.mkv
+#EXTINF:-1,Dr.House.1x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1646.mkv
+#EXTINF:-1,Dr.House.1x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1647.mkv
+#EXTINF:-1,Dr.House.1x23
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1648.mkv
+#EXTINF:-1,Dr.House.2x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1649.mkv
+#EXTINF:-1,Dr.House.2x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1650.mkv
+#EXTINF:-1,Dr.House.2x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1651.mkv
+#EXTINF:-1,Dr.House.2x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1652.mkv
+#EXTINF:-1,Dr.House.2x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1653.mkv
+#EXTINF:-1,Dr.House.2x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1654.mkv
+#EXTINF:-1,Dr.House.2x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1655.mkv
+#EXTINF:-1,Dr.House.2x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1656.mkv
+#EXTINF:-1,Dr.House.2x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1657.mkv
+#EXTINF:-1,Dr.House.2x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1658.mkv
+#EXTINF:-1,Dr.House.2x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1659.mkv
+#EXTINF:-1,Dr.House.2x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1660.mkv
+#EXTINF:-1,Dr.House.2x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1661.mkv
+#EXTINF:-1,Dr.House.2x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1662.mkv
+#EXTINF:-1,Dr.House.2x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1663.mkv
+#EXTINF:-1,Dr.House.2x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1664.mkv
+#EXTINF:-1,Dr.House.2x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1665.mkv
+#EXTINF:-1,Dr.House.2x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1666.mkv
+#EXTINF:-1,Dr.House.2x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1667.mkv
+#EXTINF:-1,Dr.House.2x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1668.mkv
+#EXTINF:-1,Dr.House.2x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1669.mkv
+#EXTINF:-1,Dr.House.2x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1670.mkv
+#EXTINF:-1,Dr.House.2x23
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1671.mkv
+#EXTINF:-1,Dr.House.2x24
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1672.mkv
+#EXTINF:-1,Dr.House.3x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1673.mkv
+#EXTINF:-1,Dr.House.3x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1674.mkv
+#EXTINF:-1,Dr.House.3x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1675.mkv
+#EXTINF:-1,Dr.House.3x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1676.mkv
+#EXTINF:-1,Dr.House.3x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1677.mkv
+#EXTINF:-1,Dr.House.3x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1678.mkv
+#EXTINF:-1,Dr.House.3x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1679.mkv
+#EXTINF:-1,Dr.House.3x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1680.mkv
+#EXTINF:-1,Dr.House.3x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1681.mkv
+#EXTINF:-1,Dr.House.3x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1682.mkv
+#EXTINF:-1,Dr.House.3x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1683.mkv
+#EXTINF:-1,Dr.House.3x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1684.mkv
+#EXTINF:-1,Dr.House.3x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1685.mkv
+#EXTINF:-1,Dr.House.3x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1686.mkv
+#EXTINF:-1,Dr.House.3x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1687.mkv
+#EXTINF:-1,Dr.House.3x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1688.mkv
+#EXTINF:-1,Dr.House.3x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1689.mkv
+#EXTINF:-1,Dr.House.3x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1690.mkv
+#EXTINF:-1,Dr.House.3x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1691.mkv
+#EXTINF:-1,Dr.House.3x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1692.mkv
+#EXTINF:-1,Dr.House.3x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1693.mkv
+#EXTINF:-1,Dr.House.3x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1694.mkv
+#EXTINF:-1,Dr.House.3x23
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1695.mkv
+#EXTINF:-1,Dr.House.3x24
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1696.mkv
+#EXTINF:-1,Dr.House.4x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1697.mkv
+#EXTINF:-1,Dr.House.4x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1698.mkv
+#EXTINF:-1,Dr.House.4x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1699.mkv
+#EXTINF:-1,Dr.House.4x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1700.mkv
+#EXTINF:-1,Dr.House.4x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1701.mkv
+#EXTINF:-1,Dr.House.4x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1702.mkv
+#EXTINF:-1,Dr.House.4x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1703.mkv
+#EXTINF:-1,Dr.House.4x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1704.mkv
+#EXTINF:-1,Dr.House.4x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1705.mkv
+#EXTINF:-1,Dr.House.4x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1706.mkv
+#EXTINF:-1,Dr.House.4x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1707.mkv
+#EXTINF:-1,Dr.House.4x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1708.mkv
+#EXTINF:-1,Dr.House.4x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1709.mkv
+#EXTINF:-1,Dr.House.4x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1710.mkv
+#EXTINF:-1,Dr.House.4x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1711.mkv
+#EXTINF:-1,Dr.House.4x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1712.mkv
+#EXTINF:-1,Dr.House.5x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1713.mkv
+#EXTINF:-1,Dr.House.5x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1714.mkv
+#EXTINF:-1,Dr.House.5x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1715.mkv
+#EXTINF:-1,Dr.House.5x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1716.mkv
+#EXTINF:-1,Dr.House.5x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1717.mkv
+#EXTINF:-1,Dr.House.5x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1718.mkv
+#EXTINF:-1,Dr.House.5x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1719.mkv
+#EXTINF:-1,Dr.House.5x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1720.mkv
+#EXTINF:-1,Dr.House.5x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1721.mkv
+#EXTINF:-1,Dr.House.5x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1722.mkv
+#EXTINF:-1,Dr.House.5x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1723.mkv
+#EXTINF:-1,Dr.House.5x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1724.mkv
+#EXTINF:-1,Dr.House.5x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1725.mkv
+#EXTINF:-1,Dr.House.5x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1726.mkv
+#EXTINF:-1,Dr.House.5x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1727.mkv
+#EXTINF:-1,Dr.House.5x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1728.mkv
+#EXTINF:-1,Dr.House.5x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1729.mkv
+#EXTINF:-1,Dr.House.5x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1730.mkv
+#EXTINF:-1,Dr.House.5x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1731.mkv
+#EXTINF:-1,Dr.House.5x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1732.mkv
+#EXTINF:-1,Dr.House.5x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1733.mkv
+#EXTINF:-1,Dr.House.5x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1734.mkv
+#EXTINF:-1,Dr.House.5x23
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1735.mkv
+#EXTINF:-1,Dr.House.5x24
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1736.mkv
+#EXTINF:-1,Dr.House.6x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1737.mkv
+#EXTINF:-1,Dr.House.6x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1738.mkv
+#EXTINF:-1,Dr.House.6x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1739.mkv
+#EXTINF:-1,Dr.House.6x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1740.mkv
+#EXTINF:-1,Dr.House.6x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1741.mkv
+#EXTINF:-1,Dr.House.6x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1742.mkv
+#EXTINF:-1,Dr.House.6x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1743.mkv
+#EXTINF:-1,Dr.House.6x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1744.mkv
+#EXTINF:-1,Dr.House.6x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1745.mkv
+#EXTINF:-1,Dr.House.6x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1746.mkv
+#EXTINF:-1,Dr.House.6x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1747.mkv
+#EXTINF:-1,Dr.House.6x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1748.mkv
+#EXTINF:-1,Dr.House.6x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1749.mkv
+#EXTINF:-1,Dr.House.6x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1750.mkv
+#EXTINF:-1,Dr.House.6x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1751.mkv
+#EXTINF:-1,Dr.House.6x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1752.mkv
+#EXTINF:-1,Dr.House.6x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1753.mkv
+#EXTINF:-1,Dr.House.6x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1754.mkv
+#EXTINF:-1,Dr.House.6x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1755.mkv
+#EXTINF:-1,Dr.House.6x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1756.mkv
+#EXTINF:-1,Dr.House.6x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1757.mkv
+#EXTINF:-1,Dr.House.6x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1758.mkv
+#EXTINF:-1,Dr.House.7x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1759.mkv
+#EXTINF:-1,Dr.House.7x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1760.mkv
+#EXTINF:-1,Dr.House.7x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1761.mkv
+#EXTINF:-1,Dr.House.7x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1762.mkv
+#EXTINF:-1,Dr.House.7x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1763.mkv
+#EXTINF:-1,Dr.House.7x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1764.mkv
+#EXTINF:-1,Dr.House.7x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1765.mkv
+#EXTINF:-1,Dr.House.7x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1766.mkv
+#EXTINF:-1,Dr.House.7x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1767.mkv
+#EXTINF:-1,Dr.House.7x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1768.mkv
+#EXTINF:-1,Dr.House.7x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1769.mkv
+#EXTINF:-1,Dr.House.7x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1770.mkv
+#EXTINF:-1,Dr.House.7x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1771.mkv
+#EXTINF:-1,Dr.House.7x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1772.mkv
+#EXTINF:-1,Dr.House.7x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1773.mkv
+#EXTINF:-1,Dr.House.7x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1774.mkv
+#EXTINF:-1,Dr.House.7x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1775.mkv
+#EXTINF:-1,Dr.House.7x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1776.mkv
+#EXTINF:-1,Dr.House.7x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1777.mkv
+#EXTINF:-1,Dr.House.7x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1778.mkv
+#EXTINF:-1,Dr.House.7x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1779.mkv
+#EXTINF:-1,Dr.House.7x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1780.mkv
+#EXTINF:-1,Dr.House.7x23
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1781.mkv
+#EXTINF:-1,Dr.House.8x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1782.mkv
+#EXTINF:-1,Dr.House.8x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1783.mkv
+#EXTINF:-1,Dr.House.8x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1784.mkv
+#EXTINF:-1,Dr.House.8x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1785.mkv
+#EXTINF:-1,Dr.House.8x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1786.mkv
+#EXTINF:-1,Dr.House.8x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1787.mkv
+#EXTINF:-1,Dr.House.8x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1788.mkv
+#EXTINF:-1,Dr.House.8x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1789.mkv
+#EXTINF:-1,Dr.House.8x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1790.mkv
+#EXTINF:-1,Dr.House.8x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1791.mkv
+#EXTINF:-1,Dr.House.8x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1792.mkv
+#EXTINF:-1,Dr.House.8x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1793.mkv
+#EXTINF:-1,Dr.House.8x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1794.mkv
+#EXTINF:-1,Dr.House.8x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1795.mkv
+#EXTINF:-1,Dr.House.8x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1796.mkv
+#EXTINF:-1,Dr.House.8x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1797.mkv
+#EXTINF:-1,Dr.House.8x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1798.mkv
+#EXTINF:-1,Dr.House.8x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1799.mkv
+#EXTINF:-1,Dr.House.8x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1800.mkv
+#EXTINF:-1,Dr.House.8x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1801.mkv
+#EXTINF:-1,Dr.House.8x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1802.mkv
+#EXTINF:-1,Dr.House.8x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1803.mkv
+#EXTINF:-1,---FALLING SKIES
+http://dummylink.com
+#EXTINF:-1,Falling.Skies.1x01-2
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1941.mkv
+#EXTINF:-1,Falling.Skies.1x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1942.mkv
+#EXTINF:-1,Falling.Skies.1x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1943.mkv
+#EXTINF:-1,Falling.Skies.1x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1944.mkv
+#EXTINF:-1,Falling.Skies.1x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1945.mkv
+#EXTINF:-1,Falling.Skies.1x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1946.mkv
+#EXTINF:-1,Falling.Skies.1x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1947.mkv
+#EXTINF:-1,Falling.Skies.1x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1948.mkv
+#EXTINF:-1,Falling.Skies.1x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1949.mkv
+#EXTINF:-1,Falling.Skies.2x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1950.mkv
+#EXTINF:-1,Falling.Skies.2x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1951.mkv
+#EXTINF:-1,Falling.Skies.2x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1952.mkv
+#EXTINF:-1,Falling.Skies.2x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1953.mkv
+#EXTINF:-1,Falling.Skies.2x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1954.mkv
+#EXTINF:-1,Falling.Skies.2x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1955.mkv
+#EXTINF:-1,Falling.Skies.2x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1956.mkv
+#EXTINF:-1,Falling.Skies.2x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1957.mkv
+#EXTINF:-1,Falling.Skies.2x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1958.mkv
+#EXTINF:-1,Falling.Skies.2x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1959.mkv
+#EXTINF:-1,Falling.Skies.3x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1960.mkv
+#EXTINF:-1,Falling.Skies.3x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1961.mkv
+#EXTINF:-1,Falling.Skies.3x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1962.mkv
+#EXTINF:-1,Falling.Skies.3x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1963.mkv
+#EXTINF:-1,Falling.Skies.3x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1964.mkv
+#EXTINF:-1,Falling.Skies.3x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1965.mkv
+#EXTINF:-1,Falling.Skies.3x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1966.mkv
+#EXTINF:-1,Falling.Skies.3x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2106.mkv
+#EXTINF:-1,Falling.Skies.3x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2180.mkv
+#EXTINF:-1,Falling.Skies.3x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2181.mkv
+#EXTINF:-1,---GOTHAM
+http://dummylink.com
+#EXTINF:-1,Gotham.1x00
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2121.mkv
+#EXTINF:-1,Gotham.1x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2122.mkv
+#EXTINF:-1,Gotham.1x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2123.mkv
+#EXTINF:-1,Gotham.1x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2124.mkv
+#EXTINF:-1,Gotham.1x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2125.mkv
+#EXTINF:-1,Gotham.1x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2126.mkv
+#EXTINF:-1,Gotham.1x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2127.mkv
+#EXTINF:-1,Gotham.1x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2128.mkv
+#EXTINF:-1,Gotham.1x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2129.mkv
+#EXTINF:-1,Gotham.1x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2130.mkv
+#EXTINF:-1,Gotham.1x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2131.mkv
+#EXTINF:-1,Gotham.1x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2132.mkv
+#EXTINF:-1,Gotham.1x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2133.mkv
+#EXTINF:-1,Gotham.1x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2134.mkv
+#EXTINF:-1,Gotham.1x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2135.mkv
+#EXTINF:-1,Gotham.1x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2136.mkv
+#EXTINF:-1,Gotham.1x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2137.mkv
+#EXTINF:-1,Gotham.1x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2138.mkv
+#EXTINF:-1,Gotham.1x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2139.mkv
+#EXTINF:-1,Gotham.1x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2140.mkv
+#EXTINF:-1,Gotham.1x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2141.mkv
+#EXTINF:-1,Gotham.1x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2142.mkv
+#EXTINF:-1,Gotham.1x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2143.mkv
+#EXTINF:-1,Gotham.2x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2144.mkv
+#EXTINF:-1,Gotham.2x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2145.mkv
+#EXTINF:-1,Gotham.2x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2146.mkv
+#EXTINF:-1,Gotham.2x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2147.mkv
+#EXTINF:-1,Gotham.2x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2148.mkv
+#EXTINF:-1,Gotham.2x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2149.mkv
+#EXTINF:-1,Gotham.2x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2150.mkv
+#EXTINF:-1,Gotham.2x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2151.mkv
+#EXTINF:-1,Gotham.2x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2152.mkv
+#EXTINF:-1,Gotham.2x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2153.mkv
+#EXTINF:-1,Gotham.2x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2154.mkv
+#EXTINF:-1,Gotham.2x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2155.mkv
+#EXTINF:-1,Gotham.2x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2156.mkv
+#EXTINF:-1,Gotham.2x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2157.mkv
+#EXTINF:-1,Gotham.2x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2158.mkv
+#EXTINF:-1,Gotham.2x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2159.mkv
+#EXTINF:-1,Gotham.2x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2160.mkv
+#EXTINF:-1,Gotham.2x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2161.mkv
+#EXTINF:-1,Gotham.2x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2162.mkv
+#EXTINF:-1,Gotham.2x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2163.mkv
+#EXTINF:-1,Gotham.2x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2164.mkv
+#EXTINF:-1,Gotham.2x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2165.mkv
+#EXTINF:-1,---IL TRONO DI SPADE
+http://dummylink.com
+#EXTINF:-1,Il.T.D.Spade.1x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1892.mkv
+#EXTINF:-1,Il.T.D.Spade.1x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1893.mkv
+#EXTINF:-1,Il.T.D.Spade.1x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1894.mkv
+#EXTINF:-1,Il.T.D.Spade.1x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1895.mkv
+#EXTINF:-1,Il.T.D.Spade.1x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1896.mkv
+#EXTINF:-1,Il.T.D.Spade.1x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1897.mkv
+#EXTINF:-1,Il.T.D.Spade.1x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1898.mkv
+#EXTINF:-1,Il.T.D.Spade.1x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1899.mkv
+#EXTINF:-1,Il.T.D.Spade.1x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1900.mkv
+#EXTINF:-1,Il.T.D.Spade.1x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1901.mkv
+#EXTINF:-1,Il.T.D.Spade.2x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1902.mkv
+#EXTINF:-1,Il.T.D.Spade.2x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1903.mkv
+#EXTINF:-1,Il.T.D.Spade.2x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1904.mkv
+#EXTINF:-1,Il.T.D.Spade.2x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1905.mkv
+#EXTINF:-1,Il.T.D.Spade.2x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1906.mkv
+#EXTINF:-1,Il.T.D.Spade.2x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1907.mkv
+#EXTINF:-1,Il.T.D.Spade.2x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1908.mkv
+#EXTINF:-1,Il.T.D.Spade.2x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1909.mkv
+#EXTINF:-1,Il.T.D.Spade.2x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1910.mkv
+#EXTINF:-1,Il.T.D.Spade.2x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1911.mkv
+#EXTINF:-1,Il.T.D.Spade.3x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1912.mkv
+#EXTINF:-1,Il.T.D.Spade.3x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1913.mkv
+#EXTINF:-1,Il.T.D.Spade.3x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1914.mkv
+#EXTINF:-1,Il.T.D.Spade.3x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1915.mkv
+#EXTINF:-1,Il.T.D.Spade.3x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1916.mkv
+#EXTINF:-1,Il.T.D.Spade.3x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1917.mkv
+#EXTINF:-1,Il.T.D.Spade.3x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1918.mkv
+#EXTINF:-1,Il.T.D.Spade.3x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1919.mkv
+#EXTINF:-1,Il.T.D.Spade.3x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1920.mkv
+#EXTINF:-1,Il.T.D.Spade.3x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1921.mkv
+#EXTINF:-1,Il.T.D.Spade.4x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1922.mkv
+#EXTINF:-1,Il.T.D.Spade.4x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1923.mkv
+#EXTINF:-1,Il.T.D.Spade.4x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1924.mkv
+#EXTINF:-1,Il.T.D.Spade.4x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1925.mkv
+#EXTINF:-1,Il.T.D.Spade.4x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1926.mkv
+#EXTINF:-1,Il.T.D.Spade.4x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1927.mkv
+#EXTINF:-1,Il.T.D.Spade.4x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1928.mkv
+#EXTINF:-1,Il.T.D.Spade.4x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1929.mkv
+#EXTINF:-1,Il.T.D.Spade.4x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1930.mkv
+#EXTINF:-1,Il.T.D.Spade.4x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1931.mkv
+#EXTINF:-1,Il.T.D.Spade.5x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1932.mkv
+#EXTINF:-1,Il.T.D.Spade.5x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1933.mkv
+#EXTINF:-1,Il.T.D.Spade.5x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1934.mkv
+#EXTINF:-1,Il.T.D.Spade.5x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1935.mkv
+#EXTINF:-1,Il.T.D.Spade.5x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1936.mkv
+#EXTINF:-1,Il.T.D.Spade.5x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1937.mkv
+#EXTINF:-1,Il.T.D.Spade.5x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1938.mkv
+#EXTINF:-1,Il.T.D.Spade.5x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1939.mkv
+#EXTINF:-1,Il.T.D.Spade.5x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/1940.mkv
+#EXTINF:-1,----THE FLASH
+http://dummylink.com
+#EXTINF:-1,The.Flash.1x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2068.mkv
+#EXTINF:-1,The.Flash.1x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2069.mkv
+#EXTINF:-1,The.Flash.1x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2070.mkv
+#EXTINF:-1,The.Flash.1x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2071.mkv
+#EXTINF:-1,The.Flash.1x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2072.mkv
+#EXTINF:-1,The.Flash.1x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2073.mkv
+#EXTINF:-1,The.Flash.1x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2074.mkv
+#EXTINF:-1,The.Flash.1x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2075.mkv
+#EXTINF:-1,The.Flash.1x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2076.mkv
+#EXTINF:-1,The.Flash.1x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2077.mkv
+#EXTINF:-1,The.Flash.1x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2078.mkv
+#EXTINF:-1,The.Flash.1x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2079.mkv
+#EXTINF:-1,The.Flash.1x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2080.mkv
+#EXTINF:-1,The.Flash.1x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2081.mkv
+#EXTINF:-1,The.Flash.1x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2082.mkv
+#EXTINF:-1,The.Flash.1x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2083.mkv
+#EXTINF:-1,The.Flash.1x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2084.mkv
+#EXTINF:-1,The.Flash.1x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2085.mkv
+#EXTINF:-1,The.Flash.1x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2086.mkv
+#EXTINF:-1,The.Flash.1x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2087.mkv
+#EXTINF:-1,The.Flash.1x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2088.mkv
+#EXTINF:-1,The.Flash.1x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2089.mkv
+#EXTINF:-1,The.Flash.1x23
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2090.mkv
+#EXTINF:-1,The.Flash.2x01
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2091.mkv
+#EXTINF:-1,The.Flash.2x02
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2092.mkv
+#EXTINF:-1,The.Flash.2x03
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2093.mkv
+#EXTINF:-1,The.Flash.2x04
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2094.mkv
+#EXTINF:-1,The.Flash.2x05
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2095.mkv
+#EXTINF:-1,The.Flash.2x06
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2096.mkv
+#EXTINF:-1,The.Flash.2x07
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2097.mkv
+#EXTINF:-1,The.Flash.2x08
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2098.mkv
+#EXTINF:-1,The.Flash.2x09
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2099.mkv
+#EXTINF:-1,The.Flash.2x10
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2100.mkv
+#EXTINF:-1,The.Flash.2x11
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2101.mkv
+#EXTINF:-1,The.Flash.2x12
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2102.mkv
+#EXTINF:-1,The.Flash.2x13
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2103.mkv
+#EXTINF:-1,The.Flash.2x14
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2111.mkv
+#EXTINF:-1,The.Flash.2x15
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2112.mkv
+#EXTINF:-1,The.Flash.2x16
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2113.mkv
+#EXTINF:-1,The.Flash.2x17
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2114.mkv
+#EXTINF:-1,The.Flash.2x18
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2115.mkv
+#EXTINF:-1,The.Flash.2x19
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2116.mkv
+#EXTINF:-1,The.Flash.2x20
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2117.mkv
+#EXTINF:-1,The.Flash.2x21
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2118.mkv
+#EXTINF:-1,The.Flash.2x22
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2119.mkv
+#EXTINF:-1,The.Flash.2x23
+http://vision.myvisio.me:8000/movie/luigi91/luigi91/2120.mkv
+#EXTINF:-1,----Breaking Bad
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2176.mkv
+#EXTINF:-1,Breaking Bad 1x01
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2114.mkv
+#EXTINF:-1,Breaking Bad 1x02
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2115.mkv
+#EXTINF:-1,Breaking Bad 1x03
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2116.mkv
+#EXTINF:-1,Breaking Bad 1x04
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2117.mkv
+#EXTINF:-1,Breaking Bad 1x05
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2118.mkv
+#EXTINF:-1,Breaking Bad 1x06
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2119.mkv
+#EXTINF:-1,Breaking Bad 1x07
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2120.mkv
+#EXTINF:-1,Breaking Bad 2x01
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2121.mkv
+#EXTINF:-1,Breaking Bad 2x02
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2122.mkv
+#EXTINF:-1,Breaking Bad 2x03
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2123.mkv
+#EXTINF:-1,Breaking Bad 2x04
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2124.mkv
+#EXTINF:-1,Breaking Bad 2x05
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2175.mkv
+#EXTINF:-1,Breaking Bad 2x06
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2125.mkv
+#EXTINF:-1,Breaking Bad 2x07
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2126.mkv
+#EXTINF:-1,Breaking Bad 2x08
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2127.mkv
+#EXTINF:-1,Breaking Bad 2x09
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2128.mkv
+#EXTINF:-1,Breaking Bad 2x10
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2129.mkv
+#EXTINF:-1,Breaking Bad 2x11
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2130.mkv
+#EXTINF:-1,Breaking Bad 2x12
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2177.mkv
+#EXTINF:-1,Breaking Bad 2x13
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2131.mkv
+#EXTINF:-1,Breaking Bad 3x01
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2132.mkv
+#EXTINF:-1,Breaking Bad 3x02
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2133.mkv
+#EXTINF:-1,Breaking Bad 3x03
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2134.mkv
+#EXTINF:-1,Breaking Bad 3x04
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2135.mkv
+#EXTINF:-1,Breaking Bad 3x05
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2136.mkv
+#EXTINF:-1,Breaking Bad 3x06
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2137.mkv
+#EXTINF:-1,Breaking Bad 3x07
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2138.mkv
+#EXTINF:-1,Breaking Bad 3x08
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2139.mkv
+#EXTINF:-1,Breaking Bad 3x09
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2140.mkv
+#EXTINF:-1,Breaking Bad 3x10
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2141.mkv
+#EXTINF:-1,Breaking Bad 3x11
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2142.mkv
+#EXTINF:-1,Breaking Bad 3x12
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2143.mkv
+#EXTINF:-1,Breaking Bad 3x13
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2144.mkv
+#EXTINF:-1,Breaking Bad 4x01
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2145.mkv
+#EXTINF:-1,Breaking Bad 4x02
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2146.mkv
+#EXTINF:-1,Breaking Bad 4x03
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2147.mkv
+#EXTINF:-1,Breaking Bad 4x04
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2148.mkv
+#EXTINF:-1,Breaking Bad 4x05
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2149.mkv
+#EXTINF:-1,Breaking Bad 4x06
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2150.mkv
+#EXTINF:-1,Breaking Bad 4x07
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2151.mkv
+#EXTINF:-1,Breaking Bad 4x08
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2152.mkv
+#EXTINF:-1,Breaking Bad 4x09
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2153.mkv
+#EXTINF:-1,Breaking Bad 4x10
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2154.mkv
+#EXTINF:-1,Breaking Bad 4x11
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2155.mkv
+#EXTINF:-1,Breaking Bad 4x12
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2156.mkv
+#EXTINF:-1,Breaking Bad 4x13
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2157.mkv
+#EXTINF:-1,Breaking Bad 5x01
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2158.mkv
+#EXTINF:-1,Breaking Bad 5x02
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2159.mkv
+#EXTINF:-1,Breaking Bad 5x03
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2160.mkv
+#EXTINF:-1,Breaking Bad 5x04
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2161.mkv
+#EXTINF:-1,Breaking Bad 5x05
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2162.mkv
+#EXTINF:-1,Breaking Bad 5x06
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2163.mkv
+#EXTINF:-1,Breaking Bad 5x07
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2164.mkv
+#EXTINF:-1,Breaking Bad 5x08
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2165.mkv
+#EXTINF:-1,Breaking Bad 5x09
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2166.mkv
+#EXTINF:-1,Breaking Bad 5x10
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2167.mkv
+#EXTINF:-1,Breaking Bad 5x11
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2168.mkv
+#EXTINF:-1,Breaking Bad 5x12
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2169.mkv
+#EXTINF:-1,Breaking Bad 5x13
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2170.mkv
+#EXTINF:-1,Breaking Bad 5x14
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2171.mkv
+#EXTINF:-1,Breaking Bad 5x15
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2172.mkv
+#EXTINF:-1,Breaking Bad 5x16
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2173.mkv
+#EXTINF:-1,----Agents Of Shield
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2293.mkv
+#EXTINF:-1,Agents Of Shield 1x01
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2240.mkv
+#EXTINF:-1,Agents Of Shield 1x02
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2241.mkv
+#EXTINF:-1,Agents Of Shield 1x03
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2242.mkv
+#EXTINF:-1,Agents Of Shield 1x04
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2243.mkv
+#EXTINF:-1,Agents Of Shield 1x05
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2244.mkv
+#EXTINF:-1,Agents Of Shield 1x06
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2245.mkv
+#EXTINF:-1,Agents Of Shield 1x07
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2246.mkv
+#EXTINF:-1,Agents Of Shield 1x08
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2247.mkv
+#EXTINF:-1,Agents Of Shield 1x09
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2248.mkv
+#EXTINF:-1,Agents Of Shield 1x10
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2249.mkv
+#EXTINF:-1,Agents Of Shield 1x11
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2250.mkv
+#EXTINF:-1,Agents Of Shield 1x12
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2251.mkv
+#EXTINF:-1,Agents Of Shield 1x13
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2252.mkv
+#EXTINF:-1,Agents Of Shield 1x14
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2253.mkv
+#EXTINF:-1,Agents Of Shield 1x15
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2254.mkv
+#EXTINF:-1,Agents Of Shield 1x16
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2255.mkv
+#EXTINF:-1,Agents Of Shield 1x17
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2256.mkv
+#EXTINF:-1,Agents Of Shield 1x18
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2257.mkv
+#EXTINF:-1,Agents Of Shield 1x19
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2258.mkv
+#EXTINF:-1,Agents Of Shield 1x20
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2259.mkv
+#EXTINF:-1,Agents Of Shield 1x21
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2260.mkv
+#EXTINF:-1,Agents Of Shield 1x22
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2261.mkv
+#EXTINF:-1,Agents Of Shield 2x01
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2283.mkv
+#EXTINF:-1,Agents Of Shield 2x02
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2284.mkv
+#EXTINF:-1,Agents Of Shield 2x03
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2285.mkv
+#EXTINF:-1,Agents Of Shield 2x04
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2286.mkv
+#EXTINF:-1,Agents Of Shield 2x05
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2262.mkv
+#EXTINF:-1,Agents Of Shield 2x06
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2263.mkv
+#EXTINF:-1,Agents Of Shield 2x07
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2287.mkv
+#EXTINF:-1,Agents Of Shield 2x08
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2264.mkv
+#EXTINF:-1,Agents Of Shield 2x09
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2265.mkv
+#EXTINF:-1,Agents Of Shield 2x10
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2266.mkv
+#EXTINF:-1,Agents Of Shield 2x11
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2300.mkv
+#EXTINF:-1,Agents Of Shield 2x12
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2298.mkv
+#EXTINF:-1,Agents Of Shield 2x13
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2267.mkv
+#EXTINF:-1,Agents Of Shield 2x14
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2268.mkv
+#EXTINF:-1,Agents Of Shield 2x15
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2269.mkv
+#EXTINF:-1,Agents Of Shield 2x16
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2270.mkv
+#EXTINF:-1,Agents Of Shield 2x17
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2271.mkv
+#EXTINF:-1,Agents Of Shield 2x18
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2272.mkv
+#EXTINF:-1,Agents Of Shield 2x19
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2273.mkv
+#EXTINF:-1,Agents Of Shield 2x20
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2274.mkv
+#EXTINF:-1,Agents Of Shield 2x21
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2275.mkv
+#EXTINF:-1,Agents Of Shield 2x22
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2276.mkv
+#EXTINF:-1,Agents Of Shield 3x01
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2277.mkv
+#EXTINF:-1,Agents Of Shield 3x02
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2278.mkv
+#EXTINF:-1,Agents Of Shield 3x03
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2279.mkv
+#EXTINF:-1,Agents Of Shield 3x04
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2280.mkv
+#EXTINF:-1,Agents Of Shield 3x05
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2281.mkv
+#EXTINF:-1,Agents Of Shield 3x06
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2282.mkv
+#EXTINF:-1,Agents Of Shield 3x07
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2291.mkv
+#EXTINF:-1,Agents Of Shield 3x08
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2289.mkv
+#EXTINF:-1,Agents Of Shield 3x09
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2290.mkv
+#EXTINF:-1,Agents Of Shield 3x10
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2292.mkv
+#EXTINF:-1,Agents Of Shield 3x11
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2629.mkv
+#EXTINF:-1,Agents Of Shield 3x12
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2630.mkv
+#EXTINF:-1,Agents Of Shield 3x13
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2684.mkv
+#EXTINF:-1,Agents Of Shield 3x14
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2685.mkv
+#EXTINF:-1,--------------FILM IN SALA NEW
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1487.mkv
+#EXTINF:-1,Captain America Civil War
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2699.mp4
+#EXTINF:-1,Lo Chiamavano Jeeg Robot.
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2694.mp4
+#EXTINF:-1,La Coppia dei Campioni
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2696.mp4
+#EXTINF:-1,Nemiche Per La Pelle CD1
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2697.mp4
+#EXTINF:-1,Nemiche Per La Pelle CD2
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2698.mp4
+#EXTINF:-1,Single Ma Non Troppo
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2695.mp4
+#EXTINF:-1,Nonno Scatenato
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2660.mkv
+#EXTINF:-1,Il Libro Della Giungla 2016
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2654.mkv
+#EXTINF:-1,Il Cacciatore E La Regina Di Ghiaccio
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2640.mkv
+#EXTINF:-1,Batman V Superman Dawn Of Justice
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2639.mkv
+#EXTINF:-1,Banat
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2618.mkv
+#EXTINF:-1,The Veil
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2474.mkv
+#EXTINF:-1,Un Paese Quasi Perfetto
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2470.avi
+#EXTINF:-1,Il Mio Grosso Grasso Matrimonio Greco 2
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2466.avi
+#EXTINF:-1,Il Viaggio Di Norm
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2459.avi
+#EXTINF:-1,Risorto
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2457.mkv
+#EXTINF:-1,Vita Cuore Battito
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2448.mkv
+#EXTINF:-1,The Divergent Series Allegiant
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2079.mkv
+#EXTINF:-1,Mi Rifaccio Il Trullo
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2432.mkv
+#EXTINF:-1,La Quinta Onda
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2311.mkv
+#EXTINF:-1,The Pills Sempre Meglio Che Lavorare
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2307.mkv
+#EXTINF:-1,Milionari
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2309.mkv
+#EXTINF:-1,Forever Young 2016
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2294.mkv
+#EXTINF:-1,Attacco Al Potere 2
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2101.mkv
+#EXTINF:-1,Kung Fu Panda 3
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2058.mkv
+#EXTINF:-1,Deadpool
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2430.mkv
+#EXTINF:-1,Home Invasion Assediati In Casa
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1823.mkv
+#EXTINF:-1,Tiramisu
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1701.mkv
+#EXTINF:-1,Zootropolis 2016
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1543.mkv
+#EXTINF:-1,Doraemon Nobita e gli eroi dello spazio
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1515.mkv
+#EXTINF:-1,Gods Of Egypt
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1482.mkv
+#EXTINF:-1,Perfetti Sconosciuti
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1485.mkv
+#EXTINF:-1,Barbie Squadra Speciale
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1484.mkv
+#EXTINF:-1,La abbiamo Fatta Grossa
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/241.mkv
+#EXTINF:-1,Ultima Parola la vera storia di Dalton Trumbo
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/242.mkv
+#EXTINF:-1,Macbeth
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1519.mkv
+#EXTINF:-1,Natale Con i Tuoi
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1521.mkv
+#EXTINF:-1,Joy
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1518.mkv
+#EXTINF:-1,Piccoli Brividi
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1522.mkv
+#EXTINF:-1,PPZ Pride Prejudice Zombies
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/243.mkv
+#EXTINF:-1,Se Mi Lasci Non Vale
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1523.mkv
+#EXTINF:-1,Film in Sale --Steve Jobs
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1524.mkv
+#EXTINF:-1,The Danish Girl
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/244.mkv
+#EXTINF:-1,Uno Per Tutti
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1525.mkv
+#EXTINF:-1,Zoolander 2
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/245.mkv
+#EXTINF:-1,----FILM
+http://ip-tv-fry.dyndns.tv:7799/live/domenico/domenico/1511.ts
+#EXTINF:-1,Creed: Nato Per Combattere 2015
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2682.mkv
+#EXTINF:-1,Quo Vado
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2641.mkv
+#EXTINF:-1,Southpaw: Ultima sfida
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1389.mkv
+#EXTINF:-1,Alvin Superstar Nessuno Ci Puo Fermare
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2471.mkv
+#EXTINF:-1,Tracers
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2295.mkv
+#EXTINF:-1,Pan viaggio sulla isola che non c è
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1364.mkv
+#EXTINF:-1,Natale Col Boss
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2632.mkv
+#EXTINF:-1,Il professor Cenerentolo
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2691.mkv
+#EXTINF:-1,Macbeth
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2690.mkv
+#EXTINF:-1,La grande scommessa 2015
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2683.mkv
+#EXTINF:-1,Belle e Sebastien - La avventura continua
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2653.mkv
+#EXTINF:-1,Assolo
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2677.mkv
+#EXTINF:-1,Un disastro di ragazza
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2676.mkv
+#EXTINF:-1,Ruby Red 2 Il segreto di Zaffiro
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2679.mkv
+#EXTINF:-1,Bastardi di Guerra
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2678.mkv
+#EXTINF:-1,Dio esiste e vive a Bruxelles
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2663.mkv
+#EXTINF:-1,Cop Car
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2664.mkv
+#EXTINF:-1,The Gunman
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2675.mkv
+#EXTINF:-1,Bone Tomahawk
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2665.mkv
+#EXTINF:-1,Away and Back
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2662.mkv
+#EXTINF:-1,Cloro 2015
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2659.mp4
+#EXTINF:-1,Il buono il brutto e il morto
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2655.mkv
+#EXTINF:-1,Hush Il Terrore Del Silenzio
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2651.avi
+#EXTINF:-1,Krampus Natale Non E Sempre Natale
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2652.mkv
+#EXTINF:-1,Quel fantastico peggior anno della mia vita
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2648.mp4
+#EXTINF:-1,Regression
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2642.mkv
+#EXTINF:-1,Vice 2015
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2636.mkv
+#EXTINF:-1,Racing Extinction Il Mondo Che Scompare
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2633.mkv
+#EXTINF:-1,Crimson peak
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1293.mkv
+#EXTINF:-1,Una Occasione da Dio
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1423.mkv
+#EXTINF:-1,Joker - Wild card
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1332.mkv
+#EXTINF:-1,Il viaggio di Arlo - The Good Dinosaur
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2098.mkv
+#EXTINF:-1,Gli ultimi saranno ultimi
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1502.mkv
+#EXTINF:-1,Black Mass-Ultimo Gangster
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/235.mkv
+#EXTINF:-1,Run All Night: Una notte per sopravvivere
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2631.mkv
+#EXTINF:-1,THE VATICAN TAPES
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2619.mkv
+#EXTINF:-1,Where Hope Grows Nulla E Perduto
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2617.mkv
+#EXTINF:-1,Stelling Cars
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2647.mkv
+#EXTINF:-1,Le Nozze Di Laura
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2646.mkv
+#EXTINF:-1,Loro Chi?
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2440.mkv
+#EXTINF:-1,Welcome To New York
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2616.mkv
+#EXTINF:-1,Unbroken
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2615.mkv
+#EXTINF:-1,Tutto Puo Cambiare
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2613.mkv
+#EXTINF:-1,The Fighters Addestramento Di Vita
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2610.mkv
+#EXTINF:-1,The Gambling Gioco Pericoloso
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2611.mkv
+#EXTINF:-1,The Salvation
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2612.mkv
+#EXTINF:-1,Scemo Piu Scemo 2
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2609.mkv
+#EXTINF:-1,Samba
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2608.mkv
+#EXTINF:-1,Redeemer
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2607.mkv
+#EXTINF:-1,Non Sposate Le Mie Figlie
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2606.mkv
+#EXTINF:-1,Lo Sciacallo Nightcrawler
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2604.mkv
+#EXTINF:-1,Interstellar
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2603.mkv
+#EXTINF:-1,Il Labirinto Del Silenzio
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2602.mkv
+#EXTINF:-1,Il Giovane Favoloso
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2601.mkv
+#EXTINF:-1,I Due Volti Di Gennaio
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2600.mkv
+#EXTINF:-1,Honeymoon
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2599.mkv
+#EXTINF:-1,Grand Budapest Hotel
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2598.mkv
+#EXTINF:-1,French Connection
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2597.mkv
+#EXTINF:-1,Edge of Tomorrow Senza Domani
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2595.mkv
+#EXTINF:-1,Dracula Untold
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2594.mkv
+#EXTINF:-1,Doraemon Il FILM
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2593.mkv
+#EXTINF:-1,Diamante Nero
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2592.mkv
+#EXTINF:-1,Days to Kill
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2591.mkv
+#EXTINF:-1,Sballati Per Le Feste
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2590.mkv
+#EXTINF:-1,Perfect day
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2589.mkv
+#EXTINF:-1,Automata
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2587.mkv
+#EXTINF:-1,AntBoy La Vendetta Di Red Fury
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2586.mkv
+#EXTINF:-1,AntBoy
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2585.mkv
+#EXTINF:-1,Ali
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2584.mkv
+#EXTINF:-1,The Lobster
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2483.mkv
+#EXTINF:-1,Il Grande Quaderno
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2481.mkv
+#EXTINF:-1,Irrational Man
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2482.mkv
+#EXTINF:-1,Cinquanta Sbavature Di Nero
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2479.mkv
+#EXTINF:-1,Estate a Staten Island
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2478.mkv
+#EXTINF:-1,Amore Sbagliato
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2480.mkv
+#EXTINF:-1,90 Minuti In Paradiso
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2476.mkv
+#EXTINF:-1,Chiamatemi Francesco Il Papa Della Gente
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2475.mkv
+#EXTINF:-1,Vacanze Ai Caraibi
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2469.mkv
+#EXTINF:-1,Il caso Novak
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2468.avi
+#EXTINF:-1,Diario di unaTeenager 2015
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2437.mkv
+#EXTINF:-1,Humandroid Chappie
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2435.mkv
+#EXTINF:-1,Operator
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2433.mkv
+#EXTINF:-1,Premonitions
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2434.mkv
+#EXTINF:-1,Mon Roi Il mio Re
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2436.mkv
+#EXTINF:-1,Regali Da Uno Sconosciuto The Gift
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2312.mkv
+#EXTINF:-1,Franny 2015
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2308.mkv
+#EXTINF:-1,Intern Lo Stagista
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/226.mkv
+#EXTINF:-1,La regola del gioco - Kill the Messenger
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1794.mkv
+#EXTINF:-1,Ruth Alex - Amore Cerca Casa
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1793.mkv
+#EXTINF:-1,Via Dalla Pazza Folla
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1798.mkv
+#EXTINF:-1,Maze Runner La Fuga
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/249.mkv
+#EXTINF:-1,Il Luogo Delle Ombre
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1796.mkv
+#EXTINF:-1,1981 Indagine A New York
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1499.mkv
+#EXTINF:-1,50 sfumature di grigio
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1247.mkv
+#EXTINF:-1,Alaska
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1500.mkv
+#EXTINF:-1,ANT-MAN
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/234.mkv
+#EXTINF:-1,Freeheld Amore giustizia uguaglianza
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1501.mkv
+#EXTINF:-1,Extinction Sopravvissuti
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1304.mkv
+#EXTINF:-1,Ghosthunters: gli acchiappafantasmi
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1312.mkv
+#EXTINF:-1,Woman in Gold
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1510.mkv
+#EXTINF:-1,Il Caso Spotlight
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1503.mkv
+#EXTINF:-1,La legge del mercato
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1504.mkv
+#EXTINF:-1,Matrimonio Al Sud 2015
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2099.mkv
+#EXTINF:-1,Operazione U.N.C.L.E.
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1361.mkv
+#EXTINF:-1,Padri E Figlie
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1802.mkv
+#EXTINF:-1,Poli Opposti
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/233.mkv
+#EXTINF:-1,Point Break
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1505.mkv
+#EXTINF:-1,Scherzi Della Natura
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1506.mkv
+#EXTINF:-1,Snoopy E Friends Il Film Dei Peanuts
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1507.mkv
+#EXTINF:-1,Sicario
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1384.mkv
+#EXTINF:-1,Spy
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1390.mkv
+#EXTINF:-1,Sopravvissuto: The martian
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1387.mkv
+#EXTINF:-1,The Danish Girl
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1509.mkv
+#EXTINF:-1,The Hateful Eight
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/1839.mkv
+#EXTINF:-1,Tutte Lo Vogliono
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/231.mkv
+#EXTINF:-1,Alexander E La Terribile Orribile Abominevole Ma Veramente Bruttissima Giornata
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2582.mkv
+#EXTINF:-1,Black Sea
+http://ip-tv-fry.dyndns.tv:7799/movie/domenico/domenico/2538.mkv
 </List>

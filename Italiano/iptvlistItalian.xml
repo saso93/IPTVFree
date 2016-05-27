@@ -102,8 +102,6 @@ http://teleradiopadrepio.it.flash.glb.ipercast.net:1935/teleradiopadrepio.it-liv
 #EXTINF:-1 ,Rai Scuola
 http://stream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
 #EXTINF:-1,SportItalia
-http://spi.hystream.com:1935/spilive/spistream/chunklist.m3u8
-#EXTINF:-1,SportItalia
 http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/2324.ts
 #EXTINF:-1,M2o Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8

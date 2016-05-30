@@ -1,6 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <List>
 #EXTM3U
+#EXTINF:-1,---RO
+http://dummylink.com
+#EXTINF:0, A Casa Gold
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5726.ts
+#EXTINF:0,B1 TV
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5725.ts
+#EXTINF:0,Casa Mia
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5724.ts
+#EXTINF:0,Digi 24 HD
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5723.ts
+#EXTINF:0,Digi Animal World
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5722.ts
+#EXTINF:0,Digi Life
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5721.ts
+#EXTINF:0,Digi Sport 1 HD
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5720.ts
+#EXTINF:0,Digi Sport 2 HD
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5719.ts
+#EXTINF:0,Digi Sport 3 HD
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5718.ts
+#EXTINF:0,Digi Sport 4 HD
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5717.ts
+#EXTINF:0,Digi World
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5716.ts
+#EXTINF:0,Disney Junior
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5715.ts
+#EXTINF:0,Eurosport 2
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5714.ts
+#EXTINF:0,HBO 3
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5713.ts
+#EXTINF:0,Kanal D
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5712.ts
+#EXTINF:0,Megamax
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5711.ts
+#EXTINF:0,Minimax
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5710.ts
+#EXTINF:0,Music Channel
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5709.ts
+#EXTINF:0,National Geo Wild
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5708.ts
+#EXTINF:0,National Geographic
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5707.ts
+#EXTINF:0,Nickelodeon
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5706.ts
+#EXTINF:0,Pro TV Chisinau
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5705.ts
+#EXTINF:0,ProTV News
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5704.ts
+#EXTINF:0,Realitatea TV
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5703.ts
+#EXTINF:0,Romania TV
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5702.ts
+#EXTINF:0,Travel Channel
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5701.ts
+#EXTINF:0,TV 1000
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5700.ts
+#EXTINF:0,TVR 1
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5699.ts
+#EXTINF:0,TVR 2
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5698.ts
+#EXTINF:0,Viasat Explorer
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5697.ts
+#EXTINF:0,Viasat Nature
+http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5696.ts
 #EXTINF:-1,----AR----
 http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/977.ts
 #EXTINF:-1,AR: BEIN SPORTS 1

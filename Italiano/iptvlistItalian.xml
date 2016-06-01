@@ -3,6 +3,8 @@
 #EXTM3U
 #EXTINF:-1,---NOVITA
 http://dummylink.com
+#EXTINF:-1,Gomorra 2 (In fondo)
+http://dummylink.com
 #EXTINF:-1,The Walking Dead (In fondo)
 http://dummylink.com
 #EXTINF:-1,Breaking Bad (In fondo)
@@ -2261,4 +2263,30 @@ http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/7026.mkv
 http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/7025.mkv
 #EXTINF:-1,The.Walking.Dead.1x01.I.Giorni.Andati
 http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/7024.mkv
+#EXTINF:-1,----GOMORRA
+http://dummylink.com
+#EXTINF:-1,Gomorra.2x01.Episodio.1.ITA.720p.HDTVRip.DD5.1.x264-NovaRip
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/22076.mkv
+#EXTINF:-1,Gomorra.2x01.Episodio.1.ITALiAN.HDTV.x264.C0P
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/21959.mkv
+#EXTINF:-1,Gomorra.2x02.Episodio.2.ITA.720p.HDTVRip.DD5.1.x264-NovaRip
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/22077.mkv
+#EXTINF:-1,Gomorra.2x02.Episodio.2.ITALiAN.HDTV.x264.C0P
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/21960.mkv
+#EXTINF:-1,Gomorra.2x03.Episodio.3.ITA.720p.HDTVRip.DD5.1.x264-NovaRip
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/22250.mkv
+#EXTINF:-1,Gomorra.2x03.SATRip.Gly-AsTrA
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/22123.mkv
+#EXTINF:-1,Gomorra.2x04.Episodio.4.ITA.720p.HDTVRip.DD5.1.x264-NovaRip
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/22310.mkv
+#EXTINF:-1,Gomorra.2x04.SATRip.Gly-AsTrA
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/22124.mkv
+#EXTINF:-1,Gomorra.2x05.SATRip.Gly-AsTrA
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/22311.mkv
+#EXTINF:-1,Gomorra.La.Serie.S02E05.Episodio.5.__.720p.ITA.IGS
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/22252.mkv
+#EXTINF:-1,Gomorra.2x06.SATRip.Gly-AsTrA
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/22312.mkv
+#EXTINF:-1,Gomorra.La.Serie.S02E06.Episodio.6.WebRip.720p.ITA.IGS
+http://cdn02.selling-team.net:8000/movie/49JRfRYKfp/BIOFAEXP1607/22253.mkv
 </List>

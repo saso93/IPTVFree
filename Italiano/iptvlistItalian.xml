@@ -47,10 +47,6 @@ http://lucky.lts1.net:23000/live/461311/461311/3812.ts
 http://lucky.lts1.net:23000/live/461311/461311/3814.ts
 #EXTINF:-1 ,Rai 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
-#EXTINF:-1,RSI LA 1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/854.ts
-#EXTINF:-1,RSI LA 2 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/855.ts
 #EXTINF:-1,Iris
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Iris HD

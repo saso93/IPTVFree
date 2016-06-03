@@ -1,1490 +1,2030 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <List>
 #EXTM3U
-#EXTINF:0,---SE
+#EXTINF:-1,----AR
 http://dummylink.com
-#EXTINF:0,SE: C More Series
-http://176.31.237.228:8000/live/10002/100021/1111.ts
-#EXTINF:0,SE: C More Hits
-http://176.31.237.228:8000/live/10002/100021/1107.ts
-#EXTINF:0,SE: C More First
-http://176.31.237.228:8000/live/10002/100021/1108.ts
-#EXTINF:0,SE: C More Action
-http://176.31.237.228:8000/live/10002/100021/1110.ts
-#EXTINF:0,SE: C More Emotion
-http://176.31.237.228:8000/live/10002/100021/1117.ts
-#EXTINF:0,SE: C More Tennis
-http://176.31.237.228:8000/live/10002/100021/1116.ts
-#EXTINF:0,SE: C More Sport
-http://176.31.237.228:8000/live/10002/100021/1093.ts
-#EXTINF:0,SE: C More Live
-http://176.31.237.228:8000/live/10002/100021/1106.ts
-#EXTINF:0,SE: C More Live 3
-http://176.31.237.228:8000/live/10002/100021/1090.ts
-#EXTINF:0,SE: C More Live 4
-http://176.31.237.228:8000/live/10002/100021/1091.ts
-#EXTINF:0,SE: Viasat Sport
-http://176.31.237.228:8000/live/10002/100021/1126.ts
-#EXTINF:0,SE: Viasat Fotboll
-http://176.31.237.228:8000/live/10002/100021/1124.ts
-#EXTINF:0,SE: Viasat Motor
-http://176.31.237.228:8000/live/10002/100021/1129.ts
-#EXTINF:0,SE: Viasat Hockey
-http://176.31.237.228:8000/live/10002/100021/1128.ts
-#EXTINF:0,SE: Viasat History
-http://176.31.237.228:8000/live/10002/100021/1102.ts
-#EXTINF:0,SE: Viasat Golf
-http://176.31.237.228:8000/live/10002/100021/1132.ts
-#EXTINF:0,SE: Viasat Action
-http://176.31.237.228:8000/live/10002/100021/1092.ts
-#EXTINF:0,SE: Viasat Film
-http://176.31.237.228:8000/live/10002/100021/1121.ts
-#EXTINF:0,SE: Viasat Film Hits
-http://176.31.237.228:8000/live/10002/100021/1094.ts
-#EXTINF:0,SE: Viasat Family
-http://176.31.237.228:8000/live/10002/100021/1125.ts
-#EXTINF:0,SE: Viasat Series
-http://176.31.237.228:8000/live/10002/100021/1123.ts
-#EXTINF:0,SE: Viasat Comady
-http://176.31.237.228:8000/live/10002/100021/1122.ts
-#EXTINF:0,SE: Viasat Crime
-http://176.31.237.228:8000/live/10002/100021/1133.ts
-#EXTINF:0,SE: Viasat Nickoldian
-http://176.31.237.228:8000/live/10002/100021/1127.ts
-#EXTINF:0,SE: Viasat Cartoonnet
-http://176.31.237.228:8000/live/10002/100021/1101.ts
-#EXTINF:0,SE: Viasat E!
-http://176.31.237.228:8000/live/10002/100021/1131.ts
-#EXTINF:0,SE: Kunskapskanalen
-http://176.31.237.228:8000/live/10002/100021/1104.ts
-#EXTINF:0,SE: SF-Kanalen
-http://176.31.237.228:8000/live/10002/100021/1073.ts
-#EXTINF:0,SE: SVT24/B
-http://176.31.237.228:8000/live/10002/100021/1113.ts
-#EXTINF:0,SE: Svt 1
-http://176.31.237.228:8000/live/10002/100021/1118.ts
-#EXTINF:0,SE: Svt 2
-http://176.31.237.228:8000/live/10002/100021/1114.ts
-#EXTINF:0,SE: TV 3 Sweden
-http://176.31.237.228:8000/live/10002/100021/1074.ts
-#EXTINF:0,SE: TV 4 Sport
-http://176.31.237.228:8000/live/10002/100021/1115.ts
-#EXTINF:0,https://iptv.zone/en SE: TV 4 Film
-http://176.31.237.228:8000/live/10002/100021/1112.ts
-#EXTINF:0,SE: TV 4 Komedi
-http://176.31.237.228:8000/live/10002/100021/1089.ts
-#EXTINF:0,SE: TV 4 Gold
-http://176.31.237.228:8000/live/10002/100021/1097.ts
-#EXTINF:0,SE: TV 4 Fakta
-http://176.31.237.228:8000/live/10002/100021/1086.ts
-#EXTINF:0,SE: TV 4 Sweden
-http://176.31.237.228:8000/live/10002/100021/1096.ts
-#EXTINF:0,SE: Kanal 5
-http://176.31.237.228:8000/live/10002/100021/1100.ts
-#EXTINF:0,SE: TV 6
-http://176.31.237.228:8000/live/10002/100021/1130.ts
-#EXTINF:0,SE: Sjuan
-http://176.31.237.228:8000/live/10002/100021/1103.ts
-#EXTINF:0,SE: TV 8
-http://176.31.237.228:8000/live/10002/100021/1098.ts
-#EXTINF:0,SE: Kanal 9
-http://176.31.237.228:8000/live/10002/100021/1119.ts
-#EXTINF:0,SE: TV 10
-http://176.31.237.228:8000/live/10002/100021/1087.ts
-#EXTINF:0,SE: Kanal 11
-http://176.31.237.228:8000/live/10002/100021/1099.ts
-#EXTINF:0,SE: TV 12
-http://176.31.237.228:8000/live/10002/100021/1095.ts
-#EXTINF:0,SE: Disney
-http://176.31.237.228:8000/live/10002/100021/1088.ts
-#EXTINF:0,SE: Disney xd
-http://176.31.237.228:8000/live/10002/100021/1109.ts
-#EXTINF:0,SE: Boomerang
-http://176.31.237.228:8000/live/10002/100021/1085.ts
-#EXTINF:0,SE: Discovery
-http://176.31.237.228:8000/live/10002/100021/1083.ts
-#EXTINF:0,SE: Discovery Investigation
-http://176.31.237.228:8000/live/10002/100021/1105.ts
-#EXTINF:0,SE: National Geographic
-http://176.31.237.228:8000/live/10002/100021/1079.ts
-#EXTINF:0,SE: TCM Se
-http://176.31.237.228:8000/live/10002/100021/1080.ts
-#EXTINF:0,SE: MTV Se
-http://176.31.237.228:8000/live/10002/100021/1120.ts
-#EXTINF:0,SE: Fox Se
-http://176.31.237.228:8000/live/10002/100021/1078.ts
-#EXTINF:0,SE: TNT Se
-http://176.31.237.228:8000/live/10002/100021/1075.ts
-#EXTINF:0,SE: Comedy Central
-http://176.31.237.228:8000/live/10002/100021/1082.ts
-#EXTINF:0,SE: TLC Sverige
-http://176.31.237.228:8000/live/10002/100021/1084.ts
-#EXTINF:0,SE: TV3 Sport 1
-http://176.31.237.228:8000/live/10002/100021/1077.ts
-#EXTINF:0,SE: TV3 Sport 2
-http://176.31.237.228:8000/live/10002/100021/1076.ts
-#EXTINF:-1,---RO
+#EXTINF:-1,AR: OSN StAR: World
+http://hyper.de1-eu.com:8000/live/aria/aria/3778.ts
+#EXTINF:-1,AR: OSN On Demand
+http://hyper.de1-eu.com:8000/live/aria/aria/3779.ts
+#EXTINF:-1,AR: OSN Movies stAR: HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3780.ts
+#EXTINF:-1,AR: OSN Movies Kids
+http://hyper.de1-eu.com:8000/live/aria/aria/3781.ts
+#EXTINF:-1,AR: OSN Movies First More HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3782.ts
+#EXTINF:-1,AR: OSN Movies Festival
+http://hyper.de1-eu.com:8000/live/aria/aria/3783.ts
+#EXTINF:-1,AR: OSN Movies Drama HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3784.ts
+#EXTINF:-1,AR: OSN Movies Box Office 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3786.ts
+#EXTINF:-1,AR: OSN Movies Box Office 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3785.ts
+#EXTINF:-1,AR: OSN Movie Premiere
+http://hyper.de1-eu.com:8000/live/aria/aria/3787.ts
+#EXTINF:-1,AR: OSN MOVIE ACTION 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3789.ts
+#EXTINF:-1,AR: OSN MOVIE ACTION
+http://hyper.de1-eu.com:8000/live/aria/aria/3788.ts
+#EXTINF:-1,AR: OSN MOVIE
+http://hyper.de1-eu.com:8000/live/aria/aria/3790.ts
+#EXTINF:-1,AR: OSN First HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3793.ts
+#EXTINF:-1,----IRAN
 http://dummylink.com
-#EXTINF:0, A Casa Gold
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5726.ts
-#EXTINF:0,B1 TV
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5725.ts
-#EXTINF:0,Casa Mia
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5724.ts
-#EXTINF:0,Digi 24 HD
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5723.ts
-#EXTINF:0,Digi Animal World
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5722.ts
-#EXTINF:0,Digi Life
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5721.ts
-#EXTINF:0,Digi Sport 1 HD
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5720.ts
-#EXTINF:0,Digi Sport 2 HD
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5719.ts
-#EXTINF:0,Digi Sport 3 HD
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5718.ts
-#EXTINF:0,Digi Sport 4 HD
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5717.ts
-#EXTINF:0,Digi World
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5716.ts
-#EXTINF:0,Disney Junior
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5715.ts
-#EXTINF:0,Eurosport 2
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5714.ts
-#EXTINF:0,HBO 3
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5713.ts
-#EXTINF:0,Kanal D
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5712.ts
-#EXTINF:0,Megamax
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5711.ts
-#EXTINF:0,Minimax
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5710.ts
-#EXTINF:0,Music Channel
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5709.ts
-#EXTINF:0,National Geo Wild
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5708.ts
-#EXTINF:0,National Geographic
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5707.ts
-#EXTINF:0,Nickelodeon
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5706.ts
-#EXTINF:0,Pro TV Chisinau
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5705.ts
-#EXTINF:0,ProTV News
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5704.ts
-#EXTINF:0,Realitatea TV
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5703.ts
-#EXTINF:0,Romania TV
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5702.ts
-#EXTINF:0,Travel Channel
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5701.ts
-#EXTINF:0,TV 1000
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5700.ts
-#EXTINF:0,TVR 1
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5699.ts
-#EXTINF:0,TVR 2
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5698.ts
-#EXTINF:0,Viasat Explorer
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5697.ts
-#EXTINF:0,Viasat Nature
-http://iptv.iptvthebest.net:15000/live/supertes79@gmail.com/v312d8IqOe/5696.ts
-#EXTINF:-1,----AR----
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/977.ts
-#EXTINF:-1,AR: BEIN SPORTS 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/338.ts
-#EXTINF:-1,AR: BEIN SPORTS 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/337.ts
-#EXTINF:-1,AR: BEIN SPORTS 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/333.ts
-#EXTINF:-1,AR: BEIN SPORTS 3 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/332.ts
-#EXTINF:-1,AR: BEIN SPORTS 4 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/331.ts
-#EXTINF:-1,AR: BEIN SPORTS 5 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/330.ts
-#EXTINF:-1,AR: BEIN SPORTS 6 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/329.ts
-#EXTINF:-1,AR: BEIN SPORTS 7 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/328.ts
-#EXTINF:-1,AR: BEIN SPORTS 8 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/327.ts
-#EXTINF:-1,AR: BEIN SPORTS 9 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/326.ts
-#EXTINF:-1,AR: BEIN SPORTS 10 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/336.ts
-#EXTINF:-1,AR: Bein Sports 11 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/335.ts
-#EXTINF:-1,AR: Bein Sports 12 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/334.ts
-#EXTINF:-1,----FR----
+#EXTINF:-1,IRAN : PMC
+http://hyper.de1-eu.com:8000/live/aria/aria/2550.ts
+#EXTINF:-1,IRAN :GEM TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2536.ts
+#EXTINF:-1,IRAN :MIFA
+http://hyper.de1-eu.com:8000/live/aria/aria/2525.ts
+#EXTINF:-1,IRAN :Onyx
+http://hyper.de1-eu.com:8000/live/aria/aria/2521.ts
+#EXTINF:-1,IRAN :RIVER
+http://hyper.de1-eu.com:8000/live/aria/aria/2518.ts
+#EXTINF:-1,IRAN :RUBIX
+http://hyper.de1-eu.com:8000/live/aria/aria/2517.ts
+#EXTINF:-1,IRAN: bbc persian
+http://hyper.de1-eu.com:8000/live/aria/aria/2514.ts
+#EXTINF:-1,IRAN: VOA Persian
+http://hyper.de1-eu.com:8000/live/aria/aria/2497.ts
+#EXTINF:-1,IRAN: Farsi1
+http://hyper.de1-eu.com:8000/live/aria/aria/2609.ts
+#EXTINF:-1,IRAN: IRINN
+http://hyper.de1-eu.com:8000/live/aria/aria/2617.ts
+#EXTINF:-1,IRAN: IRIB VARZESH
+http://hyper.de1-eu.com:8000/live/aria/aria/2616.ts
+#EXTINF:-1,IRAN: IRIB TV5
+http://hyper.de1-eu.com:8000/live/aria/aria/2615.ts
+#EXTINF:-1,IRAN: IRIB TV4
+http://hyper.de1-eu.com:8000/live/aria/aria/2614.ts
+#EXTINF:-1,IRAN: IRIB TV3
+http://hyper.de1-eu.com:8000/live/aria/aria/2613.ts
+#EXTINF:-1,IRAN: IRIB TV2
+http://hyper.de1-eu.com:8000/live/aria/aria/2612.ts
+#EXTINF:-1,IRAN: IRIB TV1
+http://hyper.de1-eu.com:8000/live/aria/aria/2611.ts
+#EXTINF:-1,IRAN: IRIB SHOMA
+http://hyper.de1-eu.com:8000/live/aria/aria/2623.ts
+#EXTINF:-1,IRAN: IRIB SALAMAT
+http://hyper.de1-eu.com:8000/live/aria/aria/2624.ts
+#EXTINF:-1,IRAN: IRIB pouya
+http://hyper.de1-eu.com:8000/live/aria/aria/2626.ts
+#EXTINF:-1,IRAN: IRIB NASIM
+http://hyper.de1-eu.com:8000/live/aria/aria/2625.ts
+#EXTINF:-1,IRAN: IRIB NAMAYESH
+http://hyper.de1-eu.com:8000/live/aria/aria/2628.ts
+#EXTINF:-1,IRAN: IRIB MOSTANAD
+http://hyper.de1-eu.com:8000/live/aria/aria/2620.ts
+#EXTINF:-1,IRAN: IRIB FILM
+http://hyper.de1-eu.com:8000/live/aria/aria/2619.ts
+#EXTINF:-1,IRAN: IRIB BAZAR
+http://hyper.de1-eu.com:8000/live/aria/aria/2622.ts
+#EXTINF:-1,IRAN: IRIB AMOZESH
+http://hyper.de1-eu.com:8000/live/aria/aria/2621.ts
+#EXTINF:-1,Iran: Tv Persia
+http://hyper.de1-eu.com:8000/live/aria/aria/3750.ts
+#EXTINF:-1,Iran: Persian Movies
+http://hyper.de1-eu.com:8000/live/aria/aria/3749.ts
+#EXTINF:-1,Iran: Pars TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3753.ts
+#EXTINF:-1,Iran: Nex1
+http://hyper.de1-eu.com:8000/live/aria/aria/3748.ts
+#EXTINF:-1,Iran: Mytv
+http://hyper.de1-eu.com:8000/live/aria/aria/3757.ts
+#EXTINF:-1,Iran: MTC
+http://hyper.de1-eu.com:8000/live/aria/aria/3745.ts
+#EXTINF:-1,Iran: Manoto 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3765.ts
+#EXTINF:-1,Iran: ITN
+http://hyper.de1-eu.com:8000/live/aria/aria/3744.ts
+#EXTINF:-1,Iran: ITC
+http://hyper.de1-eu.com:8000/live/aria/aria/3762.ts
+#EXTINF:-1,Iran: Iran Plus
+http://hyper.de1-eu.com:8000/live/aria/aria/3751.ts
+#EXTINF:-1,Iran: ICC
+http://hyper.de1-eu.com:8000/live/aria/aria/3752.ts
+#EXTINF:-1,Iran: GEM USA
+http://hyper.de1-eu.com:8000/live/aria/aria/3759.ts
+#EXTINF:-1,Iran: GEM Life
+http://hyper.de1-eu.com:8000/live/aria/aria/3758.ts
+#EXTINF:-1,Iran: GEM Jonior
+http://hyper.de1-eu.com:8000/live/aria/aria/3756.ts
+#EXTINF:-1,Iran: GEM Bollywood
+http://hyper.de1-eu.com:8000/live/aria/aria/3755.ts
+#EXTINF:-1,Iran: Face2
+http://hyper.de1-eu.com:8000/live/aria/aria/3764.ts
+#EXTINF:-1,Iran: Andisheh TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3754.ts
+#EXTINF:-1,Iran: AAA Film
+http://hyper.de1-eu.com:8000/live/aria/aria/3747.ts
+#EXTINF:-1,1Mb_UK: SKY MOVIES SHOWCASE
+http://hyper.de1-eu.com:8000/live/aria/aria/3634.ts
+#EXTINF:-1,1Mb_UK: SKY MOVIES SELECT
+http://hyper.de1-eu.com:8000/live/aria/aria/3635.ts
+#EXTINF:-1,1Mb_UK: SKY MOVIES SCI-FI  HORROR
+http://hyper.de1-eu.com:8000/live/aria/aria/3637.ts
+#EXTINF:-1,1Mb_UK: SKY MOVIES PREMIER
+http://hyper.de1-eu.com:8000/live/aria/aria/3638.ts
+#EXTINF:-1,1Mb_UK: SKY MOVIES MODERN GREATS
+http://hyper.de1-eu.com:8000/live/aria/aria/3639.ts
+#EXTINF:-1,1Mb_UK: SKY MOVIES FAMILY
+http://hyper.de1-eu.com:8000/live/aria/aria/3640.ts
+#EXTINF:-1,1Mb_UK: SKY MOVIES DRAMA  ROMANCE
+http://hyper.de1-eu.com:8000/live/aria/aria/3642.ts
+#EXTINF:-1,1Mb_UK: SKY MOVIES DISNEY
+http://hyper.de1-eu.com:8000/live/aria/aria/3643.ts
+#EXTINF:-1,1Mb_UK: SKY MOVIES CRIME  THRILLER
+http://hyper.de1-eu.com:8000/live/aria/aria/3644.ts
+#EXTINF:-1,1Mb_UK: SKY MOVIES COMEDY
+http://hyper.de1-eu.com:8000/live/aria/aria/3645.ts
+#EXTINF:-1,1Mb_UK: SKY MOVIES ACTION  ADVENTURE
+http://hyper.de1-eu.com:8000/live/aria/aria/3646.ts
+#EXTINF:-1,1Mb_UK: MTV ROCKS
+http://hyper.de1-eu.com:8000/live/aria/aria/3647.ts
+#EXTINF:-1,1Mb_UK: MTV MUSIC
+http://hyper.de1-eu.com:8000/live/aria/aria/3648.ts
+#EXTINF:-1,1Mb_UK: MTV HITS
+http://hyper.de1-eu.com:8000/live/aria/aria/3649.ts
+#EXTINF:-1,1Mb_UK: MTV DANCE
+http://hyper.de1-eu.com:8000/live/aria/aria/3650.ts
+#EXTINF:-1,1Mb_UK: MTV Base
+http://hyper.de1-eu.com:8000/live/aria/aria/3652.ts
+#EXTINF:-1,1Mb_UK: MTV
+http://hyper.de1-eu.com:8000/live/aria/aria/3653.ts
+#EXTINF:-1,1Mb_SPORT: Sky Sports 5
+http://hyper.de1-eu.com:8000/live/aria/aria/3627.ts
+#EXTINF:-1,1Mb_SPORT: Sky Sports 4
+http://hyper.de1-eu.com:8000/live/aria/aria/3628.ts
+#EXTINF:-1,1Mb_SPORT: Sky Sports 3
+http://hyper.de1-eu.com:8000/live/aria/aria/3629.ts
+#EXTINF:-1,1Mb_SPORT: Sky Sports 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3630.ts
+#EXTINF:-1,1Mb_SPORT: Sky Sports 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3631.ts
+#EXTINF:-1,1Mb_SPORT: Sky Bundesliga HD 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3632.ts
+#EXTINF:-1,1Mb_SPORT: CTH Stadium 6 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3619.ts
+#EXTINF:-1,1Mb_SPORT: CTH Stadium 5 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3620.ts
+#EXTINF:-1,1Mb_SPORT: CTH Stadium 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3621.ts
+#EXTINF:-1,1Mb_SPORT: CTH Stadium 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3622.ts
+#EXTINF:-1,1Mb_SPORT: CTH Stadium 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3623.ts
+#EXTINF:-1,1Mb_SPORT: CTH Stadium 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3624.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 9
+http://hyper.de1-eu.com:8000/live/aria/aria/3615.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 8
+http://hyper.de1-eu.com:8000/live/aria/aria/3614.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 7
+http://hyper.de1-eu.com:8000/live/aria/aria/3613.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 6
+http://hyper.de1-eu.com:8000/live/aria/aria/3612.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 5
+http://hyper.de1-eu.com:8000/live/aria/aria/3611.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 4
+http://hyper.de1-eu.com:8000/live/aria/aria/3610.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 3 FR
+http://hyper.de1-eu.com:8000/live/aria/aria/3606.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 3
+http://hyper.de1-eu.com:8000/live/aria/aria/3609.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 2 FR
+http://hyper.de1-eu.com:8000/live/aria/aria/3605.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3608.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 12
+http://hyper.de1-eu.com:8000/live/aria/aria/3618.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 11
+http://hyper.de1-eu.com:8000/live/aria/aria/3617.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 10
+http://hyper.de1-eu.com:8000/live/aria/aria/3616.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 1 FR
+http://hyper.de1-eu.com:8000/live/aria/aria/3604.ts
+#EXTINF:-1,1Mb_SPORT: BEINSPORTS 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3607.ts
+#EXTINF:-1,1Mb_IT: Sky Sport 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3654.ts
+#EXTINF:-1,1Mb_IT: Sky Sport 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3656.ts
+#EXTINF:-1,1Mb_IT: Sky Sport 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3657.ts
+#EXTINF:-1,1Mb_IT: Fox Sports HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3661.ts
+#EXTINF:-1,1Mb_DE: Sky Sport 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3662.ts
+#EXTINF:-1,1Mb_DE: Sky Sport 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3663.ts
+#EXTINF:-1,----BEIN SPORTS
 http://dummylink.com
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/580.ts
-#EXTINF:-1,FR: Bein Sports 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/579.ts
-#EXTINF:-1,FR: BEIN SPORTS 3 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/578.ts
-#EXTINF:-1,FR: Bein Sports MAX 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/577.ts
-#EXTINF:-1,FR: Bein Sports MAX 5
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/576.ts
-#EXTINF:-1,FR: Bein Sports MAX 6
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/575.ts
-#EXTINF:-1,FR: Bein Sports MAX 7
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/574.ts
-#EXTINF:-1,FR: Bein Sports MAX 8
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/573.ts
-#EXTINF:-1,PL: TVP SPORT
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/582.ts
-#EXTINF:-1,FR: EQUIPE21
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/568.ts
-#EXTINF:-1,FR: Kombat Sport
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/569.ts
-#EXTINF:-1,FR: AB MOTEURS
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/581.ts
-#EXTINF:-1,FR: Infosport
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/570.ts
-#EXTINF:-1,FR: Chasse-Peche
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/571.ts
-#EXTINF:-1,FR: CANAL  SPORT HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/572.ts
-#EXTINF:-1,----VIASAT----
+#EXTINF:-1,SPORT: BEINSPORTS 1 FR
+http://hyper.de1-eu.com:8000/live/aria/aria/2893.ts
+#EXTINF:-1,SPORT: BEINSPORTS 2 FR
+http://hyper.de1-eu.com:8000/live/aria/aria/2891.ts
+#EXTINF:-1,SPORT: BEINSPORTS 3 FR
+http://hyper.de1-eu.com:8000/live/aria/aria/2889.ts
+#EXTINF:-1,SPORT: BEINSPORTS 1
+http://hyper.de1-eu.com:8000/live/aria/aria/2894.ts
+#EXTINF:-1,SPORT: BEINSPORTS 2
+http://hyper.de1-eu.com:8000/live/aria/aria/2892.ts
+#EXTINF:-1,SPORT: BEINSPORTS 3
+http://hyper.de1-eu.com:8000/live/aria/aria/2890.ts
+#EXTINF:-1,SPORT: BEINSPORTS 4
+http://hyper.de1-eu.com:8000/live/aria/aria/2888.ts
+#EXTINF:-1,SPORT: BEINSPORTS 5
+http://hyper.de1-eu.com:8000/live/aria/aria/2887.ts
+#EXTINF:-1,SPORT: BEINSPORTS 6
+http://hyper.de1-eu.com:8000/live/aria/aria/2886.ts
+#EXTINF:-1,SPORT: BEINSPORTS 7
+http://hyper.de1-eu.com:8000/live/aria/aria/2885.ts
+#EXTINF:-1,SPORT: BEINSPORTS 8
+http://hyper.de1-eu.com:8000/live/aria/aria/2884.ts
+#EXTINF:-1,SPORT: BEINSPORTS 9
+http://hyper.de1-eu.com:8000/live/aria/aria/2883.ts
+#EXTINF:-1,SPORT: BEINSPORTS 10
+http://hyper.de1-eu.com:8000/live/aria/aria/2882.ts
+#EXTINF:-1,SPORT: BEINSPORTS 11
+http://hyper.de1-eu.com:8000/live/aria/aria/2881.ts
+#EXTINF:-1,SPORT: BEINSPORTS 12
+http://hyper.de1-eu.com:8000/live/aria/aria/2880.ts
+#EXTINF:-1,SPORT: CTH Stadium 6 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2874.ts
+#EXTINF:-1,SPORT: CTH Stadium 5 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2875.ts
+#EXTINF:-1,SPORT: CTH Stadium 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2876.ts
+#EXTINF:-1,SPORT: CTH Stadium 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2877.ts
+#EXTINF:-1,SPORT: CTH Stadium 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2878.ts
+#EXTINF:-1,SPORT: CTH Stadium 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2879.ts
+#EXTINF:-1,SPORT: Super Sport 4
+http://hyper.de1-eu.com:8000/live/aria/aria/2848.ts
+#EXTINF:-1,SPORT: Super Sport 3
+http://hyper.de1-eu.com:8000/live/aria/aria/2849.ts
+#EXTINF:-1,SPORT: Super Sport 2
+http://hyper.de1-eu.com:8000/live/aria/aria/2850.ts
+#EXTINF:-1,SPORT: Super Sport 1
+http://hyper.de1-eu.com:8000/live/aria/aria/2851.ts
+#EXTINF:-1,SPORT: Sport Klub 3
+http://hyper.de1-eu.com:8000/live/aria/aria/2857.ts
+#EXTINF:-1,SPORT: Sport Klub 2
+http://hyper.de1-eu.com:8000/live/aria/aria/2858.ts
+#EXTINF:-1,SPORT: Sport Klub 1
+http://hyper.de1-eu.com:8000/live/aria/aria/2859.ts
+#EXTINF:-1,----UK
 http://dummylink.com
-#EXTINF:-1,VIASAT: VIASAT Sport
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/966.ts
-#EXTINF:-1,VIASAT: Viasat Fotball
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/967.ts
-#EXTINF:-1,VIASAT: TV3 Sport 2 DK
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/968.ts
-#EXTINF:-1,VIASAT: TV3 Sport 1 DK
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/969.ts
-#EXTINF:-1,VIASAT: TV2 SportKanalen
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/970.ts
-#EXTINF:-1,VIASAT: MTV3 MAX Sport 2(FINLAND)
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/971.ts
-#EXTINF:-1,VIASAT: C MORE Sport
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/972.ts
-#EXTINF:-1,Viasat Sport
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/973.ts
-#EXTINF:-1,----USA----
-http://dummylink.com
-#EXTINF:-1,USA: Astro SUPERSPORT 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/805.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/804.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/803.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/802.ts
-#EXTINF:-1,USA: Fox Sports 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/801.ts
-#EXTINF:-1,USA: Fox Sports 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/800.ts
-#EXTINF:-1,USA: NBA US HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/799.ts
-#EXTINF:-1,USA: SPPN
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/798.ts
-#EXTINF:-1,USA: SPPN 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/797.ts
-#EXTINF:-1,USA: TSN 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/796.ts
-#EXTINF:-1,USA: TSN 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/795.ts
-#EXTINF:-1,USA: TSN 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/794.ts
-#EXTINF:-1,----TR---
-http://dummylink.com
-#EXTINF:-1,TR: SPORTS TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/956.ts
-#EXTINF:-1,TR: SALON 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/957.ts
-#EXTINF:-1,TR: SALON 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/958.ts
-#EXTINF:-1,TR: SALON 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/959.ts
-#EXTINF:-1,TR: LOCA 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/960.ts
-#EXTINF:-1,TR: LOCA 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/961.ts
-#EXTINF:-1,TR: LOCA 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/962.ts
-#EXTINF:-1,TR: LIG TV HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/963.ts
-#EXTINF:-1,TR: LIG TV 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/964.ts
-#EXTINF:-1,TR: LIG TV 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/965.ts
-#EXTINF:-1,----PT----
-http://dummylink.com
-#EXTINF:-1,PT: Sporting TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/692.ts
-#EXTINF:-1,PT: SPORT.TV 5
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/693.ts
-#EXTINF:-1,PT: SPORT.TV 4 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/694.ts
-#EXTINF:-1,PT: SPORT.TV 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/695.ts
-#EXTINF:-1,PT: SPORT.TV 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/696.ts
-#EXTINF:-1,PT: SPORT.TV 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/697.ts
-#EXTINF:-1,PT: SPORT.TV 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/698.ts
-#EXTINF:-1,PT: SPORT.TV 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/699.ts
-#EXTINF:-1,PT: Sport TV AMERICA
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/700.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/701.ts
-#EXTINF:-1,PT: REAL MADRID TV HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/702.ts
-#EXTINF:-1,PT: REAL MADRID
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/703.ts
-#EXTINF:-1,PT: MOTORVISION
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/704.ts
-#EXTINF:-1,PT: MOTORS TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/705.ts
-#EXTINF:-1,PT: CHELSEA TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/706.ts
-#EXTINF:-1,PT: CHEF TV SP
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/707.ts
-#EXTINF:-1,PT: BARCELONA TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/708.ts
-#EXTINF:-1,PT: BARCA TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/709.ts
-#EXTINF:-1,PT: AMC
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/710.ts
-#EXTINF:-1,---- EX YU----
-http://dummylink.com
-#EXTINF:-1,EX YU: Sportska TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/554.ts
-#EXTINF:-1,EX YU: SPORT KLUB 3 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/555.ts
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/556.ts
-#EXTINF:-1,EX YU: SPORT KLUB 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/557.ts
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/558.ts
-#EXTINF:-1,EX YU: Sport Klub 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/559.ts
-#EXTINF:-1,EX YU: SPORT KLUB 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/560.ts
-#EXTINF:-1,EX YU: ARENA Sport 5 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/561.ts
-#EXTINF:-1,EX YU: Arena Sport 4 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/562.ts
-#EXTINF:-1,EX YU: Arena Sport 3 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/563.ts
-#EXTINF:-1,EX YU: ARENA SPORT 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/564.ts
-#EXTINF:-1,EX YU: Arena Sport 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/565.ts
-#EXTINF:-1,EX YU: ARENA SPORT 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/566.ts
-#EXTINF:-1,EX YU: ARENA SPORT 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/567.ts
-#EXTINF:-1,---- ALB----
-http://dummylink.com
-#EXTINF:-1,ALB: TRING SPORT NEWS HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/339.ts
-#EXTINF:-1,ALB: Tring Sport 4 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/340.ts
-#EXTINF:-1,ALB: Tring Sport 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/341.ts
-#EXTINF:-1,ALB: Tring Sport 3 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/342.ts
-#EXTINF:-1,ALB: Tring Sport 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/343.ts
-#EXTINF:-1,ALB: Tring Sport 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/344.ts
-#EXTINF:-1,ALB: Tring Sport 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/345.ts
-#EXTINF:-1,ALB: Tring Sport 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/346.ts
-#EXTINF:-1,ALB: Tring Sport 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/347.ts
-#EXTINF:-1,ALB: Super Sport Kosova 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/348.ts
-#EXTINF:-1,ALB: Super Sport Kosova 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/349.ts
-#EXTINF:-1,ALB: Super Sport 5 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/350.ts
-#EXTINF:-1,ALB: Super Sport 4 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/351.ts
-#EXTINF:-1,ALB: Super Sport 3 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/352.ts
-#EXTINF:-1,ALB: Super Sport 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/353.ts
-#EXTINF:-1,ALB: Super Sport 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/354.ts
-#EXTINF:-1,ALB: SS Kosova 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/355.ts
-#EXTINF:-1,ALB: SS Kosova 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/356.ts
-#EXTINF:-1,ALB: Sport News HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/357.ts
-#EXTINF:-1,ALB: K Sport 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/358.ts
-#EXTINF:-1,ALB: K Sport 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/359.ts
-#EXTINF:-1,ALB: K Sport 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/360.ts
-#EXTINF:-1,ALB: K Sport 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/361.ts
-#EXTINF:-1,----NL----
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/978.ts
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/583.ts
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/584.ts
-#EXTINF:-1,NL: Ziggo Sport Racing
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/585.ts
-#EXTINF:-1,NL: Ziggo Sport Golf
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/586.ts
-#EXTINF:-1,NL: Ziggo Sport Extra2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/587.ts
-#EXTINF:-1,NL: Ziggo Sport Extra1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/588.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/589.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/590.ts
-#EXTINF:-1,NL: Ziggo Sport
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/591.ts
-#EXTINF:-1,NL: Veronica/DisneyXD HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/592.ts
-#EXTINF:-1,NL: Veronica
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/593.ts
-#EXTINF:-1,NL: TV Oost
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/594.ts
-#EXTINF:-1,NL: TV 538
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/595.ts
-#EXTINF:-1,NL: TLC
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/596.ts
-#EXTINF:-1,NL: SyFy
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/597.ts
-#EXTINF:-1,NL: Sport 1 Voetbal
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/598.ts
-#EXTINF:-1,NL: Sport 1 Tennis
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/599.ts
-#EXTINF:-1,NL: Sport 1 Select
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/600.ts
-#EXTINF:-1,NL: Sport 1 Racing
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/601.ts
-#EXTINF:-1,NL: Sport 1 Golf
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/602.ts
-#EXTINF:-1,NL: Slam
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/603.ts
-#EXTINF:-1,NL: SBS 9
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/604.ts
-#EXTINF:-1,NL: SBS 6
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/605.ts
-#EXTINF:-1,NL: RTV Drenthe
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/606.ts
-#EXTINF:-1,NL: RTL Z
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/607.ts
-#EXTINF:-1,NL: RTL Telekids
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/608.ts
-#EXTINF:-1,NL: RTL NLunge
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/609.ts
-#EXTINF:-1,NL: RTL Crime
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/610.ts
-#EXTINF:-1,NL: RTL 8 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/611.ts
-#EXTINF:-1,NL: RTL 7 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/613.ts
-#EXTINF:-1,NL: RTL 5 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/615.ts
-#EXTINF:-1,NL: RTL 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/617.ts
-#EXTINF:-1,NL: Reality Kings
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/618.ts
-#EXTINF:-1,NL: OMROEP ZEELAND
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/619.ts
-#EXTINF:-1,NL: NPO Zapp Xtra/NPO Humor TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/620.ts
-#EXTINF:-1,NL: NPO Zapp Xtra
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/621.ts
-#EXTINF:-1,NL: NPO Politiek/NPO Best
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/622.ts
-#EXTINF:-1,NL: NPO DOC
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/623.ts
-#EXTINF:-1,NL: NPO 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/624.ts
-#EXTINF:-1,NL: NPO 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/625.ts
-#EXTINF:-1,NL: NPO 101
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/626.ts
-#EXTINF:-1,NL: NPO 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/627.ts
-#EXTINF:-1,NL: Nicktoons
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/628.ts
-#EXTINF:-1,NL: Nickelodeon
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/629.ts
-#EXTINF:-1,NL: Nick Jr
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/630.ts
-#EXTINF:-1,NL: NGC
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/631.ts
-#EXTINF:-1,NL: NET 5
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/632.ts
-#EXTINF:-1,NL: National Geographic Wild
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/633.ts
-#EXTINF:-1,NL: National Geographic Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/634.ts
-#EXTINF:-1,NL: NATIONAL GEOGRAPHIC
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/635.ts
-#EXTINF:-1,NL: MvH Hard
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/636.ts
-#EXTINF:-1,NL: MTV 24
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/637.ts
-#EXTINF:-1,NL: L1MBURG
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/638.ts
-#EXTINF:-1,NL: Kitchen
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/639.ts
-#EXTINF:-1,NL: Ketnet
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/640.ts
-#EXTINF:-1,NL: JimJam
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/641.ts
-#EXTINF:-1,NL: Investigation Discovery
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/642.ts
-#EXTINF:-1,NL: History HD DUT
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/643.ts
-#EXTINF:-1,NL: HISTORY
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/644.ts
-#EXTINF:-1,NL: HBO 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/645.ts
-#EXTINF:-1,NL: HBO 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/646.ts
-#EXTINF:-1,NL: HBO 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/647.ts
-#EXTINF:-1,NL: HBO
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/648.ts
-#EXTINF:-1,NL: Fox Sports 6
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/649.ts
-#EXTINF:-1,NL: Fox Sports 5
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/650.ts
-#EXTINF:-1,NL: Fox Sports 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/651.ts
-#EXTINF:-1,NL: Fox Sports 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/652.ts
-#EXTINF:-1,NL: Fox Sports 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/653.ts
-#EXTINF:-1,NL: Fox Sports 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/654.ts
-#EXTINF:-1,NL: FOX Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/655.ts
-#EXTINF:-1,NL: Fox
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/656.ts
-#EXTINF:-1,NL: Film1 SUNDANCE
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/657.ts
-#EXTINF:-1,NL: Film1 Spotlight
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/658.ts
-#EXTINF:-1,NL: Film1 Premiere
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/659.ts
-#EXTINF:-1,NL: Film1 Comedy Kids
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/660.ts
-#EXTINF:-1,NL: Film1 Action
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/661.ts
-#EXTINF:-1,NL: Film 1 Sundance
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/662.ts
-#EXTINF:-1,NL: Film 1 Spotlight
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/663.ts
-#EXTINF:-1,NL: Film 1 Premiere
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/664.ts
-#EXTINF:-1,NL: Film 1 Comedy and Kids
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/665.ts
-#EXTINF:-1,NL: Film 1 Comedy Kids
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/666.ts
-#EXTINF:-1,NL: Film 1 Action HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/667.ts
-#EXTINF:-1,NL: Film 1 Action
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/668.ts
-#EXTINF:-1,NL: Eurosport 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/669.ts
-#EXTINF:-1,NL: Een
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/670.ts
-#EXTINF:-1,NL: EDGE
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/671.ts
-#EXTINF:-1,NL: E!
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/672.ts
-#EXTINF:-1,NL: Disney Junior
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/673.ts
-#EXTINF:-1,NL: Disney Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/674.ts
-#EXTINF:-1,NL: Discovery Investigation
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/675.ts
-#EXTINF:-1,NL: DISCOVERY HISTORY
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/676.ts
-#EXTINF:-1,NL: Discovery HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/677.ts
-#EXTINF:-1,NL: Discovery Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/678.ts
-#EXTINF:-1,NL: Discovery
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/679.ts
-#EXTINF:-1,NL: CRIME  INVSPTIGATION
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/680.ts
-#EXTINF:-1,NL: Comedy Central extra
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/681.ts
-#EXTINF:-1,NL: Comedy Central
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/682.ts
-#EXTINF:-1,NL: Brava NL Klassiek
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/683.ts
-#EXTINF:-1,NL: Boomerang
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/684.ts
-#EXTINF:-1,NL: BBC Entertainment
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/685.ts
-#EXTINF:-1,NL: AT5
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/686.ts
-#EXTINF:-1,NL: Animal Planet
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/687.ts
-#EXTINF:-1,NL: 24Kitchen
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/688.ts
-#EXTINF:-1,NL: RTL 8
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/612.ts
-#EXTINF:-1,NL: RTL 7
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/614.ts
-#EXTINF:-1,NL: RTL 5
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/616.ts
-#EXTINF:-1,NL: 13th Street
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/689.ts
-#EXTINF:-1,NL: 13th
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/690.ts
-#EXTINF:-1,NL: 100% NL
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/691.ts
-#EXTINF:-1,---- SP----
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/975.ts
-#EXTINF:-1,SP: TVN Chile HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/711.ts
-#EXTINF:-1,SP: TV Galicia
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/712.ts
-#EXTINF:-1,SP: TNT
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/713.ts
-#EXTINF:-1,SP: Teleticino
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/714.ts
-#EXTINF:-1,SP: Teledeporte
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/715.ts
-#EXTINF:-1,SP: TELECINCO
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/716.ts
-#EXTINF:-1,SP: TCM
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/717.ts
-#EXTINF:-1,SP: SYFY HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/728.ts
-#EXTINF:-1,SP: SYFY
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/729.ts
-#EXTINF:-1,SP: Sport CDO HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/730.ts
-#EXTINF:-1,SP: SEVILLA FC
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/731.ts
-#EXTINF:-1,SP: Real Madrid
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/732.ts
-#EXTINF:-1,SP: Proyecto 40
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/733.ts
-#EXTINF:-1,SP: NOVA
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/734.ts
-#EXTINF:-1,SP: NICKELODEON
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/735.ts
-#EXTINF:-1,SP: NICK JUNIOR
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/736.ts
-#EXTINF:-1,SP: National Geographic Wild
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/737.ts
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC CHANNEL
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/738.ts
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/739.ts
-#EXTINF:-1,SP: NAT GEO WILD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/740.ts
-#EXTINF:-1,SP: Movies Star Moto Gp
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/741.ts
-#EXTINF:-1,SP: Movie Star F1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/742.ts
-#EXTINF:-1,SP: La Sexta HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/743.ts
-#EXTINF:-1,SP: LA 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/744.ts
-#EXTINF:-1,SP: LA 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/745.ts
-#EXTINF:-1,SP: HWD HOLLYWOOD HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/746.ts
-#EXTINF:-1,SP: HOLLYWOOD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/747.ts
-#EXTINF:-1,SP: History HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/748.ts
-#EXTINF:-1,SP: GOL TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/749.ts
-#EXTINF:-1,SP: Fox Live
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/750.ts
-#EXTINF:-1,SP: FOX HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/751.ts
-#EXTINF:-1,SP: FOX
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/752.ts
-#EXTINF:-1,SP: Fdf
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/753.ts
-#EXTINF:-1,SP: Eurosport
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/754.ts
-#EXTINF:-1,SP: Energy
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/755.ts
-#EXTINF:-1,SP: Discovery Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/756.ts
-#EXTINF:-1,SP: COMEDY CENTRAL
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/757.ts
-#EXTINF:-1,SP: CAZA Y PESCA
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/758.ts
-#EXTINF:-1,SP: CANAL XTRA HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/759.ts
-#EXTINF:-1,SP: Canal Sevilla
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/760.ts
-#EXTINF:-1,SP: Canal SERIES XTRA
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/761.ts
-#EXTINF:-1,SP: CANAL SERIES HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/762.ts
-#EXTINF:-1,SP: Canal SERIES
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/763.ts
-#EXTINF:-1,SP: CANAL ODISEA
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/764.ts
-#EXTINF:-1,SP: Canal Liga 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/765.ts
-#EXTINF:-1,SP: CANAL HOLLYWOOD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/766.ts
-#EXTINF:-1,SP: CANAL HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/767.ts
-#EXTINF:-1,SP: CANAL GOLF HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/768.ts
-#EXTINF:-1,SP: Canal DEPORTES SPAIN
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/769.ts
-#EXTINF:-1,SP: Canal Cocina
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/770.ts
-#EXTINF:-1,SP: Canal Baby
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/771.ts
-#EXTINF:-1,SP: Canal  Toros
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/772.ts
-#EXTINF:-1,SP: Canal  Series Xtra
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/773.ts
-#EXTINF:-1,SP: CANAL  LIGA HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/774.ts
-#EXTINF:-1,SP: Canal  Liga
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/775.ts
-#EXTINF:-1,SP: Canal  GOLF
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/776.ts
-#EXTINF:-1,SP: CANAL  FUTBOL HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/777.ts
-#EXTINF:-1,SP: Canal  Futbol
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/778.ts
-#EXTINF:-1,SP: Canal  Estrenos
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/779.ts
-#EXTINF:-1,SP: Canal  Deportes
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/780.ts
-#EXTINF:-1,SP: CANAL  DCINE HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/781.ts
-#EXTINF:-1,SP: Canal  Dcine
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/782.ts
-#EXTINF:-1,SP: Canal  Comedia
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/783.ts
-#EXTINF:-1,SP: CANAL  ACCION HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/784.ts
-#EXTINF:-1,SP: CANAL  1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/785.ts
-#EXTINF:-1,SP: Canal   Estrenos
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/786.ts
-#EXTINF:-1,SP: CALLE 13
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/787.ts
-#EXTINF:-1,SP: Barca TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/788.ts
-#EXTINF:-1,SP: AXN WHITE
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/789.ts
-#EXTINF:-1,SP: AXN HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/790.ts
-#EXTINF:-1,SP: AXN
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/791.ts
-#EXTINF:-1,SP: ANTENNA 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/792.ts
-#EXTINF:-1,SP: Andalucia TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/793.ts
-#EXTINF:-1,SP: Taquilla 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/727.ts
-#EXTINF:-1,SP: Taquilla 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/725.ts
-#EXTINF:-1,SP: Taquilla 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/724.ts
-#EXTINF:-1,SP: Taquilla 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/723.ts
-#EXTINF:-1,SP: Taquilla 5
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/722.ts
-#EXTINF:-1,SP: Taquilla 6
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/721.ts
-#EXTINF:-1,SP: Taquilla 7
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/720.ts
-#EXTINF:-1,SP: Taquilla 8
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/719.ts
-#EXTINF:-1,SP: Taquilla 9
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/718.ts
-#EXTINF:-1,SP: Taquilla 10
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/726.ts
-#EXTINF:-1,---- DE ----
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/976.ts
-#EXTINF:-1,DE: ZDF HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/362.ts
-#EXTINF:-1,DE: ZDF
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/363.ts
-#EXTINF:-1,DE: WDR
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/364.ts
-#EXTINF:-1,DE: VOX HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/365.ts
-#EXTINF:-1,DE: VOX
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/366.ts
-#EXTINF:-1,DE: Universal HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/367.ts
-#EXTINF:-1,DE: Universal Channel HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/368.ts
-#EXTINF:-1,DE: TNT SERIE HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/369.ts
-#EXTINF:-1,DE: TNT Serie
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/370.ts
-#EXTINF:-1,DE: TNT FILM HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/371.ts
-#EXTINF:-1,DE: TNT Film
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/372.ts
-#EXTINF:-1,DE: TLC
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/373.ts
-#EXTINF:-1,DE: Tagesschau 24
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/374.ts
-#EXTINF:-1,DE: Syfy HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/375.ts
-#EXTINF:-1,DE: Syfy
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/376.ts
-#EXTINF:-1,DE: SWR
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/377.ts
-#EXTINF:-1,DE: Super RTL HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/378.ts
-#EXTINF:-1,DE: SUPER RTL
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/379.ts
-#EXTINF:-1,DE: SRF 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/380.ts
-#EXTINF:-1,DE: SRF 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/381.ts
-#EXTINF:-1,DE: SPORTDIGITAL HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/382.ts
-#EXTINF:-1,DE: Sport Time 7 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/383.ts
-#EXTINF:-1,DE: Sport Time 6 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/384.ts
-#EXTINF:-1,DE: Sport Time 5 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/385.ts
-#EXTINF:-1,DE: Sport Time 4 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/386.ts
-#EXTINF:-1,DE: Sport Time 3 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/387.ts
-#EXTINF:-1,DE: Sport Time 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/388.ts
-#EXTINF:-1,DE: Sport Time 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/389.ts
-#EXTINF:-1,DE: Sport 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/390.ts
-#EXTINF:-1,DE: Sony TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/391.ts
-#EXTINF:-1,DE: Sonnenklar TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/392.ts
-#EXTINF:-1,DE: SKYBUNDESLIGA 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/393.ts
-#EXTINF:-1,DE: Sky TNT Serie HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/394.ts
-#EXTINF:-1,DE: Sky Sports News
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/395.ts
-#EXTINF:-1,DE: Sky Sports 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/396.ts
-#EXTINF:-1,DE: SKY Sport US HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/397.ts
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/398.ts
-#EXTINF:-1,DE: Sky Sport News
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/399.ts
-#EXTINF:-1,DE: SKY Sport Austria HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/400.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/401.ts
-#EXTINF:-1,DE: Sky Sport 9 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/402.ts
-#EXTINF:-1,DE: Sky Sport 8 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/403.ts
-#EXTINF:-1,DE: Sky Sport 7 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/404.ts
-#EXTINF:-1,DE: Sky Sport 6 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/405.ts
-#EXTINF:-1,DE: Sky Sport 5 HD  ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/406.ts
-#EXTINF:-1,DE: Sky Sport 4 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/407.ts
-#EXTINF:-1,DE: Sky Sport 3 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/408.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/409.ts
-#EXTINF:-1,DE: SKY SPORT 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/410.ts
-#EXTINF:-1,DE: Sky Sport 11 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/411.ts
-#EXTINF:-1,DE: Sky Sport 10 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/412.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/413.ts
-#EXTINF:-1,DE: SKY Sport 1  HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/414.ts
-#EXTINF:-1,DE: SKY SPORT 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/415.ts
-#EXTINF:-1,DE: Sky Select 9 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/416.ts
-#EXTINF:-1,DE: Sky Select 8 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/417.ts
-#EXTINF:-1,DE: Sky Select 8
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/418.ts
-#EXTINF:-1,DE: Sky Select 7 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/419.ts
-#EXTINF:-1,DE: Sky Select 7
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/420.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/421.ts
-#EXTINF:-1,DE: Sky Select 6
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/422.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/423.ts
-#EXTINF:-1,DE: Sky Select 5
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/424.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/425.ts
-#EXTINF:-1,DE: Sky Select 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/426.ts
-#EXTINF:-1,DE: Sky Select 3 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/427.ts
-#EXTINF:-1,DE: Sky Select 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/428.ts
-#EXTINF:-1,DE: Sky Select 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/429.ts
-#EXTINF:-1,DE: Sky Select 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/430.ts
-#EXTINF:-1,DE: Sky Select 10 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/431.ts
-#EXTINF:-1,DE: Sky Select 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/432.ts
-#EXTINF:-1,DE: Sky Select 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/433.ts
-#EXTINF:-1,DE: SKY News HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/434.ts
-#EXTINF:-1,DE: SKY NAT.GEO HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/435.ts
-#EXTINF:-1,DE: SKY MGM HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/436.ts
-#EXTINF:-1,DE: Sky Krimi
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/437.ts
-#EXTINF:-1,DE: SKY HYTS
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/438.ts
-#EXTINF:-1,DE: Sky Hits HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/439.ts
-#EXTINF:-1,DE: SKY HITS
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/440.ts
-#EXTINF:-1,DE: SKY HD Fanzone
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/441.ts
-#EXTINF:-1,DE: SKY FOX
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/442.ts
-#EXTINF:-1,DE: Sky Fan Zone HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/443.ts
-#EXTINF:-1,DE: SKY EMOTION HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/444.ts
-#EXTINF:-1,DE: SKY EMOTION
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/445.ts
-#EXTINF:-1,DE: Sky Disney Channel HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/446.ts
-#EXTINF:-1,DE: Sky Despau 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/447.ts
-#EXTINF:-1,DE: Sky Despau 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/448.ts
-#EXTINF:-1,DE: Sky Despau
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/449.ts
-#EXTINF:-1,DE: Sky Comedy HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/450.ts
-#EXTINF:-1,DE: SKY COMEDY
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/451.ts
-#EXTINF:-1,DE: SKY CINEMA HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/452.ts
-#EXTINF:-1,DE: Sky Cinema 24 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/453.ts
-#EXTINF:-1,DE: Sky Cinema 24
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/454.ts
-#EXTINF:-1,DE: Sky Cinema 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/455.ts
-#EXTINF:-1,DE: Sky Cinema 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/456.ts
-#EXTINF:-1,DE: SKY Cinema  24 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/457.ts
-#EXTINF:-1,DE: SKY Cinema  24
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/458.ts
-#EXTINF:-1,DE: SKY Cinema  1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/459.ts
-#EXTINF:-1,DE: SKY Cinema  1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/460.ts
-#EXTINF:-1,DE: Sky Cinema
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/461.ts
-#EXTINF:-1,DE: SKY Bundesliga HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/462.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/463.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/464.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/465.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/466.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/467.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD  ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/468.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/469.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/470.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/471.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/472.ts
-#EXTINF:-1,DE: SKY Bundesliga 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/473.ts
-#EXTINF:-1,DE: Sky AXN HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/474.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/475.ts
-#EXTINF:-1,DE: SKY ATLANTIC 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/476.ts
-#EXTINF:-1,DE: SKY Atlantic  1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/477.ts
-#EXTINF:-1,DE: SKY ACTION HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/479.ts
-#EXTINF:-1,DE: Sky Action
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/480.ts
-#EXTINF:-1,DE: SKY 3D
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/481.ts
-#EXTINF:-1,DE: SKY 13 STREET
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/482.ts
-#EXTINF:-1,DE: Sixx HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/483.ts
-#EXTINF:-1,DE: SIXX
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/484.ts
-#EXTINF:-1,DE: Silverline Movie Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/485.ts
-#EXTINF:-1,DE: Sat 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/486.ts
-#EXTINF:-1,DE: Sat 1 Emotions
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/487.ts
-#EXTINF:-1,DE: RTL2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/488.ts
-#EXTINF:-1,DE: RTL Passion HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/489.ts
-#EXTINF:-1,DE: RTL Passion
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/490.ts
-#EXTINF:-1,DE: RTL Nitro HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/491.ts
-#EXTINF:-1,DE: RTL Living HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/493.ts
-#EXTINF:-1,DE: RTL HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/494.ts
-#EXTINF:-1,DE: RTL Crime HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/495.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/496.ts
-#EXTINF:-1,DE: Romance TV HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/498.ts
-#EXTINF:-1,DE: Prosieben Maxx HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/499.ts
-#EXTINF:-1,DE: Prosieben HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/500.ts
-#EXTINF:-1,DE: PROSIEBEN
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/501.ts
-#EXTINF:-1,DE: PRO 7 HD-TELESHOPPING
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/502.ts
-#EXTINF:-1,DE: PRO 7 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/503.ts
-#EXTINF:-1,DE: Planet HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/505.ts
-#EXTINF:-1,DE: Phoenix HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/506.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/508.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/510.ts
-#EXTINF:-1,DE: NTV HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/511.ts
-#EXTINF:-1,DE: National Geographic HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/512.ts
-#EXTINF:-1,DE: National Geographic
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/513.ts
-#EXTINF:-1,DE: National Geo HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/514.ts
-#EXTINF:-1,DE: NatGeo Wild HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/515.ts
-#EXTINF:-1,DE: Nat Geo Wild HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/516.ts
-#EXTINF:-1,DE: Nat GEO
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/518.ts
-#EXTINF:-1,DE: N24 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/519.ts
-#EXTINF:-1,DE: MGM HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/520.ts
-#EXTINF:-1,DE: Kabel eins Classics
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/521.ts
-#EXTINF:-1,DE: Kabel 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/522.ts
-#EXTINF:-1,DE: Joiz HD Germany
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/523.ts
-#EXTINF:-1,DE: History HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/524.ts
-#EXTINF:-1,DE: Fox Serie
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/525.ts
-#EXTINF:-1,DE: FOX HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/526.ts
-#EXTINF:-1,DE: Eurosport 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/528.ts
-#EXTINF:-1,DE: DMAX HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/531.ts
-#EXTINF:-1,DE: Disney XD HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/532.ts
-#EXTINF:-1,DE: Disney XD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/533.ts
-#EXTINF:-1,DE: Disney Junior
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/534.ts
-#EXTINF:-1,DE: Disney Cineemagic
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/535.ts
-#EXTINF:-1,DE: Disney Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/536.ts
-#EXTINF:-1,DE: Discovery HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/537.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/538.ts
-#EXTINF:-1,DE: Discovery Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/539.ts
-#EXTINF:-1,DE: Deluxe Music HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/540.ts
-#EXTINF:-1,DE: Delux Music HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/541.ts
-#EXTINF:-1,DE: Classica
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/542.ts
-#EXTINF:-1,DE: BUNDESLIGA 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/543.ts
-#EXTINF:-1,DE: AXN Action
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/544.ts
-#EXTINF:-1,DE: Austria 24
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/545.ts
-#EXTINF:-1,DE: ATLANTIC HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/546.ts
-#EXTINF:-1,DE: ARD HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/547.ts
-#EXTINF:-1,DE: ARD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/548.ts
-#EXTINF:-1,DE: Annixe
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/549.ts
-#EXTINF:-1,DE: ANIMAX
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/550.ts
-#EXTINF:-1,DE: Animal Planet HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/551.ts
-#EXTINF:-1,DE: 3SAT
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/552.ts
-#EXTINF:-1,DE: 13th Street HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/553.ts
-#EXTINF:-1,---- UK ----
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/974.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HQ
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/814.ts
-#EXTINF:-1,UK: Sky Sports News HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/815.ts
-#EXTINF:-1,UK: SKY SPORTS 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/826.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/824.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/822.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/820.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/819.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/816.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/827.ts
-#EXTINF:-1,UK: SKY SPORTS 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/825.ts
-#EXTINF:-1,UK: SKY SPORTS 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/823.ts
+#EXTINF:-1,UK: SKY SPORTS F1
+http://hyper.de1-eu.com:8000/live/aria/aria/3705.ts
+#EXTINF:-1,UK: SKY SPORTS 5
+http://hyper.de1-eu.com:8000/live/aria/aria/3706.ts
 #EXTINF:-1,UK: SKY SPORTS 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/821.ts
-#EXTINF:-1,UK: SKY SETANTA
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/828.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/817.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/818.ts
-#EXTINF:-1,UK: At The Races UK
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/950.ts
-#EXTINF:-1,UK: BT SPORT 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/937.ts
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/936.ts
-#EXTINF:-1,UK: BT SPORT 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/935.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/934.ts
-#EXTINF:-1,UK: BT SPORT EUROPE HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/933.ts
-#EXTINF:-1,UK: BT Sport Extra
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/932.ts
-#EXTINF:-1,UK: BT Sport SPPN
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/931.ts
-#EXTINF:-1,UK: BT Sports 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/930.ts
-#EXTINF:-1,UK: BT Sports 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/929.ts
-#EXTINF:-1,UK: Chelsea FC
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/923.ts
-#EXTINF:-1,UK: CHELSEA TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/922.ts
-#EXTINF:-1,UK: CTH STADIUM 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/919.ts
-#EXTINF:-1,UK: CTH STADIUM 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/918.ts
-#EXTINF:-1,UK: CTH STADIUM 3 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/917.ts
-#EXTINF:-1,UK: CTH STADIUM 4 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/916.ts
-#EXTINF:-1,UK: CTH STADIUM 5 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/915.ts
-#EXTINF:-1,UK: CTH STADIUM 6 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/914.ts
-#EXTINF:-1,UK: CTH STADIUM X
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/913.ts
-#EXTINF:-1,UK: Eurosport 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/901.ts
-#EXTINF:-1,UK: ESPN HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/902.ts
-#EXTINF:-1,UK: Premier Sports
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/870.ts
-#EXTINF:-1,UK: Premiere Sport HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/869.ts
-#EXTINF:-1,UK: Satenta Sport
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/865.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/864.ts
-#EXTINF:-1,UK: Racing UK
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/868.ts
-#EXTINF:-1,UK: Setanta Sports
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/863.ts
-#EXTINF:-1,UK: Sky Premier Sport
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/830.ts
-#EXTINF:-1,UK: Sky Two
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/813.ts
-#EXTINF:-1,UK: SyFy
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/812.ts
-#EXTINF:-1,UK: TCM
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/811.ts
-#EXTINF:-1,UK: VH1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/808.ts
-#EXTINF:-1,UK: True Movies 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/810.ts
-#EXTINF:-1,UK: True Movies 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/809.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3707.ts
+#EXTINF:-1,UK: SKY SPORTS 3
+http://hyper.de1-eu.com:8000/live/aria/aria/3708.ts
+#EXTINF:-1,UK: SKY SPORTS 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3709.ts
+#EXTINF:-1,UK: SKY SPORTS 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3710.ts
+#EXTINF:-1,UK: SKY SPORT NEWS
+http://hyper.de1-eu.com:8000/live/aria/aria/3711.ts
+#EXTINF:-1,SPORT: Sky Sports News
+http://hyper.de1-eu.com:8000/live/aria/aria/2860.ts
+#EXTINF:-1,SPORT: Sky Sports F1
+http://hyper.de1-eu.com:8000/live/aria/aria/2861.ts
+#EXTINF:-1,SPORT: Sky Sports 5
+http://hyper.de1-eu.com:8000/live/aria/aria/2862.ts
+#EXTINF:-1,SPORT: Sky Sports 4
+http://hyper.de1-eu.com:8000/live/aria/aria/2863.ts
+#EXTINF:-1,SPORT: Sky Sports 3
+http://hyper.de1-eu.com:8000/live/aria/aria/2864.ts
+#EXTINF:-1,SPORT: Sky Sports 2
+http://hyper.de1-eu.com:8000/live/aria/aria/2865.ts
+#EXTINF:-1,SPORT: Sky Sports 1
+http://hyper.de1-eu.com:8000/live/aria/aria/2866.ts
+#EXTINF:-1,SPORT: Sky Bundesliga HD 1
+http://hyper.de1-eu.com:8000/live/aria/aria/2867.ts
+#EXTINF:-1,SPORT: Sky 2
+http://hyper.de1-eu.com:8000/live/aria/aria/2868.ts
+#EXTINF:-1,SPORT: Sky 1
+http://hyper.de1-eu.com:8000/live/aria/aria/2869.ts
+#EXTINF:-1,SPORT: Setanta Sport
+http://hyper.de1-eu.com:8000/live/aria/aria/2870.ts
+#EXTINF:-1,SPORT: Prva Plus
+http://hyper.de1-eu.com:8000/live/aria/aria/2871.ts
+#EXTINF:-1,SPORT: Premiere Sport UK
+http://hyper.de1-eu.com:8000/live/aria/aria/2872.ts
+#EXTINF:-1,SPORT: Liverpool FC UK
+http://hyper.de1-eu.com:8000/live/aria/aria/2873.ts
+#EXTINF:-1,SPORT: Arena Sport 5 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2895.ts
+#EXTINF:-1,SPORT: Arena Sport 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2896.ts
+#EXTINF:-1,SPORT: Arena Sport 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2897.ts
+#EXTINF:-1,SPORT: Arena Sport 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2898.ts
+#EXTINF:-1,SPORT: Arena Sport 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2899.ts
 #EXTINF:-1,UK: YESTERDAY
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/807.ts
-#EXTINF:-1,UK: Zee Cinema
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/806.ts
-#EXTINF:-1,UK: SKY SELECT
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/829.ts
-#EXTINF:-1,UK: SKY ONE HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/831.ts
-#EXTINF:-1,UK: Sky One
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/832.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3216.ts
+#EXTINF:-1,UK: WATCH
+http://hyper.de1-eu.com:8000/live/aria/aria/3217.ts
+#EXTINF:-1,UK: Viva UK
+http://hyper.de1-eu.com:8000/live/aria/aria/3244.ts
+#EXTINF:-1,UK: VH1
+http://hyper.de1-eu.com:8000/live/aria/aria/3167.ts
+#EXTINF:-1,UK: Universal  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3201.ts
+#EXTINF:-1,UK: TV3
+http://hyper.de1-eu.com:8000/live/aria/aria/3218.ts
+#EXTINF:-1,UK: Travel Channel
+http://hyper.de1-eu.com:8000/live/aria/aria/3171.ts
+#EXTINF:-1,UK: TLC
+http://hyper.de1-eu.com:8000/live/aria/aria/3219.ts
+#EXTINF:-1,UK: TCM
+http://hyper.de1-eu.com:8000/live/aria/aria/3168.ts
+#EXTINF:-1,UK: Syfy  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3202.ts
+#EXTINF:-1,UK: SYFY
+http://hyper.de1-eu.com:8000/live/aria/aria/3221.ts
+#EXTINF:-1,UK: SONY MOVIES
+http://hyper.de1-eu.com:8000/live/aria/aria/3222.ts
+#EXTINF:-1,UK: Sony Movie Channel  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3169.ts
+#EXTINF:-1,UK: Sony Movie Channel
+http://hyper.de1-eu.com:8000/live/aria/aria/3170.ts
+#EXTINF:-1,UK: SKY TWO
+http://hyper.de1-eu.com:8000/live/aria/aria/3223.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://hyper.de1-eu.com:8000/live/aria/aria/3172.ts
+#EXTINF:-1,UK: SKY ONE
+http://hyper.de1-eu.com:8000/live/aria/aria/3224.ts
+#EXTINF:-1,UK: Sky News Ireland
+http://hyper.de1-eu.com:8000/live/aria/aria/3173.ts
 #EXTINF:-1,UK: Sky News
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/833.ts
-#EXTINF:-1,UK: SKY MOVIES THRILLER HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/834.ts
-#EXTINF:-1,UK: Sky Movies Thriller
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/835.ts
-#EXTINF:-1,UK: SKY MOVIES SHOWCASE HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/836.ts
-#EXTINF:-1,UK: Sky Movies Select
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/837.ts
-#EXTINF:-1,UK: SKY MOVIES SCIFI HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/838.ts
-#EXTINF:-1,UK: Sky Movies Scifi
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/839.ts
-#EXTINF:-1,UK: SKY MOVIES SC-FI
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/840.ts
-#EXTINF:-1,UK: SKY MOVIES PREMIERE
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/841.ts
-#EXTINF:-1,UK: SKY MOVIES MODERN GREAT HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/842.ts
-#EXTINF:-1,UK: Sky Movies Modern Great
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/843.ts
-#EXTINF:-1,UK: SKY MOVIES MODERN
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/844.ts
-#EXTINF:-1,UK: SKY MOVIES FAMILY HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/845.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/846.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/847.ts
-#EXTINF:-1,UK: SKY MOVIES DRAMA
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/848.ts
-#EXTINF:-1,UK: SKY MOVIES DISNEY HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/849.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/850.ts
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/851.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3174.ts
+#EXTINF:-1,UK: SKY MOVIES SHOWCASE
+http://hyper.de1-eu.com:8000/live/aria/aria/3225.ts
+#EXTINF:-1,UK: SKY MOVIES SELECT
+http://hyper.de1-eu.com:8000/live/aria/aria/3226.ts
+#EXTINF:-1,UK: Sky Movies Sci-FiHorror
+http://hyper.de1-eu.com:8000/live/aria/aria/3175.ts
+#EXTINF:-1,UK: SKY MOVIES SCI-FI  HORROR
+http://hyper.de1-eu.com:8000/live/aria/aria/3227.ts
+#EXTINF:-1,UK: Sky Movies Premiere  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3176.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://hyper.de1-eu.com:8000/live/aria/aria/3177.ts
+#EXTINF:-1,UK: SKY MOVIES PREMIER
+http://hyper.de1-eu.com:8000/live/aria/aria/3228.ts
+#EXTINF:-1,UK: SKY MOVIES MODERN GREATS
+http://hyper.de1-eu.com:8000/live/aria/aria/3229.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://hyper.de1-eu.com:8000/live/aria/aria/3178.ts
+#EXTINF:-1,UK: SKY MOVIES FAMILY
+http://hyper.de1-eu.com:8000/live/aria/aria/3230.ts
+#EXTINF:-1,UK: Sky Movies DramaRomance
+http://hyper.de1-eu.com:8000/live/aria/aria/3179.ts
+#EXTINF:-1,UK: SKY MOVIES DRAMA  ROMANCE
+http://hyper.de1-eu.com:8000/live/aria/aria/3231.ts
+#EXTINF:-1,UK: SKY MOVIES DISNEY
+http://hyper.de1-eu.com:8000/live/aria/aria/3232.ts
+#EXTINF:-1,UK: Sky Movies CrimeThriller
+http://hyper.de1-eu.com:8000/live/aria/aria/3180.ts
+#EXTINF:-1,UK: SKY MOVIES CRIME  THRILLER
+http://hyper.de1-eu.com:8000/live/aria/aria/3233.ts
 #EXTINF:-1,UK: SKY MOVIES COMEDY
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/852.ts
-#EXTINF:-1,UK: SKY MOVIES ACTION
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/853.ts
-#EXTINF:-1,UK: Sky movie Atlantic
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/854.ts
-#EXTINF:-1,UK: Sky Monster
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/855.ts
-#EXTINF:-1,UK: SKY MODERN GREATS HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/856.ts
-#EXTINF:-1,UK: Sky Living
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/857.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3234.ts
+#EXTINF:-1,UK: Sky Movies ActionAdventure
+http://hyper.de1-eu.com:8000/live/aria/aria/3181.ts
+#EXTINF:-1,UK: SKY MOVIES ACTION  ADVENTURE
+http://hyper.de1-eu.com:8000/live/aria/aria/3235.ts
+#EXTINF:-1,UK: Sky Living Ireland
+http://hyper.de1-eu.com:8000/live/aria/aria/3182.ts
+#EXTINF:-1,UK: Sky Living  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3183.ts
+#EXTINF:-1,UK: SKY LIVING
+http://hyper.de1-eu.com:8000/live/aria/aria/3236.ts
 #EXTINF:-1,UK: Sky Disney
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/858.ts
-#EXTINF:-1,UK: Sky CBS Reality
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/859.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/860.ts
-#EXTINF:-1,UK: SKY ACTION
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/861.ts
-#EXTINF:-1,UK: SKY  ARTS 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/862.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3247.ts
+#EXTINF:-1,UK: Sky Atlantic Ireland
+http://hyper.de1-eu.com:8000/live/aria/aria/3184.ts
+#EXTINF:-1,UK: Sky Atlantic  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3185.ts
+#EXTINF:-1,UK: SKY ATLANTIC
+http://hyper.de1-eu.com:8000/live/aria/aria/3237.ts
+#EXTINF:-1,UK: Sky Arts
+http://hyper.de1-eu.com:8000/live/aria/aria/3186.ts
+#EXTINF:-1,UK: Sky 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3187.ts
+#EXTINF:-1,UK: Sky 1  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3188.ts
+#EXTINF:-1,UK: Sky 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3189.ts
+#EXTINF:-1,UK: SETANTA SPORT IRELAND
+http://hyper.de1-eu.com:8000/live/aria/aria/3238.ts
+#EXTINF:-1,UK: Setanta Ireland
+http://hyper.de1-eu.com:8000/live/aria/aria/3190.ts
+#EXTINF:-1,UK: Setanta HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3191.ts
 #EXTINF:-1,UK: RTE 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/866.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3165.ts
 #EXTINF:-1,UK: RTE 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/867.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3166.ts
+#EXTINF:-1,UK: REALLY
+http://hyper.de1-eu.com:8000/live/aria/aria/3239.ts
+#EXTINF:-1,UK: REAL LIVES
+http://hyper.de1-eu.com:8000/live/aria/aria/3240.ts
+#EXTINF:-1,UK: RACING UK
+http://hyper.de1-eu.com:8000/live/aria/aria/3241.ts
+#EXTINF:-1,UK: Racing
+http://hyper.de1-eu.com:8000/live/aria/aria/3192.ts
+#EXTINF:-1,UK: QUEST
+http://hyper.de1-eu.com:8000/live/aria/aria/3242.ts
+#EXTINF:-1,UK: PREMIER SPORTS
+http://hyper.de1-eu.com:8000/live/aria/aria/3243.ts
+#EXTINF:-1,UK: Pick  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3193.ts
 #EXTINF:-1,UK: Pick
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/871.ts
-#EXTINF:-1,UK: NickToons
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/872.ts
-#EXTINF:-1,UK: Nickelodeon
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/873.ts
-#EXTINF:-1,UK: NICK TOONS
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/874.ts
-#EXTINF:-1,UK: NICK JUNIOR
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/875.ts
-#EXTINF:-1,UK: National Geographic Wild
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/876.ts
-#EXTINF:-1,UK: National Geographic
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/877.ts
-#EXTINF:-1,UK: NATIONAL GEO WILD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/878.ts
-#EXTINF:-1,UK: NATIONAL GEO
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/879.ts
-#EXTINF:-1,UK: Nat Geo
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/880.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3194.ts
+#EXTINF:-1,UK: NICKTOONS
+http://hyper.de1-eu.com:8000/live/aria/aria/3245.ts
+#EXTINF:-1,UK: NICK JR
+http://hyper.de1-eu.com:8000/live/aria/aria/3246.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://hyper.de1-eu.com:8000/live/aria/aria/3248.ts
+#EXTINF:-1,UK: NAT GEO WILD
+http://hyper.de1-eu.com:8000/live/aria/aria/3249.ts
 #EXTINF:-1,UK: MUTV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/881.ts
-#EXTINF:-1,UK: MU TV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/882.ts
-#EXTINF:-1,UK: MTV Music
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/883.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3250.ts
+#EXTINF:-1,UK: MTV ROCKS
+http://hyper.de1-eu.com:8000/live/aria/aria/3251.ts
+#EXTINF:-1,UK: MTV MUSIC
+http://hyper.de1-eu.com:8000/live/aria/aria/3252.ts
 #EXTINF:-1,UK: MTV HITS
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/884.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3253.ts
+#EXTINF:-1,UK: MTV DANCE
+http://hyper.de1-eu.com:8000/live/aria/aria/3254.ts
 #EXTINF:-1,UK: MTV Classic
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/885.ts
-#EXTINF:-1,UK: More 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/886.ts
-#EXTINF:-1,UK: LIVERPOOL FC
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/887.ts
-#EXTINF:-1,UK: ITV 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/888.ts
-#EXTINF:-1,UK: ITV 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/889.ts
-#EXTINF:-1,UK: ITV 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/890.ts
-#EXTINF:-1,UK: ITV 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/891.ts
-#EXTINF:-1,UK: ITV 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/892.ts
-#EXTINF:-1,UK: ITV
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/893.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/894.ts
-#EXTINF:-1,UK: Horror Channel
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/895.ts
-#EXTINF:-1,UK: HISTORY CHANNEL
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/896.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3195.ts
+#EXTINF:-1,UK: MTV Base
+http://hyper.de1-eu.com:8000/live/aria/aria/3196.ts
+#EXTINF:-1,UK: MTV  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3197.ts
+#EXTINF:-1,UK: MTV
+http://hyper.de1-eu.com:8000/live/aria/aria/3198.ts
+#EXTINF:-1,UK: Movies4Men  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3199.ts
+#EXTINF:-1,UK: MOVIES4MEN
+http://hyper.de1-eu.com:8000/live/aria/aria/3255.ts
+#EXTINF:-1,UK: MOTORS TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3256.ts
+#EXTINF:-1,UK: More 4 Ireland
+http://hyper.de1-eu.com:8000/live/aria/aria/3200.ts
+#EXTINF:-1,UK: LIVING IT
+http://hyper.de1-eu.com:8000/live/aria/aria/3257.ts
+#EXTINF:-1,UK: LIVERPOOL FC TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3258.ts
+#EXTINF:-1,UK: LIFETIME
+http://hyper.de1-eu.com:8000/live/aria/aria/3259.ts
+#EXTINF:-1,UK: ITV4
+http://hyper.de1-eu.com:8000/live/aria/aria/3260.ts
+#EXTINF:-1,UK: ITV3
+http://hyper.de1-eu.com:8000/live/aria/aria/3261.ts
+#EXTINF:-1,UK: ITV2
+http://hyper.de1-eu.com:8000/live/aria/aria/3262.ts
+#EXTINF:-1,UK: ITV1
+http://hyper.de1-eu.com:8000/live/aria/aria/3263.ts
+#EXTINF:-1,UK: ITV BE
+http://hyper.de1-eu.com:8000/live/aria/aria/3264.ts
+#EXTINF:-1,UK: Investigation Discovery Ireland
+http://hyper.de1-eu.com:8000/live/aria/aria/3203.ts
+#EXTINF:-1,UK: HOME
+http://hyper.de1-eu.com:8000/live/aria/aria/3265.ts
+#EXTINF:-1,UK: HISTORY
+http://hyper.de1-eu.com:8000/live/aria/aria/3266.ts
+#EXTINF:-1,UK: H2
+http://hyper.de1-eu.com:8000/live/aria/aria/3267.ts
 #EXTINF:-1,UK: GOLD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/897.ts
-#EXTINF:-1,UK: Food Network
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/898.ts
-#EXTINF:-1,UK: Five
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/899.ts
-#EXTINF:-1,UK: Film 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/900.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3268.ts
+#EXTINF:-1,UK: Fox  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3204.ts
+#EXTINF:-1,UK: FOX
+http://hyper.de1-eu.com:8000/live/aria/aria/3269.ts
+#EXTINF:-1,UK: EDEN
+http://hyper.de1-eu.com:8000/live/aria/aria/3270.ts
 #EXTINF:-1,UK: E4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/903.ts
-#EXTINF:-1,UK: DMAX
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/904.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3205.ts
+#EXTINF:-1,UK: Disney XD  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3206.ts
+#EXTINF:-1,UK: DISNEY XD
+http://hyper.de1-eu.com:8000/live/aria/aria/3271.ts
+#EXTINF:-1,UK: Disney Junior  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3207.ts
+#EXTINF:-1,UK: DISNEY JUNIOR
+http://hyper.de1-eu.com:8000/live/aria/aria/3272.ts
+#EXTINF:-1,UK: Disney Channel  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3208.ts
 #EXTINF:-1,UK: DISNEY CHANNEL
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/905.ts
-#EXTINF:-1,UK: Disney Chaneel HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/906.ts
-#EXTINF:-1,UK: Discovery Science
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/907.ts
-#EXTINF:-1,UK: Discovery Investigation
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/908.ts
-#EXTINF:-1,UK: Discovery History
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/909.ts
-#EXTINF:-1,UK: Discovery ch
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/910.ts
-#EXTINF:-1,UK: DEVA
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/911.ts
-#EXTINF:-1,UK: Dave
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/912.ts
-#EXTINF:-1,UK: Comedy Central
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/920.ts
-#EXTINF:-1,UK: COLORS
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/921.ts
-#EXTINF:-1,UK: CHANNEL FOUR
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/924.ts
-#EXTINF:-1,UK: CHANNEL FIVE
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/925.ts
-#EXTINF:-1,UK: CBS Reality
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/926.ts
-#EXTINF:-1,UK: CBS Drama
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/927.ts
-#EXTINF:-1,UK: CBS Action
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/928.ts
-#EXTINF:-1,UK: Box Nation  HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/938.ts
-#EXTINF:-1,UK: BBC News
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/939.ts
-#EXTINF:-1,UK: BBC Entertainment
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/940.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/941.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3273.ts
+#EXTINF:-1,UK: DISCOVERY TURBO
+http://hyper.de1-eu.com:8000/live/aria/aria/3274.ts
+#EXTINF:-1,UK: DISCOVERY SHED
+http://hyper.de1-eu.com:8000/live/aria/aria/3275.ts
+#EXTINF:-1,UK: Discovery Science Channel
+http://hyper.de1-eu.com:8000/live/aria/aria/3209.ts
+#EXTINF:-1,UK: DISCOVERY SCIENCE
+http://hyper.de1-eu.com:8000/live/aria/aria/3276.ts
+#EXTINF:-1,UK: DISCOVERY ID
+http://hyper.de1-eu.com:8000/live/aria/aria/3277.ts
+#EXTINF:-1,UK: Discovery HomeHealth
+http://hyper.de1-eu.com:8000/live/aria/aria/3210.ts
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://hyper.de1-eu.com:8000/live/aria/aria/3278.ts
+#EXTINF:-1,UK: Discovery Channel  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3211.ts
+#EXTINF:-1,UK: DISCOVERY CHANNEL
+http://hyper.de1-eu.com:8000/live/aria/aria/3279.ts
+#EXTINF:-1,UK: DAVE
+http://hyper.de1-eu.com:8000/live/aria/aria/3280.ts
+#EXTINF:-1,UK: CRIME  INVESTIGATION
+http://hyper.de1-eu.com:8000/live/aria/aria/3281.ts
+#EXTINF:-1,UK: Community Channel
+http://hyper.de1-eu.com:8000/live/aria/aria/3212.ts
+#EXTINF:-1,UK: COMEDY CENTRAL EXTRA
+http://hyper.de1-eu.com:8000/live/aria/aria/3282.ts
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://hyper.de1-eu.com:8000/live/aria/aria/3283.ts
+#EXTINF:-1,UK: CLUBLAND
+http://hyper.de1-eu.com:8000/live/aria/aria/3284.ts
+#EXTINF:-1,UK: CHELSEA TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3285.ts
+#EXTINF:-1,UK: Channel 4 Ireland
+http://hyper.de1-eu.com:8000/live/aria/aria/3213.ts
+#EXTINF:-1,UK: CHALLENGE TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3286.ts
+#EXTINF:-1,UK: CBS REALITY
+http://hyper.de1-eu.com:8000/live/aria/aria/3287.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://hyper.de1-eu.com:8000/live/aria/aria/3288.ts
+#EXTINF:-1,UK: CBS ACTION
+http://hyper.de1-eu.com:8000/live/aria/aria/3289.ts
+#EXTINF:-1,UK: CBEEBIES
+http://hyper.de1-eu.com:8000/live/aria/aria/3290.ts
+#EXTINF:-1,UK: Cartoonito
+http://hyper.de1-eu.com:8000/live/aria/aria/3214.ts
+#EXTINF:-1,UK: CARTOON NETWORK
+http://hyper.de1-eu.com:8000/live/aria/aria/3291.ts
+#EXTINF:-1,UK: BT SPORT EXTRA
+http://hyper.de1-eu.com:8000/live/aria/aria/3292.ts
+#EXTINF:-1,UK: BT SPORT EUROPE
+http://hyper.de1-eu.com:8000/live/aria/aria/3293.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://hyper.de1-eu.com:8000/live/aria/aria/3215.ts
+#EXTINF:-1,UK: BT SPORT 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3294.ts
+#EXTINF:-1,UK: BT SPORT 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3295.ts
+#EXTINF:-1,UK: BRITISH EUROSPORT 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3296.ts
+#EXTINF:-1,UK: BRITISH EUROSPORT 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3297.ts
+#EXTINF:-1,UK: BOXNATION
+http://hyper.de1-eu.com:8000/live/aria/aria/3298.ts
+#EXTINF:-1,UK: Boomerang
+http://hyper.de1-eu.com:8000/live/aria/aria/3220.ts
+#EXTINF:-1,UK: BBC NEWS
+http://hyper.de1-eu.com:8000/live/aria/aria/3302.ts
 #EXTINF:-1,UK: BBC 4
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/942.ts
-#EXTINF:-1,UK: BBC 3 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/943.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3303.ts
 #EXTINF:-1,UK: BBC 3
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/944.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/945.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3300.ts
 #EXTINF:-1,UK: BBC 2
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/946.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/947.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3299.ts
 #EXTINF:-1,UK: BBC 1
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/948.ts
-#EXTINF:-1,UK: B4U MOVIES
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/949.ts
-#EXTINF:-1,UK: Animal Planet
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/951.ts
-#EXTINF:-1,UK: Alibi
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/952.ts
-#EXTINF:-1,UK: 5USA
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/953.ts
-#EXTINF:-1,UK: 5 USA
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/954.ts
-#EXTINF:-1,UK: 4E
-http://149.202.188.59:8080/live/VZm9TbGKTt/AJM0zGEP9N/955.ts
+http://hyper.de1-eu.com:8000/live/aria/aria/3301.ts
+#EXTINF:-1,UK: B4U PLUS
+http://hyper.de1-eu.com:8000/live/aria/aria/3304.ts
+#EXTINF:-1,UK: B4U MUSIC
+http://hyper.de1-eu.com:8000/live/aria/aria/3305.ts
+#EXTINF:-1,UK: AT THE RACES
+http://hyper.de1-eu.com:8000/live/aria/aria/3306.ts
+#EXTINF:-1,UK: ANIMAL PLANET
+http://hyper.de1-eu.com:8000/live/aria/aria/3307.ts
+#EXTINF:-1,----IN
+http://dummylink.com
+#EXTINF:-1,IN: Zoom
+http://hyper.de1-eu.com:8000/live/aria/aria/3876.ts
+#EXTINF:-1,IN: Zee Tv Us
+http://hyper.de1-eu.com:8000/live/aria/aria/3877.ts
+#EXTINF:-1,IN: Zee Smile
+http://hyper.de1-eu.com:8000/live/aria/aria/3878.ts
+#EXTINF:-1,IN: Zee Punjabi
+http://hyper.de1-eu.com:8000/live/aria/aria/3879.ts
+#EXTINF:-1,IN: Zee Cinema HD US
+http://hyper.de1-eu.com:8000/live/aria/aria/3880.ts
+#EXTINF:-1,IN: Zee Alwan
+http://hyper.de1-eu.com:8000/live/aria/aria/3881.ts
+#EXTINF:-1,IN: Zee Aflam
+http://hyper.de1-eu.com:8000/live/aria/aria/3882.ts
+#EXTINF:-1,IN: Zee Action
+http://hyper.de1-eu.com:8000/live/aria/aria/3883.ts
+#EXTINF:-1,IN: Z Cine
+http://hyper.de1-eu.com:8000/live/aria/aria/3884.ts
+#EXTINF:-1,IN: VijaY
+http://hyper.de1-eu.com:8000/live/aria/aria/3885.ts
+#EXTINF:-1,IN: UTV Movies US
+http://hyper.de1-eu.com:8000/live/aria/aria/3886.ts
+#EXTINF:-1,IN: UTV Movies
+http://hyper.de1-eu.com:8000/live/aria/aria/3887.ts
+#EXTINF:-1,IN: Sun Tv
+http://hyper.de1-eu.com:8000/live/aria/aria/3888.ts
+#EXTINF:-1,IN: Sun Music
+http://hyper.de1-eu.com:8000/live/aria/aria/3889.ts
+#EXTINF:-1,IN: Starz Cinema
+http://hyper.de1-eu.com:8000/live/aria/aria/3890.ts
+#EXTINF:-1,IN: Star Sport 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3891.ts
+#EXTINF:-1,IN: Star Sport 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3892.ts
+#EXTINF:-1,IN: Star Sport 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3893.ts
+#EXTINF:-1,IN: Star Sport 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3894.ts
+#EXTINF:-1,IN: Star Plus HD US
+http://hyper.de1-eu.com:8000/live/aria/aria/3895.ts
+#EXTINF:-1,IN: SonY Us
+http://hyper.de1-eu.com:8000/live/aria/aria/3896.ts
+#EXTINF:-1,IN: Sony Sab
+http://hyper.de1-eu.com:8000/live/aria/aria/3897.ts
+#EXTINF:-1,IN: Set Mx
+http://hyper.de1-eu.com:8000/live/aria/aria/3898.ts
+#EXTINF:-1,IN: Samaa TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3899.ts
+#EXTINF:-1,IN: Music India
+http://hyper.de1-eu.com:8000/live/aria/aria/3900.ts
+#EXTINF:-1,IN: jmovie
+http://hyper.de1-eu.com:8000/live/aria/aria/3901.ts
+#EXTINF:-1,IN: jayatv
+http://hyper.de1-eu.com:8000/live/aria/aria/3902.ts
+#EXTINF:-1,IN: J Max
+http://hyper.de1-eu.com:8000/live/aria/aria/3903.ts
+#EXTINF:-1,IN: B4U Music
+http://hyper.de1-eu.com:8000/live/aria/aria/3904.ts
+#EXTINF:-1,IN: B4U Movie
+http://hyper.de1-eu.com:8000/live/aria/aria/3905.ts
+#EXTINF:-1,IN: B4U Aflam Ar
+http://hyper.de1-eu.com:8000/live/aria/aria/3906.ts
+#EXTINF:-1,IN: ARY Digtal Uk
+http://hyper.de1-eu.com:8000/live/aria/aria/3907.ts
+#EXTINF:-1,IN: ARY Digtal
+http://hyper.de1-eu.com:8000/live/aria/aria/3908.ts
+#EXTINF:-1,IN: Aapkaus
+http://hyper.de1-eu.com:8000/live/aria/aria/3909.ts
+#EXTINF:-1,IN: AApka US
+http://hyper.de1-eu.com:8000/live/aria/aria/3910.ts
+#EXTINF:-1,IN: Aajtak
+http://hyper.de1-eu.com:8000/live/aria/aria/3911.ts
+#EXTINF:-1,----POL
+http://dummylink.com
+#EXTINF:-1,POL: TVP SPORT
+http://hyper.de1-eu.com:8000/live/aria/aria/3800.ts
+#EXTINF:-1,POL: POLSAT SPORT NEWS
+http://hyper.de1-eu.com:8000/live/aria/aria/3801.ts
+#EXTINF:-1,POL: POLSAT SPORT EXTRA
+http://hyper.de1-eu.com:8000/live/aria/aria/3802.ts
+#EXTINF:-1,POL: POLSAT SPORT
+http://hyper.de1-eu.com:8000/live/aria/aria/3803.ts
+#EXTINF:-1,POL: ORANGE SPORT
+http://hyper.de1-eu.com:8000/live/aria/aria/3807.ts
+#EXTINF:-1,POL: EUROSPORT
+http://hyper.de1-eu.com:8000/live/aria/aria/3809.ts
+#EXTINF:-1,POL: COMEDY CENTRAL
+http://hyper.de1-eu.com:8000/live/aria/aria/3813.ts
+#EXTINF:-1,POL: CANAL  SPORT 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3814.ts
+#EXTINF:-1,----IT
+http://dummylink.com
+#EXTINF:-1,IT: Supercalcio HD.
+http://hyper.de1-eu.com:8000/live/aria/aria/3463.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3462.ts
+#EXTINF:-1,IT: Super
+http://hyper.de1-eu.com:8000/live/aria/aria/3464.ts
+#EXTINF:-1,IT: Sport Italia
+http://hyper.de1-eu.com:8000/live/aria/aria/3466.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3440.ts
+#EXTINF:-1,IT: Sky Sport motogp HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3434.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3437.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3438.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3436.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3435.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3467.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3431.ts
+#EXTINF:-1,IT: Sky Cinema HITS HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3432.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3430.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3429.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3428.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3433.ts
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3427.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3426.ts
+#EXTINF:-1,IT: Sky Arte HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3425.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3461.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3460.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3451.ts
+#EXTINF:-1,IT: Rai Movie
+http://hyper.de1-eu.com:8000/live/aria/aria/3452.ts
+#EXTINF:-1,IT: Rai Gulp
+http://hyper.de1-eu.com:8000/live/aria/aria/3453.ts
+#EXTINF:-1,IT: Rai 5
+http://hyper.de1-eu.com:8000/live/aria/aria/3459.ts
+#EXTINF:-1,IT: Rai 4
+http://hyper.de1-eu.com:8000/live/aria/aria/3458.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3457.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3456.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3455.ts
+#EXTINF:-1,IT: Rai
+http://hyper.de1-eu.com:8000/live/aria/aria/3454.ts
+#EXTINF:-1,IT: Prima Fila 9 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3524.ts
+#EXTINF:-1,IT: Prima Fila 8 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3523.ts
+#EXTINF:-1,IT: Prima Fila 7 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3522.ts
+#EXTINF:-1,IT: Prima Fila 6 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3521.ts
+#EXTINF:-1,IT: Prima Fila 5 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3520.ts
+#EXTINF:-1,IT: Prima Fila 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3519.ts
+#EXTINF:-1,IT: Prima Fila 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3518.ts
+#EXTINF:-1,IT: Prima Fila 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3517.ts
+#EXTINF:-1,IT: Prima Fila 17 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3532.ts
+#EXTINF:-1,IT: Prima Fila 16 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3531.ts
+#EXTINF:-1,IT: Prima Fila 15 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3530.ts
+#EXTINF:-1,IT: Prima Fila 14 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3529.ts
+#EXTINF:-1,IT: Prima Fila 13 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3528.ts
+#EXTINF:-1,IT: Prima Fila 12 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3527.ts
+#EXTINF:-1,IT: Prima Fila 11 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3525.ts
+#EXTINF:-1,IT: Prima Fila 10 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3526.ts
+#EXTINF:-1,IT: Prima Fila 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3516.ts
+#EXTINF:-1,IT: Premium Stories
+http://hyper.de1-eu.com:8000/live/aria/aria/3495.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3496.ts
+#EXTINF:-1,IT: Premium Joi
+http://hyper.de1-eu.com:8000/live/aria/aria/3503.ts
+#EXTINF:-1,IT: Premium Energy
+http://hyper.de1-eu.com:8000/live/aria/aria/3499.ts
+#EXTINF:-1,IT: Premium Emotion
+http://hyper.de1-eu.com:8000/live/aria/aria/3500.ts
+#EXTINF:-1,IT: Premium Discovery HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3494.ts
+#EXTINF:-1,IT: Premium Crime 24
+http://hyper.de1-eu.com:8000/live/aria/aria/3498.ts
+#EXTINF:-1,IT: Premium Comedy
+http://hyper.de1-eu.com:8000/live/aria/aria/3497.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3501.ts
+#EXTINF:-1,IT: Premium Cinema 24 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3502.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3504.ts
+#EXTINF:-1,IT: Premium Cinema 2 24
+http://hyper.de1-eu.com:8000/live/aria/aria/3505.ts
+#EXTINF:-1,IT: Premium Calcio HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3507.ts
+#EXTINF:-1,IT: Premium Calcio 7
+http://hyper.de1-eu.com:8000/live/aria/aria/3515.ts
+#EXTINF:-1,IT: Premium Calcio 6
+http://hyper.de1-eu.com:8000/live/aria/aria/3514.ts
+#EXTINF:-1,IT: Premium Calcio 5
+http://hyper.de1-eu.com:8000/live/aria/aria/3513.ts
+#EXTINF:-1,IT: Premium Calcio 4
+http://hyper.de1-eu.com:8000/live/aria/aria/3512.ts
+#EXTINF:-1,IT: Premium Calcio 3
+http://hyper.de1-eu.com:8000/live/aria/aria/3511.ts
+#EXTINF:-1,IT: Premium Calcio 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3510.ts
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3509.ts
+#EXTINF:-1,IT: Premium Calcio
+http://hyper.de1-eu.com:8000/live/aria/aria/3508.ts
+#EXTINF:-1,IT: Premium Action HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3410.ts
+#EXTINF:-1,IT: Premium Action 24 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3506.ts
+#EXTINF:-1,IT: NatGeo Wild HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3481.ts
+#EXTINF:-1,IT: NatGeo People HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3480.ts
+#EXTINF:-1,IT: NatGeo HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3479.ts
+#EXTINF:-1,IT: MTV music
+http://hyper.de1-eu.com:8000/live/aria/aria/3468.ts
+#EXTINF:-1,IT: MTV IT
+http://hyper.de1-eu.com:8000/live/aria/aria/3469.ts
+#EXTINF:-1,IT: MTV Brand New
+http://hyper.de1-eu.com:8000/live/aria/aria/3470.ts
+#EXTINF:-1,IT: Mediaset TOP crime
+http://hyper.de1-eu.com:8000/live/aria/aria/3491.ts
+#EXTINF:-1,IT: Mediaset italia 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3411.ts
+#EXTINF:-1,IT: Mediaset extra
+http://hyper.de1-eu.com:8000/live/aria/aria/3493.ts
+#EXTINF:-1,IT: Mediaset Canale 5 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3492.ts
+#EXTINF:-1,IT: La7d HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3412.ts
+#EXTINF:-1,IT: La7 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3450.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3482.ts
+#EXTINF:-1,IT: Gambero Rosso HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3449.ts
+#EXTINF:-1,IT: Fox Sports HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3445.ts
+#EXTINF:-1,IT: Fox life HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3442.ts
+#EXTINF:-1,IT: Fox HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3441.ts
+#EXTINF:-1,IT: Fox Crime HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3444.ts
+#EXTINF:-1,IT: Fox Comedy HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3443.ts
+#EXTINF:-1,IT: Fox Animation HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3446.ts
+#EXTINF:-1,IT: Focus
+http://hyper.de1-eu.com:8000/live/aria/aria/3471.ts
+#EXTINF:-1,IT: Fineliving
+http://hyper.de1-eu.com:8000/live/aria/aria/3472.ts
+#EXTINF:-1,IT: Eurosport 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3448.ts
+#EXTINF:-1,IT: E!
+http://hyper.de1-eu.com:8000/live/aria/aria/3473.ts
+#EXTINF:-1,IT: DMAX
+http://hyper.de1-eu.com:8000/live/aria/aria/3413.ts
+#EXTINF:-1,IT: Disney XD
+http://hyper.de1-eu.com:8000/live/aria/aria/3485.ts
+#EXTINF:-1,IT: Disney Junior
+http://hyper.de1-eu.com:8000/live/aria/aria/3486.ts
+#EXTINF:-1,IT: Disney channel
+http://hyper.de1-eu.com:8000/live/aria/aria/3483.ts
+#EXTINF:-1,IT: Discovery World
+http://hyper.de1-eu.com:8000/live/aria/aria/3478.ts
+#EXTINF:-1,IT: Discovery Travel Living HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3476.ts
+#EXTINF:-1,IT: Discovery Sci HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3447.ts
+#EXTINF:-1,IT: Crime Investigation HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3477.ts
+#EXTINF:-1,IT: CartoonNetwork
+http://hyper.de1-eu.com:8000/live/aria/aria/3484.ts
+#EXTINF:-1,IT: Cartonito
+http://hyper.de1-eu.com:8000/live/aria/aria/3487.ts
+#EXTINF:-1,IT: Canale Italia
+http://hyper.de1-eu.com:8000/live/aria/aria/3415.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3414.ts
+#EXTINF:-1,IT: Calcio2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3417.ts
+#EXTINF:-1,IT: Calcio1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3416.ts
+#EXTINF:-1,IT: Calcio 9 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3424.ts
+#EXTINF:-1,IT: Calcio 8 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3423.ts
+#EXTINF:-1,IT: Calcio 7 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3422.ts
+#EXTINF:-1,IT: Calcio 6 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3421.ts
+#EXTINF:-1,IT: Calcio 5 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3420.ts
+#EXTINF:-1,IT: Calcio 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3419.ts
+#EXTINF:-1,IT: Calcio 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3418.ts
+#EXTINF:-1,IT: BBC
+http://hyper.de1-eu.com:8000/live/aria/aria/3488.ts
+#EXTINF:-1,IT: AXN HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3489.ts
+#EXTINF:-1,IT: Animal Planet
+http://hyper.de1-eu.com:8000/live/aria/aria/3474.ts
+#EXTINF:-1,IT: Alice
+http://hyper.de1-eu.com:8000/live/aria/aria/3490.ts
+#EXTINF:-1,IT:  Studio Universal
+http://hyper.de1-eu.com:8000/live/aria/aria/3465.ts
+#EXTINF:-1,IT:  Sky Sport F1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3439.ts
+#EXTINF:-1,IT:  History HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3475.ts
+#EXTINF:-1,----USA
+http://dummylink.com
+#EXTINF:-1,USA: NBA TV HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3071.ts
+#EXTINF:-1,USA: CNBC HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3072.ts
+#EXTINF:-1,USA: SPECTRUM
+http://hyper.de1-eu.com:8000/live/aria/aria/3085.ts
+#EXTINF:-1,USA: PRIME PACIFIC
+http://hyper.de1-eu.com:8000/live/aria/aria/3086.ts
+#EXTINF:-1,USA: PRIME ATLANTIC
+http://hyper.de1-eu.com:8000/live/aria/aria/3087.ts
+#EXTINF:-1,USA: Nick HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3073.ts
+#EXTINF:-1,USA: TSN 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3074.ts
+#EXTINF:-1,USA: TSN 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3075.ts
+#EXTINF:-1,USA: TSN 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3076.ts
+#EXTINF:-1,USA: AFM NEWS
+http://hyper.de1-eu.com:8000/live/aria/aria/3077.ts
+#EXTINF:-1,USA: TSN 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3078.ts
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3088.ts
+#EXTINF:-1,USA: ESPN HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3079.ts
+#EXTINF:-1,USA: AFM MOVIES
+http://hyper.de1-eu.com:8000/live/aria/aria/3080.ts
+#EXTINF:-1,USA: DTX
+http://hyper.de1-eu.com:8000/live/aria/aria/3089.ts
+#EXTINF:-1,USA: DISCOVERY SHOWCASE HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3090.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3091.ts
+#EXTINF:-1,USA: DISCOVERY ID XTRA HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3092.ts
+#EXTINF:-1,USA: AFM SPORT HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3081.ts
+#EXTINF:-1,USA: CNN HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3082.ts
+#EXTINF:-1,USA: AFM  PLUSE
+http://hyper.de1-eu.com:8000/live/aria/aria/3083.ts
+#EXTINF:-1,USA: DTX HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3084.ts
+#EXTINF:-1,USA: AFN SPORTS HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3093.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3094.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://hyper.de1-eu.com:8000/live/aria/aria/3095.ts
+#EXTINF:-1,USA: AFN NEWS
+http://hyper.de1-eu.com:8000/live/aria/aria/3096.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://hyper.de1-eu.com:8000/live/aria/aria/3097.ts
+#EXTINF:-1,USA: AFM PULSE
+http://hyper.de1-eu.com:8000/live/aria/aria/3098.ts
+#EXTINF:-1,USA: ABC NEWS
+http://hyper.de1-eu.com:8000/live/aria/aria/3099.ts
+#EXTINF:-1,----NL
+http://dummylink.com
+#EXTINF:-1,NL: Veronica
+http://hyper.de1-eu.com:8000/live/aria/aria/3102.ts
+#EXTINF:-1,NL: TV Oost
+http://hyper.de1-eu.com:8000/live/aria/aria/3124.ts
+#EXTINF:-1,NL: TV 538
+http://hyper.de1-eu.com:8000/live/aria/aria/3104.ts
+#EXTINF:-1,NL: TLC
+http://hyper.de1-eu.com:8000/live/aria/aria/3123.ts
+#EXTINF:-1,NL: SYFY
+http://hyper.de1-eu.com:8000/live/aria/aria/3122.ts
+#EXTINF:-1,NL: Sports 1 Exstra
+http://hyper.de1-eu.com:8000/live/aria/aria/3107.ts
+#EXTINF:-1,NL: Sport 1 Voetbal
+http://hyper.de1-eu.com:8000/live/aria/aria/3108.ts
+#EXTINF:-1,NL: Sport 1 Select
+http://hyper.de1-eu.com:8000/live/aria/aria/3109.ts
+#EXTINF:-1,NL: Sport 1 Racing
+http://hyper.de1-eu.com:8000/live/aria/aria/3110.ts
+#EXTINF:-1,NL: Sport 1 Golf
+http://hyper.de1-eu.com:8000/live/aria/aria/3111.ts
+#EXTINF:-1,NL: Sport 1 Extra 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3112.ts
+#EXTINF:-1,NL: SBS 9
+http://hyper.de1-eu.com:8000/live/aria/aria/3114.ts
+#EXTINF:-1,NL: SBS 6
+http://hyper.de1-eu.com:8000/live/aria/aria/3115.ts
+#EXTINF:-1,NL: RTV 7
+http://hyper.de1-eu.com:8000/live/aria/aria/3117.ts
+#EXTINF:-1,NL: RTL 8
+http://hyper.de1-eu.com:8000/live/aria/aria/3118.ts
+#EXTINF:-1,NL: RTL 7
+http://hyper.de1-eu.com:8000/live/aria/aria/3119.ts
+#EXTINF:-1,NL: RTL 5
+http://hyper.de1-eu.com:8000/live/aria/aria/3120.ts
+#EXTINF:-1,NL: RTL 4
+http://hyper.de1-eu.com:8000/live/aria/aria/3121.ts
+#EXTINF:-1,NL: NPO Zapp Xtra
+http://hyper.de1-eu.com:8000/live/aria/aria/3116.ts
+#EXTINF:-1,NL: NPO 3
+http://hyper.de1-eu.com:8000/live/aria/aria/3127.ts
+#EXTINF:-1,NL: NPO 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3126.ts
+#EXTINF:-1,NL: NPO 101
+http://hyper.de1-eu.com:8000/live/aria/aria/3113.ts
+#EXTINF:-1,NL: NPO 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3125.ts
+#EXTINF:-1,NL: Nicktoons
+http://hyper.de1-eu.com:8000/live/aria/aria/3128.ts
+#EXTINF:-1,NL: Nickelodeon
+http://hyper.de1-eu.com:8000/live/aria/aria/3129.ts
+#EXTINF:-1,NL: Nick Jr
+http://hyper.de1-eu.com:8000/live/aria/aria/3130.ts
+#EXTINF:-1,NL: NET 5
+http://hyper.de1-eu.com:8000/live/aria/aria/3131.ts
+#EXTINF:-1,NL: MTV Music 24
+http://hyper.de1-eu.com:8000/live/aria/aria/3132.ts
+#EXTINF:-1,NL: MTV 24
+http://hyper.de1-eu.com:8000/live/aria/aria/3106.ts
+#EXTINF:-1,NL: NPO 101.
+http://hyper.de1-eu.com:8000/live/aria/aria/3133.ts
+#EXTINF:-1,NL: Motors TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3134.ts
+#EXTINF:-1,NL: National Geographic
+http://hyper.de1-eu.com:8000/live/aria/aria/3103.ts
+#EXTINF:-1,NL: HBO 3
+http://hyper.de1-eu.com:8000/live/aria/aria/3139.ts
+#EXTINF:-1,NL: HBO 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3138.ts
+#EXTINF:-1,NL: HBO 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3137.ts
+#EXTINF:-1,NL: Fox Sports 6 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3145.ts
+#EXTINF:-1,NL: Fox Sports 5
+http://hyper.de1-eu.com:8000/live/aria/aria/3144.ts
+#EXTINF:-1,NL: Fox Sports 4
+http://hyper.de1-eu.com:8000/live/aria/aria/3143.ts
+#EXTINF:-1,NL: Fox Sports 3
+http://hyper.de1-eu.com:8000/live/aria/aria/3142.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3141.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3140.ts
+#EXTINF:-1,NL: Fox
+http://hyper.de1-eu.com:8000/live/aria/aria/3146.ts
+#EXTINF:-1,NL: Film1 Sundance
+http://hyper.de1-eu.com:8000/live/aria/aria/3147.ts
+#EXTINF:-1,NL: Film1 Premiere
+http://hyper.de1-eu.com:8000/live/aria/aria/3148.ts
+#EXTINF:-1,NL: Film1 Comedy
+http://hyper.de1-eu.com:8000/live/aria/aria/3149.ts
+#EXTINF:-1,NL: Film1 Action
+http://hyper.de1-eu.com:8000/live/aria/aria/3150.ts
+#EXTINF:-1,NL: Film 1 Spotlight
+http://hyper.de1-eu.com:8000/live/aria/aria/3151.ts
+#EXTINF:-1,NL: Film 1 Premiere
+http://hyper.de1-eu.com:8000/live/aria/aria/3101.ts
+#EXTINF:-1,NL: Film 1 Comedy and Kids
+http://hyper.de1-eu.com:8000/live/aria/aria/3100.ts
+#EXTINF:-1,NL: Film 1 Action
+http://hyper.de1-eu.com:8000/live/aria/aria/3105.ts
+#EXTINF:-1,NL: FOX SPORT 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3152.ts
+#EXTINF:-1,NL: FOX SPORT 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3153.ts
+#EXTINF:-1,NL: FOX SPORT 4
+http://hyper.de1-eu.com:8000/live/aria/aria/3154.ts
+#EXTINF:-1,NL: E! Entertainment
+http://hyper.de1-eu.com:8000/live/aria/aria/3155.ts
+#EXTINF:-1,NL: E! Enternainment2
+http://hyper.de1-eu.com:8000/live/aria/aria/3156.ts
+#EXTINF:-1,NL: Disney Junior
+http://hyper.de1-eu.com:8000/live/aria/aria/3161.ts
+#EXTINF:-1,NL: Discovery Channel
+http://hyper.de1-eu.com:8000/live/aria/aria/3157.ts
+#EXTINF:-1,NL: Crime  Investigation.
+http://hyper.de1-eu.com:8000/live/aria/aria/3158.ts
+#EXTINF:-1,NL: Comedy Central Family
+http://hyper.de1-eu.com:8000/live/aria/aria/3159.ts
+#EXTINF:-1,NL: Comedy Central extra
+http://hyper.de1-eu.com:8000/live/aria/aria/3136.ts
+#EXTINF:-1,NL: Comedy Central Exstra
+http://hyper.de1-eu.com:8000/live/aria/aria/3160.ts
+#EXTINF:-1,NL: BBC Entertainment
+http://hyper.de1-eu.com:8000/live/aria/aria/3135.ts
+#EXTINF:-1,NL: Baby TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3162.ts
+#EXTINF:-1,NL: AT-5
+http://hyper.de1-eu.com:8000/live/aria/aria/3163.ts
+#EXTINF:-1,NL: 13TH Street
+http://hyper.de1-eu.com:8000/live/aria/aria/3164.ts
+#EXTINF:-1,----FR
+http://dummylink.com
+#EXTINF:-1,FR: BeIn Sport 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3715.ts
+#EXTINF:-1,FR: BeIn Sport 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3714.ts
+#EXTINF:-1,FR: BeIn Sport 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3713.ts
+#EXTINF:-1,FR: W9
+http://hyper.de1-eu.com:8000/live/aria/aria/3342.ts
+#EXTINF:-1,FR: TV5 MONDE HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3308.ts
+#EXTINF:-1,FR: TMC
+http://hyper.de1-eu.com:8000/live/aria/aria/3343.ts
+#EXTINF:-1,FR: TF 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3344.ts
+#EXTINF:-1,FR: Teva HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3351.ts
+#EXTINF:-1,FR: SERIE CLUB
+http://hyper.de1-eu.com:8000/live/aria/aria/3309.ts
+#EXTINF:-1,FR: Public Senat
+http://hyper.de1-eu.com:8000/live/aria/aria/3345.ts
+#EXTINF:-1,FR: PLANETE   CI
+http://hyper.de1-eu.com:8000/live/aria/aria/3310.ts
+#EXTINF:-1,FR: PLANETE
+http://hyper.de1-eu.com:8000/live/aria/aria/3311.ts
+#EXTINF:-1,FR: Piwi
+http://hyper.de1-eu.com:8000/live/aria/aria/3346.ts
+#EXTINF:-1,FR: NRJ 12
+http://hyper.de1-eu.com:8000/live/aria/aria/3347.ts
+#EXTINF:-1,FR: Nickelodeon
+http://hyper.de1-eu.com:8000/live/aria/aria/3349.ts
+#EXTINF:-1,FR: NATIONAL GEO CHANNEL
+http://hyper.de1-eu.com:8000/live/aria/aria/3312.ts
+#EXTINF:-1,FR: Ma chaine Sports
+http://hyper.de1-eu.com:8000/live/aria/aria/3313.ts
+#EXTINF:-1,FR: M6 MUSIC
+http://hyper.de1-eu.com:8000/live/aria/aria/3314.ts
+#EXTINF:-1,FR: M6
+http://hyper.de1-eu.com:8000/live/aria/aria/3348.ts
+#EXTINF:-1,FR: LCP
+http://hyper.de1-eu.com:8000/live/aria/aria/3350.ts
+#EXTINF:-1,FR: INFOSPORT
+http://hyper.de1-eu.com:8000/live/aria/aria/3315.ts
+#EXTINF:-1,FR: Gulli
+http://hyper.de1-eu.com:8000/live/aria/aria/3352.ts
+#EXTINF:-1,FR: France O
+http://hyper.de1-eu.com:8000/live/aria/aria/3353.ts
+#EXTINF:-1,FR: France 5
+http://hyper.de1-eu.com:8000/live/aria/aria/3357.ts
+#EXTINF:-1,FR: France 4
+http://hyper.de1-eu.com:8000/live/aria/aria/3356.ts
+#EXTINF:-1,FR: France 3 Sat
+http://hyper.de1-eu.com:8000/live/aria/aria/3355.ts
+#EXTINF:-1,FR: FRANCE 24
+http://hyper.de1-eu.com:8000/live/aria/aria/3316.ts
+#EXTINF:-1,FR: France 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3354.ts
+#EXTINF:-1,FR: EUROSPORT 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3317.ts
+#EXTINF:-1,FR: EUROSPORT 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3318.ts
+#EXTINF:-1,FR: EURONEWS
+http://hyper.de1-eu.com:8000/live/aria/aria/3319.ts
+#EXTINF:-1,FR: DISCOVERY HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3320.ts
+#EXTINF:-1,FR: D8
+http://hyper.de1-eu.com:8000/live/aria/aria/3358.ts
+#EXTINF:-1,FR: Comedie
+http://hyper.de1-eu.com:8000/live/aria/aria/3359.ts
+#EXTINF:-1,FR: CINE FX
+http://hyper.de1-eu.com:8000/live/aria/aria/3321.ts
+#EXTINF:-1,FR: CINE CLASSIC
+http://hyper.de1-eu.com:8000/live/aria/aria/3322.ts
+#EXTINF:-1,FR: CHASSE E PECHE
+http://hyper.de1-eu.com:8000/live/aria/aria/3323.ts
+#EXTINF:-1,FR: Chasse and Peche
+http://hyper.de1-eu.com:8000/live/aria/aria/3360.ts
+#EXTINF:-1,FR: CANAL J
+http://hyper.de1-eu.com:8000/live/aria/aria/3324.ts
+#EXTINF:-1,FR: Canal   Sport
+http://hyper.de1-eu.com:8000/live/aria/aria/3361.ts
+#EXTINF:-1,FR: CANAL   FRISSON
+http://hyper.de1-eu.com:8000/live/aria/aria/3325.ts
+#EXTINF:-1,FR: CANAL   FAMALY
+http://hyper.de1-eu.com:8000/live/aria/aria/3326.ts
+#EXTINF:-1,FR: CANAL   EMOTION
+http://hyper.de1-eu.com:8000/live/aria/aria/3327.ts
+#EXTINF:-1,FR: CANAL   DECALE
+http://hyper.de1-eu.com:8000/live/aria/aria/3328.ts
+#EXTINF:-1,FR: CANAL   CLASSIC
+http://hyper.de1-eu.com:8000/live/aria/aria/3329.ts
+#EXTINF:-1,FR: Canal   Cinema France
+http://hyper.de1-eu.com:8000/live/aria/aria/3363.ts
+#EXTINF:-1,FR: CANAL   CINEMA
+http://hyper.de1-eu.com:8000/live/aria/aria/3330.ts
+#EXTINF:-1,FR: Canal
+http://hyper.de1-eu.com:8000/live/aria/aria/3362.ts
+#EXTINF:-1,FR: BOING
+http://hyper.de1-eu.com:8000/live/aria/aria/3331.ts
+#EXTINF:-1,FR: BFM TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3332.ts
+#EXTINF:-1,FR: BeIn Sports Max 8
+http://hyper.de1-eu.com:8000/live/aria/aria/3368.ts
+#EXTINF:-1,FR: BeIn Sports Max 7
+http://hyper.de1-eu.com:8000/live/aria/aria/3367.ts
+#EXTINF:-1,FR: BeIn Sports Max 6
+http://hyper.de1-eu.com:8000/live/aria/aria/3366.ts
+#EXTINF:-1,FR: BeIn Sports Max 5
+http://hyper.de1-eu.com:8000/live/aria/aria/3365.ts
+#EXTINF:-1,FR: BeIn Sports Max 4
+http://hyper.de1-eu.com:8000/live/aria/aria/3364.ts
+#EXTINF:-1,FR: ARTE Francais
+http://hyper.de1-eu.com:8000/live/aria/aria/3333.ts
+#EXTINF:-1,FR: ARTE
+http://hyper.de1-eu.com:8000/live/aria/aria/3334.ts
+#EXTINF:-1,FR: ANIMAUX
+http://hyper.de1-eu.com:8000/live/aria/aria/3335.ts
+#EXTINF:-1,FR: ACTION
+http://hyper.de1-eu.com:8000/live/aria/aria/3336.ts
+#EXTINF:-1,FR: A LA CARTE 5
+http://hyper.de1-eu.com:8000/live/aria/aria/3337.ts
+#EXTINF:-1,FR: A LA CARTE 4
+http://hyper.de1-eu.com:8000/live/aria/aria/3338.ts
+#EXTINF:-1,FR: A LA CARTE 3
+http://hyper.de1-eu.com:8000/live/aria/aria/3339.ts
+#EXTINF:-1,FR: A LA CARTE 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3340.ts
+#EXTINF:-1,FR: A LA CARTE 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3341.ts
+#EXTINF:-1,----GR
+http://dummylink.com
+#EXTINF:-1,GR: SKAI
+http://hyper.de1-eu.com:8000/live/aria/aria/2900.ts
+#EXTINF:-1,GR: Mega
+http://hyper.de1-eu.com:8000/live/aria/aria/2901.ts
+#EXTINF:-1,GR: Makedonia
+http://hyper.de1-eu.com:8000/live/aria/aria/2902.ts
+#EXTINF:-1,GR: ERT HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2903.ts
+#EXTINF:-1,GR: ERT 3
+http://hyper.de1-eu.com:8000/live/aria/aria/2904.ts
+#EXTINF:-1,GR: ERT 2
+http://hyper.de1-eu.com:8000/live/aria/aria/2905.ts
+#EXTINF:-1,GR: Epsilon TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2906.ts
+#EXTINF:-1,GR: Art TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2907.ts
+#EXTINF:-1,GR: Ant1
+http://hyper.de1-eu.com:8000/live/aria/aria/2908.ts
+#EXTINF:-1,GR: Alpha TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2909.ts
+#EXTINF:-1,----SW
+http://dummylink.com
+#EXTINF:-1,SW: Viasat Sport HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3816.ts
+#EXTINF:-1,SW: Viasat Motor
+http://hyper.de1-eu.com:8000/live/aria/aria/3817.ts
+#EXTINF:-1,SW: Viasat Golf
+http://hyper.de1-eu.com:8000/live/aria/aria/3818.ts
+#EXTINF:-1,SW: Viasat Film Premiere
+http://hyper.de1-eu.com:8000/live/aria/aria/3819.ts
+#EXTINF:-1,SW: VIASAT FILM
+http://hyper.de1-eu.com:8000/live/aria/aria/3821.ts
+#EXTINF:-1,SW: Vfilm Action
+http://hyper.de1-eu.com:8000/live/aria/aria/3822.ts
+#EXTINF:-1,SW: C More Tennis
+http://hyper.de1-eu.com:8000/live/aria/aria/3823.ts
+#EXTINF:-1,SW: C More Series
+http://hyper.de1-eu.com:8000/live/aria/aria/3824.ts
+#EXTINF:-1,SW: C More Live
+http://hyper.de1-eu.com:8000/live/aria/aria/3825.ts
+#EXTINF:-1,SW: C MORE HITS
+http://hyper.de1-eu.com:8000/live/aria/aria/3826.ts
+#EXTINF:-1,SW: C More Fotboll HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3827.ts
+#EXTINF:-1,SW: C More First
+http://hyper.de1-eu.com:8000/live/aria/aria/3828.ts
+#EXTINF:-1,SW: C More Emotion
+http://hyper.de1-eu.com:8000/live/aria/aria/3829.ts
+#EXTINF:-1,SW: C MORE ACTION
+http://hyper.de1-eu.com:8000/live/aria/aria/3830.ts
+#EXTINF:-1,----DE
+http://dummylink.com
+#EXTINF:-1,DE: Sky Sport 2.
+http://hyper.de1-eu.com:8000/live/aria/aria/3688.ts
+#EXTINF:-1,DE: Sky Sport 1.
+http://hyper.de1-eu.com:8000/live/aria/aria/3689.ts
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3767.ts
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3768.ts
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3769.ts
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3770.ts
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3771.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3772.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3773.ts
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3774.ts
+#EXTINF:-1,DE: TNT Serie
+http://hyper.de1-eu.com:8000/live/aria/aria/3556.ts
+#EXTINF:-1,DE: TNT Film
+http://hyper.de1-eu.com:8000/live/aria/aria/3557.ts
+#EXTINF:-1,DE: TLC
+http://hyper.de1-eu.com:8000/live/aria/aria/3558.ts
+#EXTINF:-1,DE: Syfy DE
+http://hyper.de1-eu.com:8000/live/aria/aria/3559.ts
+#EXTINF:-1,DE: SUPER RTL
+http://hyper.de1-eu.com:8000/live/aria/aria/3560.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3534.ts
+#EXTINF:-1,DE: SPORT 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3535.ts
+#EXTINF:-1,DE: Sport 1  HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3533.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://hyper.de1-eu.com:8000/live/aria/aria/3561.ts
+#EXTINF:-1,DE: SKYDESPAU
+http://hyper.de1-eu.com:8000/live/aria/aria/3562.ts
+#EXTINF:-1,DE: SKYDESP2
+http://hyper.de1-eu.com:8000/live/aria/aria/3563.ts
+#EXTINF:-1,DE: SKYDESP1
+http://hyper.de1-eu.com:8000/live/aria/aria/3564.ts
+#EXTINF:-1,DE: SKYDEBU1
+http://hyper.de1-eu.com:8000/live/aria/aria/3565.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3536.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://hyper.de1-eu.com:8000/live/aria/aria/3539.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3537.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3538.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://hyper.de1-eu.com:8000/live/aria/aria/3566.ts
+#EXTINF:-1,DE: Sky Krimi
+http://hyper.de1-eu.com:8000/live/aria/aria/3567.ts
+#EXTINF:-1,DE: Sky Hits
+http://hyper.de1-eu.com:8000/live/aria/aria/3568.ts
+#EXTINF:-1,DE: Sky Emotion
+http://hyper.de1-eu.com:8000/live/aria/aria/3569.ts
+#EXTINF:-1,DE: Sky Comedy
+http://hyper.de1-eu.com:8000/live/aria/aria/3570.ts
+#EXTINF:-1,DE: Sky Cinema24
+http://hyper.de1-eu.com:8000/live/aria/aria/3571.ts
+#EXTINF:-1,DE: Sky Cinema 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3572.ts
+#EXTINF:-1,DE: Sky Cinema
+http://hyper.de1-eu.com:8000/live/aria/aria/3573.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 weekend only
+http://hyper.de1-eu.com:8000/live/aria/aria/3540.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 weekend only
+http://hyper.de1-eu.com:8000/live/aria/aria/3541.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 weekend only
+http://hyper.de1-eu.com:8000/live/aria/aria/3542.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3543.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://hyper.de1-eu.com:8000/live/aria/aria/3574.ts
+#EXTINF:-1,DE: Sky Action
+http://hyper.de1-eu.com:8000/live/aria/aria/3575.ts
+#EXTINF:-1,DE: SIXX HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3576.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3544.ts
+#EXTINF:-1,DE: RTL2
+http://hyper.de1-eu.com:8000/live/aria/aria/3577.ts
+#EXTINF:-1,DE: RTL1
+http://hyper.de1-eu.com:8000/live/aria/aria/3578.ts
+#EXTINF:-1,DE: RTL Passion
+http://hyper.de1-eu.com:8000/live/aria/aria/3579.ts
+#EXTINF:-1,DE: RTL NITRO
+http://hyper.de1-eu.com:8000/live/aria/aria/3580.ts
+#EXTINF:-1,DE: RTL LIVING
+http://hyper.de1-eu.com:8000/live/aria/aria/3581.ts
+#EXTINF:-1,DE: RTL HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3545.ts
+#EXTINF:-1,DE: RTL Crime
+http://hyper.de1-eu.com:8000/live/aria/aria/3582.ts
+#EXTINF:-1,DE: RomanceTV
+http://hyper.de1-eu.com:8000/live/aria/aria/3583.ts
+#EXTINF:-1,DE: Pro Sieben Maxx HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3546.ts
+#EXTINF:-1,DE: Pro Sieben HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3547.ts
+#EXTINF:-1,DE: Passion
+http://hyper.de1-eu.com:8000/live/aria/aria/3548.ts
+#EXTINF:-1,DE: Nick Jr
+http://hyper.de1-eu.com:8000/live/aria/aria/3584.ts
+#EXTINF:-1,DE: NatGeo Wild DE
+http://hyper.de1-eu.com:8000/live/aria/aria/3585.ts
+#EXTINF:-1,DE: Nat GEO
+http://hyper.de1-eu.com:8000/live/aria/aria/3586.ts
+#EXTINF:-1,DE: N-TV HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3549.ts
+#EXTINF:-1,DE: Motorvision TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3550.ts
+#EXTINF:-1,DE: MGM DE
+http://hyper.de1-eu.com:8000/live/aria/aria/3587.ts
+#EXTINF:-1,DE: KinoweltTV
+http://hyper.de1-eu.com:8000/live/aria/aria/3588.ts
+#EXTINF:-1,DE: Kabel Eins
+http://hyper.de1-eu.com:8000/live/aria/aria/3551.ts
+#EXTINF:-1,DE: Junior
+http://hyper.de1-eu.com:8000/live/aria/aria/3589.ts
+#EXTINF:-1,DE: Jukebox
+http://hyper.de1-eu.com:8000/live/aria/aria/3590.ts
+#EXTINF:-1,DE: Heimatkanal
+http://hyper.de1-eu.com:8000/live/aria/aria/3591.ts
+#EXTINF:-1,DE: Kika
+http://hyper.de1-eu.com:8000/live/aria/aria/3592.ts
+#EXTINF:-1,DE: Fox Serie DE
+http://hyper.de1-eu.com:8000/live/aria/aria/3593.ts
+#EXTINF:-1,DE: FOX
+http://hyper.de1-eu.com:8000/live/aria/aria/3594.ts
+#EXTINF:-1,DE: Film Box Extra HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3552.ts
+#EXTINF:-1,DE: DisneyCH DE
+http://hyper.de1-eu.com:8000/live/aria/aria/3595.ts
+#EXTINF:-1,DE: Disney XD
+http://hyper.de1-eu.com:8000/live/aria/aria/3596.ts
+#EXTINF:-1,DE: Disney Junior DE
+http://hyper.de1-eu.com:8000/live/aria/aria/3597.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://hyper.de1-eu.com:8000/live/aria/aria/3553.ts
+#EXTINF:-1,DE: Discovery Channel DE
+http://hyper.de1-eu.com:8000/live/aria/aria/3598.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3554.ts
+#EXTINF:-1,DE: Classica Deutschland
+http://hyper.de1-eu.com:8000/live/aria/aria/3555.ts
+#EXTINF:-1,DE: Classica
+http://hyper.de1-eu.com:8000/live/aria/aria/3599.ts
+#EXTINF:-1,DE: AXN Action
+http://hyper.de1-eu.com:8000/live/aria/aria/3600.ts
+#EXTINF:-1,DE: ANIXE
+http://hyper.de1-eu.com:8000/live/aria/aria/3601.ts
+#EXTINF:-1,DE: A E DE
+http://hyper.de1-eu.com:8000/live/aria/aria/3602.ts
+#EXTINF:-1,DE: 13th Street
+http://hyper.de1-eu.com:8000/live/aria/aria/3603.ts
+#EXTINF:-1,----AL
+http://dummylink.com
+#EXTINF:-1,AL: Zico TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2910.ts
+#EXTINF:-1,AL: Vizion Plus
+http://hyper.de1-eu.com:8000/live/aria/aria/2988.ts
+#EXTINF:-1,AL: Vizion
+http://hyper.de1-eu.com:8000/live/aria/aria/2911.ts
+#EXTINF:-1,AL: Tvsh
+http://hyper.de1-eu.com:8000/live/aria/aria/2989.ts
+#EXTINF:-1,AL: TV Tetova HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2912.ts
+#EXTINF:-1,AL: TV Sharri HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2913.ts
+#EXTINF:-1,AL: TV Opoja
+http://hyper.de1-eu.com:8000/live/aria/aria/2914.ts
+#EXTINF:-1,AL: TV Lezha
+http://hyper.de1-eu.com:8000/live/aria/aria/2915.ts
+#EXTINF:-1,AL: TV Kosova
+http://hyper.de1-eu.com:8000/live/aria/aria/2916.ts
+#EXTINF:-1,AL: TV Koha
+http://hyper.de1-eu.com:8000/live/aria/aria/2990.ts
+#EXTINF:-1,AL: TV Globi Gostivar
+http://hyper.de1-eu.com:8000/live/aria/aria/2917.ts
+#EXTINF:-1,AL: TV Era
+http://hyper.de1-eu.com:8000/live/aria/aria/2918.ts
+#EXTINF:-1,AL: TV Dukagjini
+http://hyper.de1-eu.com:8000/live/aria/aria/2919.ts
+#EXTINF:-1,AL: Tring World
+http://hyper.de1-eu.com:8000/live/aria/aria/2991.ts
+#EXTINF:-1,AL: Tring Tring
+http://hyper.de1-eu.com:8000/live/aria/aria/2992.ts
+#EXTINF:-1,AL: Tring Super
+http://hyper.de1-eu.com:8000/live/aria/aria/2993.ts
+#EXTINF:-1,AL: Tring Sport News HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2920.ts
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2921.ts
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2922.ts
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2923.ts
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2924.ts
+#EXTINF:-1,AL: Tring Shqip
+http://hyper.de1-eu.com:8000/live/aria/aria/2994.ts
+#EXTINF:-1,AL: Tring Planet
+http://hyper.de1-eu.com:8000/live/aria/aria/2995.ts
+#EXTINF:-1,AL: Tring Max
+http://hyper.de1-eu.com:8000/live/aria/aria/2996.ts
+#EXTINF:-1,AL: Tring Life
+http://hyper.de1-eu.com:8000/live/aria/aria/2997.ts
+#EXTINF:-1,AL: Tring History
+http://hyper.de1-eu.com:8000/live/aria/aria/2998.ts
+#EXTINF:-1,AL: Tring Festa
+http://hyper.de1-eu.com:8000/live/aria/aria/2925.ts
+#EXTINF:-1,AL: Tring Fantasy
+http://hyper.de1-eu.com:8000/live/aria/aria/2999.ts
+#EXTINF:-1,AL: Tring Comedy
+http://hyper.de1-eu.com:8000/live/aria/aria/2926.ts
+#EXTINF:-1,AL: Tring 3
+http://hyper.de1-eu.com:8000/live/aria/aria/2927.ts
+#EXTINF:-1,AL: Tribuna TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2928.ts
+#EXTINF:-1,AL: Top News
+http://hyper.de1-eu.com:8000/live/aria/aria/2929.ts
+#EXTINF:-1,AL: Top Channel HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3000.ts
+#EXTINF:-1,AL: Top Channel
+http://hyper.de1-eu.com:8000/live/aria/aria/3001.ts
+#EXTINF:-1,AL: Tirana TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2930.ts
+#EXTINF:-1,AL: Tip TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2931.ts
+#EXTINF:-1,AL: Tele Sport
+http://hyper.de1-eu.com:8000/live/aria/aria/2932.ts
+#EXTINF:-1,AL: T HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3002.ts
+#EXTINF:-1,AL: Supersport 4
+http://hyper.de1-eu.com:8000/live/aria/aria/3003.ts
+#EXTINF:-1,AL: Supersport 3
+http://hyper.de1-eu.com:8000/live/aria/aria/3004.ts
+#EXTINF:-1,AL: Supersport 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3005.ts
+#EXTINF:-1,AL: Supersport 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3006.ts
+#EXTINF:-1,AL: SuperSonic TV HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2933.ts
+#EXTINF:-1,AL: Super Sport Kosova 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2934.ts
+#EXTINF:-1,AL: Super Sport Kosova 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2935.ts
+#EXTINF:-1,AL: Super Sport 5 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2936.ts
+#EXTINF:-1,AL: Super Sport 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2937.ts
+#EXTINF:-1,AL: Super Sport 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2938.ts
+#EXTINF:-1,AL: Super Sport 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2939.ts
+#EXTINF:-1,AL: Super Sport 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2940.ts
+#EXTINF:-1,AL: Stinet
+http://hyper.de1-eu.com:8000/live/aria/aria/3007.ts
+#EXTINF:-1,AL: Smile
+http://hyper.de1-eu.com:8000/live/aria/aria/3008.ts
+#EXTINF:-1,AL: RTV Sharri
+http://hyper.de1-eu.com:8000/live/aria/aria/2941.ts
+#EXTINF:-1,AL: RTV 21 Popullore HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2942.ts
+#EXTINF:-1,AL: RTV 21 Plus HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2943.ts
+#EXTINF:-1,AL: RTV 21 MK HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2944.ts
+#EXTINF:-1,AL: RTV 21 Junior
+http://hyper.de1-eu.com:8000/live/aria/aria/2945.ts
+#EXTINF:-1,AL: RTV 21 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2946.ts
+#EXTINF:-1,AL: Rtk Kosova
+http://hyper.de1-eu.com:8000/live/aria/aria/3009.ts
+#EXTINF:-1,AL: RTK 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2947.ts
+#EXTINF:-1,AL: RTK 1
+http://hyper.de1-eu.com:8000/live/aria/aria/2948.ts
+#EXTINF:-1,AL: Rrokum HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2949.ts
+#EXTINF:-1,AL: Tring Live
+http://hyper.de1-eu.com:8000/live/aria/aria/2950.ts
+#EXTINF:-1,AL: Ora News
+http://hyper.de1-eu.com:8000/live/aria/aria/2951.ts
+#EXTINF:-1,AL: News 24
+http://hyper.de1-eu.com:8000/live/aria/aria/2952.ts
+#EXTINF:-1,AL: My Music
+http://hyper.de1-eu.com:8000/live/aria/aria/2953.ts
+#EXTINF:-1,AL: MRTV 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2954.ts
+#EXTINF:-1,AL: Mekka Live
+http://hyper.de1-eu.com:8000/live/aria/aria/2955.ts
+#EXTINF:-1,AL: Medina Live
+http://hyper.de1-eu.com:8000/live/aria/aria/2956.ts
+#EXTINF:-1,AL: Lugina Sci-Fi HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2957.ts
+#EXTINF:-1,AL: Lugina Premiere 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2958.ts
+#EXTINF:-1,AL: Lugina Premiere 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2959.ts
+#EXTINF:-1,AL: Lugina Premiere 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2960.ts
+#EXTINF:-1,AL: Living HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2961.ts
+#EXTINF:-1,AL: Ktv Kohavision
+http://hyper.de1-eu.com:8000/live/aria/aria/3010.ts
+#EXTINF:-1,AL: KTV  HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2962.ts
+#EXTINF:-1,AL: KTV
+http://hyper.de1-eu.com:8000/live/aria/aria/2963.ts
+#EXTINF:-1,AL: Koha TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2964.ts
+#EXTINF:-1,AL: Klan Tv
+http://hyper.de1-eu.com:8000/live/aria/aria/3011.ts
+#EXTINF:-1,AL: Klan Kosova HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2965.ts
+#EXTINF:-1,AL: Klan Kosova
+http://hyper.de1-eu.com:8000/live/aria/aria/3012.ts
+#EXTINF:-1,AL: Klan HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3013.ts
+#EXTINF:-1,AL: Kanali 7
+http://hyper.de1-eu.com:8000/live/aria/aria/2966.ts
+#EXTINF:-1,AL: Junior Tv
+http://hyper.de1-eu.com:8000/live/aria/aria/3014.ts
+#EXTINF:-1,AL: Jug TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2967.ts
+#EXTINF:-1,AL: Jolly HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3015.ts
+#EXTINF:-1,AL: Folklorit
+http://hyper.de1-eu.com:8000/live/aria/aria/2968.ts
+#EXTINF:-1,AL: First Channel
+http://hyper.de1-eu.com:8000/live/aria/aria/2969.ts
+#EXTINF:-1,AL: Film Thriller
+http://hyper.de1-eu.com:8000/live/aria/aria/2970.ts
+#EXTINF:-1,AL: Film Thriler
+http://hyper.de1-eu.com:8000/live/aria/aria/3016.ts
+#EXTINF:-1,AL: Film Stinet
+http://hyper.de1-eu.com:8000/live/aria/aria/2971.ts
+#EXTINF:-1,AL: Film Nje HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3017.ts
+#EXTINF:-1,AL: Film Komedi
+http://hyper.de1-eu.com:8000/live/aria/aria/3018.ts
+#EXTINF:-1,AL: Film Junior
+http://hyper.de1-eu.com:8000/live/aria/aria/2972.ts
+#EXTINF:-1,AL: Film Hits 1
+http://hyper.de1-eu.com:8000/live/aria/aria/2973.ts
+#EXTINF:-1,AL: Film Hits  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3019.ts
+#EXTINF:-1,AL: Film Hits
+http://hyper.de1-eu.com:8000/live/aria/aria/3020.ts
+#EXTINF:-1,AL: Film Dy HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3021.ts
+#EXTINF:-1,AL: Film Drame
+http://hyper.de1-eu.com:8000/live/aria/aria/3022.ts
+#EXTINF:-1,AL: Film Autor
+http://hyper.de1-eu.com:8000/live/aria/aria/3023.ts
+#EXTINF:-1,AL: Film Aksion
+http://hyper.de1-eu.com:8000/live/aria/aria/2974.ts
+#EXTINF:-1,AL: Film Akcion
+http://hyper.de1-eu.com:8000/live/aria/aria/3024.ts
+#EXTINF:-1,AL: Explorer Shkence
+http://hyper.de1-eu.com:8000/live/aria/aria/3025.ts
+#EXTINF:-1,AL: Explorer Shkenca
+http://hyper.de1-eu.com:8000/live/aria/aria/2975.ts
+#EXTINF:-1,AL: Explorer Natyre
+http://hyper.de1-eu.com:8000/live/aria/aria/3026.ts
+#EXTINF:-1,AL: Explorer Natyra
+http://hyper.de1-eu.com:8000/live/aria/aria/2976.ts
+#EXTINF:-1,AL: Explorer History
+http://hyper.de1-eu.com:8000/live/aria/aria/3027.ts
+#EXTINF:-1,AL: Explorer Histori
+http://hyper.de1-eu.com:8000/live/aria/aria/2977.ts
+#EXTINF:-1,AL: Era Tv
+http://hyper.de1-eu.com:8000/live/aria/aria/3028.ts
+#EXTINF:-1,AL: Elrodi TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2978.ts
+#EXTINF:-1,AL: Digi Gold
+http://hyper.de1-eu.com:8000/live/aria/aria/3029.ts
+#EXTINF:-1,AL: Dasma TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2979.ts
+#EXTINF:-1,AL: Cufo Tv
+http://hyper.de1-eu.com:8000/live/aria/aria/3030.ts
+#EXTINF:-1,AL: Cufo
+http://hyper.de1-eu.com:8000/live/aria/aria/2980.ts
+#EXTINF:-1,AL: Besa
+http://hyper.de1-eu.com:8000/live/aria/aria/2981.ts
+#EXTINF:-1,AL: BBF Music
+http://hyper.de1-eu.com:8000/live/aria/aria/2982.ts
+#EXTINF:-1,AL: BangBang
+http://hyper.de1-eu.com:8000/live/aria/aria/2983.ts
+#EXTINF:-1,AL: Ballkan TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2984.ts
+#EXTINF:-1,AL: ALB Music
+http://hyper.de1-eu.com:8000/live/aria/aria/2985.ts
+#EXTINF:-1,AL: ABC News
+http://hyper.de1-eu.com:8000/live/aria/aria/2986.ts
+#EXTINF:-1,AL: 21 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3031.ts
+#EXTINF:-1,----TR
+http://dummylink.com
+#EXTINF:-1,TR:Loca_1
+http://hyper.de1-eu.com:8000/live/aria/aria/3032.ts
+#EXTINF:-1,TR: SKYTURK 360
+http://hyper.de1-eu.com:8000/live/aria/aria/3033.ts
+#EXTINF:-1,TR: Sinema_Platin
+http://hyper.de1-eu.com:8000/live/aria/aria/3034.ts
+#EXTINF:-1,TR: Sinema_Gold
+http://hyper.de1-eu.com:8000/live/aria/aria/3035.ts
+#EXTINF:-1,TR: Sinema tv Aksiyon
+http://hyper.de1-eu.com:8000/live/aria/aria/3036.ts
+#EXTINF:-1,TR: Sinema TV Aile
+http://hyper.de1-eu.com:8000/live/aria/aria/3037.ts
+#EXTINF:-1,TR: Sinema Korku
+http://hyper.de1-eu.com:8000/live/aria/aria/3038.ts
+#EXTINF:-1,TR: SHOW TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3039.ts
+#EXTINF:-1,TR: SALON 3
+http://hyper.de1-eu.com:8000/live/aria/aria/3040.ts
+#EXTINF:-1,TR: SALON 2
+http://hyper.de1-eu.com:8000/live/aria/aria/3041.ts
+#EXTINF:-1,TR: SALON 1
+http://hyper.de1-eu.com:8000/live/aria/aria/3042.ts
+#EXTINF:-1,TR: Planet Mutfak
+http://hyper.de1-eu.com:8000/live/aria/aria/3043.ts
+#EXTINF:-1,TR: Planet Cocuk
+http://hyper.de1-eu.com:8000/live/aria/aria/3044.ts
+#EXTINF:-1,TR: Moviemax_Premiere
+http://hyper.de1-eu.com:8000/live/aria/aria/3045.ts
+#EXTINF:-1,TR: Moviemax_Family
+http://hyper.de1-eu.com:8000/live/aria/aria/3046.ts
+#EXTINF:-1,TR: Moviemax Stars
+http://hyper.de1-eu.com:8000/live/aria/aria/3047.ts
+#EXTINF:-1,TR: Moviemax Festival
+http://hyper.de1-eu.com:8000/live/aria/aria/3049.ts
+#EXTINF:-1,TR: Haber Turk
+http://hyper.de1-eu.com:8000/live/aria/aria/3050.ts
+#EXTINF:-1,TR: LIGTV 4 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3051.ts
+#EXTINF:-1,TR: LIGTV 3 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3052.ts
+#EXTINF:-1,TR: LIGTV 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3053.ts
+#EXTINF:-1,TR: LIGTV 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3054.ts
+#EXTINF:-1,TR: KARAMEL TV
+http://hyper.de1-eu.com:8000/live/aria/aria/3055.ts
+#EXTINF:-1,TR: KANALTURK HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3056.ts
+#EXTINF:-1,TR: CNN Turk
+http://hyper.de1-eu.com:8000/live/aria/aria/3057.ts
+#EXTINF:-1,TR: DREAM TURK
+http://hyper.de1-eu.com:8000/live/aria/aria/3058.ts
+#EXTINF:-1,TR: DISNEY JUNIOR
+http://hyper.de1-eu.com:8000/live/aria/aria/3059.ts
+#EXTINF:-1,TR: Disney Channel HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3060.ts
+#EXTINF:-1,TR: Discovery Sc
+http://hyper.de1-eu.com:8000/live/aria/aria/3061.ts
+#EXTINF:-1,TR: Cartoon Network
+http://hyper.de1-eu.com:8000/live/aria/aria/3068.ts
+#EXTINF:-1,----SP
+http://dummylink.com
+#EXTINF:-1,SP: VH1
+http://hyper.de1-eu.com:8000/live/aria/aria/3378.ts
+#EXTINF:-1,SP: TNT
+http://hyper.de1-eu.com:8000/live/aria/aria/3379.ts
+#EXTINF:-1,SP: TELECINCO
+http://hyper.de1-eu.com:8000/live/aria/aria/3380.ts
+#EXTINF:-1,SP: TCM
+http://hyper.de1-eu.com:8000/live/aria/aria/3381.ts
+#EXTINF:-1,SP: SOL MUSICA
+http://hyper.de1-eu.com:8000/live/aria/aria/3369.ts
+#EXTINF:-1,SP: Real Madrid tv
+http://hyper.de1-eu.com:8000/live/aria/aria/3370.ts
+#EXTINF:-1,SP: NICKELODEON
+http://hyper.de1-eu.com:8000/live/aria/aria/3383.ts
+#EXTINF:-1,SP: NICK JR
+http://hyper.de1-eu.com:8000/live/aria/aria/3384.ts
+#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
+http://hyper.de1-eu.com:8000/live/aria/aria/3385.ts
+#EXTINF:-1,SP: NAT GEO WILD
+http://hyper.de1-eu.com:8000/live/aria/aria/3386.ts
+#EXTINF:-1,SP: FOX LIFE
+http://hyper.de1-eu.com:8000/live/aria/aria/3388.ts
+#EXTINF:-1,SP: FOX
+http://hyper.de1-eu.com:8000/live/aria/aria/3387.ts
+#EXTINF:-1,SP: Eurosport
+http://hyper.de1-eu.com:8000/live/aria/aria/3371.ts
+#EXTINF:-1,SP: DISNEY XD
+http://hyper.de1-eu.com:8000/live/aria/aria/3389.ts
+#EXTINF:-1,SP: DISNEY JUNIOR
+http://hyper.de1-eu.com:8000/live/aria/aria/3390.ts
+#EXTINF:-1,SP: DISNEY CHANNEL
+http://hyper.de1-eu.com:8000/live/aria/aria/3391.ts
+#EXTINF:-1,SP: DCINE ESPANOL
+http://hyper.de1-eu.com:8000/live/aria/aria/3392.ts
+#EXTINF:-1,SP: COMEDY CENTRAL
+http://hyper.de1-eu.com:8000/live/aria/aria/3393.ts
+#EXTINF:-1,SP: CAZA Y PESCA
+http://hyper.de1-eu.com:8000/live/aria/aria/3394.ts
+#EXTINF:-1,SP: CANAL HOLLYWOOD
+http://hyper.de1-eu.com:8000/live/aria/aria/3395.ts
+#EXTINF:-1,SP: Canal Estrenos
+http://hyper.de1-eu.com:8000/live/aria/aria/3372.ts
+#EXTINF:-1,SP: CANAL  LIGA2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3373.ts
+#EXTINF:-1,SP: Canal  Liga HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3374.ts
+#EXTINF:-1,SP: CANAL  HD
+http://hyper.de1-eu.com:8000/live/aria/aria/3375.ts
+#EXTINF:-1,SP: Canal  Deporte
+http://hyper.de1-eu.com:8000/live/aria/aria/3376.ts
+#EXTINF:-1,SP: Canal  1
+http://hyper.de1-eu.com:8000/live/aria/aria/3377.ts
+#EXTINF:-1,SP: C  XTRA
+http://hyper.de1-eu.com:8000/live/aria/aria/3396.ts
+#EXTINF:-1,SP: C  TOROS
+http://hyper.de1-eu.com:8000/live/aria/aria/3397.ts
+#EXTINF:-1,SP: C  SERIESXTRA
+http://hyper.de1-eu.com:8000/live/aria/aria/3398.ts
+#EXTINF:-1,SP: C  SERIES
+http://hyper.de1-eu.com:8000/live/aria/aria/3399.ts
+#EXTINF:-1,SP: C  LIGA
+http://hyper.de1-eu.com:8000/live/aria/aria/3400.ts
+#EXTINF:-1,SP: C  GOLF
+http://hyper.de1-eu.com:8000/live/aria/aria/3401.ts
+#EXTINF:-1,SP: C  FUTBOL
+http://hyper.de1-eu.com:8000/live/aria/aria/3402.ts
+#EXTINF:-1,SP: C  ESTRENOS
+http://hyper.de1-eu.com:8000/live/aria/aria/3403.ts
+#EXTINF:-1,SP: C  DEPORTES
+http://hyper.de1-eu.com:8000/live/aria/aria/3404.ts
+#EXTINF:-1,SP: C  COMEDIA
+http://hyper.de1-eu.com:8000/live/aria/aria/3405.ts
+#EXTINF:-1,SP: C  ACCION
+http://hyper.de1-eu.com:8000/live/aria/aria/3406.ts
+#EXTINF:-1,SP: AXN WHITE
+http://hyper.de1-eu.com:8000/live/aria/aria/3407.ts
+#EXTINF:-1,SP: AXN
+http://hyper.de1-eu.com:8000/live/aria/aria/3408.ts
+#EXTINF:-1,SP: AE
+http://hyper.de1-eu.com:8000/live/aria/aria/3409.ts
+#EXTINF:-1,SP:  SYFY
+http://hyper.de1-eu.com:8000/live/aria/aria/3382.ts
+#EXTINF:-1,----PT
+http://dummylink.com
+#EXTINF:-1,PT: TVI Reality
+http://hyper.de1-eu.com:8000/live/aria/aria/2778.ts
+#EXTINF:-1,PT: TVI Ficcao
+http://hyper.de1-eu.com:8000/live/aria/aria/2827.ts
+#EXTINF:-1,PT: Afro Music
+http://hyper.de1-eu.com:8000/live/aria/aria/2831.ts
+#EXTINF:-1,PT: AE
+http://hyper.de1-eu.com:8000/live/aria/aria/2830.ts
+#EXTINF:-1,PT: MOV HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2829.ts
+#EXTINF:-1,PT: Abola TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2828.ts
+#EXTINF:-1,PT: TV CINE HD 4
+http://hyper.de1-eu.com:8000/live/aria/aria/2782.ts
+#EXTINF:-1,PT: TV CINE HD 3
+http://hyper.de1-eu.com:8000/live/aria/aria/2781.ts
+#EXTINF:-1,PT: TV CINE HD 1
+http://hyper.de1-eu.com:8000/live/aria/aria/2780.ts
+#EXTINF:-1,PT: TV CINE 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2779.ts
+#EXTINF:-1,PT: Travel Channel HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2783.ts
+#EXTINF:-1,PT: Toros TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2785.ts
+#EXTINF:-1,PT: TLC
+http://hyper.de1-eu.com:8000/live/aria/aria/2786.ts
+#EXTINF:-1,PT: SYFY
+http://hyper.de1-eu.com:8000/live/aria/aria/2832.ts
+#EXTINF:-1,PT: SPORTING TV HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2787.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://hyper.de1-eu.com:8000/live/aria/aria/2792.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://hyper.de1-eu.com:8000/live/aria/aria/2791.ts
+#EXTINF:-1,PT: SPORT TV 3
+http://hyper.de1-eu.com:8000/live/aria/aria/2790.ts
+#EXTINF:-1,PT: SPORT TV 2
+http://hyper.de1-eu.com:8000/live/aria/aria/2789.ts
+#EXTINF:-1,PT: SPORT TV 1
+http://hyper.de1-eu.com:8000/live/aria/aria/2788.ts
+#EXTINF:-1,PT: RTP AFRICA
+http://hyper.de1-eu.com:8000/live/aria/aria/2793.ts
+#EXTINF:-1,PT: RTP ACORES
+http://hyper.de1-eu.com:8000/live/aria/aria/2794.ts
+#EXTINF:-1,PT: RTP 3
+http://hyper.de1-eu.com:8000/live/aria/aria/2795.ts
+#EXTINF:-1,PT: PFC
+http://hyper.de1-eu.com:8000/live/aria/aria/2796.ts
+#EXTINF:-1,PT: OUTDOOR HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2784.ts
+#EXTINF:-1,PT: Odisseia
+http://hyper.de1-eu.com:8000/live/aria/aria/2797.ts
+#EXTINF:-1,PT: NICKELODEON
+http://hyper.de1-eu.com:8000/live/aria/aria/2798.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2799.ts
+#EXTINF:-1,PT: NATIONAL GEO  WILD
+http://hyper.de1-eu.com:8000/live/aria/aria/2800.ts
+#EXTINF:-1,PT: MTV
+http://hyper.de1-eu.com:8000/live/aria/aria/2801.ts
+#EXTINF:-1,PT: Motorvision
+http://hyper.de1-eu.com:8000/live/aria/aria/2802.ts
+#EXTINF:-1,PT: Motors TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2833.ts
+#EXTINF:-1,PT: JIM JAM
+http://hyper.de1-eu.com:8000/live/aria/aria/2804.ts
+#EXTINF:-1,PT: Hollywood
+http://hyper.de1-eu.com:8000/live/aria/aria/2834.ts
+#EXTINF:-1,PT: Fuel TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2805.ts
+#EXTINF:-1,PT: FoxLife HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2835.ts
+#EXTINF:-1,PT: FOX SPORTS 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2806.ts
+#EXTINF:-1,PT: Fox Movies
+http://hyper.de1-eu.com:8000/live/aria/aria/2836.ts
+#EXTINF:-1,PT: FOX LIFE HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2807.ts
+#EXTINF:-1,PT: FOX HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2837.ts
+#EXTINF:-1,PT: Fox Crime HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2838.ts
+#EXTINF:-1,PT: FOX COMEDY
+http://hyper.de1-eu.com:8000/live/aria/aria/2808.ts
+#EXTINF:-1,PT: EUROSPORT HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2809.ts
+#EXTINF:-1,PT: EUROSPORT 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2810.ts
+#EXTINF:-1,PT: Eurosport 2
+http://hyper.de1-eu.com:8000/live/aria/aria/2839.ts
+#EXTINF:-1,PT: Eurosport 1
+http://hyper.de1-eu.com:8000/live/aria/aria/2840.ts
+#EXTINF:-1,PT: Euronews Portugal
+http://hyper.de1-eu.com:8000/live/aria/aria/2811.ts
+#EXTINF:-1,PT: E! Entertaunment
+http://hyper.de1-eu.com:8000/live/aria/aria/2812.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://hyper.de1-eu.com:8000/live/aria/aria/2813.ts
+#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
+http://hyper.de1-eu.com:8000/live/aria/aria/2814.ts
+#EXTINF:-1,PT: Discovery Channel
+http://hyper.de1-eu.com:8000/live/aria/aria/2815.ts
+#EXTINF:-1,PT: CMTV
+http://hyper.de1-eu.com:8000/live/aria/aria/2841.ts
+#EXTINF:-1,PT: Cinemundo
+http://hyper.de1-eu.com:8000/live/aria/aria/2842.ts
+#EXTINF:-1,PT: Chelsea TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2843.ts
+#EXTINF:-1,PT: Cartoon
+http://hyper.de1-eu.com:8000/live/aria/aria/2816.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://hyper.de1-eu.com:8000/live/aria/aria/2817.ts
+#EXTINF:-1,PT: CANAL Historia
+http://hyper.de1-eu.com:8000/live/aria/aria/2818.ts
+#EXTINF:-1,PT: CaÃƒÂ§a e Pesca
+http://hyper.de1-eu.com:8000/live/aria/aria/2819.ts
+#EXTINF:-1,PT: C MUSIC
+http://hyper.de1-eu.com:8000/live/aria/aria/2803.ts
+#EXTINF:-1,PT: BTV 2 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2820.ts
+#EXTINF:-1,PT: BTV 2
+http://hyper.de1-eu.com:8000/live/aria/aria/2821.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2844.ts
+#EXTINF:-1,PT: BARCA TV
+http://hyper.de1-eu.com:8000/live/aria/aria/2826.ts
+#EXTINF:-1,PT: Baby Tv
+http://hyper.de1-eu.com:8000/live/aria/aria/2822.ts
+#EXTINF:-1,PT: AXN White HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2845.ts
+#EXTINF:-1,PT: AXN HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2846.ts
+#EXTINF:-1,PT: AXN Black HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2823.ts
+#EXTINF:-1,PT: AMC
+http://hyper.de1-eu.com:8000/live/aria/aria/2847.ts
+#EXTINF:-1,PT: AE.
+http://hyper.de1-eu.com:8000/live/aria/aria/2824.ts
+#EXTINF:-1,PT: 24KITCHEN HD
+http://hyper.de1-eu.com:8000/live/aria/aria/2825.ts
 </List>

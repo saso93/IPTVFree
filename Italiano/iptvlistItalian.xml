@@ -38,19 +38,23 @@ http://dummylink.com
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://lucky.lts1.net:23000/live/461311/461311/2399.ts
+http://iptvxsempre.zapto.org:8000/live/aniello/aniello/1538.ts
 #EXTINF:-1,Rai 2 HD
-http://lucky.lts1.net:23000/live/461311/461311/2400.ts
+http://iptvxsempre.zapto.org:8000/live/aniello/aniello/1539.ts
 #EXTINF:-1,Rai 3 HD
-http://lucky.lts1.net:23000/live/461311/461311/2401.ts
+http://iptvxsempre.zapto.org:8000/live/aniello/aniello/1540.ts
 #EXTINF:-1,Rete 4 HD
-http://lucky.lts1.net:23000/live/461311/461311/3813.ts
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Canale 5
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Canale 5 HD
-http://lucky.lts1.net:23000/live/461311/461311/3811.ts
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
+#EXTINF:-1,Italia 1
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1 HD
-http://lucky.lts1.net:23000/live/461311/461311/3812.ts
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
 #EXTINF:-1,La7 HD
-http://lucky.lts1.net:23000/live/461311/461311/3814.ts
+http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8
 #EXTINF:-1 ,Rai 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
 #EXTINF:-1,Iris

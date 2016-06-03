@@ -3,150 +3,280 @@
 #EXTM3U
 #EXTINF:-1,----DEFAULT
 http://dummylink.com
-#EXTINF:0,UK: Setanta HD
-http://213.136.90.30:8000/live/sk3/sk3/14101.ts
-#EXTINF:0,UK: BT Sports 1 HD
-http://213.136.90.30:8000/live/sk3/sk3/14092.ts
-#EXTINF:0,CBS Drama
-http://213.136.90.30:8000/live/sk3/sk3/11492.ts
-#EXTINF:0,CBS Action
-http://213.136.90.30:8000/live/sk3/sk3/11491.ts
-#EXTINF:0,UK: RTE 2
-http://213.136.90.30:8000/live/sk3/sk3/13878.ts
-#EXTINF:0,UK: RTE 1
-http://213.136.90.30:8000/live/sk3/sk3/13879.ts
-#EXTINF:0,Sky Sports 1 HD
-http://213.136.90.30:8000/live/sk3/sk3/11554.ts
-#EXTINF:0,Sky Sports 2
-http://213.136.90.30:8000/live/sk3/sk3/11555.ts
-#EXTINF:0,Sky Sports 3
-http://213.136.90.30:8000/live/sk3/sk3/11557.ts
-#EXTINF:0,Sky Sports 4
-http://213.136.90.30:8000/live/sk3/sk3/11559.ts
-#EXTINF:0,Sky Sports 5 HD
-http://213.136.90.30:8000/live/sk3/sk3/11560.ts
-#EXTINF:0,UK: formula1 hd ds
-http://213.136.90.30:8000/live/sk3/sk3/13264.ts
-#EXTINF:0,BT Sports 1
-http://213.136.90.30:8000/live/sk3/sk3/11489.ts
-#EXTINF:0,UK.BTSports1 s50
-http://213.136.90.30:8000/live/sk3/sk3/11953.ts
-#EXTINF:0,BT Sport 1 HD
-http://213.136.90.30:8000/live/sk3/sk3/11485.ts
-#EXTINF:0,BT Sport Europe
-http://213.136.90.30:8000/live/sk3/sk3/11488.ts
-#EXTINF:0,BT Sport ESPN
-http://213.136.90.30:8000/live/sk3/sk3/11487.ts
-#EXTINF:0,UK.SkySports2HD
-http://213.136.90.30:8000/live/sk3/sk3/13942.ts
-#EXTINF:0,UK.SkySports1HD
+#EXTINF:-1,UK: TLC
+http://213.136.90.30:8000/live/sk3/sk3/15199.ts
+#EXTINF:-1,UK: Sky Sports News
+http://213.136.90.30:8000/live/sk3/sk3/15216.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://213.136.90.30:8000/live/sk3/sk3/15215.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://213.136.90.30:8000/live/sk3/sk3/15214.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://213.136.90.30:8000/live/sk3/sk3/15213.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://213.136.90.30:8000/live/sk3/sk3/15211.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://213.136.90.30:8000/live/sk3/sk3/15210.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://213.136.90.30:8000/live/sk3/sk3/15209.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://213.136.90.30:8000/live/sk3/sk3/15208.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://213.136.90.30:8000/live/sk3/sk3/15207.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://213.136.90.30:8000/live/sk3/sk3/15206.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://213.136.90.30:8000/live/sk3/sk3/15205.ts
+#EXTINF:-1,UK: Sky Premiere
+http://213.136.90.30:8000/live/sk3/sk3/15241.ts
+#EXTINF:-1,UK: Sky Comedy
+http://213.136.90.30:8000/live/sk3/sk3/15242.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://213.136.90.30:8000/live/sk3/sk3/15247.ts
+#EXTINF:-1,UK: Premier Sports
+http://213.136.90.30:8000/live/sk3/sk3/15228.ts
+#EXTINF:-1,UK: Nick Junior
+http://213.136.90.30:8000/live/sk3/sk3/15260.ts
+#EXTINF:-1,UK: Nat Geo Graphic
+http://213.136.90.30:8000/live/sk3/sk3/15249.ts
+#EXTINF:-1,UK: MUTV
+http://213.136.90.30:8000/live/sk3/sk3/15229.ts
+#EXTINF:-1,UK: Motors TV
+http://213.136.90.30:8000/live/sk3/sk3/15226.ts
+#EXTINF:-1,UK: More 4
+http://213.136.90.30:8000/live/sk3/sk3/15190.ts
+#EXTINF:-1,UK: Fox News
+http://213.136.90.30:8000/live/sk3/sk3/15188.ts
+#EXTINF:-1,UK: Food Network
+http://213.136.90.30:8000/live/sk3/sk3/15200.ts
+#EXTINF:-1,UK: E4
+http://213.136.90.30:8000/live/sk3/sk3/15197.ts
+#EXTINF:-1,UK: Discovery Science
+http://213.136.90.30:8000/live/sk3/sk3/15255.ts
+#EXTINF:-1,UK: Comedy Central
+http://213.136.90.30:8000/live/sk3/sk3/15248.ts
+#EXTINF:-1,UK: CNN
+http://213.136.90.30:8000/live/sk3/sk3/15186.ts
+#EXTINF:-1,UK: Channel 4
+http://213.136.90.30:8000/live/sk3/sk3/15191.ts
+#EXTINF:-1,UK: CBS Reality
+http://213.136.90.30:8000/live/sk3/sk3/15238.ts
+#EXTINF:-1,UK: CBS Action
+http://213.136.90.30:8000/live/sk3/sk3/15237.ts
+#EXTINF:-1,UK: BT Sport Europe HD
+http://213.136.90.30:8000/live/sk3/sk3/15222.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://213.136.90.30:8000/live/sk3/sk3/15220.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://213.136.90.30:8000/live/sk3/sk3/15218.ts
+#EXTINF:-1,UK: Box Nation
+http://213.136.90.30:8000/live/sk3/sk3/15225.ts
+#EXTINF:-1,UK: At The Races
+http://213.136.90.30:8000/live/sk3/sk3/15227.ts
+#EXTINF:-1,UK: Animal Planet
+http://213.136.90.30:8000/live/sk3/sk3/15251.ts
+#EXTINF:-1,UK: 5 USA
+http://213.136.90.30:8000/live/sk3/sk3/15192.ts
+#EXTINF:-1,UK: BT SPORT EUROPE
+http://213.136.90.30:8000/live/sk3/sk3/14941.ts
+#EXTINF:-1,UK:SKY.SPORTS1.HD
+http://213.136.90.30:8000/live/sk3/sk3/14665.ts
+#EXTINF:-1,UK.SkySports1HD
 http://213.136.90.30:8000/live/sk3/sk3/13943.ts
-#EXTINF:0,UK.SkySports.F1HD
-http://213.136.90.30:8000/live/sk3/sk3/13944.ts
-#EXTINF:0,BT Sport 2 HD
-http://213.136.90.30:8000/live/sk3/sk3/11486.ts
-#EXTINF:0,UK:BT_Sports_2 s50
+#EXTINF:-1,UK:SKY.SPORTS1
+http://213.136.90.30:8000/live/sk3/sk3/14669.ts
+#EXTINF:-1,UK:Sky.Sports2.HD
+http://213.136.90.30:8000/live/sk3/sk3/14672.ts
+#EXTINF:-1,UK:SKY.SPORTS2-HD
+http://213.136.90.30:8000/live/sk3/sk3/14666.ts
+#EXTINF:-1,UK-SKY.SPORTS2
+http://213.136.90.30:8000/live/sk3/sk3/14671.ts
+#EXTINF:-1,UK.SkySports2HD
+http://213.136.90.30:8000/live/sk3/sk3/13942.ts
+#EXTINF:-1,UK:Sky.Sports3.HD
+http://213.136.90.30:8000/live/sk3/sk3/14673.ts
+#EXTINF:-1,UK:SKY.SPORTS3-HD
+http://213.136.90.30:8000/live/sk3/sk3/14667.ts
+#EXTINF:-1,UK:Sky.Sports4.HD
+http://213.136.90.30:8000/live/sk3/sk3/14674.ts
+#EXTINF:-1,UK:SKY.SPORTS4-HD
+http://213.136.90.30:8000/live/sk3/sk3/14668.ts
+#EXTINF:-1,UK:Sky.Sports5.HD
+http://213.136.90.30:8000/live/sk3/sk3/14675.ts
+#EXTINF:-1,UK: BT Sports 1
+http://213.136.90.30:8000/live/sk3/sk3/14388.ts
+#EXTINF:-1,UK: Eurosport 1
+http://213.136.90.30:8000/live/sk3/sk3/14386.ts
+#EXTINF:-1,UK: BT Sports 2
+http://213.136.90.30:8000/live/sk3/sk3/14387.ts
+#EXTINF:-1,UK:BT_Sports_2 s50
 http://213.136.90.30:8000/live/sk3/sk3/11950.ts
-#EXTINF:0,UK:Sky_Alantic
-http://213.136.90.30:8000/live/sk3/sk3/13997.ts
-#EXTINF:0,UK:Nick
-http://213.136.90.30:8000/live/sk3/sk3/13999.ts
-#EXTINF:0,UK:Dinseny_Channel_UK
-http://213.136.90.30:8000/live/sk3/sk3/14000.ts
-#EXTINF:0,UK:Animal_Planet
-http://213.136.90.30:8000/live/sk3/sk3/14001.ts
-#EXTINF:0,UK-Sky-Movies-Thriller
-http://213.136.90.30:8000/live/sk3/sk3/13996.ts
-#EXTINF:0,UK-Sky-Movies-Comedy
-http://213.136.90.30:8000/live/sk3/sk3/14005.ts
-#EXTINF:0,UK-Nicktoons
-http://213.136.90.30:8000/live/sk3/sk3/14009.ts
-#EXTINF:0,UK-Food_Network
-http://213.136.90.30:8000/live/sk3/sk3/14007.ts
-#EXTINF:0,UK-Disney_XD
-http://213.136.90.30:8000/live/sk3/sk3/14010.ts
-#EXTINF:0,UK-Disney_Junior
-http://213.136.90.30:8000/live/sk3/sk3/14011.ts
-#EXTINF:0,UK-Discovery-Science
-http://213.136.90.30:8000/live/sk3/sk3/14012.ts
-#EXTINF:0,UK-Discovery-History
-http://213.136.90.30:8000/live/sk3/sk3/14013.ts
-#EXTINF:0,UK-Discovery
-http://213.136.90.30:8000/live/sk3/sk3/14014.ts
-#EXTINF:0,Sky Movies Thriller
-http://213.136.90.30:8000/live/sk3/sk3/11549.ts
-#EXTINF:0,Sky Movies Showcase
-http://213.136.90.30:8000/live/sk3/sk3/11548.ts
-#EXTINF:0,Sky Movies Select
-http://213.136.90.30:8000/live/sk3/sk3/11547.ts
-#EXTINF:0,Sky Movies Scifi Horror
-http://213.136.90.30:8000/live/sk3/sk3/11546.ts
-#EXTINF:0,Sky Movies Premiere
-http://213.136.90.30:8000/live/sk3/sk3/11545.ts
-#EXTINF:0,Sky Movies Family
-http://213.136.90.30:8000/live/sk3/sk3/11543.ts
-#EXTINF:0,Sky Movies Drama
-http://213.136.90.30:8000/live/sk3/sk3/11542.ts
-#EXTINF:0,Sky Movies Comedy
-http://213.136.90.30:8000/live/sk3/sk3/11541.ts
-#EXTINF:0,Sky Movies Action
-http://213.136.90.30:8000/live/sk3/sk3/11540.ts
-#EXTINF:0,Sky Disney Junior
-http://213.136.90.30:8000/live/sk3/sk3/11622.ts
-#EXTINF:0,UK: baby tv bs
-http://213.136.90.30:8000/live/sk3/sk3/13263.ts
-#EXTINF:0,Nickelodeon uk
-http://213.136.90.30:8000/live/sk3/sk3/11531.ts
-#EXTINF:0,Food Network
-http://213.136.90.30:8000/live/sk3/sk3/11513.ts
-#EXTINF:0,UK:BBC_One (skb1)
-http://213.136.90.30:8000/live/sk3/sk3/11453.ts
-#EXTINF:0,UK: Itv 4 (Nmg)--local
+#EXTINF:-1,UK:BT-Sport2.HD
+http://213.136.90.30:8000/live/sk3/sk3/14663.ts
+#EXTINF:-1,UK-SKY.SPORTS.F1
+http://213.136.90.30:8000/live/sk3/sk3/14670.ts
+#EXTINF:-1,UK: formula1 hd ds
+http://213.136.90.30:8000/live/sk3/sk3/13264.ts
+#EXTINF:-1,UK: Itv 4 (Nmg) local
 http://213.136.90.30:8000/live/sk3/sk3/2372.ts
-#EXTINF:0,UK: Itv 3 (Nmg)--local
+#EXTINF:-1,UK: Itv 3 (Nmg) local
 http://213.136.90.30:8000/live/sk3/sk3/2371.ts
-#EXTINF:0,UK: Itv 2 (Nmg)--local
+#EXTINF:-1,UK: Itv 2 (Nmg) local
 http://213.136.90.30:8000/live/sk3/sk3/5.ts
-#EXTINF:0,UK: Itv 1 (Nmg)--local
+#EXTINF:-1,UK: Itv 1 (Nmg) local
 http://213.136.90.30:8000/live/sk3/sk3/4.ts
-#EXTINF:0,UK: Channel 5
-http://213.136.90.30:8000/live/sk3/sk3/7079.ts
-#EXTINF:0,UK: Channel 4
-http://213.136.90.30:8000/live/sk3/sk3/7080.ts
-#EXTINF:0,UK: BBC Two
-http://213.136.90.30:8000/live/sk3/sk3/7756.ts
-#EXTINF:0,UK: BBC Three
-http://213.136.90.30:8000/live/sk3/sk3/7902.ts
-#EXTINF:0,UK.BBC2HD s50
-http://213.136.90.30:8000/live/sk3/sk3/11954.ts
-#EXTINF:0,UK: BBC One
-http://213.136.90.30:8000/live/sk3/sk3/7901.ts
-#EXTINF:0,UK: BBC Four
-http://213.136.90.30:8000/live/sk3/sk3/7903.ts
-#EXTINF:0,UK: BBC Entertainment-- local
-http://213.136.90.30:8000/live/sk3/sk3/2.ts
-#EXTINF:0,True Movies 2
+#EXTINF:-1,True Movies 2
 http://213.136.90.30:8000/live/sk3/sk3/11569.ts
-#EXTINF:0,True Movies 1
+#EXTINF:-1,True Movies 1
 http://213.136.90.30:8000/live/sk3/sk3/11568.ts
-#EXTINF:0,Travel Channel
-http://213.136.90.30:8000/live/sk3/sk3/11471.ts
-#EXTINF:0,SKY News
+#EXTINF:-1,Nickelodeon uk
+http://213.136.90.30:8000/live/sk3/sk3/11531.ts
+#EXTINF:-1,SKYUK:Sky-One
+http://213.136.90.30:8000/live/sk3/sk3/14647.ts
+#EXTINF:-1,UK: Eurosport 2
+http://213.136.90.30:8000/live/sk3/sk3/14385.ts
+#EXTINF:-1,UK:Setanta-Ireland
+http://213.136.90.30:8000/live/sk3/sk3/14645.ts
+#EXTINF:-1,UK:Premier-Sports
+http://213.136.90.30:8000/live/sk3/sk3/14646.ts
+#EXTINF:-1,UK:Eurosport1.HD
+http://213.136.90.30:8000/live/sk3/sk3/14676.ts
+#EXTINF:-1,UK: Setanta Ireland
+http://213.136.90.30:8000/live/sk3/sk3/14384.ts
+#EXTINF:-1,UK: racing tv s20
+http://213.136.90.30:8000/live/sk3/sk3/12759.ts
+#EXTINF:-1,UK:National.Geography.Wild
+http://213.136.90.30:8000/live/sk3/sk3/14660.ts
+#EXTINF:-1,UK:NATIONAL-GEO
+http://213.136.90.30:8000/live/sk3/sk3/14654.ts
+#EXTINF:-1,UK:Nat.Geo
+http://213.136.90.30:8000/live/sk3/sk3/14653.ts
+#EXTINF:-1,UK:Disney.Junior
+http://213.136.90.30:8000/live/sk3/sk3/14650.ts
+#EXTINF:-1,UK:Discovery.Science
+http://213.136.90.30:8000/live/sk3/sk3/14656.ts
+#EXTINF:-1,UK:Discovery
+http://213.136.90.30:8000/live/sk3/sk3/14659.ts
+#EXTINF:-1,UK: RTE 2
+http://213.136.90.30:8000/live/sk3/sk3/13878.ts
+#EXTINF:-1,UK: RTE 1
+http://213.136.90.30:8000/live/sk3/sk3/13879.ts
+#EXTINF:-1,UK: Disney Channel
+http://213.136.90.30:8000/live/sk3/sk3/12591.ts
+#EXTINF:-1,UK: Channel 5
+http://213.136.90.30:8000/live/sk3/sk3/7079.ts
+#EXTINF:-1,UK: BBC Two
+http://213.136.90.30:8000/live/sk3/sk3/7756.ts
+#EXTINF:-1,UK: BBC Three
+http://213.136.90.30:8000/live/sk3/sk3/7902.ts
+#EXTINF:-1,UK: BBC One
+http://213.136.90.30:8000/live/sk3/sk3/7901.ts
+#EXTINF:-1,UK: BBC Four
+http://213.136.90.30:8000/live/sk3/sk3/7903.ts
+#EXTINF:-1,UK: BBC Entertainment local
+http://213.136.90.30:8000/live/sk3/sk3/2.ts
+#EXTINF:-1,UK: baby tv bs
+http://213.136.90.30:8000/live/sk3/sk3/13263.ts
+#EXTINF:-1,UK.BBC2HD s50
+http://213.136.90.30:8000/live/sk3/sk3/11954.ts
+#EXTINF:-1,UK | Vivo 2
+http://213.136.90.30:8000/live/sk3/sk3/14269.ts
+#EXTINF:-1,UK | Vivo 1
+http://213.136.90.30:8000/live/sk3/sk3/14268.ts
+#EXTINF:-1,Sky Sports News
+http://213.136.90.30:8000/live/sk3/sk3/11564.ts
+#EXTINF:-1,Sky Sports 1 HD
+http://213.136.90.30:8000/live/sk3/sk3/11554.ts
+#EXTINF:-1,Sky Sports 2
+http://213.136.90.30:8000/live/sk3/sk3/11555.ts
+#EXTINF:-1,Sky Sports 3
+http://213.136.90.30:8000/live/sk3/sk3/11557.ts
+#EXTINF:-1,sky sport 3
+http://213.136.90.30:8000/live/sk3/sk3/14195.ts
+#EXTINF:-1,Sky Sports 4
+http://213.136.90.30:8000/live/sk3/sk3/11559.ts
+#EXTINF:-1,Sky Sports 5 HD
+http://213.136.90.30:8000/live/sk3/sk3/11560.ts
+#EXTINF:-1,SKY News
 http://213.136.90.30:8000/live/sk3/sk3/11550.ts
-#EXTINF:0,Sky Living UK
+#EXTINF:-1,Sky Movies Thriller
+http://213.136.90.30:8000/live/sk3/sk3/11549.ts
+#EXTINF:-1,Sky Movies Showcase
+http://213.136.90.30:8000/live/sk3/sk3/11548.ts
+#EXTINF:-1,Sky Movies Select
+http://213.136.90.30:8000/live/sk3/sk3/11547.ts
+#EXTINF:-1,Sky Movies Scifi Horror
+http://213.136.90.30:8000/live/sk3/sk3/11546.ts
+#EXTINF:-1,Sky Movies Premiere
+http://213.136.90.30:8000/live/sk3/sk3/11545.ts
+#EXTINF:-1,Sky Movies Family
+http://213.136.90.30:8000/live/sk3/sk3/11543.ts
+#EXTINF:-1,Sky Movies Drama
+http://213.136.90.30:8000/live/sk3/sk3/11542.ts
+#EXTINF:-1,Sky Movies Comedy
+http://213.136.90.30:8000/live/sk3/sk3/11541.ts
+#EXTINF:-1,Sky Movies Action
+http://213.136.90.30:8000/live/sk3/sk3/11540.ts
+#EXTINF:-1,Sky Disney Junior
+http://213.136.90.30:8000/live/sk3/sk3/11622.ts
+#EXTINF:-1,Sky Living UK
 http://213.136.90.30:8000/live/sk3/sk3/11539.ts
-#EXTINF:0,Movies 4 Men
-http://213.136.90.30:8000/live/sk3/sk3/11527.ts
-#EXTINF:0,Dmax
+#EXTINF:-1,Mutv
+http://213.136.90.30:8000/live/sk3/sk3/13257.ts
+#EXTINF:-1,Liverpool FC
+http://213.136.90.30:8000/live/sk3/sk3/11523.ts
+#EXTINF:-1,BT Sports 1
+http://213.136.90.30:8000/live/sk3/sk3/11489.ts
+#EXTINF:-1,BT Sport 2 HD
+http://213.136.90.30:8000/live/sk3/sk3/11486.ts
+#EXTINF:-1,BT Sport Europe
+http://213.136.90.30:8000/live/sk3/sk3/11488.ts
+#EXTINF:-1,BT Sport ESPN
+http://213.136.90.30:8000/live/sk3/sk3/11487.ts
+#EXTINF:-1,History Channel
+http://213.136.90.30:8000/live/sk3/sk3/11516.ts
+#EXTINF:-1,Food Network
+http://213.136.90.30:8000/live/sk3/sk3/11513.ts
+#EXTINF:-1,Eurosport 1
+http://213.136.90.30:8000/live/sk3/sk3/11510.ts
+#EXTINF:-1,Dmax
 http://213.136.90.30:8000/live/sk3/sk3/11507.ts
-#EXTINF:0,Dave
+#EXTINF:-1,Disney Junior uk
+http://213.136.90.30:8000/live/sk3/sk3/11505.ts
+#EXTINF:-1,Discovery Turbo
+http://213.136.90.30:8000/live/sk3/sk3/11503.ts
+#EXTINF:-1,Discovery Investigation
+http://213.136.90.30:8000/live/sk3/sk3/11501.ts
+#EXTINF:-1,Discovery History
+http://213.136.90.30:8000/live/sk3/sk3/11500.ts
+#EXTINF:-1,Discovery Channel
+http://213.136.90.30:8000/live/sk3/sk3/11499.ts
+#EXTINF:-1,National Geographic
+http://213.136.90.30:8000/live/sk3/sk3/11530.ts
+#EXTINF:-1,Dave
 http://213.136.90.30:8000/live/sk3/sk3/11498.ts
-#EXTINF:0,Channel 5
-http://213.136.90.30:8000/live/sk3/sk3/11494.ts
-#EXTINF:0,Channel 4
+#EXTINF:-1,comedy central uk
+http://213.136.90.30:8000/live/sk3/sk3/14230.ts
+#EXTINF:-1,Movies 4 Men
+http://213.136.90.30:8000/live/sk3/sk3/11527.ts
+#EXTINF:-1,Chelsea FC
+http://213.136.90.30:8000/live/sk3/sk3/11495.ts
+#EXTINF:-1,Channel 4
 http://213.136.90.30:8000/live/sk3/sk3/11493.ts
-#EXTINF:0,Bloomberg
+#EXTINF:-1,cbs reality uk
+http://213.136.90.30:8000/live/sk3/sk3/14229.ts
+#EXTINF:-1,CBS Drama
+http://213.136.90.30:8000/live/sk3/sk3/11492.ts
+#EXTINF:-1,CBS Action
+http://213.136.90.30:8000/live/sk3/sk3/11491.ts
+#EXTINF:-1,Bloomberg
 http://213.136.90.30:8000/live/sk3/sk3/11483.ts
-#EXTINF:0,Animal Planet uk
+#EXTINF:-1,At The Races
+http://213.136.90.30:8000/live/sk3/sk3/11476.ts
+#EXTINF:-1,Animal Planet uk
 http://213.136.90.30:8000/live/sk3/sk3/11475.ts
+#EXTINF:-1,5 usa uk
+http://213.136.90.30:8000/live/sk3/sk3/14226.ts
+#EXTINF:-1,5 star uk
+http://213.136.90.30:8000/live/sk3/sk3/14225.ts
 </List>

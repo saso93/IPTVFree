@@ -3,6 +3,8 @@
 #EXTM3U
 #EXTINF:-1,---NOVITA
 http://dummylink.com
+#EXTINF:-1,Gomorra (In fondo anche ultime puntate!)
+http://dummylink.com
 #EXTINF:-1,The Big Bang Theory (In fondo)
 http://dummylink.com
 #EXTINF:-1,American Horror Story (In fondo)
@@ -2243,4 +2245,46 @@ http://gtatemvod.com:43100/movie/viper/viper/7743.mkv
 http://gtatemvod.com:43100/movie/viper/viper/7744.mkv
 #EXTINF:0,The Big bang Theory 7x24
 http://gtatemvod.com:43100/movie/viper/viper/7745.mkv
+#EXTINF:-1,----GOMORRA
+http://iptvxsempre.zapto.org:8000/live/aniello/aniello/2420.ts
+#EXTINF:-1,1×01 Il clan dei Savastano
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2408.mkv
+#EXTINF:-1,1×02 Ti fidi di me?
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2409.mkv
+#EXTINF:-1,1×03 L’omm ‘e casa
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2410.mkv
+#EXTINF:-1,1×04 Sangue africano
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2411.mkv
+#EXTINF:-1,1×05 Il ruggito della leonessa
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2412.mkv
+#EXTINF:-1,1×06 Roulette spagnola
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2413.mkv
+#EXTINF:-1,1×07 Imma contro tutti
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2414.mkv
+#EXTINF:-1,1×08 La scheda bianca
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2415.mkv
+#EXTINF:-1,1×09 Gelsomina Verde
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2416.mkv
+#EXTINF:-1,1×10 Ora facciamo i Conte
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2417.mkv
+#EXTINF:-1,1×11 100 modi per uccidere
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2418.mkv
+#EXTINF:-1,1×12 Gli Immortali
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/2419.mkv
+#EXTINF:-1,2×01 Episodio 1 – HD
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/3049.mkv
+#EXTINF:-1,2×02 Episodio 2 – HD
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/3050.mkv
+#EXTINF:-1,2×03 Episodio 3
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/3093.mkv
+#EXTINF:-1,2×04 Episodio 4
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/3094.mkv
+#EXTINF:-1,2×05 Episodio 5
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/3143.mkv
+#EXTINF:-1,2×06 Episodio 6
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/3144.mkv
+#EXTINF:-1,2×07 Episodio 7
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/3179.mkv
+#EXTINF:-1,2×08 Episodio 8
+http://iptvxsempre.zapto.org:8000/movie/aniello/aniello/3180.mkv
 </List>

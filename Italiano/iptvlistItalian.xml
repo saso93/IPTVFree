@@ -543,398 +543,342 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,---- MEDIASET PREMIUM ----
-http://149.202.90.35:8080/live/VZm9TbGKTt/AJM0zGEP9N/105.ts
+#EXTINF:-1,***** MEDIASET PREMIUM *****
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1452.ts
 #EXTINF:-1,Premium Cinema HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/506.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/56.ts
 #EXTINF:-1,Premium Cinema 2 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1099.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1100.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1639.ts
 #EXTINF:-1,Premium Cinema +24
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/507.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1640.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/57.ts
 #EXTINF:-1,Premium Emotion
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/508.ts
-#EXTINF:-1,Premium Comedy
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/558.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/64.ts
 #EXTINF:-1,Premium Energy
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/509.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/65.ts
+#EXTINF:-1,Premium Comedy
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/58.ts
 #EXTINF:-1,Premium Stories
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/510.ts
-#EXTINF:-1,Premium stories +24
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/2457.ts
-#EXTINF:-1,Premium Action HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1101.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/72.ts
+#EXTINF:-1,Premium Studio Universal
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/73.ts
 #EXTINF:-1,Premium Joy
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/546.ts
-#EXTINF:-1,Premium Joy +24
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/946.ts
-#EXTINF:-1,Studio Universal
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/513.ts
-#EXTINF:-1,Premium Action +24
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/512.ts
-#EXTINF:-1,Premium Disney Junior
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/2455.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/68.ts
 #EXTINF:-1,Premium Crime HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1103.ts
-#EXTINF:-1,PREMIUM CRIME  24
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/2454.ts
-#EXTINF:-1,Premium Cartoon Network
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/2458.ts
-#EXTINF:-1,Premium Sport HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1102.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/515.ts
-#EXTINF:-1,Premium Sport 2
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/547.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/3945.ts
-#EXTINF:-1,Premium Calcio 1
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/516.ts
-#EXTINF:-1,Premium Calcio 2
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/562.ts
-#EXTINF:-1,Premium Calcio 3
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/559.ts
-#EXTINF:-1,Premium Calcio 4
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/560.ts
-#EXTINF:-1,Premium Calcio 5
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/561.ts
-#EXTINF:-1,Premium Calcio 6
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/648.ts
-#EXTINF:-1,Premium calcio 7
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/944.ts
-#EXTINF:-1,---- SKY INTRATTENIMENTO ----
-http://149.202.90.35:8080/live/VZm9TbGKTt/AJM0zGEP9N/99.ts
-#EXTINF:-1,Sky Uno HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/455.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/623.ts
-#EXTINF:-1,Fox HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/456.ts
-#EXTINF:-1,Fox +1
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/858.ts
-#EXTINF:-1,Fox life HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/457.ts
-#EXTINF:-1,Fox Life +1
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/856.ts
-#EXTINF:-1,Fox Crime HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/458.ts
-#EXTINF:-1,Fox Crime +1
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/857.ts
-#EXTINF:-1,Fox Animation HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/460.ts
-#EXTINF:-1,Fox Comedy HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/461.ts
-#EXTINF:-1,Sky Atlantic HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/459.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/628.ts
-#EXTINF:-1,AXN HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/462.ts
-#EXTINF:-1,Axn +1
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1208.ts
-#EXTINF:-1,AXN Sci-FI
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/564.ts
-#EXTINF:-1,Comedy Central
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/654.ts
-#EXTINF:-1,Real time HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/635.ts
-#EXTINF:-1,Cielo HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/2449.ts
-#EXTINF:-1,MTV Next
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/3817.ts
-#EXTINF:-1,focus
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/2398.ts
-#EXTINF:-1,Giallo
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/2073.ts
-#EXTINF:-1,ALICE
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/2907.ts
-#EXTINF:-1,Fashion TV
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/2922.ts
-#EXTINF:-1,TV 2000
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/2940.ts
-#EXTINF:-1,Sky 3D
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/637.ts
-#EXTINF:-1,Lei
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/865.ts
-#EXTINF:-1,Iris
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/642.ts
-#EXTINF:-1,Top Crime
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/646.ts
-#EXTINF:-1,Vera TV
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/840.ts
-#EXTINF:-1,---- SKY CINEMA ----
-http://149.202.90.35:8080/live/VZm9TbGKTt/AJM0zGEP9N/98.ts
-#EXTINF:-1,Cinema 1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/445.ts
-#EXTINF:-1,Cinema +1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/566.ts
-#EXTINF:-1,Cinema +24 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/446.ts
-#EXTINF:-1,Cinema Hits HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/447.ts
-#EXTINF:-1,CinemaFamily HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/449.ts
-#EXTINF:-1,CinemaFamily+1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/626.ts
-#EXTINF:-1,Cinema Passion HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/448.ts
-#EXTINF:-1,Cinema Comedy HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/450.ts
-#EXTINF:-1,Cinema Max HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/451.ts
-#EXTINF:-1,Cinema Max+1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/567.ts
-#EXTINF:-1,Cinema Cult HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/452.ts
-#EXTINF:-1,Cinema Classics HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/453.ts
-#EXTINF:-1,Paramount Channel HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/4103.ts
-#EXTINF:-1,---- PRIMAFILA  ----
-http://149.202.90.35:8080/live/VZm9TbGKTt/AJM0zGEP9N/107.ts
-#EXTINF:-1,Primafila 1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/525.ts
-#EXTINF:-1,Primafila 2
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/526.ts
-#EXTINF:-1,Primafila 3 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/527.ts
-#EXTINF:-1,Primafila 4
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/528.ts
-#EXTINF:-1,Primafila 5 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/529.ts
-#EXTINF:-1,Primafila 6
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/530.ts
-#EXTINF:-1,Primafila 7 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/531.ts
-#EXTINF:-1,Primafila 8
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/532.ts
-#EXTINF:-1,Primafila 9 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/533.ts
-#EXTINF:-1,Primafila 10
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/534.ts
-#EXTINF:-1,Primafila 11 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/535.ts
-#EXTINF:-1,Primafila 12
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/536.ts
-#EXTINF:-1,Primafila 13 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/537.ts
-#EXTINF:-1,Primafila 14
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/538.ts
-#EXTINF:-1,Primafila 15
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/539.ts
-#EXTINF:-1,Primafila 16
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/540.ts
-#EXTINF:-1,Primafila 17
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/541.ts
-#EXTINF:-1,Primafila 18
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/542.ts
-#EXTINF:-1,Primafila 19
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/543.ts
-#EXTINF:-1,Primafila WWE
-http://iptvxsempre.zapto.org:8000/live/aniello/aniello/1742.ts
-#EXTINF:-1,---- SKY SPORT ----
-http://149.202.90.35:8080/live/VZm9TbGKTt/AJM0zGEP9N/100.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/466.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/467.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/468.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/469.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/474.ts
-#EXTINF:-1,Fox Sports HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/470.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/472.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/473.ts
-#EXTINF:-1,Eurosport Hd
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/651.ts
-#EXTINF:-1,Eurosport 2 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/652.ts
-#EXTINF:-1,Super Tennis HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/849.ts
-#EXTINF:-1,Poker Italia
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/653.ts
-#EXTINF:-1,Class HorseTv
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/2941.ts
-#EXTINF:-1,Sport Italia
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1218.ts
-#EXTINF:-1,Roma TV
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/874.ts
-#EXTINF:-1,Inter Channel
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/633.ts
-#EXTINF:-1,J | Juventus TV
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/634.ts
-#EXTINF:-1,Milan Channel
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/594.ts
-#EXTINF:-1,Lazio Channel
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/886.ts
-#EXTINF:-1,Bike Channel HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/887.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/477.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/478.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/479.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/480.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/481.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/774.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/483.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/872.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/873.ts
-#EXTINF:-1,Sky Calcio 9
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/918.ts
-#EXTINF:-1,Sky Calcio 10
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/919.ts
-#EXTINF:-1,Sky Calcio 11
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/920.ts
-#EXTINF:-1,Sky Calcio 12
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/921.ts
-#EXTINF:-1,Sky Calcio 13
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/922.ts
-#EXTINF:-1,Sky Supercalcio
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/3845.ts
-#EXTINF:-1,Sky Calcio 1
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1240.ts
-#EXTINF:-1,Sky Calcio 2
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1241.ts
-#EXTINF:-1,Sky Calcio 3
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1242.ts
-#EXTINF:-1,Sky Calcio 4
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1243.ts
-#EXTINF:-1,Sky Calcio 5
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/1244.ts
-#EXTINF:-1,Sky Calcio 6
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/4663.ts
-#EXTINF:-1,Sky calcio 7
-http://gameserver1.streamiptv.online:19001/live/hVwgFj7cKU/Yax2yXVzIg/3828.ts
-#EXTINF:-1,-------- CULTURA --------
-http://lucky.lts1.net:23000/live/461311/461311/1036.ts
-#EXTINF:-1,National Geographic HD
-http://lucky.lts1.net:23000/live/461311/461311/2437.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://lucky.lts1.net:23000/live/461311/461311/2439.ts
-#EXTINF:-1,Animal Planet
-http://lucky.lts1.net:23000/live/461311/461311/2410.ts
-#EXTINF:-1,Nat Geo People HD
-http://lucky.lts1.net:23000/live/461311/461311/2438.ts
-#EXTINF:-1,Discovery HD
-http://lucky.lts1.net:23000/live/461311/461311/3824.ts
-#EXTINF:-1,Discovery Science HD
-http://lucky.lts1.net:23000/live/461311/461311/3825.ts
-#EXTINF:-1,Discovery TL HD
-http://lucky.lts1.net:23000/live/461311/461311/3817.ts
-#EXTINF:-1,Dmax +1
-http://lucky.lts1.net:23000/live/461311/461311/12902.ts
-#EXTINF:-1,Classica HD
-http://lucky.lts1.net:23000/live/461311/461311/17131.ts
-#EXTINF:-1,Caccia e Pesca
-http://lucky.lts1.net:23000/live/461311/461311/3823.ts
-#EXTINF:-1,Pesca e Caccia
-http://lucky.lts1.net:23000/live/461311/461311/12197.ts
-#EXTINF:-1,Italia Fishing
-http://lucky.lts1.net:23000/live/461311/461311/16160.ts
-#EXTINF:-1,Focus
-http://lucky.lts1.net:23000/live/461311/461311/2422.ts
-#EXTINF:-1,History HD
-http://lucky.lts1.net:23000/live/461311/461311/4159.ts
-#EXTINF:-1,Explora HD
-http://lucky.lts1.net:23000/live/461311/461311/4158.ts
-#EXTINF:-1,Sky Arte HD
-http://lucky.lts1.net:23000/live/461311/461311/2524.ts
-#EXTINF:-1,Gambero Rosso HD
-http://lucky.lts1.net:23000/live/461311/461311/3658.ts
-#EXTINF:-1,Alice
-http://lucky.lts1.net:23000/live/461311/461311/2409.ts
-#EXTINF:-1,Fine Living
-http://lucky.lts1.net:23000/live/461311/461311/2421.ts
-#EXTINF:-1,Marco Polo
-http://lucky.lts1.net:23000/live/461311/461311/2433.ts
-#EXTINF:-1,Leonardo
-http://lucky.lts1.net:23000/live/461311/461311/2432.ts
-#EXTINF:-1,E Enternament
-http://lucky.lts1.net:23000/live/461311/461311/2418.ts
-#EXTINF:-1,Rai Storia
-http://lucky.lts1.net:23000/live/461311/461311/14099.ts
-#EXTINF:-1,Rai Scuola
-http://lucky.lts1.net:23000/live/461311/461311/2496.ts
-#EXTINF:-1,Rai Senato
-http://lucky.lts1.net:23000/live/461311/461311/2497.ts
-#EXTINF:-1,--------- BAMBINI ---------
-http://lucky.lts1.net:23000/live/461311/461311/6638.ts
-#EXTINF:-1,Dea Kids
-http://lucky.lts1.net:23000/live/461311/461311/13701.ts
-#EXTINF:-1,Boing
-http://lucky.lts1.net:23000/live/461311/461311/14082.ts
-#EXTINF:-1,Sky Disney Channel
-http://lucky.lts1.net:23000/live/461311/461311/16161.ts
-#EXTINF:-1,Premium Disney Channel
-http://lucky.lts1.net:23000/live/461311/461311/2457.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/59.ts
+#EXTINF:-1,Premium Crime +24
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1651.ts
+#EXTINF:-1,Premium Action HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/46.ts
+#EXTINF:-1,Premium Action 24
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/47.ts
+#EXTINF:-1,Premium Discovery World
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/60.ts
+#EXTINF:-1,Premium BBC
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/48.ts
+#EXTINF:-1,Premium Disney Channel HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/61.ts
+#EXTINF:-1,Premium Disney Channel +1
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/62.ts
 #EXTINF:-1,Premium Disney Junior
-http://lucky.lts1.net:23000/live/461311/461311/3645.ts
-#EXTINF:-1,Premium Disney +1
-http://lucky.lts1.net:23000/live/461311/461311/2458.ts
-#EXTINF:-1,Disney XD
-http://lucky.lts1.net:23000/live/461311/461311/2416.ts
-#EXTINF:-1,Cartoonito
-http://lucky.lts1.net:23000/live/461311/461311/2413.ts
-#EXTINF:-1,K2
-http://lucky.lts1.net:23000/live/461311/461311/2430.ts
-#EXTINF:-1,Frisbee
-http://lucky.lts1.net:23000/live/461311/461311/2427.ts
-#EXTINF:-1,Rai Gulp
-http://lucky.lts1.net:23000/live/461311/461311/2463.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/63.ts
+#EXTINF:-1,Premium Cartoon Network
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/55.ts
+#EXTINF:-1,---PREMIUM SPORT
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1570.ts
+#EXTINF:-1,Premium Sport HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/70.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1800.ts
+#EXTINF:-1,Premium Calcio HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1735.ts
+#EXTINF:-1,Premium Calcio
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/49.ts
+#EXTINF:-1,Premium Calcio 1
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/50.ts
+#EXTINF:-1,Premium Calcio 2
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/51.ts
+#EXTINF:-1,Premium Calcio 3
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/52.ts
+#EXTINF:-1,Premium Calcio 4
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/53.ts
+#EXTINF:-1,Premium Calcio 5
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/54.ts
+#EXTINF:-1,Premium Calcio 6
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1475.ts
+#EXTINF:-1,Premium Calcio 7
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1476.ts
+#EXTINF:-1,Premium Sport News HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/71.ts
+#EXTINF:-1,Premium Eurosport 1
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/66.ts
+#EXTINF:-1,Premium Eurosport 2
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/67.ts
+#EXTINF:-1,---SKY CINEMA
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1570.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/123.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/122.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/128.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/127.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/130.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/125.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/129.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/126.ts
+#EXTINF:-1,Sky Cinema Classics HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/124.ts
+#EXTINF:-1,Sky Paramount Channel
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/2403.ts
+#EXTINF:-1,Sky Cinema 3D
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1487.ts
+#EXTINF:-1,---INTRATTENIMENTO
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1571.ts
+#EXTINF:-1,Sky Uno HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/143.ts
+#EXTINF:-1,Sky Atlantic HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/112.ts
+#EXTINF:-1,Fox HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/21.ts
+#EXTINF:-1,Fox Life HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/25.ts
+#EXTINF:-1,Fox Crime HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/24.ts
+#EXTINF:-1,Fox Comedy HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/23.ts
+#EXTINF:-1,Fox Animation HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/22.ts
+#EXTINF:-1,CI Crime Investigation HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/10.ts
+#EXTINF:-1,Top Crime
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1545.ts
+#EXTINF:-1,Giallo
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1797.ts
+#EXTINF:-1,AXN HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/5.ts
+#EXTINF:-1,Cielo
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/11.ts
+#EXTINF:-1,E! Enternament
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/18.ts
+#EXTINF:-1,Fine Living
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/19.ts
+#EXTINF:-1,Alice
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/3.ts
+#EXTINF:-1,Mediaset Extra
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/38.ts
+#EXTINF:-1,nuvolari
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1795.ts
+#EXTINF:-1,---PRIMAFILA
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1577.ts
+#EXTINF:-1,Primafila 1 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/74.ts
+#EXTINF:-1,Primafila 2 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/75.ts
+#EXTINF:-1,Primafila 3 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/76.ts
+#EXTINF:-1,Primafila 4 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/77.ts
+#EXTINF:-1,Primafila 5 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/78.ts
+#EXTINF:-1,Primafila 6 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/79.ts
+#EXTINF:-1,Primafila 7 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/80.ts
+#EXTINF:-1,Primafila 8 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/81.ts
+#EXTINF:-1,Primafila 9 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/82.ts
+#EXTINF:-1,Primafila 10 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/83.ts
+#EXTINF:-1,Primafila 11 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/84.ts
+#EXTINF:-1,Primafila 12 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/85.ts
+#EXTINF:-1,Primafila 13 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/86.ts
+#EXTINF:-1,Primafila 14 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/87.ts
+#EXTINF:-1,Primafila 15 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/88.ts
+#EXTINF:-1,Primafila WWE
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1742.ts
+#EXTINF:-1,---SKY SPORT
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1572.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/138.ts
+#EXTINF:-1,Sky Sport HD*
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/2997.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/135.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/136.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/137.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/140.ts
+#EXTINF:-1,Fox Sports HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/26.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/139.ts
+#EXTINF:-1,Sky Moto GP HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/134.ts
+#EXTINF:-1,SUPER TENNIS HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1672.ts
+#EXTINF:-1,SPORT ITALIA
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1352.ts
+#EXTINF:-1,Juventus TV
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/34.ts
+#EXTINF:-1,Milan Channel
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/39.ts
+#EXTINF:-1,Inter Channel
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/30.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1785.ts
+#EXTINF:-1,Rai Sport 2
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1786.ts
+#EXTINF:-1,---SKY CALCIO IT 
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1573.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/2924.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/141.ts
+#EXTINF:-1,Sky Supercalcio SD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/2925.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/113.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/114.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/115.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/116.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/117.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/118.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/119.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1739.ts
+#EXTINF:-1,Liverpool FC
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1821.ts
+#EXTINF:-1,BARCA TV
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1819.ts
+#EXTINF:-1,---CARTONI
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1574.ts
+#EXTINF:-1,Sky Disney Channel HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/131.ts
+#EXTINF:-1,Sky Disney channel +1
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1790.ts
+#EXTINF:-1,Sky Disney XD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/133.ts
+#EXTINF:-1,Sky Disney Junior
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/132.ts
+#EXTINF:-1,Sky Cartoon Network
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/120.ts
 #EXTINF:-1,Super!
-http://lucky.lts1.net:23000/live/461311/461311/2487.ts
-#EXTINF:-1,Rai Yoyo
-http://lucky.lts1.net:23000/live/461311/461311/2498.ts
-#EXTINF:-1,Nikeleodeon
-http://lucky.lts1.net:23000/live/461311/461311/8663.ts
-#EXTINF:-1,Premium Carton Network
-http://lucky.lts1.net:23000/live/461311/461311/2449.ts
-#EXTINF:-1,---NOTIZIE -------
-http://lucky.lts1.net:23000/live/461311/461311/6640.ts
-#EXTINF:-1,Sky TG 24 HD
-http://lucky.lts1.net:23000/live/461311/461311/2485.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1741.ts
+#EXTINF:-1,Rai YoYo
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/151.ts
+#EXTINF:-1,Cartoonito
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/8.ts
+#EXTINF:-1,Frisbee
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1793.ts
+#EXTINF:-1,K2
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1792.ts
+#EXTINF:-1,Manga
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1789.ts
+#EXTINF:-1,Boing
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1791.ts
+#EXTINF:-1,Rai Gulp
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/100.ts
+#EXTINF:-1,RAI SCUOLA
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1304.ts
+#EXTINF:-1,Masha_e_L'Orso_Channel
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/3088.ts
+#EXTINF:-1,---CULTURA
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1579.ts
+#EXTINF:-1,Explora HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1740.ts
+#EXTINF:-1,National Geographic HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/45.ts
+#EXTINF:-1,Nat Geo People HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/43.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/44.ts
+#EXTINF:-1,Discovery World
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/16.ts
+#EXTINF:-1,Discovery Channel HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/13.ts
+#EXTINF:-1,Discovery Science HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/14.ts
+#EXTINF:-1,Discovery Travel & Living HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/15.ts
+#EXTINF:-1,Focus
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/20.ts
+#EXTINF:-1,Dmax
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/17.ts
+#EXTINF:-1,Sky Arte HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/111.ts
+#EXTINF:-1,HISTORY
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/29.ts
+#EXTINF:-1,Marcopolo
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/37.ts
+#EXTINF:-1,Animal Planet HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/4.ts
+#EXTINF:-1,Gambero Rosso HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/28.ts
+#EXTINF:-1,Real Time
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/107.ts
+#EXTINF:-1,Pesca e Caccia
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1738.ts
+#EXTINF:-1,Caccia e Pesca
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/6.ts
+#EXTINF:-1,--- NOTIZIE
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1575.ts
+#EXTINF:-1,SKY TG24 HD
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1385.ts
+#EXTINF:-1,Sky Tg 24
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/142.ts
+#EXTINF:-1,TG Com 24
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/147.ts
 #EXTINF:-1,Rai News 24
-http://lucky.lts1.net:23000/live/461311/461311/2465.ts
-#EXTINF:-1,TgCom 24
-http://lucky.lts1.net:23000/live/461311/461311/2488.ts
-#EXTINF:-1,TG Norba 24
-http://lucky.lts1.net:23000/live/461311/461311/7493.ts
-#EXTINF:-1,Gazzetta tv
-http://lucky.lts1.net:23000/live/461311/461311/7494.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/102.ts
 #EXTINF:-1,Videolina
-http://lucky.lts1.net:23000/live/461311/461311/9286.ts
-#EXTINF:-1,TV luna
-http://lucky.lts1.net:23000/live/461311/461311/9289.ts
-#EXTINF:-1,Telemia
-http://lucky.lts1.net:23000/live/461311/461311/9284.ts
-#EXTINF:-1,Antenna Sicilia
-http://lucky.lts1.net:23000/live/461311/461311/9281.ts
-#EXTINF:-1,R3
-http://lucky.lts1.net:23000/live/461311/461311/9283.ts
-#EXTINF:-1,Italia 7 gold
-http://lucky.lts1.net:23000/live/461311/461311/9280.ts
-#EXTINF:-1,Clb classic Italia
-http://lucky.lts1.net:23000/live/461311/461311/9282.ts
-#EXTINF:-1,Canale 8
-http://lucky.lts1.net:23000/live/461311/461311/9288.ts
-#EXTINF:-1,Canale 21
-http://lucky.lts1.net:23000/live/461311/461311/9287.ts
-#EXTINF:-1,Sardegna 1
-http://lucky.lts1.net:23000/live/461311/461311/9285.ts
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/149.ts
+#EXTINF:-1,EURONEWS
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1369.ts
+#EXTINF:-1,---MUSICA
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1576.ts
+#EXTINF:-1,MTV Music
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/41.ts
+#EXTINF:-1,Onda Latina
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1787.ts
+#EXTINF:-1,Radio 105 TV
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/93.ts
+#EXTINF:-1,Radio MonteCarlo TV
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/94.ts
+#EXTINF:-1,M2O TV
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1370.ts
+#EXTINF:-1,RTL 102.5
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1354.ts
+#EXTINF:-1,RADIO ITALIA TV
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1390.ts
+#EXTINF:-1,Deejay TV
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/12.ts
+#EXTINF:-1,FOR MUSIC TV
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1379.ts
+#EXTINF:-1,RDS ITALIA
+http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1788.ts
+
+
 #EXTINF:-1,-----AL CINEMA-----
 http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1923.ts
 #EXTINF:-1,Ave Cesare! (2016)

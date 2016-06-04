@@ -77,6 +77,11 @@ Android API 14+
 - Possibility to add channel to `Favorite` category
 - System language supported `Italian` and `English`
 
+##TODO
+
+- EPG list
+- Multimedia native video player
+
 ##CREDITS
 
 Michele Lacorte: [GitHub Profile](https://github.com/michelelacorte) (micky1995g@gmail.com)

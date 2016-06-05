@@ -3,12 +3,6 @@
 #EXTM3U
 #EXTINF:-1,---NOVITA
 http://dummylink.com
-#EXTINF:-1,Moto GP (clicca qui)
-http://tv2iptv.com:8000/live/Simon/Simon/1820.ts
-#EXTINF:-1,Moto GP Alternativo (clicca qui)
-http://213.136.90.30:8000/live/sk3/sk3/15280.ts
-#EXTINF:-1,Moto GP Alternativo 2 (clicca qui)
-http://ipsatpro.com:8000/live/1234567/1234567/646.ts
 #EXTINF:-1,Serie TV 04/06/2016 Nuove! (In fondo)
 http://dummylink.com
 #EXTINF:-1,---DEFAULT

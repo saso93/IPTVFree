@@ -5,6 +5,8 @@
 http://dummylink.com
 #EXTINF:-1,Moto GP 14.00 (clicca qui)
 http://tv2iptv.com:8000/live/Simon/Simon/1820.ts
+#EXTINF:-1,Moto GP alternativo 14.00 (clicca qui)
+http://213.136.90.30:8000/live/sk3/sk3/15280.ts
 #EXTINF:-1,Serie TV 04/06/2016 Nuove! (In fondo)
 http://dummylink.com
 #EXTINF:-1,---DEFAULT
@@ -699,6 +701,8 @@ http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/26.ts
 http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/139.ts
 #EXTINF:-1,Sky Moto GP HD
 http://tv2iptv.com:8000/live/Simon/Simon/1820.ts
+#EXTINF:-1,Sky Moto Gp 2 HD
+http://213.136.90.30:8000/live/sk3/sk3/15280.ts
 #EXTINF:-1,SUPER TENNIS HD
 http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1672.ts
 #EXTINF:-1,SPORT ITALIA

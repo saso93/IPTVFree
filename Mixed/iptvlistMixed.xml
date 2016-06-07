@@ -1,2030 +1,2541 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <List>
 #EXTM3U
-#EXTINF:-1,----AR
-http://dummylink.com
-#EXTINF:-1,AR: OSN StAR: World
-http://hyper.de1-eu.com:8000/live/aria/aria/3778.ts
-#EXTINF:-1,AR: OSN On Demand
-http://hyper.de1-eu.com:8000/live/aria/aria/3779.ts
-#EXTINF:-1,AR: OSN Movies stAR: HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3780.ts
-#EXTINF:-1,AR: OSN Movies Kids
-http://hyper.de1-eu.com:8000/live/aria/aria/3781.ts
-#EXTINF:-1,AR: OSN Movies First More HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3782.ts
-#EXTINF:-1,AR: OSN Movies Festival
-http://hyper.de1-eu.com:8000/live/aria/aria/3783.ts
-#EXTINF:-1,AR: OSN Movies Drama HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3784.ts
-#EXTINF:-1,AR: OSN Movies Box Office 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3786.ts
-#EXTINF:-1,AR: OSN Movies Box Office 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3785.ts
-#EXTINF:-1,AR: OSN Movie Premiere
-http://hyper.de1-eu.com:8000/live/aria/aria/3787.ts
-#EXTINF:-1,AR: OSN MOVIE ACTION 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3789.ts
-#EXTINF:-1,AR: OSN MOVIE ACTION
-http://hyper.de1-eu.com:8000/live/aria/aria/3788.ts
-#EXTINF:-1,AR: OSN MOVIE
-http://hyper.de1-eu.com:8000/live/aria/aria/3790.ts
-#EXTINF:-1,AR: OSN First HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3793.ts
-#EXTINF:-1,----IRAN
-http://dummylink.com
-#EXTINF:-1,IRAN : PMC
-http://hyper.de1-eu.com:8000/live/aria/aria/2550.ts
-#EXTINF:-1,IRAN :GEM TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2536.ts
-#EXTINF:-1,IRAN :MIFA
-http://hyper.de1-eu.com:8000/live/aria/aria/2525.ts
-#EXTINF:-1,IRAN :Onyx
-http://hyper.de1-eu.com:8000/live/aria/aria/2521.ts
-#EXTINF:-1,IRAN :RIVER
-http://hyper.de1-eu.com:8000/live/aria/aria/2518.ts
-#EXTINF:-1,IRAN :RUBIX
-http://hyper.de1-eu.com:8000/live/aria/aria/2517.ts
-#EXTINF:-1,IRAN: bbc persian
-http://hyper.de1-eu.com:8000/live/aria/aria/2514.ts
-#EXTINF:-1,IRAN: VOA Persian
-http://hyper.de1-eu.com:8000/live/aria/aria/2497.ts
-#EXTINF:-1,IRAN: Farsi1
-http://hyper.de1-eu.com:8000/live/aria/aria/2609.ts
-#EXTINF:-1,IRAN: IRINN
-http://hyper.de1-eu.com:8000/live/aria/aria/2617.ts
-#EXTINF:-1,IRAN: IRIB VARZESH
-http://hyper.de1-eu.com:8000/live/aria/aria/2616.ts
-#EXTINF:-1,IRAN: IRIB TV5
-http://hyper.de1-eu.com:8000/live/aria/aria/2615.ts
-#EXTINF:-1,IRAN: IRIB TV4
-http://hyper.de1-eu.com:8000/live/aria/aria/2614.ts
-#EXTINF:-1,IRAN: IRIB TV3
-http://hyper.de1-eu.com:8000/live/aria/aria/2613.ts
-#EXTINF:-1,IRAN: IRIB TV2
-http://hyper.de1-eu.com:8000/live/aria/aria/2612.ts
-#EXTINF:-1,IRAN: IRIB TV1
-http://hyper.de1-eu.com:8000/live/aria/aria/2611.ts
-#EXTINF:-1,IRAN: IRIB SHOMA
-http://hyper.de1-eu.com:8000/live/aria/aria/2623.ts
-#EXTINF:-1,IRAN: IRIB SALAMAT
-http://hyper.de1-eu.com:8000/live/aria/aria/2624.ts
-#EXTINF:-1,IRAN: IRIB pouya
-http://hyper.de1-eu.com:8000/live/aria/aria/2626.ts
-#EXTINF:-1,IRAN: IRIB NASIM
-http://hyper.de1-eu.com:8000/live/aria/aria/2625.ts
-#EXTINF:-1,IRAN: IRIB NAMAYESH
-http://hyper.de1-eu.com:8000/live/aria/aria/2628.ts
-#EXTINF:-1,IRAN: IRIB MOSTANAD
-http://hyper.de1-eu.com:8000/live/aria/aria/2620.ts
-#EXTINF:-1,IRAN: IRIB FILM
-http://hyper.de1-eu.com:8000/live/aria/aria/2619.ts
-#EXTINF:-1,IRAN: IRIB BAZAR
-http://hyper.de1-eu.com:8000/live/aria/aria/2622.ts
-#EXTINF:-1,IRAN: IRIB AMOZESH
-http://hyper.de1-eu.com:8000/live/aria/aria/2621.ts
-#EXTINF:-1,Iran: Tv Persia
-http://hyper.de1-eu.com:8000/live/aria/aria/3750.ts
-#EXTINF:-1,Iran: Persian Movies
-http://hyper.de1-eu.com:8000/live/aria/aria/3749.ts
-#EXTINF:-1,Iran: Pars TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3753.ts
-#EXTINF:-1,Iran: Nex1
-http://hyper.de1-eu.com:8000/live/aria/aria/3748.ts
-#EXTINF:-1,Iran: Mytv
-http://hyper.de1-eu.com:8000/live/aria/aria/3757.ts
-#EXTINF:-1,Iran: MTC
-http://hyper.de1-eu.com:8000/live/aria/aria/3745.ts
-#EXTINF:-1,Iran: Manoto 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3765.ts
-#EXTINF:-1,Iran: ITN
-http://hyper.de1-eu.com:8000/live/aria/aria/3744.ts
-#EXTINF:-1,Iran: ITC
-http://hyper.de1-eu.com:8000/live/aria/aria/3762.ts
-#EXTINF:-1,Iran: Iran Plus
-http://hyper.de1-eu.com:8000/live/aria/aria/3751.ts
-#EXTINF:-1,Iran: ICC
-http://hyper.de1-eu.com:8000/live/aria/aria/3752.ts
-#EXTINF:-1,Iran: GEM USA
-http://hyper.de1-eu.com:8000/live/aria/aria/3759.ts
-#EXTINF:-1,Iran: GEM Life
-http://hyper.de1-eu.com:8000/live/aria/aria/3758.ts
-#EXTINF:-1,Iran: GEM Jonior
-http://hyper.de1-eu.com:8000/live/aria/aria/3756.ts
-#EXTINF:-1,Iran: GEM Bollywood
-http://hyper.de1-eu.com:8000/live/aria/aria/3755.ts
-#EXTINF:-1,Iran: Face2
-http://hyper.de1-eu.com:8000/live/aria/aria/3764.ts
-#EXTINF:-1,Iran: Andisheh TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3754.ts
-#EXTINF:-1,Iran: AAA Film
-http://hyper.de1-eu.com:8000/live/aria/aria/3747.ts
-#EXTINF:-1,1Mb_UK: SKY MOVIES SHOWCASE
-http://hyper.de1-eu.com:8000/live/aria/aria/3634.ts
-#EXTINF:-1,1Mb_UK: SKY MOVIES SELECT
-http://hyper.de1-eu.com:8000/live/aria/aria/3635.ts
-#EXTINF:-1,1Mb_UK: SKY MOVIES SCI-FI  HORROR
-http://hyper.de1-eu.com:8000/live/aria/aria/3637.ts
-#EXTINF:-1,1Mb_UK: SKY MOVIES PREMIER
-http://hyper.de1-eu.com:8000/live/aria/aria/3638.ts
-#EXTINF:-1,1Mb_UK: SKY MOVIES MODERN GREATS
-http://hyper.de1-eu.com:8000/live/aria/aria/3639.ts
-#EXTINF:-1,1Mb_UK: SKY MOVIES FAMILY
-http://hyper.de1-eu.com:8000/live/aria/aria/3640.ts
-#EXTINF:-1,1Mb_UK: SKY MOVIES DRAMA  ROMANCE
-http://hyper.de1-eu.com:8000/live/aria/aria/3642.ts
-#EXTINF:-1,1Mb_UK: SKY MOVIES DISNEY
-http://hyper.de1-eu.com:8000/live/aria/aria/3643.ts
-#EXTINF:-1,1Mb_UK: SKY MOVIES CRIME  THRILLER
-http://hyper.de1-eu.com:8000/live/aria/aria/3644.ts
-#EXTINF:-1,1Mb_UK: SKY MOVIES COMEDY
-http://hyper.de1-eu.com:8000/live/aria/aria/3645.ts
-#EXTINF:-1,1Mb_UK: SKY MOVIES ACTION  ADVENTURE
-http://hyper.de1-eu.com:8000/live/aria/aria/3646.ts
-#EXTINF:-1,1Mb_UK: MTV ROCKS
-http://hyper.de1-eu.com:8000/live/aria/aria/3647.ts
-#EXTINF:-1,1Mb_UK: MTV MUSIC
-http://hyper.de1-eu.com:8000/live/aria/aria/3648.ts
-#EXTINF:-1,1Mb_UK: MTV HITS
-http://hyper.de1-eu.com:8000/live/aria/aria/3649.ts
-#EXTINF:-1,1Mb_UK: MTV DANCE
-http://hyper.de1-eu.com:8000/live/aria/aria/3650.ts
-#EXTINF:-1,1Mb_UK: MTV Base
-http://hyper.de1-eu.com:8000/live/aria/aria/3652.ts
-#EXTINF:-1,1Mb_UK: MTV
-http://hyper.de1-eu.com:8000/live/aria/aria/3653.ts
-#EXTINF:-1,1Mb_SPORT: Sky Sports 5
-http://hyper.de1-eu.com:8000/live/aria/aria/3627.ts
-#EXTINF:-1,1Mb_SPORT: Sky Sports 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3628.ts
-#EXTINF:-1,1Mb_SPORT: Sky Sports 3
-http://hyper.de1-eu.com:8000/live/aria/aria/3629.ts
-#EXTINF:-1,1Mb_SPORT: Sky Sports 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3630.ts
-#EXTINF:-1,1Mb_SPORT: Sky Sports 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3631.ts
-#EXTINF:-1,1Mb_SPORT: Sky Bundesliga HD 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3632.ts
-#EXTINF:-1,1Mb_SPORT: CTH Stadium 6 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3619.ts
-#EXTINF:-1,1Mb_SPORT: CTH Stadium 5 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3620.ts
-#EXTINF:-1,1Mb_SPORT: CTH Stadium 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3621.ts
-#EXTINF:-1,1Mb_SPORT: CTH Stadium 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3622.ts
-#EXTINF:-1,1Mb_SPORT: CTH Stadium 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3623.ts
-#EXTINF:-1,1Mb_SPORT: CTH Stadium 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3624.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 9
-http://hyper.de1-eu.com:8000/live/aria/aria/3615.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 8
-http://hyper.de1-eu.com:8000/live/aria/aria/3614.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 7
-http://hyper.de1-eu.com:8000/live/aria/aria/3613.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 6
-http://hyper.de1-eu.com:8000/live/aria/aria/3612.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 5
-http://hyper.de1-eu.com:8000/live/aria/aria/3611.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3610.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 3 FR
-http://hyper.de1-eu.com:8000/live/aria/aria/3606.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 3
-http://hyper.de1-eu.com:8000/live/aria/aria/3609.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 2 FR
-http://hyper.de1-eu.com:8000/live/aria/aria/3605.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3608.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 12
-http://hyper.de1-eu.com:8000/live/aria/aria/3618.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 11
-http://hyper.de1-eu.com:8000/live/aria/aria/3617.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 10
-http://hyper.de1-eu.com:8000/live/aria/aria/3616.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 1 FR
-http://hyper.de1-eu.com:8000/live/aria/aria/3604.ts
-#EXTINF:-1,1Mb_SPORT: BEINSPORTS 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3607.ts
-#EXTINF:-1,1Mb_IT: Sky Sport 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3654.ts
-#EXTINF:-1,1Mb_IT: Sky Sport 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3656.ts
-#EXTINF:-1,1Mb_IT: Sky Sport 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3657.ts
-#EXTINF:-1,1Mb_IT: Fox Sports HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3661.ts
-#EXTINF:-1,1Mb_DE: Sky Sport 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3662.ts
-#EXTINF:-1,1Mb_DE: Sky Sport 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3663.ts
-#EXTINF:-1,----BEIN SPORTS
-http://dummylink.com
-#EXTINF:-1,SPORT: BEINSPORTS 1 FR
-http://hyper.de1-eu.com:8000/live/aria/aria/2893.ts
-#EXTINF:-1,SPORT: BEINSPORTS 2 FR
-http://hyper.de1-eu.com:8000/live/aria/aria/2891.ts
-#EXTINF:-1,SPORT: BEINSPORTS 3 FR
-http://hyper.de1-eu.com:8000/live/aria/aria/2889.ts
-#EXTINF:-1,SPORT: BEINSPORTS 1
-http://hyper.de1-eu.com:8000/live/aria/aria/2894.ts
-#EXTINF:-1,SPORT: BEINSPORTS 2
-http://hyper.de1-eu.com:8000/live/aria/aria/2892.ts
-#EXTINF:-1,SPORT: BEINSPORTS 3
-http://hyper.de1-eu.com:8000/live/aria/aria/2890.ts
-#EXTINF:-1,SPORT: BEINSPORTS 4
-http://hyper.de1-eu.com:8000/live/aria/aria/2888.ts
-#EXTINF:-1,SPORT: BEINSPORTS 5
-http://hyper.de1-eu.com:8000/live/aria/aria/2887.ts
-#EXTINF:-1,SPORT: BEINSPORTS 6
-http://hyper.de1-eu.com:8000/live/aria/aria/2886.ts
-#EXTINF:-1,SPORT: BEINSPORTS 7
-http://hyper.de1-eu.com:8000/live/aria/aria/2885.ts
-#EXTINF:-1,SPORT: BEINSPORTS 8
-http://hyper.de1-eu.com:8000/live/aria/aria/2884.ts
-#EXTINF:-1,SPORT: BEINSPORTS 9
-http://hyper.de1-eu.com:8000/live/aria/aria/2883.ts
-#EXTINF:-1,SPORT: BEINSPORTS 10
-http://hyper.de1-eu.com:8000/live/aria/aria/2882.ts
-#EXTINF:-1,SPORT: BEINSPORTS 11
-http://hyper.de1-eu.com:8000/live/aria/aria/2881.ts
-#EXTINF:-1,SPORT: BEINSPORTS 12
-http://hyper.de1-eu.com:8000/live/aria/aria/2880.ts
-#EXTINF:-1,SPORT: CTH Stadium 6 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2874.ts
-#EXTINF:-1,SPORT: CTH Stadium 5 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2875.ts
-#EXTINF:-1,SPORT: CTH Stadium 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2876.ts
-#EXTINF:-1,SPORT: CTH Stadium 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2877.ts
-#EXTINF:-1,SPORT: CTH Stadium 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2878.ts
-#EXTINF:-1,SPORT: CTH Stadium 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2879.ts
-#EXTINF:-1,SPORT: Super Sport 4
-http://hyper.de1-eu.com:8000/live/aria/aria/2848.ts
-#EXTINF:-1,SPORT: Super Sport 3
-http://hyper.de1-eu.com:8000/live/aria/aria/2849.ts
-#EXTINF:-1,SPORT: Super Sport 2
-http://hyper.de1-eu.com:8000/live/aria/aria/2850.ts
-#EXTINF:-1,SPORT: Super Sport 1
-http://hyper.de1-eu.com:8000/live/aria/aria/2851.ts
-#EXTINF:-1,SPORT: Sport Klub 3
-http://hyper.de1-eu.com:8000/live/aria/aria/2857.ts
-#EXTINF:-1,SPORT: Sport Klub 2
-http://hyper.de1-eu.com:8000/live/aria/aria/2858.ts
-#EXTINF:-1,SPORT: Sport Klub 1
-http://hyper.de1-eu.com:8000/live/aria/aria/2859.ts
-#EXTINF:-1,----UK
-http://dummylink.com
-#EXTINF:-1,UK: SKY SPORTS F1
-http://hyper.de1-eu.com:8000/live/aria/aria/3705.ts
-#EXTINF:-1,UK: SKY SPORTS 5
-http://hyper.de1-eu.com:8000/live/aria/aria/3706.ts
-#EXTINF:-1,UK: SKY SPORTS 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3707.ts
-#EXTINF:-1,UK: SKY SPORTS 3
-http://hyper.de1-eu.com:8000/live/aria/aria/3708.ts
-#EXTINF:-1,UK: SKY SPORTS 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3709.ts
-#EXTINF:-1,UK: SKY SPORTS 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3710.ts
-#EXTINF:-1,UK: SKY SPORT NEWS
-http://hyper.de1-eu.com:8000/live/aria/aria/3711.ts
-#EXTINF:-1,SPORT: Sky Sports News
-http://hyper.de1-eu.com:8000/live/aria/aria/2860.ts
-#EXTINF:-1,SPORT: Sky Sports F1
-http://hyper.de1-eu.com:8000/live/aria/aria/2861.ts
-#EXTINF:-1,SPORT: Sky Sports 5
-http://hyper.de1-eu.com:8000/live/aria/aria/2862.ts
-#EXTINF:-1,SPORT: Sky Sports 4
-http://hyper.de1-eu.com:8000/live/aria/aria/2863.ts
-#EXTINF:-1,SPORT: Sky Sports 3
-http://hyper.de1-eu.com:8000/live/aria/aria/2864.ts
-#EXTINF:-1,SPORT: Sky Sports 2
-http://hyper.de1-eu.com:8000/live/aria/aria/2865.ts
-#EXTINF:-1,SPORT: Sky Sports 1
-http://hyper.de1-eu.com:8000/live/aria/aria/2866.ts
-#EXTINF:-1,SPORT: Sky Bundesliga HD 1
-http://hyper.de1-eu.com:8000/live/aria/aria/2867.ts
-#EXTINF:-1,SPORT: Sky 2
-http://hyper.de1-eu.com:8000/live/aria/aria/2868.ts
-#EXTINF:-1,SPORT: Sky 1
-http://hyper.de1-eu.com:8000/live/aria/aria/2869.ts
-#EXTINF:-1,SPORT: Setanta Sport
-http://hyper.de1-eu.com:8000/live/aria/aria/2870.ts
-#EXTINF:-1,SPORT: Prva Plus
-http://hyper.de1-eu.com:8000/live/aria/aria/2871.ts
-#EXTINF:-1,SPORT: Premiere Sport UK
-http://hyper.de1-eu.com:8000/live/aria/aria/2872.ts
-#EXTINF:-1,SPORT: Liverpool FC UK
-http://hyper.de1-eu.com:8000/live/aria/aria/2873.ts
-#EXTINF:-1,SPORT: Arena Sport 5 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2895.ts
-#EXTINF:-1,SPORT: Arena Sport 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2896.ts
-#EXTINF:-1,SPORT: Arena Sport 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2897.ts
-#EXTINF:-1,SPORT: Arena Sport 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2898.ts
-#EXTINF:-1,SPORT: Arena Sport 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2899.ts
-#EXTINF:-1,UK: YESTERDAY
-http://hyper.de1-eu.com:8000/live/aria/aria/3216.ts
-#EXTINF:-1,UK: WATCH
-http://hyper.de1-eu.com:8000/live/aria/aria/3217.ts
-#EXTINF:-1,UK: Viva UK
-http://hyper.de1-eu.com:8000/live/aria/aria/3244.ts
-#EXTINF:-1,UK: VH1
-http://hyper.de1-eu.com:8000/live/aria/aria/3167.ts
-#EXTINF:-1,UK: Universal  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3201.ts
-#EXTINF:-1,UK: TV3
-http://hyper.de1-eu.com:8000/live/aria/aria/3218.ts
-#EXTINF:-1,UK: Travel Channel
-http://hyper.de1-eu.com:8000/live/aria/aria/3171.ts
-#EXTINF:-1,UK: TLC
-http://hyper.de1-eu.com:8000/live/aria/aria/3219.ts
-#EXTINF:-1,UK: TCM
-http://hyper.de1-eu.com:8000/live/aria/aria/3168.ts
-#EXTINF:-1,UK: Syfy  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3202.ts
-#EXTINF:-1,UK: SYFY
-http://hyper.de1-eu.com:8000/live/aria/aria/3221.ts
-#EXTINF:-1,UK: SONY MOVIES
-http://hyper.de1-eu.com:8000/live/aria/aria/3222.ts
-#EXTINF:-1,UK: Sony Movie Channel  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3169.ts
-#EXTINF:-1,UK: Sony Movie Channel
-http://hyper.de1-eu.com:8000/live/aria/aria/3170.ts
-#EXTINF:-1,UK: SKY TWO
-http://hyper.de1-eu.com:8000/live/aria/aria/3223.ts
-#EXTINF:-1,UK: Sky Sports News HQ
-http://hyper.de1-eu.com:8000/live/aria/aria/3172.ts
-#EXTINF:-1,UK: SKY ONE
-http://hyper.de1-eu.com:8000/live/aria/aria/3224.ts
-#EXTINF:-1,UK: Sky News Ireland
-http://hyper.de1-eu.com:8000/live/aria/aria/3173.ts
-#EXTINF:-1,UK: Sky News
-http://hyper.de1-eu.com:8000/live/aria/aria/3174.ts
-#EXTINF:-1,UK: SKY MOVIES SHOWCASE
-http://hyper.de1-eu.com:8000/live/aria/aria/3225.ts
-#EXTINF:-1,UK: SKY MOVIES SELECT
-http://hyper.de1-eu.com:8000/live/aria/aria/3226.ts
-#EXTINF:-1,UK: Sky Movies Sci-FiHorror
-http://hyper.de1-eu.com:8000/live/aria/aria/3175.ts
-#EXTINF:-1,UK: SKY MOVIES SCI-FI  HORROR
-http://hyper.de1-eu.com:8000/live/aria/aria/3227.ts
-#EXTINF:-1,UK: Sky Movies Premiere  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3176.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://hyper.de1-eu.com:8000/live/aria/aria/3177.ts
-#EXTINF:-1,UK: SKY MOVIES PREMIER
-http://hyper.de1-eu.com:8000/live/aria/aria/3228.ts
-#EXTINF:-1,UK: SKY MOVIES MODERN GREATS
-http://hyper.de1-eu.com:8000/live/aria/aria/3229.ts
-#EXTINF:-1,UK: Sky Movies Greats
-http://hyper.de1-eu.com:8000/live/aria/aria/3178.ts
-#EXTINF:-1,UK: SKY MOVIES FAMILY
-http://hyper.de1-eu.com:8000/live/aria/aria/3230.ts
-#EXTINF:-1,UK: Sky Movies DramaRomance
-http://hyper.de1-eu.com:8000/live/aria/aria/3179.ts
-#EXTINF:-1,UK: SKY MOVIES DRAMA  ROMANCE
-http://hyper.de1-eu.com:8000/live/aria/aria/3231.ts
-#EXTINF:-1,UK: SKY MOVIES DISNEY
-http://hyper.de1-eu.com:8000/live/aria/aria/3232.ts
-#EXTINF:-1,UK: Sky Movies CrimeThriller
-http://hyper.de1-eu.com:8000/live/aria/aria/3180.ts
-#EXTINF:-1,UK: SKY MOVIES CRIME  THRILLER
-http://hyper.de1-eu.com:8000/live/aria/aria/3233.ts
-#EXTINF:-1,UK: SKY MOVIES COMEDY
-http://hyper.de1-eu.com:8000/live/aria/aria/3234.ts
-#EXTINF:-1,UK: Sky Movies ActionAdventure
-http://hyper.de1-eu.com:8000/live/aria/aria/3181.ts
-#EXTINF:-1,UK: SKY MOVIES ACTION  ADVENTURE
-http://hyper.de1-eu.com:8000/live/aria/aria/3235.ts
-#EXTINF:-1,UK: Sky Living Ireland
-http://hyper.de1-eu.com:8000/live/aria/aria/3182.ts
-#EXTINF:-1,UK: Sky Living  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3183.ts
-#EXTINF:-1,UK: SKY LIVING
-http://hyper.de1-eu.com:8000/live/aria/aria/3236.ts
-#EXTINF:-1,UK: Sky Disney
-http://hyper.de1-eu.com:8000/live/aria/aria/3247.ts
-#EXTINF:-1,UK: Sky Atlantic Ireland
-http://hyper.de1-eu.com:8000/live/aria/aria/3184.ts
-#EXTINF:-1,UK: Sky Atlantic  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3185.ts
-#EXTINF:-1,UK: SKY ATLANTIC
-http://hyper.de1-eu.com:8000/live/aria/aria/3237.ts
-#EXTINF:-1,UK: Sky Arts
-http://hyper.de1-eu.com:8000/live/aria/aria/3186.ts
-#EXTINF:-1,UK: Sky 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3187.ts
-#EXTINF:-1,UK: Sky 1  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3188.ts
-#EXTINF:-1,UK: Sky 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3189.ts
-#EXTINF:-1,UK: SETANTA SPORT IRELAND
-http://hyper.de1-eu.com:8000/live/aria/aria/3238.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://hyper.de1-eu.com:8000/live/aria/aria/3190.ts
-#EXTINF:-1,UK: Setanta HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3191.ts
-#EXTINF:-1,UK: RTE 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3165.ts
-#EXTINF:-1,UK: RTE 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3166.ts
-#EXTINF:-1,UK: REALLY
-http://hyper.de1-eu.com:8000/live/aria/aria/3239.ts
-#EXTINF:-1,UK: REAL LIVES
-http://hyper.de1-eu.com:8000/live/aria/aria/3240.ts
-#EXTINF:-1,UK: RACING UK
-http://hyper.de1-eu.com:8000/live/aria/aria/3241.ts
-#EXTINF:-1,UK: Racing
-http://hyper.de1-eu.com:8000/live/aria/aria/3192.ts
-#EXTINF:-1,UK: QUEST
-http://hyper.de1-eu.com:8000/live/aria/aria/3242.ts
-#EXTINF:-1,UK: PREMIER SPORTS
-http://hyper.de1-eu.com:8000/live/aria/aria/3243.ts
-#EXTINF:-1,UK: Pick  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3193.ts
-#EXTINF:-1,UK: Pick
-http://hyper.de1-eu.com:8000/live/aria/aria/3194.ts
-#EXTINF:-1,UK: NICKTOONS
-http://hyper.de1-eu.com:8000/live/aria/aria/3245.ts
-#EXTINF:-1,UK: NICK JR
-http://hyper.de1-eu.com:8000/live/aria/aria/3246.ts
-#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
-http://hyper.de1-eu.com:8000/live/aria/aria/3248.ts
-#EXTINF:-1,UK: NAT GEO WILD
-http://hyper.de1-eu.com:8000/live/aria/aria/3249.ts
-#EXTINF:-1,UK: MUTV
-http://hyper.de1-eu.com:8000/live/aria/aria/3250.ts
-#EXTINF:-1,UK: MTV ROCKS
-http://hyper.de1-eu.com:8000/live/aria/aria/3251.ts
-#EXTINF:-1,UK: MTV MUSIC
-http://hyper.de1-eu.com:8000/live/aria/aria/3252.ts
-#EXTINF:-1,UK: MTV HITS
-http://hyper.de1-eu.com:8000/live/aria/aria/3253.ts
-#EXTINF:-1,UK: MTV DANCE
-http://hyper.de1-eu.com:8000/live/aria/aria/3254.ts
-#EXTINF:-1,UK: MTV Classic
-http://hyper.de1-eu.com:8000/live/aria/aria/3195.ts
-#EXTINF:-1,UK: MTV Base
-http://hyper.de1-eu.com:8000/live/aria/aria/3196.ts
-#EXTINF:-1,UK: MTV  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3197.ts
-#EXTINF:-1,UK: MTV
-http://hyper.de1-eu.com:8000/live/aria/aria/3198.ts
-#EXTINF:-1,UK: Movies4Men  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3199.ts
-#EXTINF:-1,UK: MOVIES4MEN
-http://hyper.de1-eu.com:8000/live/aria/aria/3255.ts
-#EXTINF:-1,UK: MOTORS TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3256.ts
-#EXTINF:-1,UK: More 4 Ireland
-http://hyper.de1-eu.com:8000/live/aria/aria/3200.ts
-#EXTINF:-1,UK: LIVING IT
-http://hyper.de1-eu.com:8000/live/aria/aria/3257.ts
-#EXTINF:-1,UK: LIVERPOOL FC TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3258.ts
-#EXTINF:-1,UK: LIFETIME
-http://hyper.de1-eu.com:8000/live/aria/aria/3259.ts
-#EXTINF:-1,UK: ITV4
-http://hyper.de1-eu.com:8000/live/aria/aria/3260.ts
-#EXTINF:-1,UK: ITV3
-http://hyper.de1-eu.com:8000/live/aria/aria/3261.ts
-#EXTINF:-1,UK: ITV2
-http://hyper.de1-eu.com:8000/live/aria/aria/3262.ts
-#EXTINF:-1,UK: ITV1
-http://hyper.de1-eu.com:8000/live/aria/aria/3263.ts
-#EXTINF:-1,UK: ITV BE
-http://hyper.de1-eu.com:8000/live/aria/aria/3264.ts
-#EXTINF:-1,UK: Investigation Discovery Ireland
-http://hyper.de1-eu.com:8000/live/aria/aria/3203.ts
-#EXTINF:-1,UK: HOME
-http://hyper.de1-eu.com:8000/live/aria/aria/3265.ts
-#EXTINF:-1,UK: HISTORY
-http://hyper.de1-eu.com:8000/live/aria/aria/3266.ts
-#EXTINF:-1,UK: H2
-http://hyper.de1-eu.com:8000/live/aria/aria/3267.ts
-#EXTINF:-1,UK: GOLD
-http://hyper.de1-eu.com:8000/live/aria/aria/3268.ts
-#EXTINF:-1,UK: Fox  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3204.ts
-#EXTINF:-1,UK: FOX
-http://hyper.de1-eu.com:8000/live/aria/aria/3269.ts
-#EXTINF:-1,UK: EDEN
-http://hyper.de1-eu.com:8000/live/aria/aria/3270.ts
-#EXTINF:-1,UK: E4
-http://hyper.de1-eu.com:8000/live/aria/aria/3205.ts
-#EXTINF:-1,UK: Disney XD  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3206.ts
-#EXTINF:-1,UK: DISNEY XD
-http://hyper.de1-eu.com:8000/live/aria/aria/3271.ts
-#EXTINF:-1,UK: Disney Junior  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3207.ts
-#EXTINF:-1,UK: DISNEY JUNIOR
-http://hyper.de1-eu.com:8000/live/aria/aria/3272.ts
-#EXTINF:-1,UK: Disney Channel  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3208.ts
-#EXTINF:-1,UK: DISNEY CHANNEL
-http://hyper.de1-eu.com:8000/live/aria/aria/3273.ts
-#EXTINF:-1,UK: DISCOVERY TURBO
-http://hyper.de1-eu.com:8000/live/aria/aria/3274.ts
-#EXTINF:-1,UK: DISCOVERY SHED
-http://hyper.de1-eu.com:8000/live/aria/aria/3275.ts
-#EXTINF:-1,UK: Discovery Science Channel
-http://hyper.de1-eu.com:8000/live/aria/aria/3209.ts
-#EXTINF:-1,UK: DISCOVERY SCIENCE
-http://hyper.de1-eu.com:8000/live/aria/aria/3276.ts
-#EXTINF:-1,UK: DISCOVERY ID
-http://hyper.de1-eu.com:8000/live/aria/aria/3277.ts
-#EXTINF:-1,UK: Discovery HomeHealth
-http://hyper.de1-eu.com:8000/live/aria/aria/3210.ts
-#EXTINF:-1,UK: DISCOVERY HISTORY
-http://hyper.de1-eu.com:8000/live/aria/aria/3278.ts
-#EXTINF:-1,UK: Discovery Channel  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3211.ts
-#EXTINF:-1,UK: DISCOVERY CHANNEL
-http://hyper.de1-eu.com:8000/live/aria/aria/3279.ts
-#EXTINF:-1,UK: DAVE
-http://hyper.de1-eu.com:8000/live/aria/aria/3280.ts
-#EXTINF:-1,UK: CRIME  INVESTIGATION
-http://hyper.de1-eu.com:8000/live/aria/aria/3281.ts
-#EXTINF:-1,UK: Community Channel
-http://hyper.de1-eu.com:8000/live/aria/aria/3212.ts
-#EXTINF:-1,UK: COMEDY CENTRAL EXTRA
-http://hyper.de1-eu.com:8000/live/aria/aria/3282.ts
-#EXTINF:-1,UK: COMEDY CENTRAL
-http://hyper.de1-eu.com:8000/live/aria/aria/3283.ts
-#EXTINF:-1,UK: CLUBLAND
-http://hyper.de1-eu.com:8000/live/aria/aria/3284.ts
-#EXTINF:-1,UK: CHELSEA TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3285.ts
-#EXTINF:-1,UK: Channel 4 Ireland
-http://hyper.de1-eu.com:8000/live/aria/aria/3213.ts
-#EXTINF:-1,UK: CHALLENGE TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3286.ts
-#EXTINF:-1,UK: CBS REALITY
-http://hyper.de1-eu.com:8000/live/aria/aria/3287.ts
-#EXTINF:-1,UK: CBS DRAMA
-http://hyper.de1-eu.com:8000/live/aria/aria/3288.ts
-#EXTINF:-1,UK: CBS ACTION
-http://hyper.de1-eu.com:8000/live/aria/aria/3289.ts
-#EXTINF:-1,UK: CBEEBIES
-http://hyper.de1-eu.com:8000/live/aria/aria/3290.ts
-#EXTINF:-1,UK: Cartoonito
-http://hyper.de1-eu.com:8000/live/aria/aria/3214.ts
-#EXTINF:-1,UK: CARTOON NETWORK
-http://hyper.de1-eu.com:8000/live/aria/aria/3291.ts
-#EXTINF:-1,UK: BT SPORT EXTRA
-http://hyper.de1-eu.com:8000/live/aria/aria/3292.ts
-#EXTINF:-1,UK: BT SPORT EUROPE
-http://hyper.de1-eu.com:8000/live/aria/aria/3293.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://hyper.de1-eu.com:8000/live/aria/aria/3215.ts
-#EXTINF:-1,UK: BT SPORT 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3294.ts
-#EXTINF:-1,UK: BT SPORT 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3295.ts
-#EXTINF:-1,UK: BRITISH EUROSPORT 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3296.ts
-#EXTINF:-1,UK: BRITISH EUROSPORT 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3297.ts
-#EXTINF:-1,UK: BOXNATION
-http://hyper.de1-eu.com:8000/live/aria/aria/3298.ts
-#EXTINF:-1,UK: Boomerang
-http://hyper.de1-eu.com:8000/live/aria/aria/3220.ts
-#EXTINF:-1,UK: BBC NEWS
-http://hyper.de1-eu.com:8000/live/aria/aria/3302.ts
-#EXTINF:-1,UK: BBC 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3303.ts
-#EXTINF:-1,UK: BBC 3
-http://hyper.de1-eu.com:8000/live/aria/aria/3300.ts
-#EXTINF:-1,UK: BBC 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3299.ts
-#EXTINF:-1,UK: BBC 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3301.ts
-#EXTINF:-1,UK: B4U PLUS
-http://hyper.de1-eu.com:8000/live/aria/aria/3304.ts
-#EXTINF:-1,UK: B4U MUSIC
-http://hyper.de1-eu.com:8000/live/aria/aria/3305.ts
-#EXTINF:-1,UK: AT THE RACES
-http://hyper.de1-eu.com:8000/live/aria/aria/3306.ts
-#EXTINF:-1,UK: ANIMAL PLANET
-http://hyper.de1-eu.com:8000/live/aria/aria/3307.ts
-#EXTINF:-1,----IN
-http://dummylink.com
-#EXTINF:-1,IN: Zoom
-http://hyper.de1-eu.com:8000/live/aria/aria/3876.ts
-#EXTINF:-1,IN: Zee Tv Us
-http://hyper.de1-eu.com:8000/live/aria/aria/3877.ts
-#EXTINF:-1,IN: Zee Smile
-http://hyper.de1-eu.com:8000/live/aria/aria/3878.ts
-#EXTINF:-1,IN: Zee Punjabi
-http://hyper.de1-eu.com:8000/live/aria/aria/3879.ts
-#EXTINF:-1,IN: Zee Cinema HD US
-http://hyper.de1-eu.com:8000/live/aria/aria/3880.ts
-#EXTINF:-1,IN: Zee Alwan
-http://hyper.de1-eu.com:8000/live/aria/aria/3881.ts
-#EXTINF:-1,IN: Zee Aflam
-http://hyper.de1-eu.com:8000/live/aria/aria/3882.ts
-#EXTINF:-1,IN: Zee Action
-http://hyper.de1-eu.com:8000/live/aria/aria/3883.ts
-#EXTINF:-1,IN: Z Cine
-http://hyper.de1-eu.com:8000/live/aria/aria/3884.ts
-#EXTINF:-1,IN: VijaY
-http://hyper.de1-eu.com:8000/live/aria/aria/3885.ts
-#EXTINF:-1,IN: UTV Movies US
-http://hyper.de1-eu.com:8000/live/aria/aria/3886.ts
-#EXTINF:-1,IN: UTV Movies
-http://hyper.de1-eu.com:8000/live/aria/aria/3887.ts
-#EXTINF:-1,IN: Sun Tv
-http://hyper.de1-eu.com:8000/live/aria/aria/3888.ts
-#EXTINF:-1,IN: Sun Music
-http://hyper.de1-eu.com:8000/live/aria/aria/3889.ts
-#EXTINF:-1,IN: Starz Cinema
-http://hyper.de1-eu.com:8000/live/aria/aria/3890.ts
-#EXTINF:-1,IN: Star Sport 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3891.ts
-#EXTINF:-1,IN: Star Sport 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3892.ts
-#EXTINF:-1,IN: Star Sport 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3893.ts
-#EXTINF:-1,IN: Star Sport 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3894.ts
-#EXTINF:-1,IN: Star Plus HD US
-http://hyper.de1-eu.com:8000/live/aria/aria/3895.ts
-#EXTINF:-1,IN: SonY Us
-http://hyper.de1-eu.com:8000/live/aria/aria/3896.ts
-#EXTINF:-1,IN: Sony Sab
-http://hyper.de1-eu.com:8000/live/aria/aria/3897.ts
-#EXTINF:-1,IN: Set Mx
-http://hyper.de1-eu.com:8000/live/aria/aria/3898.ts
-#EXTINF:-1,IN: Samaa TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3899.ts
-#EXTINF:-1,IN: Music India
-http://hyper.de1-eu.com:8000/live/aria/aria/3900.ts
-#EXTINF:-1,IN: jmovie
-http://hyper.de1-eu.com:8000/live/aria/aria/3901.ts
-#EXTINF:-1,IN: jayatv
-http://hyper.de1-eu.com:8000/live/aria/aria/3902.ts
-#EXTINF:-1,IN: J Max
-http://hyper.de1-eu.com:8000/live/aria/aria/3903.ts
-#EXTINF:-1,IN: B4U Music
-http://hyper.de1-eu.com:8000/live/aria/aria/3904.ts
-#EXTINF:-1,IN: B4U Movie
-http://hyper.de1-eu.com:8000/live/aria/aria/3905.ts
-#EXTINF:-1,IN: B4U Aflam Ar
-http://hyper.de1-eu.com:8000/live/aria/aria/3906.ts
-#EXTINF:-1,IN: ARY Digtal Uk
-http://hyper.de1-eu.com:8000/live/aria/aria/3907.ts
-#EXTINF:-1,IN: ARY Digtal
-http://hyper.de1-eu.com:8000/live/aria/aria/3908.ts
-#EXTINF:-1,IN: Aapkaus
-http://hyper.de1-eu.com:8000/live/aria/aria/3909.ts
-#EXTINF:-1,IN: AApka US
-http://hyper.de1-eu.com:8000/live/aria/aria/3910.ts
-#EXTINF:-1,IN: Aajtak
-http://hyper.de1-eu.com:8000/live/aria/aria/3911.ts
-#EXTINF:-1,----POL
-http://dummylink.com
-#EXTINF:-1,POL: TVP SPORT
-http://hyper.de1-eu.com:8000/live/aria/aria/3800.ts
-#EXTINF:-1,POL: POLSAT SPORT NEWS
-http://hyper.de1-eu.com:8000/live/aria/aria/3801.ts
-#EXTINF:-1,POL: POLSAT SPORT EXTRA
-http://hyper.de1-eu.com:8000/live/aria/aria/3802.ts
-#EXTINF:-1,POL: POLSAT SPORT
-http://hyper.de1-eu.com:8000/live/aria/aria/3803.ts
-#EXTINF:-1,POL: ORANGE SPORT
-http://hyper.de1-eu.com:8000/live/aria/aria/3807.ts
-#EXTINF:-1,POL: EUROSPORT
-http://hyper.de1-eu.com:8000/live/aria/aria/3809.ts
-#EXTINF:-1,POL: COMEDY CENTRAL
-http://hyper.de1-eu.com:8000/live/aria/aria/3813.ts
-#EXTINF:-1,POL: CANAL  SPORT 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3814.ts
-#EXTINF:-1,----IT
-http://dummylink.com
-#EXTINF:-1,IT: Supercalcio HD.
-http://hyper.de1-eu.com:8000/live/aria/aria/3463.ts
-#EXTINF:-1,IT: Super Tennis HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3462.ts
-#EXTINF:-1,IT: Super
-http://hyper.de1-eu.com:8000/live/aria/aria/3464.ts
-#EXTINF:-1,IT: Sport Italia
-http://hyper.de1-eu.com:8000/live/aria/aria/3466.ts
-#EXTINF:-1,IT: Sky Uno HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3440.ts
-#EXTINF:-1,IT: Sky Sport motogp HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3434.ts
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3437.ts
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3438.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3436.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3435.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3467.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3431.ts
-#EXTINF:-1,IT: Sky Cinema HITS HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3432.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3430.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3429.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3428.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3433.ts
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3427.ts
-#EXTINF:-1,IT: Sky Atlantic HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3426.ts
-#EXTINF:-1,IT: Sky Arte HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3425.ts
-#EXTINF:-1,IT: RSI La1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3461.ts
-#EXTINF:-1,IT: Rete 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3460.ts
-#EXTINF:-1,IT: Rai Sport 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3451.ts
-#EXTINF:-1,IT: Rai Movie
-http://hyper.de1-eu.com:8000/live/aria/aria/3452.ts
-#EXTINF:-1,IT: Rai Gulp
-http://hyper.de1-eu.com:8000/live/aria/aria/3453.ts
-#EXTINF:-1,IT: Rai 5
-http://hyper.de1-eu.com:8000/live/aria/aria/3459.ts
-#EXTINF:-1,IT: Rai 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3458.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3457.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3456.ts
-#EXTINF:-1,IT: Rai 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3455.ts
-#EXTINF:-1,IT: Rai
-http://hyper.de1-eu.com:8000/live/aria/aria/3454.ts
-#EXTINF:-1,IT: Prima Fila 9 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3524.ts
-#EXTINF:-1,IT: Prima Fila 8 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3523.ts
-#EXTINF:-1,IT: Prima Fila 7 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3522.ts
-#EXTINF:-1,IT: Prima Fila 6 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3521.ts
-#EXTINF:-1,IT: Prima Fila 5 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3520.ts
-#EXTINF:-1,IT: Prima Fila 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3519.ts
-#EXTINF:-1,IT: Prima Fila 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3518.ts
-#EXTINF:-1,IT: Prima Fila 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3517.ts
-#EXTINF:-1,IT: Prima Fila 17 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3532.ts
-#EXTINF:-1,IT: Prima Fila 16 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3531.ts
-#EXTINF:-1,IT: Prima Fila 15 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3530.ts
-#EXTINF:-1,IT: Prima Fila 14 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3529.ts
-#EXTINF:-1,IT: Prima Fila 13 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3528.ts
-#EXTINF:-1,IT: Prima Fila 12 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3527.ts
-#EXTINF:-1,IT: Prima Fila 11 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3525.ts
-#EXTINF:-1,IT: Prima Fila 10 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3526.ts
-#EXTINF:-1,IT: Prima Fila 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3516.ts
-#EXTINF:-1,IT: Premium Stories
-http://hyper.de1-eu.com:8000/live/aria/aria/3495.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3496.ts
-#EXTINF:-1,IT: Premium Joi
-http://hyper.de1-eu.com:8000/live/aria/aria/3503.ts
-#EXTINF:-1,IT: Premium Energy
-http://hyper.de1-eu.com:8000/live/aria/aria/3499.ts
-#EXTINF:-1,IT: Premium Emotion
-http://hyper.de1-eu.com:8000/live/aria/aria/3500.ts
-#EXTINF:-1,IT: Premium Discovery HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3494.ts
-#EXTINF:-1,IT: Premium Crime 24
-http://hyper.de1-eu.com:8000/live/aria/aria/3498.ts
-#EXTINF:-1,IT: Premium Comedy
-http://hyper.de1-eu.com:8000/live/aria/aria/3497.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3501.ts
-#EXTINF:-1,IT: Premium Cinema 24 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3502.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3504.ts
-#EXTINF:-1,IT: Premium Cinema 2 24
-http://hyper.de1-eu.com:8000/live/aria/aria/3505.ts
-#EXTINF:-1,IT: Premium Calcio HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3507.ts
-#EXTINF:-1,IT: Premium Calcio 7
-http://hyper.de1-eu.com:8000/live/aria/aria/3515.ts
-#EXTINF:-1,IT: Premium Calcio 6
-http://hyper.de1-eu.com:8000/live/aria/aria/3514.ts
-#EXTINF:-1,IT: Premium Calcio 5
-http://hyper.de1-eu.com:8000/live/aria/aria/3513.ts
-#EXTINF:-1,IT: Premium Calcio 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3512.ts
-#EXTINF:-1,IT: Premium Calcio 3
-http://hyper.de1-eu.com:8000/live/aria/aria/3511.ts
-#EXTINF:-1,IT: Premium Calcio 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3510.ts
-#EXTINF:-1,IT: Premium Calcio 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3509.ts
-#EXTINF:-1,IT: Premium Calcio
-http://hyper.de1-eu.com:8000/live/aria/aria/3508.ts
-#EXTINF:-1,IT: Premium Action HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3410.ts
-#EXTINF:-1,IT: Premium Action 24 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3506.ts
-#EXTINF:-1,IT: NatGeo Wild HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3481.ts
-#EXTINF:-1,IT: NatGeo People HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3480.ts
-#EXTINF:-1,IT: NatGeo HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3479.ts
-#EXTINF:-1,IT: MTV music
-http://hyper.de1-eu.com:8000/live/aria/aria/3468.ts
-#EXTINF:-1,IT: MTV IT
-http://hyper.de1-eu.com:8000/live/aria/aria/3469.ts
-#EXTINF:-1,IT: MTV Brand New
-http://hyper.de1-eu.com:8000/live/aria/aria/3470.ts
-#EXTINF:-1,IT: Mediaset TOP crime
-http://hyper.de1-eu.com:8000/live/aria/aria/3491.ts
-#EXTINF:-1,IT: Mediaset italia 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3411.ts
-#EXTINF:-1,IT: Mediaset extra
-http://hyper.de1-eu.com:8000/live/aria/aria/3493.ts
-#EXTINF:-1,IT: Mediaset Canale 5 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3492.ts
-#EXTINF:-1,IT: La7d HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3412.ts
-#EXTINF:-1,IT: La7 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3450.ts
-#EXTINF:-1,IT: Italia 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3482.ts
-#EXTINF:-1,IT: Gambero Rosso HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3449.ts
-#EXTINF:-1,IT: Fox Sports HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3445.ts
-#EXTINF:-1,IT: Fox life HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3442.ts
-#EXTINF:-1,IT: Fox HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3441.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3444.ts
-#EXTINF:-1,IT: Fox Comedy HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3443.ts
-#EXTINF:-1,IT: Fox Animation HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3446.ts
-#EXTINF:-1,IT: Focus
-http://hyper.de1-eu.com:8000/live/aria/aria/3471.ts
-#EXTINF:-1,IT: Fineliving
-http://hyper.de1-eu.com:8000/live/aria/aria/3472.ts
-#EXTINF:-1,IT: Eurosport 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3448.ts
-#EXTINF:-1,IT: E!
-http://hyper.de1-eu.com:8000/live/aria/aria/3473.ts
-#EXTINF:-1,IT: DMAX
-http://hyper.de1-eu.com:8000/live/aria/aria/3413.ts
-#EXTINF:-1,IT: Disney XD
-http://hyper.de1-eu.com:8000/live/aria/aria/3485.ts
-#EXTINF:-1,IT: Disney Junior
-http://hyper.de1-eu.com:8000/live/aria/aria/3486.ts
-#EXTINF:-1,IT: Disney channel
-http://hyper.de1-eu.com:8000/live/aria/aria/3483.ts
-#EXTINF:-1,IT: Discovery World
-http://hyper.de1-eu.com:8000/live/aria/aria/3478.ts
-#EXTINF:-1,IT: Discovery Travel Living HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3476.ts
-#EXTINF:-1,IT: Discovery Sci HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3447.ts
-#EXTINF:-1,IT: Crime Investigation HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3477.ts
-#EXTINF:-1,IT: CartoonNetwork
-http://hyper.de1-eu.com:8000/live/aria/aria/3484.ts
-#EXTINF:-1,IT: Cartonito
-http://hyper.de1-eu.com:8000/live/aria/aria/3487.ts
-#EXTINF:-1,IT: Canale Italia
-http://hyper.de1-eu.com:8000/live/aria/aria/3415.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3414.ts
-#EXTINF:-1,IT: Calcio2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3417.ts
-#EXTINF:-1,IT: Calcio1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3416.ts
-#EXTINF:-1,IT: Calcio 9 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3424.ts
-#EXTINF:-1,IT: Calcio 8 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3423.ts
-#EXTINF:-1,IT: Calcio 7 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3422.ts
-#EXTINF:-1,IT: Calcio 6 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3421.ts
-#EXTINF:-1,IT: Calcio 5 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3420.ts
-#EXTINF:-1,IT: Calcio 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3419.ts
-#EXTINF:-1,IT: Calcio 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3418.ts
-#EXTINF:-1,IT: BBC
-http://hyper.de1-eu.com:8000/live/aria/aria/3488.ts
-#EXTINF:-1,IT: AXN HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3489.ts
-#EXTINF:-1,IT: Animal Planet
-http://hyper.de1-eu.com:8000/live/aria/aria/3474.ts
-#EXTINF:-1,IT: Alice
-http://hyper.de1-eu.com:8000/live/aria/aria/3490.ts
-#EXTINF:-1,IT:  Studio Universal
-http://hyper.de1-eu.com:8000/live/aria/aria/3465.ts
-#EXTINF:-1,IT:  Sky Sport F1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3439.ts
-#EXTINF:-1,IT:  History HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3475.ts
-#EXTINF:-1,----USA
-http://dummylink.com
-#EXTINF:-1,USA: NBA TV HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3071.ts
-#EXTINF:-1,USA: CNBC HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3072.ts
-#EXTINF:-1,USA: SPECTRUM
-http://hyper.de1-eu.com:8000/live/aria/aria/3085.ts
-#EXTINF:-1,USA: PRIME PACIFIC
-http://hyper.de1-eu.com:8000/live/aria/aria/3086.ts
-#EXTINF:-1,USA: PRIME ATLANTIC
-http://hyper.de1-eu.com:8000/live/aria/aria/3087.ts
-#EXTINF:-1,USA: Nick HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3073.ts
-#EXTINF:-1,USA: TSN 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3074.ts
-#EXTINF:-1,USA: TSN 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3075.ts
-#EXTINF:-1,USA: TSN 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3076.ts
-#EXTINF:-1,USA: AFM NEWS
-http://hyper.de1-eu.com:8000/live/aria/aria/3077.ts
-#EXTINF:-1,USA: TSN 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3078.ts
-#EXTINF:-1,USA: Fox Sports 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3088.ts
-#EXTINF:-1,USA: ESPN HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3079.ts
-#EXTINF:-1,USA: AFM MOVIES
-http://hyper.de1-eu.com:8000/live/aria/aria/3080.ts
-#EXTINF:-1,USA: DTX
-http://hyper.de1-eu.com:8000/live/aria/aria/3089.ts
-#EXTINF:-1,USA: DISCOVERY SHOWCASE HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3090.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3091.ts
-#EXTINF:-1,USA: DISCOVERY ID XTRA HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3092.ts
-#EXTINF:-1,USA: AFM SPORT HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3081.ts
-#EXTINF:-1,USA: CNN HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3082.ts
-#EXTINF:-1,USA: AFM  PLUSE
-http://hyper.de1-eu.com:8000/live/aria/aria/3083.ts
-#EXTINF:-1,USA: DTX HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3084.ts
-#EXTINF:-1,USA: AFN SPORTS HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3093.ts
-#EXTINF:-1,USA: AFN SPORTS 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3094.ts
-#EXTINF:-1,USA: AFN SPORTS
-http://hyper.de1-eu.com:8000/live/aria/aria/3095.ts
-#EXTINF:-1,USA: AFN NEWS
-http://hyper.de1-eu.com:8000/live/aria/aria/3096.ts
-#EXTINF:-1,USA: AFN MOVIE
-http://hyper.de1-eu.com:8000/live/aria/aria/3097.ts
-#EXTINF:-1,USA: AFM PULSE
-http://hyper.de1-eu.com:8000/live/aria/aria/3098.ts
-#EXTINF:-1,USA: ABC NEWS
-http://hyper.de1-eu.com:8000/live/aria/aria/3099.ts
-#EXTINF:-1,----NL
-http://dummylink.com
-#EXTINF:-1,NL: Veronica
-http://hyper.de1-eu.com:8000/live/aria/aria/3102.ts
-#EXTINF:-1,NL: TV Oost
-http://hyper.de1-eu.com:8000/live/aria/aria/3124.ts
-#EXTINF:-1,NL: TV 538
-http://hyper.de1-eu.com:8000/live/aria/aria/3104.ts
-#EXTINF:-1,NL: TLC
-http://hyper.de1-eu.com:8000/live/aria/aria/3123.ts
-#EXTINF:-1,NL: SYFY
-http://hyper.de1-eu.com:8000/live/aria/aria/3122.ts
-#EXTINF:-1,NL: Sports 1 Exstra
-http://hyper.de1-eu.com:8000/live/aria/aria/3107.ts
-#EXTINF:-1,NL: Sport 1 Voetbal
-http://hyper.de1-eu.com:8000/live/aria/aria/3108.ts
-#EXTINF:-1,NL: Sport 1 Select
-http://hyper.de1-eu.com:8000/live/aria/aria/3109.ts
-#EXTINF:-1,NL: Sport 1 Racing
-http://hyper.de1-eu.com:8000/live/aria/aria/3110.ts
-#EXTINF:-1,NL: Sport 1 Golf
-http://hyper.de1-eu.com:8000/live/aria/aria/3111.ts
-#EXTINF:-1,NL: Sport 1 Extra 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3112.ts
-#EXTINF:-1,NL: SBS 9
-http://hyper.de1-eu.com:8000/live/aria/aria/3114.ts
-#EXTINF:-1,NL: SBS 6
-http://hyper.de1-eu.com:8000/live/aria/aria/3115.ts
-#EXTINF:-1,NL: RTV 7
-http://hyper.de1-eu.com:8000/live/aria/aria/3117.ts
-#EXTINF:-1,NL: RTL 8
-http://hyper.de1-eu.com:8000/live/aria/aria/3118.ts
-#EXTINF:-1,NL: RTL 7
-http://hyper.de1-eu.com:8000/live/aria/aria/3119.ts
-#EXTINF:-1,NL: RTL 5
-http://hyper.de1-eu.com:8000/live/aria/aria/3120.ts
-#EXTINF:-1,NL: RTL 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3121.ts
-#EXTINF:-1,NL: NPO Zapp Xtra
-http://hyper.de1-eu.com:8000/live/aria/aria/3116.ts
-#EXTINF:-1,NL: NPO 3
-http://hyper.de1-eu.com:8000/live/aria/aria/3127.ts
-#EXTINF:-1,NL: NPO 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3126.ts
-#EXTINF:-1,NL: NPO 101
-http://hyper.de1-eu.com:8000/live/aria/aria/3113.ts
-#EXTINF:-1,NL: NPO 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3125.ts
-#EXTINF:-1,NL: Nicktoons
-http://hyper.de1-eu.com:8000/live/aria/aria/3128.ts
-#EXTINF:-1,NL: Nickelodeon
-http://hyper.de1-eu.com:8000/live/aria/aria/3129.ts
-#EXTINF:-1,NL: Nick Jr
-http://hyper.de1-eu.com:8000/live/aria/aria/3130.ts
-#EXTINF:-1,NL: NET 5
-http://hyper.de1-eu.com:8000/live/aria/aria/3131.ts
-#EXTINF:-1,NL: MTV Music 24
-http://hyper.de1-eu.com:8000/live/aria/aria/3132.ts
-#EXTINF:-1,NL: MTV 24
-http://hyper.de1-eu.com:8000/live/aria/aria/3106.ts
-#EXTINF:-1,NL: NPO 101.
-http://hyper.de1-eu.com:8000/live/aria/aria/3133.ts
-#EXTINF:-1,NL: Motors TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3134.ts
-#EXTINF:-1,NL: National Geographic
-http://hyper.de1-eu.com:8000/live/aria/aria/3103.ts
-#EXTINF:-1,NL: HBO 3
-http://hyper.de1-eu.com:8000/live/aria/aria/3139.ts
-#EXTINF:-1,NL: HBO 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3138.ts
-#EXTINF:-1,NL: HBO 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3137.ts
-#EXTINF:-1,NL: Fox Sports 6 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3145.ts
-#EXTINF:-1,NL: Fox Sports 5
-http://hyper.de1-eu.com:8000/live/aria/aria/3144.ts
-#EXTINF:-1,NL: Fox Sports 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3143.ts
-#EXTINF:-1,NL: Fox Sports 3
-http://hyper.de1-eu.com:8000/live/aria/aria/3142.ts
-#EXTINF:-1,NL: Fox Sports 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3141.ts
-#EXTINF:-1,NL: Fox Sports 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3140.ts
-#EXTINF:-1,NL: Fox
-http://hyper.de1-eu.com:8000/live/aria/aria/3146.ts
-#EXTINF:-1,NL: Film1 Sundance
-http://hyper.de1-eu.com:8000/live/aria/aria/3147.ts
-#EXTINF:-1,NL: Film1 Premiere
-http://hyper.de1-eu.com:8000/live/aria/aria/3148.ts
-#EXTINF:-1,NL: Film1 Comedy
-http://hyper.de1-eu.com:8000/live/aria/aria/3149.ts
-#EXTINF:-1,NL: Film1 Action
-http://hyper.de1-eu.com:8000/live/aria/aria/3150.ts
-#EXTINF:-1,NL: Film 1 Spotlight
-http://hyper.de1-eu.com:8000/live/aria/aria/3151.ts
-#EXTINF:-1,NL: Film 1 Premiere
-http://hyper.de1-eu.com:8000/live/aria/aria/3101.ts
-#EXTINF:-1,NL: Film 1 Comedy and Kids
-http://hyper.de1-eu.com:8000/live/aria/aria/3100.ts
-#EXTINF:-1,NL: Film 1 Action
-http://hyper.de1-eu.com:8000/live/aria/aria/3105.ts
-#EXTINF:-1,NL: FOX SPORT 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3152.ts
-#EXTINF:-1,NL: FOX SPORT 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3153.ts
-#EXTINF:-1,NL: FOX SPORT 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3154.ts
-#EXTINF:-1,NL: E! Entertainment
-http://hyper.de1-eu.com:8000/live/aria/aria/3155.ts
-#EXTINF:-1,NL: E! Enternainment2
-http://hyper.de1-eu.com:8000/live/aria/aria/3156.ts
-#EXTINF:-1,NL: Disney Junior
-http://hyper.de1-eu.com:8000/live/aria/aria/3161.ts
-#EXTINF:-1,NL: Discovery Channel
-http://hyper.de1-eu.com:8000/live/aria/aria/3157.ts
-#EXTINF:-1,NL: Crime  Investigation.
-http://hyper.de1-eu.com:8000/live/aria/aria/3158.ts
-#EXTINF:-1,NL: Comedy Central Family
-http://hyper.de1-eu.com:8000/live/aria/aria/3159.ts
-#EXTINF:-1,NL: Comedy Central extra
-http://hyper.de1-eu.com:8000/live/aria/aria/3136.ts
-#EXTINF:-1,NL: Comedy Central Exstra
-http://hyper.de1-eu.com:8000/live/aria/aria/3160.ts
-#EXTINF:-1,NL: BBC Entertainment
-http://hyper.de1-eu.com:8000/live/aria/aria/3135.ts
-#EXTINF:-1,NL: Baby TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3162.ts
-#EXTINF:-1,NL: AT-5
-http://hyper.de1-eu.com:8000/live/aria/aria/3163.ts
-#EXTINF:-1,NL: 13TH Street
-http://hyper.de1-eu.com:8000/live/aria/aria/3164.ts
-#EXTINF:-1,----FR
-http://dummylink.com
-#EXTINF:-1,FR: BeIn Sport 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3715.ts
-#EXTINF:-1,FR: BeIn Sport 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3714.ts
-#EXTINF:-1,FR: BeIn Sport 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3713.ts
-#EXTINF:-1,FR: W9
-http://hyper.de1-eu.com:8000/live/aria/aria/3342.ts
-#EXTINF:-1,FR: TV5 MONDE HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3308.ts
-#EXTINF:-1,FR: TMC
-http://hyper.de1-eu.com:8000/live/aria/aria/3343.ts
-#EXTINF:-1,FR: TF 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3344.ts
-#EXTINF:-1,FR: Teva HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3351.ts
-#EXTINF:-1,FR: SERIE CLUB
-http://hyper.de1-eu.com:8000/live/aria/aria/3309.ts
-#EXTINF:-1,FR: Public Senat
-http://hyper.de1-eu.com:8000/live/aria/aria/3345.ts
-#EXTINF:-1,FR: PLANETE   CI
-http://hyper.de1-eu.com:8000/live/aria/aria/3310.ts
-#EXTINF:-1,FR: PLANETE
-http://hyper.de1-eu.com:8000/live/aria/aria/3311.ts
-#EXTINF:-1,FR: Piwi
-http://hyper.de1-eu.com:8000/live/aria/aria/3346.ts
-#EXTINF:-1,FR: NRJ 12
-http://hyper.de1-eu.com:8000/live/aria/aria/3347.ts
-#EXTINF:-1,FR: Nickelodeon
-http://hyper.de1-eu.com:8000/live/aria/aria/3349.ts
-#EXTINF:-1,FR: NATIONAL GEO CHANNEL
-http://hyper.de1-eu.com:8000/live/aria/aria/3312.ts
-#EXTINF:-1,FR: Ma chaine Sports
-http://hyper.de1-eu.com:8000/live/aria/aria/3313.ts
-#EXTINF:-1,FR: M6 MUSIC
-http://hyper.de1-eu.com:8000/live/aria/aria/3314.ts
-#EXTINF:-1,FR: M6
-http://hyper.de1-eu.com:8000/live/aria/aria/3348.ts
-#EXTINF:-1,FR: LCP
-http://hyper.de1-eu.com:8000/live/aria/aria/3350.ts
-#EXTINF:-1,FR: INFOSPORT
-http://hyper.de1-eu.com:8000/live/aria/aria/3315.ts
-#EXTINF:-1,FR: Gulli
-http://hyper.de1-eu.com:8000/live/aria/aria/3352.ts
-#EXTINF:-1,FR: France O
-http://hyper.de1-eu.com:8000/live/aria/aria/3353.ts
-#EXTINF:-1,FR: France 5
-http://hyper.de1-eu.com:8000/live/aria/aria/3357.ts
-#EXTINF:-1,FR: France 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3356.ts
-#EXTINF:-1,FR: France 3 Sat
-http://hyper.de1-eu.com:8000/live/aria/aria/3355.ts
-#EXTINF:-1,FR: FRANCE 24
-http://hyper.de1-eu.com:8000/live/aria/aria/3316.ts
-#EXTINF:-1,FR: France 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3354.ts
-#EXTINF:-1,FR: EUROSPORT 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3317.ts
-#EXTINF:-1,FR: EUROSPORT 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3318.ts
-#EXTINF:-1,FR: EURONEWS
-http://hyper.de1-eu.com:8000/live/aria/aria/3319.ts
-#EXTINF:-1,FR: DISCOVERY HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3320.ts
-#EXTINF:-1,FR: D8
-http://hyper.de1-eu.com:8000/live/aria/aria/3358.ts
-#EXTINF:-1,FR: Comedie
-http://hyper.de1-eu.com:8000/live/aria/aria/3359.ts
-#EXTINF:-1,FR: CINE FX
-http://hyper.de1-eu.com:8000/live/aria/aria/3321.ts
-#EXTINF:-1,FR: CINE CLASSIC
-http://hyper.de1-eu.com:8000/live/aria/aria/3322.ts
-#EXTINF:-1,FR: CHASSE E PECHE
-http://hyper.de1-eu.com:8000/live/aria/aria/3323.ts
-#EXTINF:-1,FR: Chasse and Peche
-http://hyper.de1-eu.com:8000/live/aria/aria/3360.ts
-#EXTINF:-1,FR: CANAL J
-http://hyper.de1-eu.com:8000/live/aria/aria/3324.ts
-#EXTINF:-1,FR: Canal   Sport
-http://hyper.de1-eu.com:8000/live/aria/aria/3361.ts
-#EXTINF:-1,FR: CANAL   FRISSON
-http://hyper.de1-eu.com:8000/live/aria/aria/3325.ts
-#EXTINF:-1,FR: CANAL   FAMALY
-http://hyper.de1-eu.com:8000/live/aria/aria/3326.ts
-#EXTINF:-1,FR: CANAL   EMOTION
-http://hyper.de1-eu.com:8000/live/aria/aria/3327.ts
-#EXTINF:-1,FR: CANAL   DECALE
-http://hyper.de1-eu.com:8000/live/aria/aria/3328.ts
-#EXTINF:-1,FR: CANAL   CLASSIC
-http://hyper.de1-eu.com:8000/live/aria/aria/3329.ts
-#EXTINF:-1,FR: Canal   Cinema France
-http://hyper.de1-eu.com:8000/live/aria/aria/3363.ts
-#EXTINF:-1,FR: CANAL   CINEMA
-http://hyper.de1-eu.com:8000/live/aria/aria/3330.ts
-#EXTINF:-1,FR: Canal
-http://hyper.de1-eu.com:8000/live/aria/aria/3362.ts
-#EXTINF:-1,FR: BOING
-http://hyper.de1-eu.com:8000/live/aria/aria/3331.ts
-#EXTINF:-1,FR: BFM TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3332.ts
-#EXTINF:-1,FR: BeIn Sports Max 8
-http://hyper.de1-eu.com:8000/live/aria/aria/3368.ts
-#EXTINF:-1,FR: BeIn Sports Max 7
-http://hyper.de1-eu.com:8000/live/aria/aria/3367.ts
-#EXTINF:-1,FR: BeIn Sports Max 6
-http://hyper.de1-eu.com:8000/live/aria/aria/3366.ts
-#EXTINF:-1,FR: BeIn Sports Max 5
-http://hyper.de1-eu.com:8000/live/aria/aria/3365.ts
-#EXTINF:-1,FR: BeIn Sports Max 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3364.ts
-#EXTINF:-1,FR: ARTE Francais
-http://hyper.de1-eu.com:8000/live/aria/aria/3333.ts
-#EXTINF:-1,FR: ARTE
-http://hyper.de1-eu.com:8000/live/aria/aria/3334.ts
-#EXTINF:-1,FR: ANIMAUX
-http://hyper.de1-eu.com:8000/live/aria/aria/3335.ts
-#EXTINF:-1,FR: ACTION
-http://hyper.de1-eu.com:8000/live/aria/aria/3336.ts
-#EXTINF:-1,FR: A LA CARTE 5
-http://hyper.de1-eu.com:8000/live/aria/aria/3337.ts
-#EXTINF:-1,FR: A LA CARTE 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3338.ts
-#EXTINF:-1,FR: A LA CARTE 3
-http://hyper.de1-eu.com:8000/live/aria/aria/3339.ts
-#EXTINF:-1,FR: A LA CARTE 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3340.ts
-#EXTINF:-1,FR: A LA CARTE 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3341.ts
-#EXTINF:-1,----GR
-http://dummylink.com
-#EXTINF:-1,GR: SKAI
-http://hyper.de1-eu.com:8000/live/aria/aria/2900.ts
-#EXTINF:-1,GR: Mega
-http://hyper.de1-eu.com:8000/live/aria/aria/2901.ts
-#EXTINF:-1,GR: Makedonia
-http://hyper.de1-eu.com:8000/live/aria/aria/2902.ts
-#EXTINF:-1,GR: ERT HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2903.ts
-#EXTINF:-1,GR: ERT 3
-http://hyper.de1-eu.com:8000/live/aria/aria/2904.ts
-#EXTINF:-1,GR: ERT 2
-http://hyper.de1-eu.com:8000/live/aria/aria/2905.ts
-#EXTINF:-1,GR: Epsilon TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2906.ts
-#EXTINF:-1,GR: Art TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2907.ts
-#EXTINF:-1,GR: Ant1
-http://hyper.de1-eu.com:8000/live/aria/aria/2908.ts
-#EXTINF:-1,GR: Alpha TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2909.ts
-#EXTINF:-1,----SW
-http://dummylink.com
-#EXTINF:-1,SW: Viasat Sport HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3816.ts
-#EXTINF:-1,SW: Viasat Motor
-http://hyper.de1-eu.com:8000/live/aria/aria/3817.ts
-#EXTINF:-1,SW: Viasat Golf
-http://hyper.de1-eu.com:8000/live/aria/aria/3818.ts
-#EXTINF:-1,SW: Viasat Film Premiere
-http://hyper.de1-eu.com:8000/live/aria/aria/3819.ts
-#EXTINF:-1,SW: VIASAT FILM
-http://hyper.de1-eu.com:8000/live/aria/aria/3821.ts
-#EXTINF:-1,SW: Vfilm Action
-http://hyper.de1-eu.com:8000/live/aria/aria/3822.ts
-#EXTINF:-1,SW: C More Tennis
-http://hyper.de1-eu.com:8000/live/aria/aria/3823.ts
-#EXTINF:-1,SW: C More Series
-http://hyper.de1-eu.com:8000/live/aria/aria/3824.ts
-#EXTINF:-1,SW: C More Live
-http://hyper.de1-eu.com:8000/live/aria/aria/3825.ts
-#EXTINF:-1,SW: C MORE HITS
-http://hyper.de1-eu.com:8000/live/aria/aria/3826.ts
-#EXTINF:-1,SW: C More Fotboll HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3827.ts
-#EXTINF:-1,SW: C More First
-http://hyper.de1-eu.com:8000/live/aria/aria/3828.ts
-#EXTINF:-1,SW: C More Emotion
-http://hyper.de1-eu.com:8000/live/aria/aria/3829.ts
-#EXTINF:-1,SW: C MORE ACTION
-http://hyper.de1-eu.com:8000/live/aria/aria/3830.ts
-#EXTINF:-1,----DE
-http://dummylink.com
-#EXTINF:-1,DE: Sky Sport 2.
-http://hyper.de1-eu.com:8000/live/aria/aria/3688.ts
-#EXTINF:-1,DE: Sky Sport 1.
-http://hyper.de1-eu.com:8000/live/aria/aria/3689.ts
-#EXTINF:-1,DE: SKY SELECT 8 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3767.ts
-#EXTINF:-1,DE: SKY SELECT 7 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3768.ts
-#EXTINF:-1,DE: SKY SELECT 6 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3769.ts
-#EXTINF:-1,DE: SKY SELECT 5 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3770.ts
-#EXTINF:-1,DE: SKY SELECT 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3771.ts
-#EXTINF:-1,DE: SKY SELECT 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3772.ts
-#EXTINF:-1,DE: SKY SELECT 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3773.ts
-#EXTINF:-1,DE: SKY SELECT 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3774.ts
-#EXTINF:-1,DE: TNT Serie
-http://hyper.de1-eu.com:8000/live/aria/aria/3556.ts
-#EXTINF:-1,DE: TNT Film
-http://hyper.de1-eu.com:8000/live/aria/aria/3557.ts
-#EXTINF:-1,DE: TLC
-http://hyper.de1-eu.com:8000/live/aria/aria/3558.ts
-#EXTINF:-1,DE: Syfy DE
-http://hyper.de1-eu.com:8000/live/aria/aria/3559.ts
-#EXTINF:-1,DE: SUPER RTL
-http://hyper.de1-eu.com:8000/live/aria/aria/3560.ts
-#EXTINF:-1,DE: Sport 1 US HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3534.ts
-#EXTINF:-1,DE: SPORT 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3535.ts
-#EXTINF:-1,DE: Sport 1  HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3533.ts
-#EXTINF:-1,DE: Spiegel Geschichte
-http://hyper.de1-eu.com:8000/live/aria/aria/3561.ts
-#EXTINF:-1,DE: SKYDESPAU
-http://hyper.de1-eu.com:8000/live/aria/aria/3562.ts
-#EXTINF:-1,DE: SKYDESP2
-http://hyper.de1-eu.com:8000/live/aria/aria/3563.ts
-#EXTINF:-1,DE: SKYDESP1
-http://hyper.de1-eu.com:8000/live/aria/aria/3564.ts
-#EXTINF:-1,DE: SKYDEBU1
-http://hyper.de1-eu.com:8000/live/aria/aria/3565.ts
-#EXTINF:-1,DE: Sky Sport News HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3536.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://hyper.de1-eu.com:8000/live/aria/aria/3539.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3537.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3538.ts
-#EXTINF:-1,DE: Sky Nostalgie
-http://hyper.de1-eu.com:8000/live/aria/aria/3566.ts
-#EXTINF:-1,DE: Sky Krimi
-http://hyper.de1-eu.com:8000/live/aria/aria/3567.ts
-#EXTINF:-1,DE: Sky Hits
-http://hyper.de1-eu.com:8000/live/aria/aria/3568.ts
-#EXTINF:-1,DE: Sky Emotion
-http://hyper.de1-eu.com:8000/live/aria/aria/3569.ts
-#EXTINF:-1,DE: Sky Comedy
-http://hyper.de1-eu.com:8000/live/aria/aria/3570.ts
-#EXTINF:-1,DE: Sky Cinema24
-http://hyper.de1-eu.com:8000/live/aria/aria/3571.ts
-#EXTINF:-1,DE: Sky Cinema 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3572.ts
-#EXTINF:-1,DE: Sky Cinema
-http://hyper.de1-eu.com:8000/live/aria/aria/3573.ts
-#EXTINF:-1,DE: Sky Bundesliga 5 weekend only
-http://hyper.de1-eu.com:8000/live/aria/aria/3540.ts
-#EXTINF:-1,DE: Sky Bundesliga 3 weekend only
-http://hyper.de1-eu.com:8000/live/aria/aria/3541.ts
-#EXTINF:-1,DE: Sky Bundesliga 2 weekend only
-http://hyper.de1-eu.com:8000/live/aria/aria/3542.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3543.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://hyper.de1-eu.com:8000/live/aria/aria/3574.ts
-#EXTINF:-1,DE: Sky Action
-http://hyper.de1-eu.com:8000/live/aria/aria/3575.ts
-#EXTINF:-1,DE: SIXX HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3576.ts
-#EXTINF:-1,DE: Sat 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3544.ts
-#EXTINF:-1,DE: RTL2
-http://hyper.de1-eu.com:8000/live/aria/aria/3577.ts
-#EXTINF:-1,DE: RTL1
-http://hyper.de1-eu.com:8000/live/aria/aria/3578.ts
-#EXTINF:-1,DE: RTL Passion
-http://hyper.de1-eu.com:8000/live/aria/aria/3579.ts
-#EXTINF:-1,DE: RTL NITRO
-http://hyper.de1-eu.com:8000/live/aria/aria/3580.ts
-#EXTINF:-1,DE: RTL LIVING
-http://hyper.de1-eu.com:8000/live/aria/aria/3581.ts
-#EXTINF:-1,DE: RTL HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3545.ts
-#EXTINF:-1,DE: RTL Crime
-http://hyper.de1-eu.com:8000/live/aria/aria/3582.ts
-#EXTINF:-1,DE: RomanceTV
-http://hyper.de1-eu.com:8000/live/aria/aria/3583.ts
-#EXTINF:-1,DE: Pro Sieben Maxx HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3546.ts
-#EXTINF:-1,DE: Pro Sieben HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3547.ts
-#EXTINF:-1,DE: Passion
-http://hyper.de1-eu.com:8000/live/aria/aria/3548.ts
-#EXTINF:-1,DE: Nick Jr
-http://hyper.de1-eu.com:8000/live/aria/aria/3584.ts
-#EXTINF:-1,DE: NatGeo Wild DE
-http://hyper.de1-eu.com:8000/live/aria/aria/3585.ts
-#EXTINF:-1,DE: Nat GEO
-http://hyper.de1-eu.com:8000/live/aria/aria/3586.ts
-#EXTINF:-1,DE: N-TV HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3549.ts
-#EXTINF:-1,DE: Motorvision TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3550.ts
-#EXTINF:-1,DE: MGM DE
-http://hyper.de1-eu.com:8000/live/aria/aria/3587.ts
-#EXTINF:-1,DE: KinoweltTV
-http://hyper.de1-eu.com:8000/live/aria/aria/3588.ts
-#EXTINF:-1,DE: Kabel Eins
-http://hyper.de1-eu.com:8000/live/aria/aria/3551.ts
-#EXTINF:-1,DE: Junior
-http://hyper.de1-eu.com:8000/live/aria/aria/3589.ts
-#EXTINF:-1,DE: Jukebox
-http://hyper.de1-eu.com:8000/live/aria/aria/3590.ts
-#EXTINF:-1,DE: Heimatkanal
-http://hyper.de1-eu.com:8000/live/aria/aria/3591.ts
-#EXTINF:-1,DE: Kika
-http://hyper.de1-eu.com:8000/live/aria/aria/3592.ts
-#EXTINF:-1,DE: Fox Serie DE
-http://hyper.de1-eu.com:8000/live/aria/aria/3593.ts
-#EXTINF:-1,DE: FOX
-http://hyper.de1-eu.com:8000/live/aria/aria/3594.ts
-#EXTINF:-1,DE: Film Box Extra HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3552.ts
-#EXTINF:-1,DE: DisneyCH DE
-http://hyper.de1-eu.com:8000/live/aria/aria/3595.ts
-#EXTINF:-1,DE: Disney XD
-http://hyper.de1-eu.com:8000/live/aria/aria/3596.ts
-#EXTINF:-1,DE: Disney Junior DE
-http://hyper.de1-eu.com:8000/live/aria/aria/3597.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://hyper.de1-eu.com:8000/live/aria/aria/3553.ts
-#EXTINF:-1,DE: Discovery Channel DE
-http://hyper.de1-eu.com:8000/live/aria/aria/3598.ts
-#EXTINF:-1,DE: Deluxe Music HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3554.ts
-#EXTINF:-1,DE: Classica Deutschland
-http://hyper.de1-eu.com:8000/live/aria/aria/3555.ts
-#EXTINF:-1,DE: Classica
-http://hyper.de1-eu.com:8000/live/aria/aria/3599.ts
-#EXTINF:-1,DE: AXN Action
-http://hyper.de1-eu.com:8000/live/aria/aria/3600.ts
-#EXTINF:-1,DE: ANIXE
-http://hyper.de1-eu.com:8000/live/aria/aria/3601.ts
-#EXTINF:-1,DE: A E DE
-http://hyper.de1-eu.com:8000/live/aria/aria/3602.ts
-#EXTINF:-1,DE: 13th Street
-http://hyper.de1-eu.com:8000/live/aria/aria/3603.ts
-#EXTINF:-1,----AL
-http://dummylink.com
-#EXTINF:-1,AL: Zico TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2910.ts
-#EXTINF:-1,AL: Vizion Plus
-http://hyper.de1-eu.com:8000/live/aria/aria/2988.ts
-#EXTINF:-1,AL: Vizion
-http://hyper.de1-eu.com:8000/live/aria/aria/2911.ts
-#EXTINF:-1,AL: Tvsh
-http://hyper.de1-eu.com:8000/live/aria/aria/2989.ts
-#EXTINF:-1,AL: TV Tetova HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2912.ts
-#EXTINF:-1,AL: TV Sharri HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2913.ts
-#EXTINF:-1,AL: TV Opoja
-http://hyper.de1-eu.com:8000/live/aria/aria/2914.ts
-#EXTINF:-1,AL: TV Lezha
-http://hyper.de1-eu.com:8000/live/aria/aria/2915.ts
-#EXTINF:-1,AL: TV Kosova
-http://hyper.de1-eu.com:8000/live/aria/aria/2916.ts
-#EXTINF:-1,AL: TV Koha
-http://hyper.de1-eu.com:8000/live/aria/aria/2990.ts
-#EXTINF:-1,AL: TV Globi Gostivar
-http://hyper.de1-eu.com:8000/live/aria/aria/2917.ts
-#EXTINF:-1,AL: TV Era
-http://hyper.de1-eu.com:8000/live/aria/aria/2918.ts
-#EXTINF:-1,AL: TV Dukagjini
-http://hyper.de1-eu.com:8000/live/aria/aria/2919.ts
-#EXTINF:-1,AL: Tring World
-http://hyper.de1-eu.com:8000/live/aria/aria/2991.ts
-#EXTINF:-1,AL: Tring Tring
-http://hyper.de1-eu.com:8000/live/aria/aria/2992.ts
-#EXTINF:-1,AL: Tring Super
-http://hyper.de1-eu.com:8000/live/aria/aria/2993.ts
-#EXTINF:-1,AL: Tring Sport News HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2920.ts
-#EXTINF:-1,AL: Tring Sport 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2921.ts
-#EXTINF:-1,AL: Tring Sport 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2922.ts
-#EXTINF:-1,AL: Tring Sport 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2923.ts
-#EXTINF:-1,AL: Tring Sport 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2924.ts
-#EXTINF:-1,AL: Tring Shqip
-http://hyper.de1-eu.com:8000/live/aria/aria/2994.ts
-#EXTINF:-1,AL: Tring Planet
-http://hyper.de1-eu.com:8000/live/aria/aria/2995.ts
-#EXTINF:-1,AL: Tring Max
-http://hyper.de1-eu.com:8000/live/aria/aria/2996.ts
-#EXTINF:-1,AL: Tring Life
-http://hyper.de1-eu.com:8000/live/aria/aria/2997.ts
-#EXTINF:-1,AL: Tring History
-http://hyper.de1-eu.com:8000/live/aria/aria/2998.ts
-#EXTINF:-1,AL: Tring Festa
-http://hyper.de1-eu.com:8000/live/aria/aria/2925.ts
-#EXTINF:-1,AL: Tring Fantasy
-http://hyper.de1-eu.com:8000/live/aria/aria/2999.ts
-#EXTINF:-1,AL: Tring Comedy
-http://hyper.de1-eu.com:8000/live/aria/aria/2926.ts
-#EXTINF:-1,AL: Tring 3
-http://hyper.de1-eu.com:8000/live/aria/aria/2927.ts
-#EXTINF:-1,AL: Tribuna TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2928.ts
-#EXTINF:-1,AL: Top News
-http://hyper.de1-eu.com:8000/live/aria/aria/2929.ts
-#EXTINF:-1,AL: Top Channel HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3000.ts
-#EXTINF:-1,AL: Top Channel
-http://hyper.de1-eu.com:8000/live/aria/aria/3001.ts
-#EXTINF:-1,AL: Tirana TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2930.ts
-#EXTINF:-1,AL: Tip TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2931.ts
-#EXTINF:-1,AL: Tele Sport
-http://hyper.de1-eu.com:8000/live/aria/aria/2932.ts
-#EXTINF:-1,AL: T HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3002.ts
-#EXTINF:-1,AL: Supersport 4
-http://hyper.de1-eu.com:8000/live/aria/aria/3003.ts
-#EXTINF:-1,AL: Supersport 3
-http://hyper.de1-eu.com:8000/live/aria/aria/3004.ts
-#EXTINF:-1,AL: Supersport 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3005.ts
-#EXTINF:-1,AL: Supersport 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3006.ts
-#EXTINF:-1,AL: SuperSonic TV HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2933.ts
-#EXTINF:-1,AL: Super Sport Kosova 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2934.ts
-#EXTINF:-1,AL: Super Sport Kosova 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2935.ts
-#EXTINF:-1,AL: Super Sport 5 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2936.ts
-#EXTINF:-1,AL: Super Sport 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2937.ts
-#EXTINF:-1,AL: Super Sport 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2938.ts
-#EXTINF:-1,AL: Super Sport 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2939.ts
-#EXTINF:-1,AL: Super Sport 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2940.ts
-#EXTINF:-1,AL: Stinet
-http://hyper.de1-eu.com:8000/live/aria/aria/3007.ts
-#EXTINF:-1,AL: Smile
-http://hyper.de1-eu.com:8000/live/aria/aria/3008.ts
-#EXTINF:-1,AL: RTV Sharri
-http://hyper.de1-eu.com:8000/live/aria/aria/2941.ts
-#EXTINF:-1,AL: RTV 21 Popullore HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2942.ts
-#EXTINF:-1,AL: RTV 21 Plus HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2943.ts
-#EXTINF:-1,AL: RTV 21 MK HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2944.ts
-#EXTINF:-1,AL: RTV 21 Junior
-http://hyper.de1-eu.com:8000/live/aria/aria/2945.ts
-#EXTINF:-1,AL: RTV 21 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2946.ts
-#EXTINF:-1,AL: Rtk Kosova
-http://hyper.de1-eu.com:8000/live/aria/aria/3009.ts
-#EXTINF:-1,AL: RTK 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2947.ts
-#EXTINF:-1,AL: RTK 1
-http://hyper.de1-eu.com:8000/live/aria/aria/2948.ts
-#EXTINF:-1,AL: Rrokum HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2949.ts
-#EXTINF:-1,AL: Tring Live
-http://hyper.de1-eu.com:8000/live/aria/aria/2950.ts
-#EXTINF:-1,AL: Ora News
-http://hyper.de1-eu.com:8000/live/aria/aria/2951.ts
-#EXTINF:-1,AL: News 24
-http://hyper.de1-eu.com:8000/live/aria/aria/2952.ts
-#EXTINF:-1,AL: My Music
-http://hyper.de1-eu.com:8000/live/aria/aria/2953.ts
-#EXTINF:-1,AL: MRTV 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2954.ts
-#EXTINF:-1,AL: Mekka Live
-http://hyper.de1-eu.com:8000/live/aria/aria/2955.ts
-#EXTINF:-1,AL: Medina Live
-http://hyper.de1-eu.com:8000/live/aria/aria/2956.ts
-#EXTINF:-1,AL: Lugina Sci-Fi HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2957.ts
-#EXTINF:-1,AL: Lugina Premiere 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2958.ts
-#EXTINF:-1,AL: Lugina Premiere 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2959.ts
-#EXTINF:-1,AL: Lugina Premiere 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2960.ts
-#EXTINF:-1,AL: Living HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2961.ts
-#EXTINF:-1,AL: Ktv Kohavision
-http://hyper.de1-eu.com:8000/live/aria/aria/3010.ts
-#EXTINF:-1,AL: KTV  HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2962.ts
-#EXTINF:-1,AL: KTV
-http://hyper.de1-eu.com:8000/live/aria/aria/2963.ts
-#EXTINF:-1,AL: Koha TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2964.ts
-#EXTINF:-1,AL: Klan Tv
-http://hyper.de1-eu.com:8000/live/aria/aria/3011.ts
-#EXTINF:-1,AL: Klan Kosova HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2965.ts
-#EXTINF:-1,AL: Klan Kosova
-http://hyper.de1-eu.com:8000/live/aria/aria/3012.ts
-#EXTINF:-1,AL: Klan HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3013.ts
-#EXTINF:-1,AL: Kanali 7
-http://hyper.de1-eu.com:8000/live/aria/aria/2966.ts
-#EXTINF:-1,AL: Junior Tv
-http://hyper.de1-eu.com:8000/live/aria/aria/3014.ts
-#EXTINF:-1,AL: Jug TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2967.ts
-#EXTINF:-1,AL: Jolly HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3015.ts
-#EXTINF:-1,AL: Folklorit
-http://hyper.de1-eu.com:8000/live/aria/aria/2968.ts
-#EXTINF:-1,AL: First Channel
-http://hyper.de1-eu.com:8000/live/aria/aria/2969.ts
-#EXTINF:-1,AL: Film Thriller
-http://hyper.de1-eu.com:8000/live/aria/aria/2970.ts
-#EXTINF:-1,AL: Film Thriler
-http://hyper.de1-eu.com:8000/live/aria/aria/3016.ts
-#EXTINF:-1,AL: Film Stinet
-http://hyper.de1-eu.com:8000/live/aria/aria/2971.ts
-#EXTINF:-1,AL: Film Nje HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3017.ts
-#EXTINF:-1,AL: Film Komedi
-http://hyper.de1-eu.com:8000/live/aria/aria/3018.ts
-#EXTINF:-1,AL: Film Junior
-http://hyper.de1-eu.com:8000/live/aria/aria/2972.ts
-#EXTINF:-1,AL: Film Hits 1
-http://hyper.de1-eu.com:8000/live/aria/aria/2973.ts
-#EXTINF:-1,AL: Film Hits  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3019.ts
-#EXTINF:-1,AL: Film Hits
-http://hyper.de1-eu.com:8000/live/aria/aria/3020.ts
-#EXTINF:-1,AL: Film Dy HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3021.ts
-#EXTINF:-1,AL: Film Drame
-http://hyper.de1-eu.com:8000/live/aria/aria/3022.ts
-#EXTINF:-1,AL: Film Autor
-http://hyper.de1-eu.com:8000/live/aria/aria/3023.ts
-#EXTINF:-1,AL: Film Aksion
-http://hyper.de1-eu.com:8000/live/aria/aria/2974.ts
-#EXTINF:-1,AL: Film Akcion
-http://hyper.de1-eu.com:8000/live/aria/aria/3024.ts
-#EXTINF:-1,AL: Explorer Shkence
-http://hyper.de1-eu.com:8000/live/aria/aria/3025.ts
-#EXTINF:-1,AL: Explorer Shkenca
-http://hyper.de1-eu.com:8000/live/aria/aria/2975.ts
-#EXTINF:-1,AL: Explorer Natyre
-http://hyper.de1-eu.com:8000/live/aria/aria/3026.ts
-#EXTINF:-1,AL: Explorer Natyra
-http://hyper.de1-eu.com:8000/live/aria/aria/2976.ts
-#EXTINF:-1,AL: Explorer History
-http://hyper.de1-eu.com:8000/live/aria/aria/3027.ts
-#EXTINF:-1,AL: Explorer Histori
-http://hyper.de1-eu.com:8000/live/aria/aria/2977.ts
-#EXTINF:-1,AL: Era Tv
-http://hyper.de1-eu.com:8000/live/aria/aria/3028.ts
-#EXTINF:-1,AL: Elrodi TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2978.ts
-#EXTINF:-1,AL: Digi Gold
-http://hyper.de1-eu.com:8000/live/aria/aria/3029.ts
-#EXTINF:-1,AL: Dasma TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2979.ts
-#EXTINF:-1,AL: Cufo Tv
-http://hyper.de1-eu.com:8000/live/aria/aria/3030.ts
-#EXTINF:-1,AL: Cufo
-http://hyper.de1-eu.com:8000/live/aria/aria/2980.ts
-#EXTINF:-1,AL: Besa
-http://hyper.de1-eu.com:8000/live/aria/aria/2981.ts
-#EXTINF:-1,AL: BBF Music
-http://hyper.de1-eu.com:8000/live/aria/aria/2982.ts
-#EXTINF:-1,AL: BangBang
-http://hyper.de1-eu.com:8000/live/aria/aria/2983.ts
-#EXTINF:-1,AL: Ballkan TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2984.ts
-#EXTINF:-1,AL: ALB Music
-http://hyper.de1-eu.com:8000/live/aria/aria/2985.ts
-#EXTINF:-1,AL: ABC News
-http://hyper.de1-eu.com:8000/live/aria/aria/2986.ts
-#EXTINF:-1,AL: 21 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3031.ts
-#EXTINF:-1,----TR
-http://dummylink.com
-#EXTINF:-1,TR:Loca_1
-http://hyper.de1-eu.com:8000/live/aria/aria/3032.ts
-#EXTINF:-1,TR: SKYTURK 360
-http://hyper.de1-eu.com:8000/live/aria/aria/3033.ts
-#EXTINF:-1,TR: Sinema_Platin
-http://hyper.de1-eu.com:8000/live/aria/aria/3034.ts
-#EXTINF:-1,TR: Sinema_Gold
-http://hyper.de1-eu.com:8000/live/aria/aria/3035.ts
-#EXTINF:-1,TR: Sinema tv Aksiyon
-http://hyper.de1-eu.com:8000/live/aria/aria/3036.ts
-#EXTINF:-1,TR: Sinema TV Aile
-http://hyper.de1-eu.com:8000/live/aria/aria/3037.ts
-#EXTINF:-1,TR: Sinema Korku
-http://hyper.de1-eu.com:8000/live/aria/aria/3038.ts
-#EXTINF:-1,TR: SHOW TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3039.ts
-#EXTINF:-1,TR: SALON 3
-http://hyper.de1-eu.com:8000/live/aria/aria/3040.ts
-#EXTINF:-1,TR: SALON 2
-http://hyper.de1-eu.com:8000/live/aria/aria/3041.ts
-#EXTINF:-1,TR: SALON 1
-http://hyper.de1-eu.com:8000/live/aria/aria/3042.ts
-#EXTINF:-1,TR: Planet Mutfak
-http://hyper.de1-eu.com:8000/live/aria/aria/3043.ts
-#EXTINF:-1,TR: Planet Cocuk
-http://hyper.de1-eu.com:8000/live/aria/aria/3044.ts
-#EXTINF:-1,TR: Moviemax_Premiere
-http://hyper.de1-eu.com:8000/live/aria/aria/3045.ts
-#EXTINF:-1,TR: Moviemax_Family
-http://hyper.de1-eu.com:8000/live/aria/aria/3046.ts
-#EXTINF:-1,TR: Moviemax Stars
-http://hyper.de1-eu.com:8000/live/aria/aria/3047.ts
-#EXTINF:-1,TR: Moviemax Festival
-http://hyper.de1-eu.com:8000/live/aria/aria/3049.ts
-#EXTINF:-1,TR: Haber Turk
-http://hyper.de1-eu.com:8000/live/aria/aria/3050.ts
-#EXTINF:-1,TR: LIGTV 4 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3051.ts
-#EXTINF:-1,TR: LIGTV 3 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3052.ts
-#EXTINF:-1,TR: LIGTV 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3053.ts
-#EXTINF:-1,TR: LIGTV 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3054.ts
-#EXTINF:-1,TR: KARAMEL TV
-http://hyper.de1-eu.com:8000/live/aria/aria/3055.ts
-#EXTINF:-1,TR: KANALTURK HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3056.ts
-#EXTINF:-1,TR: CNN Turk
-http://hyper.de1-eu.com:8000/live/aria/aria/3057.ts
-#EXTINF:-1,TR: DREAM TURK
-http://hyper.de1-eu.com:8000/live/aria/aria/3058.ts
-#EXTINF:-1,TR: DISNEY JUNIOR
-http://hyper.de1-eu.com:8000/live/aria/aria/3059.ts
-#EXTINF:-1,TR: Disney Channel HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3060.ts
-#EXTINF:-1,TR: Discovery Sc
-http://hyper.de1-eu.com:8000/live/aria/aria/3061.ts
-#EXTINF:-1,TR: Cartoon Network
-http://hyper.de1-eu.com:8000/live/aria/aria/3068.ts
-#EXTINF:-1,----SP
-http://dummylink.com
-#EXTINF:-1,SP: VH1
-http://hyper.de1-eu.com:8000/live/aria/aria/3378.ts
-#EXTINF:-1,SP: TNT
-http://hyper.de1-eu.com:8000/live/aria/aria/3379.ts
-#EXTINF:-1,SP: TELECINCO
-http://hyper.de1-eu.com:8000/live/aria/aria/3380.ts
-#EXTINF:-1,SP: TCM
-http://hyper.de1-eu.com:8000/live/aria/aria/3381.ts
-#EXTINF:-1,SP: SOL MUSICA
-http://hyper.de1-eu.com:8000/live/aria/aria/3369.ts
-#EXTINF:-1,SP: Real Madrid tv
-http://hyper.de1-eu.com:8000/live/aria/aria/3370.ts
-#EXTINF:-1,SP: NICKELODEON
-http://hyper.de1-eu.com:8000/live/aria/aria/3383.ts
-#EXTINF:-1,SP: NICK JR
-http://hyper.de1-eu.com:8000/live/aria/aria/3384.ts
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
-http://hyper.de1-eu.com:8000/live/aria/aria/3385.ts
-#EXTINF:-1,SP: NAT GEO WILD
-http://hyper.de1-eu.com:8000/live/aria/aria/3386.ts
-#EXTINF:-1,SP: FOX LIFE
-http://hyper.de1-eu.com:8000/live/aria/aria/3388.ts
-#EXTINF:-1,SP: FOX
-http://hyper.de1-eu.com:8000/live/aria/aria/3387.ts
-#EXTINF:-1,SP: Eurosport
-http://hyper.de1-eu.com:8000/live/aria/aria/3371.ts
-#EXTINF:-1,SP: DISNEY XD
-http://hyper.de1-eu.com:8000/live/aria/aria/3389.ts
-#EXTINF:-1,SP: DISNEY JUNIOR
-http://hyper.de1-eu.com:8000/live/aria/aria/3390.ts
-#EXTINF:-1,SP: DISNEY CHANNEL
-http://hyper.de1-eu.com:8000/live/aria/aria/3391.ts
-#EXTINF:-1,SP: DCINE ESPANOL
-http://hyper.de1-eu.com:8000/live/aria/aria/3392.ts
-#EXTINF:-1,SP: COMEDY CENTRAL
-http://hyper.de1-eu.com:8000/live/aria/aria/3393.ts
-#EXTINF:-1,SP: CAZA Y PESCA
-http://hyper.de1-eu.com:8000/live/aria/aria/3394.ts
-#EXTINF:-1,SP: CANAL HOLLYWOOD
-http://hyper.de1-eu.com:8000/live/aria/aria/3395.ts
-#EXTINF:-1,SP: Canal Estrenos
-http://hyper.de1-eu.com:8000/live/aria/aria/3372.ts
-#EXTINF:-1,SP: CANAL  LIGA2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3373.ts
-#EXTINF:-1,SP: Canal  Liga HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3374.ts
-#EXTINF:-1,SP: CANAL  HD
-http://hyper.de1-eu.com:8000/live/aria/aria/3375.ts
-#EXTINF:-1,SP: Canal  Deporte
-http://hyper.de1-eu.com:8000/live/aria/aria/3376.ts
-#EXTINF:-1,SP: Canal  1
-http://hyper.de1-eu.com:8000/live/aria/aria/3377.ts
-#EXTINF:-1,SP: C  XTRA
-http://hyper.de1-eu.com:8000/live/aria/aria/3396.ts
-#EXTINF:-1,SP: C  TOROS
-http://hyper.de1-eu.com:8000/live/aria/aria/3397.ts
-#EXTINF:-1,SP: C  SERIESXTRA
-http://hyper.de1-eu.com:8000/live/aria/aria/3398.ts
-#EXTINF:-1,SP: C  SERIES
-http://hyper.de1-eu.com:8000/live/aria/aria/3399.ts
-#EXTINF:-1,SP: C  LIGA
-http://hyper.de1-eu.com:8000/live/aria/aria/3400.ts
-#EXTINF:-1,SP: C  GOLF
-http://hyper.de1-eu.com:8000/live/aria/aria/3401.ts
-#EXTINF:-1,SP: C  FUTBOL
-http://hyper.de1-eu.com:8000/live/aria/aria/3402.ts
-#EXTINF:-1,SP: C  ESTRENOS
-http://hyper.de1-eu.com:8000/live/aria/aria/3403.ts
-#EXTINF:-1,SP: C  DEPORTES
-http://hyper.de1-eu.com:8000/live/aria/aria/3404.ts
-#EXTINF:-1,SP: C  COMEDIA
-http://hyper.de1-eu.com:8000/live/aria/aria/3405.ts
-#EXTINF:-1,SP: C  ACCION
-http://hyper.de1-eu.com:8000/live/aria/aria/3406.ts
-#EXTINF:-1,SP: AXN WHITE
-http://hyper.de1-eu.com:8000/live/aria/aria/3407.ts
-#EXTINF:-1,SP: AXN
-http://hyper.de1-eu.com:8000/live/aria/aria/3408.ts
-#EXTINF:-1,SP: AE
-http://hyper.de1-eu.com:8000/live/aria/aria/3409.ts
-#EXTINF:-1,SP:  SYFY
-http://hyper.de1-eu.com:8000/live/aria/aria/3382.ts
-#EXTINF:-1,----PT
-http://dummylink.com
-#EXTINF:-1,PT: TVI Reality
-http://hyper.de1-eu.com:8000/live/aria/aria/2778.ts
-#EXTINF:-1,PT: TVI Ficcao
-http://hyper.de1-eu.com:8000/live/aria/aria/2827.ts
-#EXTINF:-1,PT: Afro Music
-http://hyper.de1-eu.com:8000/live/aria/aria/2831.ts
-#EXTINF:-1,PT: AE
-http://hyper.de1-eu.com:8000/live/aria/aria/2830.ts
-#EXTINF:-1,PT: MOV HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2829.ts
-#EXTINF:-1,PT: Abola TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2828.ts
-#EXTINF:-1,PT: TV CINE HD 4
-http://hyper.de1-eu.com:8000/live/aria/aria/2782.ts
-#EXTINF:-1,PT: TV CINE HD 3
-http://hyper.de1-eu.com:8000/live/aria/aria/2781.ts
-#EXTINF:-1,PT: TV CINE HD 1
-http://hyper.de1-eu.com:8000/live/aria/aria/2780.ts
-#EXTINF:-1,PT: TV CINE 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2779.ts
-#EXTINF:-1,PT: Travel Channel HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2783.ts
-#EXTINF:-1,PT: Toros TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2785.ts
-#EXTINF:-1,PT: TLC
-http://hyper.de1-eu.com:8000/live/aria/aria/2786.ts
-#EXTINF:-1,PT: SYFY
-http://hyper.de1-eu.com:8000/live/aria/aria/2832.ts
-#EXTINF:-1,PT: SPORTING TV HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2787.ts
-#EXTINF:-1,PT: SPORT TV 5
-http://hyper.de1-eu.com:8000/live/aria/aria/2792.ts
-#EXTINF:-1,PT: SPORT TV 4
-http://hyper.de1-eu.com:8000/live/aria/aria/2791.ts
-#EXTINF:-1,PT: SPORT TV 3
-http://hyper.de1-eu.com:8000/live/aria/aria/2790.ts
-#EXTINF:-1,PT: SPORT TV 2
-http://hyper.de1-eu.com:8000/live/aria/aria/2789.ts
-#EXTINF:-1,PT: SPORT TV 1
-http://hyper.de1-eu.com:8000/live/aria/aria/2788.ts
-#EXTINF:-1,PT: RTP AFRICA
-http://hyper.de1-eu.com:8000/live/aria/aria/2793.ts
-#EXTINF:-1,PT: RTP ACORES
-http://hyper.de1-eu.com:8000/live/aria/aria/2794.ts
-#EXTINF:-1,PT: RTP 3
-http://hyper.de1-eu.com:8000/live/aria/aria/2795.ts
-#EXTINF:-1,PT: PFC
-http://hyper.de1-eu.com:8000/live/aria/aria/2796.ts
-#EXTINF:-1,PT: OUTDOOR HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2784.ts
-#EXTINF:-1,PT: Odisseia
-http://hyper.de1-eu.com:8000/live/aria/aria/2797.ts
-#EXTINF:-1,PT: NICKELODEON
-http://hyper.de1-eu.com:8000/live/aria/aria/2798.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2799.ts
-#EXTINF:-1,PT: NATIONAL GEO  WILD
-http://hyper.de1-eu.com:8000/live/aria/aria/2800.ts
-#EXTINF:-1,PT: MTV
-http://hyper.de1-eu.com:8000/live/aria/aria/2801.ts
-#EXTINF:-1,PT: Motorvision
-http://hyper.de1-eu.com:8000/live/aria/aria/2802.ts
-#EXTINF:-1,PT: Motors TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2833.ts
-#EXTINF:-1,PT: JIM JAM
-http://hyper.de1-eu.com:8000/live/aria/aria/2804.ts
-#EXTINF:-1,PT: Hollywood
-http://hyper.de1-eu.com:8000/live/aria/aria/2834.ts
-#EXTINF:-1,PT: Fuel TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2805.ts
-#EXTINF:-1,PT: FoxLife HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2835.ts
-#EXTINF:-1,PT: FOX SPORTS 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2806.ts
-#EXTINF:-1,PT: Fox Movies
-http://hyper.de1-eu.com:8000/live/aria/aria/2836.ts
-#EXTINF:-1,PT: FOX LIFE HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2807.ts
-#EXTINF:-1,PT: FOX HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2837.ts
-#EXTINF:-1,PT: Fox Crime HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2838.ts
-#EXTINF:-1,PT: FOX COMEDY
-http://hyper.de1-eu.com:8000/live/aria/aria/2808.ts
-#EXTINF:-1,PT: EUROSPORT HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2809.ts
-#EXTINF:-1,PT: EUROSPORT 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2810.ts
-#EXTINF:-1,PT: Eurosport 2
-http://hyper.de1-eu.com:8000/live/aria/aria/2839.ts
-#EXTINF:-1,PT: Eurosport 1
-http://hyper.de1-eu.com:8000/live/aria/aria/2840.ts
-#EXTINF:-1,PT: Euronews Portugal
-http://hyper.de1-eu.com:8000/live/aria/aria/2811.ts
-#EXTINF:-1,PT: E! Entertaunment
-http://hyper.de1-eu.com:8000/live/aria/aria/2812.ts
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://hyper.de1-eu.com:8000/live/aria/aria/2813.ts
-#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
-http://hyper.de1-eu.com:8000/live/aria/aria/2814.ts
-#EXTINF:-1,PT: Discovery Channel
-http://hyper.de1-eu.com:8000/live/aria/aria/2815.ts
-#EXTINF:-1,PT: CMTV
-http://hyper.de1-eu.com:8000/live/aria/aria/2841.ts
-#EXTINF:-1,PT: Cinemundo
-http://hyper.de1-eu.com:8000/live/aria/aria/2842.ts
-#EXTINF:-1,PT: Chelsea TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2843.ts
-#EXTINF:-1,PT: Cartoon
-http://hyper.de1-eu.com:8000/live/aria/aria/2816.ts
-#EXTINF:-1,PT: CANAL PANDA
-http://hyper.de1-eu.com:8000/live/aria/aria/2817.ts
-#EXTINF:-1,PT: CANAL Historia
-http://hyper.de1-eu.com:8000/live/aria/aria/2818.ts
-#EXTINF:-1,PT: CaÃƒÂ§a e Pesca
-http://hyper.de1-eu.com:8000/live/aria/aria/2819.ts
-#EXTINF:-1,PT: C MUSIC
-http://hyper.de1-eu.com:8000/live/aria/aria/2803.ts
-#EXTINF:-1,PT: BTV 2 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2820.ts
-#EXTINF:-1,PT: BTV 2
-http://hyper.de1-eu.com:8000/live/aria/aria/2821.ts
-#EXTINF:-1,PT: BTV 1 HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2844.ts
-#EXTINF:-1,PT: BARCA TV
-http://hyper.de1-eu.com:8000/live/aria/aria/2826.ts
-#EXTINF:-1,PT: Baby Tv
-http://hyper.de1-eu.com:8000/live/aria/aria/2822.ts
-#EXTINF:-1,PT: AXN White HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2845.ts
-#EXTINF:-1,PT: AXN HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2846.ts
-#EXTINF:-1,PT: AXN Black HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2823.ts
-#EXTINF:-1,PT: AMC
-http://hyper.de1-eu.com:8000/live/aria/aria/2847.ts
-#EXTINF:-1,PT: AE.
-http://hyper.de1-eu.com:8000/live/aria/aria/2824.ts
-#EXTINF:-1,PT: 24KITCHEN HD
-http://hyper.de1-eu.com:8000/live/aria/aria/2825.ts
+#EXTINF:-1,----MIXED
+#EXTINF:-1,BEINSPORT-1HD
+http://tv2iptv.com:8000/live/wael/wael/29.ts
+#EXTINF:-1,BEINSPORT-2HD
+http://tv2iptv.com:8000/live/wael/wael/30.ts
+#EXTINF:-1,BEINSPORT-3HD
+http://tv2iptv.com:8000/live/wael/wael/31.ts
+#EXTINF:-1,BEINSPORT-4HD
+http://tv2iptv.com:8000/live/wael/wael/32.ts
+#EXTINF:-1,BEINSPORT-5HD
+http://tv2iptv.com:8000/live/wael/wael/33.ts
+#EXTINF:-1,BEINSPORT-6HD
+http://tv2iptv.com:8000/live/wael/wael/34.ts
+#EXTINF:-1,BEINSPORT-7HD
+http://tv2iptv.com:8000/live/wael/wael/35.ts
+#EXTINF:-1,BEINSPORT-8HD
+http://tv2iptv.com:8000/live/wael/wael/36.ts
+#EXTINF:-1,BEINSPORT-9HD
+http://tv2iptv.com:8000/live/wael/wael/37.ts
+#EXTINF:-1,BEINSPORT-10HD
+http://tv2iptv.com:8000/live/wael/wael/38.ts
+#EXTINF:-1,BEINSPORT-11HD
+http://tv2iptv.com:8000/live/wael/wael/1033.ts
+#EXTINF:-1,BEINSPORT-12HD
+http://tv2iptv.com:8000/live/wael/wael/1034.ts
+#EXTINF:-1,BEINSPORT-13HD
+http://tv2iptv.com:8000/live/wael/wael/1035.ts
+#EXTINF:-1,BEINSPORT-14HD
+http://tv2iptv.com:8000/live/wael/wael/1036.ts
+#EXTINF:-1,BEINSPORT-15HD
+http://tv2iptv.com:8000/live/wael/wael/1037.ts
+#EXTINF:-1,BEINSPORT-16HD
+http://tv2iptv.com:8000/live/wael/wael/1038.ts
+#EXTINF:-1,BeinSport-1SD
+http://tv2iptv.com:8000/live/wael/wael/48.ts
+#EXTINF:-1,BeinSport-2SD
+http://tv2iptv.com:8000/live/wael/wael/47.ts
+#EXTINF:-1,BeinSport-3SD
+http://tv2iptv.com:8000/live/wael/wael/46.ts
+#EXTINF:-1,BeinSport-4SD
+http://tv2iptv.com:8000/live/wael/wael/45.ts
+#EXTINF:-1,BeinSport-5SD
+http://tv2iptv.com:8000/live/wael/wael/44.ts
+#EXTINF:-1,BeinSport-6SD
+http://tv2iptv.com:8000/live/wael/wael/43.ts
+#EXTINF:-1,BeinSport-7SD
+http://tv2iptv.com:8000/live/wael/wael/41.ts
+#EXTINF:-1,BeinSport-8SD
+http://tv2iptv.com:8000/live/wael/wael/40.ts
+#EXTINF:-1,BeinSport-9SD
+http://tv2iptv.com:8000/live/wael/wael/39.ts
+#EXTINF:-1,BeinSport-10SD
+http://tv2iptv.com:8000/live/wael/wael/42.ts
+#EXTINF:-1,BeinSport-11SD
+http://tv2iptv.com:8000/live/wael/wael/1064.ts
+#EXTINF:-1,BeinSport-12SD
+http://tv2iptv.com:8000/live/wael/wael/1065.ts
+#EXTINF:-1,BeinSport-1-low
+http://tv2iptv.com:8000/live/wael/wael/1070.ts
+#EXTINF:-1,BeinSport-2-low
+http://tv2iptv.com:8000/live/wael/wael/1071.ts
+#EXTINF:-1,BeinSport-3-low
+http://tv2iptv.com:8000/live/wael/wael/1072.ts
+#EXTINF:-1,BeinSport-4-low
+http://tv2iptv.com:8000/live/wael/wael/1073.ts
+#EXTINF:-1,BeinSport-5-low
+http://tv2iptv.com:8000/live/wael/wael/1074.ts
+#EXTINF:-1,BeinSport-6-low
+http://tv2iptv.com:8000/live/wael/wael/1075.ts
+#EXTINF:-1,BeinSport-7-low
+http://tv2iptv.com:8000/live/wael/wael/1076.ts
+#EXTINF:-1,BeinSport-8-low
+http://tv2iptv.com:8000/live/wael/wael/1077.ts
+#EXTINF:-1,BeinSport-9-low
+http://tv2iptv.com:8000/live/wael/wael/1078.ts
+#EXTINF:-1,BeinSport-10-low
+http://tv2iptv.com:8000/live/wael/wael/1079.ts
+#EXTINF:-1,BEINSPORT.MAX.1HD
+http://tv2iptv.com:8000/live/wael/wael/1874.ts
+#EXTINF:-1,BEINSPORT.MAX.2HD
+http://tv2iptv.com:8000/live/wael/wael/1875.ts
+#EXTINF:-1,BEINSPORT.MAX.1SD
+http://tv2iptv.com:8000/live/wael/wael/1880.ts
+#EXTINF:-1,BEINSPORT.MAX.2SD
+http://tv2iptv.com:8000/live/wael/wael/1881.ts
+#EXTINF:-1,Art-Aflam-1
+http://tv2iptv.com:8000/live/wael/wael/189.ts
+#EXTINF:-1,Art-Aflam-2
+http://tv2iptv.com:8000/live/wael/wael/190.ts
+#EXTINF:-1,Art-Cinema
+http://tv2iptv.com:8000/live/wael/wael/192.ts
+#EXTINF:-1,Art-Hekayat
+http://tv2iptv.com:8000/live/wael/wael/191.ts
+#EXTINF:-1,Art-Hekayat2
+http://tv2iptv.com:8000/live/wael/wael/193.ts
+#EXTINF:-1,OSN-Fann
+http://tv2iptv.com:8000/live/wael/wael/1795.ts
+#EXTINF:-1,OSN-Alyoum
+http://tv2iptv.com:8000/live/wael/wael/269.ts
+#EXTINF:-1,OSN-CINEMA-1
+http://tv2iptv.com:8000/live/wael/wael/496.ts
+#EXTINF:-1,OSN-Cinema-2-HD
+http://tv2iptv.com:8000/live/wael/wael/878.ts
+#EXTINF:-1,OSN-Mosalsalat
+http://tv2iptv.com:8000/live/wael/wael/1834.ts
+#EXTINF:-1,OSN-ALSafwa-HD
+http://tv2iptv.com:8000/live/wael/wael/1838.ts
+#EXTINF:-1,OSN_YA_HALA
+http://tv2iptv.com:8000/live/wael/wael/485.ts
+#EXTINF:-1,OSN-YaHala-Drama-HD
+http://tv2iptv.com:8000/live/wael/wael/1833.ts
+#EXTINF:-1,OSN-YaHala-Cinema-HD
+http://tv2iptv.com:8000/live/wael/wael/1839.ts
+#EXTINF:-1,OSN_YA_HALA_SHABAB
+http://tv2iptv.com:8000/live/wael/wael/484.ts
+#EXTINF:-1,OSN-MBC-DRAMA*
+http://tv2iptv.com:8000/live/wael/wael/492.ts
+#EXTINF:-1,OSN_MOVIES
+http://tv2iptv.com:8000/live/wael/wael/491.ts
+#EXTINF:-1,OSN-Movies.star
+http://tv2iptv.com:8000/live/wael/wael/1532.ts
+#EXTINF:-1,Osn-Movies-Kids
+http://tv2iptv.com:8000/live/wael/wael/868.ts
+#EXTINF:-1,OSN_MOVIES_ACTION
+http://tv2iptv.com:8000/live/wael/wael/490.ts
+#EXTINF:-1,OSN_MOVIES_ACTION-2
+http://tv2iptv.com:8000/live/wael/wael/869.ts
+#EXTINF:-1,OSN_MOVIES_DRAMA
+http://tv2iptv.com:8000/live/wael/wael/488.ts
+#EXTINF:-1,OSN-Movies-Drama.HD
+http://tv2iptv.com:8000/live/wael/wael/1738.ts
+#EXTINF:-1,OSN_MOVIES_COMEDY
+http://tv2iptv.com:8000/live/wael/wael/489.ts
+#EXTINF:-1,OSN_MOVIES_FESTIVAL
+http://tv2iptv.com:8000/live/wael/wael/487.ts
+#EXTINF:-1,OSN_MOVIES_PREMIERE
+http://tv2iptv.com:8000/live/wael/wael/486.ts
+#EXTINF:-1,OSN-Movies-Premiere-2-HD
+http://tv2iptv.com:8000/live/wael/wael/1837.ts
+#EXTINF:-1,Osn-Movie-Box-Office-1
+http://tv2iptv.com:8000/live/wael/wael/865.ts
+#EXTINF:-1,Osn-Movie-Box-Office-2
+http://tv2iptv.com:8000/live/wael/wael/866.ts
+#EXTINF:-1,Osn-Movie-Box-Office-3
+http://tv2iptv.com:8000/live/wael/wael/867.ts
+#EXTINF:-1,OSN-Demand-HD
+http://tv2iptv.com:8000/live/wael/wael/1835.ts
+#EXTINF:-1,OSN-Demand-Extra-HD
+http://tv2iptv.com:8000/live/wael/wael/1836.ts
+#EXTINF:-1,OSN_FIRST_HD
+http://tv2iptv.com:8000/live/wael/wael/864.ts
+#EXTINF:-1,OSN-First-HD
+http://tv2iptv.com:8000/live/wael/wael/960.ts
+#EXTINF:-1,OSN_FIRST_COMEDY
+http://tv2iptv.com:8000/live/wael/wael/494.ts
+#EXTINF:-1,OSN_WWE
+http://tv2iptv.com:8000/live/wael/wael/1827.ts
+#EXTINF:-1,OSN_DISCOVERY_SCIENCE
+http://tv2iptv.com:8000/live/wael/wael/495.ts
+#EXTINF:-1,OSN-Animal-Planet
+http://tv2iptv.com:8000/live/wael/wael/958.ts
+#EXTINF:-1,OSN-Nat-Geo-Wild
+http://tv2iptv.com:8000/live/wael/wael/959.ts
+#EXTINF:-1,OSN-Disney-Junior-HD
+http://tv2iptv.com:8000/live/wael/wael/1828.ts
+#EXTINF:-1,OSN_Food_Network
+http://tv2iptv.com:8000/live/wael/wael/1830.ts
+#EXTINF:-1,Box.Office.Eng.1HD
+http://tv2iptv.com:8000/live/wael/wael/1699.ts
+#EXTINF:-1,Box.Office.Eng.2HD
+http://tv2iptv.com:8000/live/wael/wael/1592.ts
+#EXTINF:-1,Box.Office.Eng.3HD
+http://tv2iptv.com:8000/live/wael/wael/1720.ts
+#EXTINF:-1,Box.Office.Eng.4HD
+http://tv2iptv.com:8000/live/wael/wael/1734.ts
+#EXTINF:-1,Box.Office.Eng.1SD
+http://tv2iptv.com:8000/live/wael/wael/1735.ts
+#EXTINF:-1,Box.Office.Eng.2SD
+http://tv2iptv.com:8000/live/wael/wael/1593.ts
+#EXTINF:-1,Box.Office.Eng.3SD
+http://tv2iptv.com:8000/live/wael/wael/1736.ts
+#EXTINF:-1,Box.Office.Eng.4SD
+http://tv2iptv.com:8000/live/wael/wael/1737.ts
+#EXTINF:-1,Bein-MOVIES-1
+http://tv2iptv.com:8000/live/wael/wael/1062.ts
+#EXTINF:-1,Bein-MOVIES-2
+http://tv2iptv.com:8000/live/wael/wael/1063.ts
+#EXTINF:-1,BEIN-NEWS-HD
+http://tv2iptv.com:8000/live/wael/wael/1283.ts
+#EXTINF:-1,MBC-Maser
+http://tv2iptv.com:8000/live/wael/wael/207.ts
+#EXTINF:-1,MBC-Masr-2
+http://tv2iptv.com:8000/live/wael/wael/286.ts
+#EXTINF:-1,MBC-Drama
+http://tv2iptv.com:8000/live/wael/wael/206.ts
+#EXTINF:-1,MBC-1
+http://tv2iptv.com:8000/live/wael/wael/200.ts
+#EXTINF:-1,MBC-2
+http://tv2iptv.com:8000/live/wael/wael/201.ts
+#EXTINF:-1,MBC-3
+http://tv2iptv.com:8000/live/wael/wael/202.ts
+#EXTINF:-1,MBC-4
+http://tv2iptv.com:8000/live/wael/wael/203.ts
+#EXTINF:-1,MBC-MAX
+http://tv2iptv.com:8000/live/wael/wael/205.ts
+#EXTINF:-1,MBC-Action
+http://tv2iptv.com:8000/live/wael/wael/204.ts
+#EXTINF:-1,MBC-Bollywood
+http://tv2iptv.com:8000/live/wael/wael/208.ts
+#EXTINF:-1,MBC-SPORTS1
+http://tv2iptv.com:8000/live/wael/wael/209.ts
+#EXTINF:-1,MBC-SPORTS2
+http://tv2iptv.com:8000/live/wael/wael/210.ts
+#EXTINF:-1,MBC-SPORTS3
+http://tv2iptv.com:8000/live/wael/wael/211.ts
+#EXTINF:-1,CBC
+http://tv2iptv.com:8000/live/wael/wael/257.ts
+#EXTINF:-1,CBC+2
+http://tv2iptv.com:8000/live/wael/wael/446.ts
+#EXTINF:-1,CBC-Extra
+http://tv2iptv.com:8000/live/wael/wael/255.ts
+#EXTINF:-1,CBC-Drama
+http://tv2iptv.com:8000/live/wael/wael/256.ts
+#EXTINF:-1,CBC-Sofra
+http://tv2iptv.com:8000/live/wael/wael/222.ts
+#EXTINF:-1,FATAFEAT
+http://tv2iptv.com:8000/live/wael/wael/290.ts
+#EXTINF:-1,Samira-TV
+http://tv2iptv.com:8000/live/wael/wael/220.ts
+#EXTINF:-1,Al-Nahar
+http://tv2iptv.com:8000/live/wael/wael/454.ts
+#EXTINF:-1,Al-Nahar-2
+http://tv2iptv.com:8000/live/wael/wael/451.ts
+#EXTINF:-1,Al-Nahar-Sport
+http://tv2iptv.com:8000/live/wael/wael/452.ts
+#EXTINF:-1,Al-Nahar-Drama
+http://tv2iptv.com:8000/live/wael/wael/990.ts
+#EXTINF:-1,AL-Nahar-Alyawm
+http://tv2iptv.com:8000/live/wael/wael/259.ts
+#EXTINF:-1,AL-NAHAR_Cinema
+http://tv2iptv.com:8000/live/wael/wael/1460.ts
+#EXTINF:-1,Al-Kahera-WalNas
+http://tv2iptv.com:8000/live/wael/wael/453.ts
+#EXTINF:-1,Al-Kahera-WalNas-2
+http://tv2iptv.com:8000/live/wael/wael/450.ts
+#EXTINF:-1,Rotana-Clip
+http://tv2iptv.com:8000/live/wael/wael/196.ts
+#EXTINF:-1,Rotana-music
+http://tv2iptv.com:8000/live/wael/wael/195.ts
+#EXTINF:-1,Rotana-Classic
+http://tv2iptv.com:8000/live/wael/wael/198.ts
+#EXTINF:-1,Rotana-Khalijia
+http://tv2iptv.com:8000/live/wael/wael/199.ts
+#EXTINF:-1,Rotana-Cinema
+http://tv2iptv.com:8000/live/wael/wael/194.ts
+#EXTINF:-1,Rotana-Masriya
+http://tv2iptv.com:8000/live/wael/wael/197.ts
+#EXTINF:-1,ROTANA-CINEMA-KSA
+http://tv2iptv.com:8000/live/wael/wael/447.ts
+#EXTINF:-1,Nile-TV
+http://tv2iptv.com:8000/live/wael/wael/406.ts
+#EXTINF:-1,Nile-Life
+http://tv2iptv.com:8000/live/wael/wael/214.ts
+#EXTINF:-1,Nile-Sport
+http://tv2iptv.com:8000/live/wael/wael/238.ts
+#EXTINF:-1,Nile-News
+http://tv2iptv.com:8000/live/wael/wael/213.ts
+#EXTINF:-1,Nile-Culture
+http://tv2iptv.com:8000/live/wael/wael/216.ts
+#EXTINF:-1,Nile-Drama
+http://tv2iptv.com:8000/live/wael/wael/215.ts
+#EXTINF:-1,Nile-Cinema
+http://tv2iptv.com:8000/live/wael/wael/218.ts
+#EXTINF:-1,Nile-Comedy
+http://tv2iptv.com:8000/live/wael/wael/217.ts
+#EXTINF:-1,Panorama
+http://tv2iptv.com:8000/live/wael/wael/351.ts
+#EXTINF:-1,Panorama-Film
+http://tv2iptv.com:8000/live/wael/wael/405.ts
+#EXTINF:-1,Panorama-Food
+http://tv2iptv.com:8000/live/wael/wael/281.ts
+#EXTINF:-1,Panorama-Drama
+http://tv2iptv.com:8000/live/wael/wael/283.ts
+#EXTINF:-1,Panorama-Cinema
+http://tv2iptv.com:8000/live/wael/wael/235.ts
+#EXTINF:-1,Panorama-Drama-2
+http://tv2iptv.com:8000/live/wael/wael/282.ts
+#EXTINF:-1,Panorama-Comedy
+http://tv2iptv.com:8000/live/wael/wael/350.ts
+#EXTINF:-1,TEN-1
+http://tv2iptv.com:8000/live/wael/wael/268.ts
+#EXTINF:-1,TEN-2
+http://tv2iptv.com:8000/live/wael/wael/340.ts
+#EXTINF:-1,ONTV
+http://tv2iptv.com:8000/live/wael/wael/1080.ts
+#EXTINF:-1,ONTV-LIVE
+http://tv2iptv.com:8000/live/wael/wael/284.ts
+#EXTINF:-1,TIME-TAXI
+http://tv2iptv.com:8000/live/wael/wael/403.ts
+#EXTINF:-1,TIME-FILM
+http://tv2iptv.com:8000/live/wael/wael/404.ts
+#EXTINF:-1,TIME-Action
+http://tv2iptv.com:8000/live/wael/wael/1010.ts
+#EXTINF:-1,TIME-TURKI
+http://tv2iptv.com:8000/live/wael/wael/274.ts
+#EXTINF:-1,TIME-CINEMA
+http://tv2iptv.com:8000/live/wael/wael/339.ts
+#EXTINF:-1,TIME-COMEDY
+http://tv2iptv.com:8000/live/wael/wael/275.ts
+#EXTINF:-1,TIME-SHA3BEYAT
+http://tv2iptv.com:8000/live/wael/wael/338.ts
+#EXTINF:-1,Alhayat-Egypt
+http://tv2iptv.com:8000/live/wael/wael/863.ts
+#EXTINF:-1,Al-Hayat2
+http://tv2iptv.com:8000/live/wael/wael/219.ts
+#EXTINF:-1,Alhayat-Muslsalat
+http://tv2iptv.com:8000/live/wael/wael/297.ts
+#EXTINF:-1,SOUT-MASR
+http://tv2iptv.com:8000/live/wael/wael/1008.ts
+#EXTINF:-1,Sada-ElBalad-Drama
+http://tv2iptv.com:8000/live/wael/wael/964.ts
+#EXTINF:-1,MASR-AL-HAYAH
+http://tv2iptv.com:8000/live/wael/wael/1003.ts
+#EXTINF:-1,FANKOSH
+http://tv2iptv.com:8000/live/wael/wael/1009.ts
+#EXTINF:-1,ABLA-FAHEETA
+http://tv2iptv.com:8000/live/wael/wael/993.ts
+#EXTINF:-1,OTV
+http://tv2iptv.com:8000/live/wael/wael/237.ts
+#EXTINF:-1,LDC
+http://tv2iptv.com:8000/live/wael/wael/337.ts
+#EXTINF:-1,LTC
+http://tv2iptv.com:8000/live/wael/wael/613.ts
+#EXTINF:-1,Mehwer
+http://tv2iptv.com:8000/live/wael/wael/285.ts
+#EXTINF:-1,Al-ArabyTV
+http://tv2iptv.com:8000/live/wael/wael/589.ts
+#EXTINF:-1,Dream-2
+http://tv2iptv.com:8000/live/wael/wael/319.ts
+#EXTINF:-1,Al-thanya
+http://tv2iptv.com:8000/live/wael/wael/296.ts
+#EXTINF:-1,AL-masriya
+http://tv2iptv.com:8000/live/wael/wael/448.ts
+#EXTINF:-1,CINEMA-1
+http://tv2iptv.com:8000/live/wael/wael/999.ts
+#EXTINF:-1,CINEMA-2
+http://tv2iptv.com:8000/live/wael/wael/1000.ts
+#EXTINF:-1,Play-Aflam
+http://tv2iptv.com:8000/live/wael/wael/608.ts
+#EXTINF:-1,Cairo-Aflam
+http://tv2iptv.com:8000/live/wael/wael/449.ts
+#EXTINF:-1,Cinema-Pro
+http://tv2iptv.com:8000/live/wael/wael/253.ts
+#EXTINF:-1,Cairo-Drama
+http://tv2iptv.com:8000/live/wael/wael/294.ts
+#EXTINF:-1,Cairo-cinema
+http://tv2iptv.com:8000/live/wael/wael/295.ts
+#EXTINF:-1,TokTok-Cima
+http://tv2iptv.com:8000/live/wael/wael/301.ts
+#EXTINF:-1,ABC-CINEMA
+http://tv2iptv.com:8000/live/wael/wael/992.ts
+#EXTINF:-1,Dolly-Cinema
+http://tv2iptv.com:8000/live/wael/wael/962.ts
+#EXTINF:-1,CNE-CINEMA
+http://tv2iptv.com:8000/live/wael/wael/998.ts
+#EXTINF:-1,Melody_Drama
+http://tv2iptv.com:8000/live/wael/wael/1459.ts
+#EXTINF:-1,MOGA-Cinema
+http://tv2iptv.com:8000/live/wael/wael/239.ts
+#EXTINF:-1,CIMA-ALIBABA
+http://tv2iptv.com:8000/live/wael/wael/635.ts
+#EXTINF:-1,Free.tv
+http://tv2iptv.com:8000/live/wael/wael/1816.ts
+#EXTINF:-1,elsharq
+http://tv2iptv.com:8000/live/wael/wael/1817.ts
+#EXTINF:-1,Mazzika
+http://tv2iptv.com:8000/live/wael/wael/1819.ts
+#EXTINF:-1,shamal_tv
+http://tv2iptv.com:8000/live/wael/wael/1811.ts
+#EXTINF:-1,CNE_CINEMA
+http://tv2iptv.com:8000/live/wael/wael/1805.ts
+#EXTINF:-1,LCD_MOVIES
+http://tv2iptv.com:8000/live/wael/wael/1804.ts
+#EXTINF:-1,7ALAWET-RO7
+http://tv2iptv.com:8000/live/wael/wael/991.ts
+#EXTINF:-1,STAR-CINEMA-1
+http://tv2iptv.com:8000/live/wael/wael/277.ts
+#EXTINF:-1,STAR-CINEMA-2
+http://tv2iptv.com:8000/live/wael/wael/276.ts
+#EXTINF:-1,BELODY-AFLAM
+http://tv2iptv.com:8000/live/wael/wael/997.ts
+#EXTINF:-1,Moga-Comedy-TV
+http://tv2iptv.com:8000/live/wael/wael/407.ts
+#EXTINF:-1,DARBAKAA-FLAM
+http://tv2iptv.com:8000/live/wael/wael/631.ts
+#EXTINF:-1,AL-BAITBAITAK-CINEMA
+http://tv2iptv.com:8000/live/wael/wael/588.ts
+#EXTINF:-1,7BESHA
+http://tv2iptv.com:8000/live/wael/wael/591.ts
+#EXTINF:-1,Egypt-Star
+http://tv2iptv.com:8000/live/wael/wael/249.ts
+#EXTINF:-1,zee-aflam
+http://tv2iptv.com:8000/live/wael/wael/593.ts
+#EXTINF:-1,Zee-Alwan
+http://tv2iptv.com:8000/live/wael/wael/592.ts
+#EXTINF:-1,B4U-Aflam
+http://tv2iptv.com:8000/live/wael/wael/581.ts
+#EXTINF:-1,EL-MOLED
+http://tv2iptv.com:8000/live/wael/wael/624.ts
+#EXTINF:-1,Misr-EL-Bald
+http://tv2iptv.com:8000/live/wael/wael/240.ts
+#EXTINF:-1,TAL2A-RO3B
+http://tv2iptv.com:8000/live/wael/wael/599.ts
+#EXTINF:-1,west-el-balad
+http://tv2iptv.com:8000/live/wael/wael/594.ts
+#EXTINF:-1,Sada-ElBalad
+http://tv2iptv.com:8000/live/wael/wael/280.ts
+#EXTINF:-1,AlAhly-TV
+http://tv2iptv.com:8000/live/wael/wael/298.ts
+#EXTINF:-1,IKIDS
+http://tv2iptv.com:8000/live/wael/wael/618.ts
+#EXTINF:-1,Bara3im
+http://tv2iptv.com:8000/live/wael/wael/1766.ts
+#EXTINF:-1,KIDZINIA
+http://tv2iptv.com:8000/live/wael/wael/617.ts
+#EXTINF:-1,NOON_TV_KIDS
+http://tv2iptv.com:8000/live/wael/wael/1789.ts
+#EXTINF:-1,karamesh
+http://tv2iptv.com:8000/live/wael/wael/1148.ts
+#EXTINF:-1,KOKKY-TV
+http://tv2iptv.com:8000/live/wael/wael/455.ts
+#EXTINF:-1,MODY-KIDS
+http://tv2iptv.com:8000/live/wael/wael/342.ts
+#EXTINF:-1,TOYOR-AL-JANAH
+http://tv2iptv.com:8000/live/wael/wael/223.ts
+#EXTINF:-1,MICKEY-CHANNEL
+http://tv2iptv.com:8000/live/wael/wael/611.ts
+#EXTINF:-1,SPACE-TOON-ARABIC
+http://tv2iptv.com:8000/live/wael/wael/349.ts
+#EXTINF:-1,Iqraa
+http://tv2iptv.com:8000/live/wael/wael/244.ts
+#EXTINF:-1,ALNAS
+http://tv2iptv.com:8000/live/wael/wael/1152.ts
+#EXTINF:-1,Alresala
+http://tv2iptv.com:8000/live/wael/wael/1151.ts
+#EXTINF:-1,ISLAM:Al-Majd3
+http://tv2iptv.com:8000/live/wael/wael/586.ts
+#EXTINF:-1,QRN:Ithraa
+http://tv2iptv.com:8000/live/wael/wael/1814.ts
+#EXTINF:-1,QURAN-TV
+http://tv2iptv.com:8000/live/wael/wael/607.ts
+#EXTINF:-1,TIME-QURAN
+http://tv2iptv.com:8000/live/wael/wael/596.ts
+#EXTINF:-1,Saudi.Sunna
+http://tv2iptv.com:8000/live/wael/wael/1458.ts
+#EXTINF:-1,Saudia-Quran
+http://tv2iptv.com:8000/live/wael/wael/1194.ts
+#EXTINF:-1,ISLAM:Ahel-Al-Quran
+http://tv2iptv.com:8000/live/wael/wael/590.ts
+#EXTINF:-1,Almajd.Scientific
+http://tv2iptv.com:8000/live/wael/wael/1456.ts
+#EXTINF:-1,Al_Majd_Islamic
+http://tv2iptv.com:8000/live/wael/wael/1790.ts
+#EXTINF:-1,Almajd.Ahadeeth
+http://tv2iptv.com:8000/live/wael/wael/1455.ts
+#EXTINF:-1,QRN:ibn_othmanian
+http://tv2iptv.com:8000/live/wael/wael/1809.ts
+#EXTINF:-1,Tabah-TV
+http://tv2iptv.com:8000/live/wael/wael/600.ts
+#EXTINF:-1,Al-Foratr
+http://tv2iptv.com:8000/live/wael/wael/460.ts
+#EXTINF:-1,4-SHABAB-TV1
+http://tv2iptv.com:8000/live/wael/wael/267.ts
+#EXTINF:-1,ALRAHMA
+http://tv2iptv.com:8000/live/wael/wael/584.ts
+#EXTINF:-1,Al-hayat-We-Alnas
+http://tv2iptv.com:8000/live/wael/wael/347.ts
+#EXTINF:-1,ISLAM:Alnoor
+http://tv2iptv.com:8000/live/wael/wael/585.ts
+#EXTINF:-1,Lamsat
+http://tv2iptv.com:8000/live/wael/wael/241.ts
+#EXTINF:-1,Al-Arrab
+http://tv2iptv.com:8000/live/wael/wael/265.ts
+#EXTINF:-1,Al-baraka
+http://tv2iptv.com:8000/live/wael/wael/464.ts
+#EXTINF:-1,AlQuods
+http://tv2iptv.com:8000/live/wael/wael/1457.ts
+#EXTINF:-1,Al.AQSA
+http://tv2iptv.com:8000/live/wael/wael/1453.ts
+#EXTINF:-1,SudanTV
+http://tv2iptv.com:8000/live/wael/wael/1762.ts
+#EXTINF:-1,AshrooqTv
+http://tv2iptv.com:8000/live/wael/wael/1763.ts
+#EXTINF:-1,Dabanga.Sudan
+http://tv2iptv.com:8000/live/wael/wael/1764.ts
+#EXTINF:-1,Blue.nile.tv
+http://tv2iptv.com:8000/live/wael/wael/1862.ts
+#EXTINF:-1,SAMA_TV_SYRIA
+http://tv2iptv.com:8000/live/wael/wael/1787.ts
+#EXTINF:-1,aljadeed.liban
+http://tv2iptv.com:8000/live/wael/wael/1454.ts
+#EXTINF:-1,CNN
+http://tv2iptv.com:8000/live/wael/wael/221.ts
+#EXTINF:-1,MEKAMELEENTV
+http://tv2iptv.com:8000/live/wael/wael/1840.ts
+#EXTINF:-1,Aljazeera-Mubasher
+http://tv2iptv.com:8000/live/wael/wael/1149.ts
+#EXTINF:-1,Aljazeera2
+http://tv2iptv.com:8000/live/wael/wael/1150.ts
+#EXTINF:-1,ALJAZEERA-DOC
+http://tv2iptv.com:8000/live/wael/wael/1571.ts
+#EXTINF:-1,France-24
+http://tv2iptv.com:8000/live/wael/wael/245.ts
+#EXTINF:-1,EuroNews
+http://tv2iptv.com:8000/live/wael/wael/247.ts
+#EXTINF:-1,Al-Arabiya
+http://tv2iptv.com:8000/live/wael/wael/266.ts
+#EXTINF:-1,AL-Hadath
+http://tv2iptv.com:8000/live/wael/wael/264.ts
+#EXTINF:-1,BBC-Arabic
+http://tv2iptv.com:8000/live/wael/wael/344.ts
+#EXTINF:-1,Sky-News-Arabia
+http://tv2iptv.com:8000/live/wael/wael/229.ts
+#EXTINF:-1,UNRWA
+http://tv2iptv.com:8000/live/wael/wael/1013.ts
+#EXTINF:-1,Top-News-TV
+http://tv2iptv.com:8000/live/wael/wael/975.ts
+#EXTINF:-1,TAHA
+http://tv2iptv.com:8000/live/wael/wael/974.ts
+#EXTINF:-1,SAUDI_1
+http://tv2iptv.com:8000/live/wael/wael/1788.ts
+#EXTINF:-1,SUHAIL-TV
+http://tv2iptv.com:8000/live/wael/wael/989.ts
+#EXTINF:-1,SHAMAL-TV
+http://tv2iptv.com:8000/live/wael/wael/1007.ts
+#EXTINF:-1,SAMARRA-TV
+http://tv2iptv.com:8000/live/wael/wael/1006.ts
+#EXTINF:-1,Kwt:kuwait_xtra
+http://tv2iptv.com:8000/live/wael/wael/1812.ts
+#EXTINF:-1,Kwt:kuwait_plus
+http://tv2iptv.com:8000/live/wael/wael/1813.ts
+#EXTINF:-1,KSA:SAUDI_2
+http://tv2iptv.com:8000/live/wael/wael/1806.ts
+#EXTINF:-1,SAUDI.24
+http://tv2iptv.com:8000/live/wael/wael/1807.ts
+#EXTINF:-1,Saudi_sport1
+http://tv2iptv.com:8000/live/wael/wael/1818.ts
+#EXTINF:-1,Dubai.Zaman
+http://tv2iptv.com:8000/live/wael/wael/1793.ts
+#EXTINF:-1,SAMA.DUBAI
+http://tv2iptv.com:8000/live/wael/wael/1791.ts
+#EXTINF:-1,DUBAI-DRAMA
+http://tv2iptv.com:8000/live/wael/wael/1147.ts
+#EXTINF:-1,DUBAI-SPORTS
+http://tv2iptv.com:8000/live/wael/wael/1570.ts
+#EXTINF:-1,Nat.Geo.AD
+http://tv2iptv.com:8000/live/wael/wael/1794.ts
+#EXTINF:-1,ROJAVA-TV
+http://tv2iptv.com:8000/live/wael/wael/1005.ts
+#EXTINF:-1,NBN
+http://tv2iptv.com:8000/live/wael/wael/972.ts
+#EXTINF:-1,NABD-SYRIA-TV
+http://tv2iptv.com:8000/live/wael/wael/1011.ts
+#EXTINF:-1,MTV-Lebanon
+http://tv2iptv.com:8000/live/wael/wael/971.ts
+#EXTINF:-1,LAYALIONS
+http://tv2iptv.com:8000/live/wael/wael/1002.ts
+#EXTINF:-1,Iraqia-Sport
+http://tv2iptv.com:8000/live/wael/wael/980.ts
+#EXTINF:-1,fadak
+http://tv2iptv.com:8000/live/wael/wael/981.ts
+#EXTINF:-1,ALAAN-TV
+http://tv2iptv.com:8000/live/wael/wael/969.ts
+#EXTINF:-1,AL-SIRAT
+http://tv2iptv.com:8000/live/wael/wael/968.ts
+#EXTINF:-1,AL-SHARQIYA
+http://tv2iptv.com:8000/live/wael/wael/976.ts
+#EXTINF:-1,AL-MAYADEEN-TV
+http://tv2iptv.com:8000/live/wael/wael/967.ts
+#EXTINF:-1,AL-MANAR
+http://tv2iptv.com:8000/live/wael/wael/966.ts
+#EXTINF:-1,AL-KOFIYA
+http://tv2iptv.com:8000/live/wael/wael/996.ts
+#EXTINF:-1,AL-KAWTHAR
+http://tv2iptv.com:8000/live/wael/wael/979.ts
+#EXTINF:-1,AL-Karama
+http://tv2iptv.com:8000/live/wael/wael/985.ts
+#EXTINF:-1,Al-Jazeera-English
+http://tv2iptv.com:8000/live/wael/wael/982.ts
+#EXTINF:-1,AL-JADEED
+http://tv2iptv.com:8000/live/wael/wael/965.ts
+#EXTINF:-1,ATTESSIATV
+http://tv2iptv.com:8000/live/wael/wael/1153.ts
+#EXTINF:-1,AL-IMAN-TV
+http://tv2iptv.com:8000/live/wael/wael/970.ts
+#EXTINF:-1,AL-GOMHOR-CINEMA
+http://tv2iptv.com:8000/live/wael/wael/995.ts
+#EXTINF:-1,AL-BATAL
+http://tv2iptv.com:8000/live/wael/wael/994.ts
+#EXTINF:-1,Al-BABELYA
+http://tv2iptv.com:8000/live/wael/wael/977.ts
+#EXTINF:-1,AL-Anwar
+http://tv2iptv.com:8000/live/wael/wael/963.ts
+#EXTINF:-1,sanaa_jord
+http://tv2iptv.com:8000/live/wael/wael/1808.ts
+#EXTINF:-1,belques_tv
+http://tv2iptv.com:8000/live/wael/wael/1810.ts
+#EXTINF:-1,Future-TV
+http://tv2iptv.com:8000/live/wael/wael/1017.ts
+#EXTINF:-1,AL-MADEEH
+http://tv2iptv.com:8000/live/wael/wael/1016.ts
+#EXTINF:-1,AL-ALAM
+http://tv2iptv.com:8000/live/wael/wael/1015.ts
+#EXTINF:-1,Aghani-Aghani
+http://tv2iptv.com:8000/live/wael/wael/978.ts
+#EXTINF:-1,Halaba-TV
+http://tv2iptv.com:8000/live/wael/wael/621.ts
+#EXTINF:-1,TUN:TUNISNA
+http://tv2iptv.com:8000/live/wael/wael/560.ts
+#EXTINF:-1,Hannibal
+http://tv2iptv.com:8000/live/wael/wael/477.ts
+#EXTINF:-1,TUN:M-Tunisia
+http://tv2iptv.com:8000/live/wael/wael/558.ts
+#EXTINF:-1,AL-janoubia
+http://tv2iptv.com:8000/live/wael/wael/481.ts
+#EXTINF:-1,TUN:Al-Insan-TV
+http://tv2iptv.com:8000/live/wael/wael/556.ts
+#EXTINF:-1,Ettounsia-TV
+http://tv2iptv.com:8000/live/wael/wael/482.ts
+#EXTINF:-1,Maghreb 24 TV
+http://tv2iptv.com:8000/live/wael/wael/225.ts
+#EXTINF:-1,Tunisia-Nat-1
+http://tv2iptv.com:8000/live/wael/wael/479.ts
+#EXTINF:-1,Tunisia-Nat-2
+http://tv2iptv.com:8000/live/wael/wael/480.ts
+#EXTINF:-1,YASMINE-TV
+http://tv2iptv.com:8000/live/wael/wael/228.ts
+#EXTINF:-1,ZITOUNA-HEDAYA
+http://tv2iptv.com:8000/live/wael/wael/226.ts
+#EXTINF:-1,Tunisie-Televsion-1
+http://tv2iptv.com:8000/live/wael/wael/478.ts
+#EXTINF:-1,TUN:AlHiwar-Ettounsi-TV
+http://tv2iptv.com:8000/live/wael/wael/557.ts
+#EXTINF:-1,ANN-Arab-News
+http://tv2iptv.com:8000/live/wael/wael/582.ts
+#EXTINF:-1,SYR:syria_educ
+http://tv2iptv.com:8000/live/wael/wael/1815.ts
+#EXTINF:-1,Suryana
+http://tv2iptv.com:8000/live/wael/wael/603.ts
+#EXTINF:-1,Nour.ACHAM
+http://tv2iptv.com:8000/live/wael/wael/1792.ts
+#EXTINF:-1,SYRIA-DRAMA
+http://tv2iptv.com:8000/live/wael/wael/602.ts
+#EXTINF:-1,Syria-Medical-TV
+http://tv2iptv.com:8000/live/wael/wael/601.ts
+#EXTINF:-1,SYRIASATELLITETV
+http://tv2iptv.com:8000/live/wael/wael/1861.ts
+#EXTINF:-1,Imagine-Movies
+http://tv2iptv.com:8000/live/wael/wael/288.ts
+#EXTINF:-1,Southern-TV
+http://tv2iptv.com:8000/live/wael/wael/605.ts
+#EXTINF:-1,Sout-El-Shaab
+http://tv2iptv.com:8000/live/wael/wael/606.ts
+#EXTINF:-1,Libya-West-Tripoli
+http://tv2iptv.com:8000/live/wael/wael/614.ts
+#EXTINF:-1,LIBYA-ALRASMEYA
+http://tv2iptv.com:8000/live/wael/wael/615.ts
+#EXTINF:-1,Libya-Alhrar
+http://tv2iptv.com:8000/live/wael/wael/616.ts
+#EXTINF:-1,ALG:Coran-TV
+http://tv2iptv.com:8000/live/wael/wael/633.ts
+#EXTINF:-1,Dzair-24
+http://tv2iptv.com:8000/live/wael/wael/628.ts
+#EXTINF:-1,ZAYTOONA
+http://tv2iptv.com:8000/live/wael/wael/227.ts
+#EXTINF:-1,BZAF-TV
+http://tv2iptv.com:8000/live/wael/wael/186.ts
+#EXTINF:-1,DZair-TV
+http://tv2iptv.com:8000/live/wael/wael/470.ts
+#EXTINF:-1,ALG:Bzaf..Life
+http://tv2iptv.com:8000/live/wael/wael/187.ts
+#EXTINF:-1,EL-BILAD-TV
+http://tv2iptv.com:8000/live/wael/wael/471.ts
+#EXTINF:-1,ENNAHAR-TV
+http://tv2iptv.com:8000/live/wael/wael/622.ts
+#EXTINF:-1,El-Fadjr-TV-DZ
+http://tv2iptv.com:8000/live/wael/wael/248.ts
+#EXTINF:-1,Echorouk-TV
+http://tv2iptv.com:8000/live/wael/wael/961.ts
+#EXTINF:-1,Dzair-21-PUB
+http://tv2iptv.com:8000/live/wael/wael/1001.ts
+#EXTINF:-1,El-Heddaf.TV
+http://tv2iptv.com:8000/live/wael/wael/1783.ts
+#EXTINF:-1,DZAIR.NEWS
+http://tv2iptv.com:8000/live/wael/wael/1784.ts
+#EXTINF:-1,Echorouk-News
+http://tv2iptv.com:8000/live/wael/wael/625.ts
+#EXTINF:-1,Sahara-TV-Algeria
+http://tv2iptv.com:8000/live/wael/wael/231.ts
+#EXTINF:-1,ELKHABARKBC-Algeria
+http://tv2iptv.com:8000/live/wael/wael/623.ts
+#EXTINF:-1,ALG:ENTV
+http://tv2iptv.com:8000/live/wael/wael/1799.ts
+#EXTINF:-1,ALG:BEUR_TV
+http://tv2iptv.com:8000/live/wael/wael/1800.ts
+#EXTINF:-1,bzaf_music
+http://tv2iptv.com:8000/live/wael/wael/1803.ts
+#EXTINF:-1,DJAZAIRIA
+http://tv2iptv.com:8000/live/wael/wael/1786.ts
+#EXTINF:-1,ALG:Moutawaset
+http://tv2iptv.com:8000/live/wael/wael/1796.ts
+#EXTINF:-1,ALG:Kbc.AlgÃ©rie
+http://tv2iptv.com:8000/live/wael/wael/1798.ts
+#EXTINF:-1,ALG:CANAL_ALGERIE
+http://tv2iptv.com:8000/live/wael/wael/1785.ts
+#EXTINF:-1,ALG:Echourouk.benna
+http://tv2iptv.com:8000/live/wael/wael/1797.ts
+#EXTINF:-1,ALG:ALGERIAN_amazight
+http://tv2iptv.com:8000/live/wael/wael/1801.ts
+#EXTINF:-1,Arriadia
+http://tv2iptv.com:8000/live/wael/wael/184.ts
+#EXTINF:-1,Arrabiaa
+http://tv2iptv.com:8000/live/wael/wael/185.ts
+#EXTINF:-1,AL-Oula_Maroc
+http://tv2iptv.com:8000/live/wael/wael/181.ts
+#EXTINF:-1,2M-Maroc
+http://tv2iptv.com:8000/live/wael/wael/182.ts
+#EXTINF:-1,Al-Maghribia
+http://tv2iptv.com:8000/live/wael/wael/183.ts
+#EXTINF:-1,MAR:Al-Magharibia-Two
+http://tv2iptv.com:8000/live/wael/wael/587.ts
+#EXTINF:-1,MAR:Tamazight
+http://tv2iptv.com:8000/live/wael/wael/1802.ts
+#EXTINF:-1,DUBAI-ONE
+http://tv2iptv.com:8000/live/wael/wael/292.ts
+#EXTINF:-1,DUBA-IRACING
+http://tv2iptv.com:8000/live/wael/wael/291.ts
+#EXTINF:-1,Jordan-Sport
+http://tv2iptv.com:8000/live/wael/wael/343.ts
+#EXTINF:-1,WANASAH
+http://tv2iptv.com:8000/live/wael/wael/188.ts
+#EXTINF:-1,NOUR-KIDS
+http://tv2iptv.com:8000/live/wael/wael/1004.ts
+#EXTINF:-1,Numidia-News-TV
+http://tv2iptv.com:8000/live/wael/wael/609.ts
+#EXTINF:-1,Nessma
+http://tv2iptv.com:8000/live/wael/wael/341.ts
+#EXTINF:-1,Iraq-Now
+http://tv2iptv.com:8000/live/wael/wael/243.ts
+#EXTINF:-1,IraqFuture TV
+http://tv2iptv.com:8000/live/wael/wael/242.ts
+#EXTINF:-1,BAGHDAD-TV
+http://tv2iptv.com:8000/live/wael/wael/258.ts
+#EXTINF:-1,AL-MASSAR-ALOULA
+http://tv2iptv.com:8000/live/wael/wael/260.ts
+#EXTINF:-1,LBC-SAT
+http://tv2iptv.com:8000/live/wael/wael/287.ts
+#EXTINF:-1,Gali-Kurdistan
+http://tv2iptv.com:8000/live/wael/wael/336.ts
+#EXTINF:-1,CANARY-TV
+http://tv2iptv.com:8000/live/wael/wael/293.ts
+#EXTINF:-1,Iraqia-TV
+http://tv2iptv.com:8000/live/wael/wael/408.ts
+#EXTINF:-1,ASIA-TV
+http://tv2iptv.com:8000/live/wael/wael/410.ts
+#EXTINF:-1,Al-taghier
+http://tv2iptv.com:8000/live/wael/wael/411.ts
+#EXTINF:-1,Al-Sumaria-TV
+http://tv2iptv.com:8000/live/wael/wael/412.ts
+#EXTINF:-1,AL-SALAM
+http://tv2iptv.com:8000/live/wael/wael/413.ts
+#EXTINF:-1,Al-Ahd
+http://tv2iptv.com:8000/live/wael/wael/424.ts
+#EXTINF:-1,Al-Rasheed
+http://tv2iptv.com:8000/live/wael/wael/414.ts
+#EXTINF:-1,Al-Rafiden
+http://tv2iptv.com:8000/live/wael/wael/415.ts
+#EXTINF:-1,Al-Noujaba
+http://tv2iptv.com:8000/live/wael/wael/345.ts
+#EXTINF:-1,The-Savior
+http://tv2iptv.com:8000/live/wael/wael/598.ts
+#EXTINF:-1,Al-itejah-TV
+http://tv2iptv.com:8000/live/wael/wael/416.ts
+#EXTINF:-1,Al-Ghadeer
+http://tv2iptv.com:8000/live/wael/wael/417.ts
+#EXTINF:-1,Al-Fayhaa-TV
+http://tv2iptv.com:8000/live/wael/wael/418.ts
+#EXTINF:-1,AL-Diyar
+http://tv2iptv.com:8000/live/wael/wael/419.ts
+#EXTINF:-1,AL-BAGHDADIA-2
+http://tv2iptv.com:8000/live/wael/wael/420.ts
+#EXTINF:-1,TV-TAMAZIGHT
+http://tv2iptv.com:8000/live/wael/wael/472.ts
+#EXTINF:-1,Shabab-TV
+http://tv2iptv.com:8000/live/wael/wael/462.ts
+#EXTINF:-1,October-TV
+http://tv2iptv.com:8000/live/wael/wael/465.ts
+#EXTINF:-1,MEDI1-TV
+http://tv2iptv.com:8000/live/wael/wael/473.ts
+#EXTINF:-1,KARBALA-TV
+http://tv2iptv.com:8000/live/wael/wael/463.ts
+#EXTINF:-1,Assadissa
+http://tv2iptv.com:8000/live/wael/wael/474.ts
+#EXTINF:-1,Anwar-TV-2
+http://tv2iptv.com:8000/live/wael/wael/461.ts
+#EXTINF:-1,AL-MADA-TV
+http://tv2iptv.com:8000/live/wael/wael/468.ts
+#EXTINF:-1,Al-Khabar-TV
+http://tv2iptv.com:8000/live/wael/wael/467.ts
+#EXTINF:-1,AL-Hurra-Iraq
+http://tv2iptv.com:8000/live/wael/wael/466.ts
+#EXTINF:-1,AL-ASRAR-TV
+http://tv2iptv.com:8000/live/wael/wael/469.ts
+#EXTINF:-1,AL-BAGHDADIA-1
+http://tv2iptv.com:8000/live/wael/wael/421.ts
+#EXTINF:-1,Afak
+http://tv2iptv.com:8000/live/wael/wael/425.ts
+#EXTINF:-1,AL-Anbar
+http://tv2iptv.com:8000/live/wael/wael/423.ts
+#EXTINF:-1,Al-AqilaT
+http://tv2iptv.com:8000/live/wael/wael/422.ts
+#EXTINF:-1,Al-Naeem-TV
+http://tv2iptv.com:8000/live/wael/wael/348.ts
+#EXTINF:-1,AGHAPY-TV
+http://tv2iptv.com:8000/live/wael/wael/984.ts
+#EXTINF:-1,CTV
+http://tv2iptv.com:8000/live/wael/wael/983.ts
+#EXTINF:-1,Al-Fady
+http://tv2iptv.com:8000/live/wael/wael/987.ts
+#EXTINF:-1,ME-SAT
+http://tv2iptv.com:8000/live/wael/wael/346.ts
+#EXTINF:-1,Logos-TV
+http://tv2iptv.com:8000/live/wael/wael/988.ts
+#EXTINF:-1,Al-Horreya
+http://tv2iptv.com:8000/live/wael/wael/986.ts
+#EXTINF:-1,TheWay-TV
+http://tv2iptv.com:8000/live/wael/wael/597.ts
+#EXTINF:-1,AL-Karama-TV
+http://tv2iptv.com:8000/live/wael/wael/261.ts
+#EXTINF:-1,CNA
+http://tv2iptv.com:8000/live/wael/wael/634.ts
+#EXTINF:-1,Noursat
+http://tv2iptv.com:8000/live/wael/wael/973.ts
+#EXTINF:-1,Al-Malakoot
+http://tv2iptv.com:8000/live/wael/wael/457.ts
+#EXTINF:-1,Nour-Koddass
+http://tv2iptv.com:8000/live/wael/wael/458.ts
+#EXTINF:-1,Nour-Al-Sharq
+http://tv2iptv.com:8000/live/wael/wael/459.ts
+#EXTINF:-1,Noursat-Alchabab
+http://tv2iptv.com:8000/live/wael/wael/610.ts
+#EXTINF:-1,bein*1*server2
+http://tv2iptv.com:8000/live/wael/wael/1050.ts
+#EXTINF:-1,bein*2*server2
+http://tv2iptv.com:8000/live/wael/wael/1051.ts
+#EXTINF:-1,bein*3*server2
+http://tv2iptv.com:8000/live/wael/wael/1052.ts
+#EXTINF:-1,bein*4*server2
+http://tv2iptv.com:8000/live/wael/wael/1053.ts
+#EXTINF:-1,bein*5*server2
+http://tv2iptv.com:8000/live/wael/wael/1054.ts
+#EXTINF:-1,bein*6*server2
+http://tv2iptv.com:8000/live/wael/wael/1055.ts
+#EXTINF:-1,bein*7*server2
+http://tv2iptv.com:8000/live/wael/wael/1056.ts
+#EXTINF:-1,bein*8*server2
+http://tv2iptv.com:8000/live/wael/wael/1057.ts
+#EXTINF:-1,bein*9*server2
+http://tv2iptv.com:8000/live/wael/wael/1058.ts
+#EXTINF:-1,bein*10*server2
+http://tv2iptv.com:8000/live/wael/wael/1059.ts
+#EXTINF:-1,bein*11*server2
+http://tv2iptv.com:8000/live/wael/wael/1060.ts
+#EXTINF:-1,bein*12*server2
+http://tv2iptv.com:8000/live/wael/wael/1061.ts
+#EXTINF:-1,UK-BT-Sport-1
+http://tv2iptv.com:8000/live/wael/wael/519.ts
+#EXTINF:-1,UK-BT-Sport-2
+http://tv2iptv.com:8000/live/wael/wael/520.ts
+#EXTINF:-1,UK-Sky-Sports-1
+http://tv2iptv.com:8000/live/wael/wael/684.ts
+#EXTINF:-1,UK-Sky-Sports-2
+http://tv2iptv.com:8000/live/wael/wael/685.ts
+#EXTINF:-1,UK-Sky-Sports-3
+http://tv2iptv.com:8000/live/wael/wael/686.ts
+#EXTINF:-1,UK-Sky-Sports-4
+http://tv2iptv.com:8000/live/wael/wael/714.ts
+#EXTINF:-1,UK-Sky-Sports-5
+http://tv2iptv.com:8000/live/wael/wael/687.ts
+#EXTINF:-1,UK-Premier-Sports
+http://tv2iptv.com:8000/live/wael/wael/1022.ts
+#EXTINF:-1,UK-Setanta-Sport-1
+http://tv2iptv.com:8000/live/wael/wael/1018.ts
+#EXTINF:-1,UK-BT-Sport/ESPN
+http://tv2iptv.com:8000/live/wael/wael/1044.ts
+#EXTINF:-1,UK-BT-Sport-Mosaic
+http://tv2iptv.com:8000/live/wael/wael/1041.ts
+#EXTINF:-1,UK-BT-Sport-Extra-1
+http://tv2iptv.com:8000/live/wael/wael/1043.ts
+#EXTINF:-1,UK-BT-Sport-Europe
+http://tv2iptv.com:8000/live/wael/wael/1042.ts
+#EXTINF:-1,UK-CTH-STADIUM-1HD
+http://tv2iptv.com:8000/live/wael/wael/1353.ts
+#EXTINF:-1,UK-CTH-STADIUM-2HD
+http://tv2iptv.com:8000/live/wael/wael/1354.ts
+#EXTINF:-1,UK-CTH-STADIUM-3HD
+http://tv2iptv.com:8000/live/wael/wael/1355.ts
+#EXTINF:-1,UK-CTH-STADIUM-4HD
+http://tv2iptv.com:8000/live/wael/wael/1357.ts
+#EXTINF:-1,UK-CTH-STADIUM-5HD
+http://tv2iptv.com:8000/live/wael/wael/1356.ts
+#EXTINF:-1,UK-CTH-STADIUM-6HD
+http://tv2iptv.com:8000/live/wael/wael/1358.ts
+#EXTINF:-1,UK-Motors-TV
+http://tv2iptv.com:8000/live/wael/wael/1040.ts
+#EXTINF:-1,UK-AMC-from-BT
+http://tv2iptv.com:8000/live/wael/wael/1039.ts
+#EXTINF:-1,UK-Setanta-Sports-Ireland
+http://tv2iptv.com:8000/live/wael/wael/1019.ts
+#EXTINF:-1,UK-Sony-Movie
+http://tv2iptv.com:8000/live/wael/wael/1023.ts
+#EXTINF:-1,UK-Movies-4-Men
+http://tv2iptv.com:8000/live/wael/wael/1020.ts
+#EXTINF:-1,UK-Comedy-Extra
+http://tv2iptv.com:8000/live/wael/wael/708.ts
+#EXTINF:-1,UK-Comedy-Central
+http://tv2iptv.com:8000/live/wael/wael/709.ts
+#EXTINF:-1,UK-Comedy-Central+1
+http://tv2iptv.com:8000/live/wael/wael/710.ts
+#EXTINF:-1,UK-Sky-Movies-Action
+http://tv2iptv.com:8000/live/wael/wael/691.ts
+#EXTINF:-1,UK-Sky-Movies-Select
+http://tv2iptv.com:8000/live/wael/wael/692.ts
+#EXTINF:-1,UK-Sky-Movies-Family
+http://tv2iptv.com:8000/live/wael/wael/695.ts
+#EXTINF:-1,UK-Sky-Movies-Disney.
+http://tv2iptv.com:8000/live/wael/wael/696.ts
+#EXTINF:-1,UK-Sky-Movies-Greats
+http://tv2iptv.com:8000/live/wael/wael/1360.ts
+#EXTINF:-1,UK-Sky-movies-Thriller
+http://tv2iptv.com:8000/live/wael/wael/688.ts
+#EXTINF:-1,UK-Sky-Movies-Comedy
+http://tv2iptv.com:8000/live/wael/wael/697.ts
+#EXTINF:-1,UK-Sky-Movies -Premiere
+http://tv2iptv.com:8000/live/wael/wael/693.ts
+#EXTINF:-1,UK-Sky-Movies-Showcase
+http://tv2iptv.com:8000/live/wael/wael/690.ts
+#EXTINF:-1,UK-Investigation-Discovery
+http://tv2iptv.com:8000/live/wael/wael/715.ts
+#EXTINF:-1,UK-Animal-Planet
+http://tv2iptv.com:8000/live/wael/wael/723.ts
+#EXTINF:-1,UK-Nat-Geo-Wild
+http://tv2iptv.com:8000/live/wael/wael/675.ts
+#EXTINF:-1,UK-National-Geographic
+http://tv2iptv.com:8000/live/wael/wael/676.ts
+#EXTINF:-1,UK-Discovery
+http://tv2iptv.com:8000/live/wael/wael/719.ts
+#EXTINF:-1,UK-Discovery-Shed
+http://tv2iptv.com:8000/live/wael/wael/718.ts
+#EXTINF:-1,UK-Discovery-Turbo
+http://tv2iptv.com:8000/live/wael/wael/720.ts
+#EXTINF:-1,UK-Discovery-History
+http://tv2iptv.com:8000/live/wael/wael/722.ts
+#EXTINF:-1,UK-Discovery-Home- Health
+http://tv2iptv.com:8000/live/wael/wael/716.ts
+#EXTINF:-1,UK-BBC.1
+http://tv2iptv.com:8000/live/wael/wael/1531.ts
+#EXTINF:-1,UK-BBC.2
+http://tv2iptv.com:8000/live/wael/wael/1530.ts
+#EXTINF:-1,UK-BBC.3
+http://tv2iptv.com:8000/live/wael/wael/1529.ts
+#EXTINF:-1,UK-BBC.4
+http://tv2iptv.com:8000/live/wael/wael/1528.ts
+#EXTINF:-1,UK-More-4
+http://tv2iptv.com:8000/live/wael/wael/1359.ts
+#EXTINF:-1,UK-History
+http://tv2iptv.com:8000/live/wael/wael/680.ts
+#EXTINF:-1,UK-History-1
+http://tv2iptv.com:8000/live/wael/wael/679.ts
+#EXTINF:-1,UK-History-2
+http://tv2iptv.com:8000/live/wael/wael/678.ts
+#EXTINF:-1,UK-Nick-Jr+1
+http://tv2iptv.com:8000/live/wael/wael/704.ts
+#EXTINF:-1,UK-Nick-Jr-Too
+http://tv2iptv.com:8000/live/wael/wael/703.ts
+#EXTINF:-1,UK-Nicktoons-Ireland
+http://tv2iptv.com:8000/live/wael/wael/702.ts
+#EXTINF:-1,UK-Disney-XD
+http://tv2iptv.com:8000/live/wael/wael/705.ts
+#EXTINF:-1,UK-Disney-Junior
+http://tv2iptv.com:8000/live/wael/wael/706.ts
+#EXTINF:-1,UK-Disney-Channel
+http://tv2iptv.com:8000/live/wael/wael/707.ts
+#EXTINF:-1,UK-Sky-Living
+http://tv2iptv.com:8000/live/wael/wael/694.ts
+#EXTINF:-1,UK-UTV-Ireland
+http://tv2iptv.com:8000/live/wael/wael/673.ts
+#EXTINF:-1,UK-ITV1*
+http://tv2iptv.com:8000/live/wael/wael/758.ts
+#EXTINF:-1,UK-ITV2*
+http://tv2iptv.com:8000/live/wael/wael/757.ts
+#EXTINF:-1,UK-ITV3
+http://tv2iptv.com:8000/live/wael/wael/509.ts
+#EXTINF:-1,UK-ITV4
+http://tv2iptv.com:8000/live/wael/wael/814.ts
+#EXTINF:-1,UK-FOX
+http://tv2iptv.com:8000/live/wael/wael/698.ts
+#EXTINF:-1,UK-Sky-2
+http://tv2iptv.com:8000/live/wael/wael/700.ts
+#EXTINF:-1,UK-Sky-12
+http://tv2iptv.com:8000/live/wael/wael/701.ts
+#EXTINF:-1,UK-Racing
+http://tv2iptv.com:8000/live/wael/wael/1021.ts
+#EXTINF:-1,UK-Sky-Arts1
+http://tv2iptv.com:8000/live/wael/wael/699.ts
+#EXTINF:-1,UK-Real-Lives
+http://tv2iptv.com:8000/live/wael/wael/674.ts
+#EXTINF:-1,UK-QUEST
+http://tv2iptv.com:8000/live/wael/wael/724.ts
+#EXTINF:-1,UK-DMAX
+http://tv2iptv.com:8000/live/wael/wael/717.ts
+#EXTINF:-1,UK-MUTV
+http://tv2iptv.com:8000/live/wael/wael/677.ts
+#EXTINF:-1,UK-TLC
+http://tv2iptv.com:8000/live/wael/wael/712.ts
+#EXTINF:-1,UK-BET
+http://tv2iptv.com:8000/live/wael/wael/711.ts
+#EXTINF:-1,UK-TLC-IRELAND
+http://tv2iptv.com:8000/live/wael/wael/713.ts
+#EXTINF:-1,UK-At-The-Races
+http://tv2iptv.com:8000/live/wael/wael/683.ts
+#EXTINF:-1,UK-Fox-News-Channel
+http://tv2iptv.com:8000/live/wael/wael/681.ts
+#EXTINF:-1,UK-Crime Investigation-Network
+http://tv2iptv.com:8000/live/wael/wael/682.ts
+#EXTINF:-1,UK-True Movies 2
+http://tv2iptv.com:8000/live/wael/wael/1210.ts
+#EXTINF:-1,UK-True Movies 1
+http://tv2iptv.com:8000/live/wael/wael/1209.ts
+#EXTINF:-1,UK-Tiny Pop
+http://tv2iptv.com:8000/live/wael/wael/1211.ts
+#EXTINF:-1,UK-SYFY
+http://tv2iptv.com:8000/live/wael/wael/1212.ts
+#EXTINF:-1,UK-RTE 2 HD
+http://tv2iptv.com:8000/live/wael/wael/1207.ts
+#EXTINF:-1,UK-RTE 1 HD
+http://tv2iptv.com:8000/live/wael/wael/1206.ts
+#EXTINF:-1,UK-Really
+http://tv2iptv.com:8000/live/wael/wael/1208.ts
+#EXTINF:-1,UK-Movies 4 Men
+http://tv2iptv.com:8000/live/wael/wael/1213.ts
+#EXTINF:-1,UK-LiverPool TV
+http://tv2iptv.com:8000/live/wael/wael/1214.ts
+#EXTINF:-1,UK-Good Food
+http://tv2iptv.com:8000/live/wael/wael/1215.ts
+#EXTINF:-1,UK-Food Network
+http://tv2iptv.com:8000/live/wael/wael/1216.ts
+#EXTINF:-1,UK-Film 4
+http://tv2iptv.com:8000/live/wael/wael/1217.ts
+#EXTINF:-1,UK-EuroSport 2
+http://tv2iptv.com:8000/live/wael/wael/1219.ts
+#EXTINF:-1,UK-EuroSport 1
+http://tv2iptv.com:8000/live/wael/wael/1218.ts
+#EXTINF:-1,UK-ESPN HD
+http://tv2iptv.com:8000/live/wael/wael/1220.ts
+#EXTINF:-1,UK-E4
+http://tv2iptv.com:8000/live/wael/wael/1221.ts
+#EXTINF:-1,UK-Drama
+http://tv2iptv.com:8000/live/wael/wael/1222.ts
+#EXTINF:-1,UK-CNN
+http://tv2iptv.com:8000/live/wael/wael/1223.ts
+#EXTINF:-1,UK-CBS Reality
+http://tv2iptv.com:8000/live/wael/wael/1224.ts
+#EXTINF:-1,UK-CBS Drama
+http://tv2iptv.com:8000/live/wael/wael/1225.ts
+#EXTINF:-1,UK-CBS Action
+http://tv2iptv.com:8000/live/wael/wael/1226.ts
+#EXTINF:-1,SP:VH1
+http://tv2iptv.com:8000/live/wael/wael/1515.ts
+#EXTINF:-1,SP:TVE.LA2
+http://tv2iptv.com:8000/live/wael/wael/1516.ts
+#EXTINF:-1,SP:TV30.CAT
+http://tv2iptv.com:8000/live/wael/wael/1511.ts
+#EXTINF:-1,SP:TELECINCO
+http://tv2iptv.com:8000/live/wael/wael/1517.ts
+#EXTINF:-1,SP:TCM
+http://tv2iptv.com:8000/live/wael/wael/1518.ts
+#EXTINF:-1,SP:RT.NOTICIAS
+http://tv2iptv.com:8000/live/wael/wael/1512.ts
+#EXTINF:-1,SP:NOVA
+http://tv2iptv.com:8000/live/wael/wael/1519.ts
+#EXTINF:-1,SP:NICKELODEON
+http://tv2iptv.com:8000/live/wael/wael/1520.ts
+#EXTINF:-1,SP:EXTREMADURA
+http://tv2iptv.com:8000/live/wael/wael/1513.ts
+#EXTINF:-1,SP:Energy
+http://tv2iptv.com:8000/live/wael/wael/1521.ts
+#EXTINF:-1,SP:CUATRO
+http://tv2iptv.com:8000/live/wael/wael/1522.ts
+#EXTINF:-1,SP:CAZA.Y.PESCA
+http://tv2iptv.com:8000/live/wael/wael/1523.ts
+#EXTINF:-1,SP:CANAL.DCINE
+http://tv2iptv.com:8000/live/wael/wael/1514.ts
+#EXTINF:-1,SP:CANAL-DEPORTES
+http://tv2iptv.com:8000/live/wael/wael/1526.ts
+#EXTINF:-1,SP:CANAL-DECASA
+http://tv2iptv.com:8000/live/wael/wael/1524.ts
+#EXTINF:-1,SP:CALLE.13
+http://tv2iptv.com:8000/live/wael/wael/1525.ts
+#EXTINF:-1,SP:A E
+http://tv2iptv.com:8000/live/wael/wael/1527.ts
+#EXTINF:-1,SP-FOX
+http://tv2iptv.com:8000/live/wael/wael/903.ts
+#EXTINF:-1,SP-FOX-LIFE
+http://tv2iptv.com:8000/live/wael/wael/902.ts
+#EXTINF:-1,SP-Amc
+http://tv2iptv.com:8000/live/wael/wael/1599.ts
+#EXTINF:-1,SP-FDF
+http://tv2iptv.com:8000/live/wael/wael/1600.ts
+#EXTINF:-1,SP-40.TV
+http://tv2iptv.com:8000/live/wael/wael/1615.ts
+#EXTINF:-1,SP-AXN
+http://tv2iptv.com:8000/live/wael/wael/906.ts
+#EXTINF:-1,SP-SYFY
+http://tv2iptv.com:8000/live/wael/wael/907.ts
+#EXTINF:-1,SP-NEOX
+http://tv2iptv.com:8000/live/wael/wael/1601.ts
+#EXTINF:-1,SP-Cuatro
+http://tv2iptv.com:8000/live/wael/wael/1595.ts
+#EXTINF:-1,SP-cocina
+http://tv2iptv.com:8000/live/wael/wael/1612.ts
+#EXTINF:-1,SP-La-Sexta
+http://tv2iptv.com:8000/live/wael/wael/1133.ts
+#EXTINF:-1,SP-Cosmo.HD
+http://tv2iptv.com:8000/live/wael/wael/1598.ts
+#EXTINF:-1,SP-VIAJAR.HD
+http://tv2iptv.com:8000/live/wael/wael/1610.ts
+#EXTINF:-1,SP-MTV.ROCK
+http://tv2iptv.com:8000/live/wael/wael/1616.ts
+#EXTINF:-1,SP-Movistar.Moto.Gp
+http://tv2iptv.com:8000/live/wael/wael/1607.ts
+#EXTINF:-1,SP-Movistar.F1
+http://tv2iptv.com:8000/live/wael/wael/1606.ts
+#EXTINF:-1,SP-La.Sexta
+http://tv2iptv.com:8000/live/wael/wael/1596.ts
+#EXTINF:-1,SP-Eurosport
+http://tv2iptv.com:8000/live/wael/wael/1611.ts
+#EXTINF:-1,SP-DIVINITY
+http://tv2iptv.com:8000/live/wael/wael/1613.ts
+#EXTINF:-1,SP-Clan.TV
+http://tv2iptv.com:8000/live/wael/wael/1614.ts
+#EXTINF:-1,SP-Caza.Y.Pesca
+http://tv2iptv.com:8000/live/wael/wael/1608.ts
+#EXTINF:-1,SP-Paramount.Channel
+http://tv2iptv.com:8000/live/wael/wael/1603.ts
+#EXTINF:-1,SP-Bein.Sport
+http://tv2iptv.com:8000/live/wael/wael/1602.ts
+#EXTINF:-1,sp-Antena.3hd
+http://tv2iptv.com:8000/live/wael/wael/1594.ts
+#EXTINF:-1,SP-AXN-WHITE
+http://tv2iptv.com:8000/live/wael/wael/905.ts
+#EXTINF:-1,SP-TELECINCO
+http://tv2iptv.com:8000/live/wael/wael/1132.ts
+#EXTINF:-1,SP-Barca.TV
+http://tv2iptv.com:8000/live/wael/wael/1605.ts
+#EXTINF:-1,SP-Real-Madrid
+http://tv2iptv.com:8000/live/wael/wael/893.ts
+#EXTINF:-1,SP-ABONO.FUTBOL.HD
+http://tv2iptv.com:8000/live/wael/wael/1604.ts
+#EXTINF:-1,SP-CANAL-LIGA
+http://tv2iptv.com:8000/live/wael/wael/889.ts
+#EXTINF:-1,SP-CANAL-LIGA2
+http://tv2iptv.com:8000/live/wael/wael/890.ts
+#EXTINF:-1,SP-CANAL-GOLF
+http://tv2iptv.com:8000/live/wael/wael/892.ts
+#EXTINF:-1,SP-CANAL-Futbol
+http://tv2iptv.com:8000/live/wael/wael/891.ts
+#EXTINF:-1,SP-CANAL-TOROS
+http://tv2iptv.com:8000/live/wael/wael/895.ts
+#EXTINF:-1,SP-CANAL-ACCION
+http://tv2iptv.com:8000/live/wael/wael/900.ts
+#EXTINF:-1,SP-CANAL-COMEDIA
+http://tv2iptv.com:8000/live/wael/wael/899.ts
+#EXTINF:-1,SP-CANAL-XTRA
+http://tv2iptv.com:8000/live/wael/wael/888.ts
+#EXTINF:-1,SP-CANAL-DCINE
+http://tv2iptv.com:8000/live/wael/wael/897.ts
+#EXTINF:-1,SP-CANAL-ESTRENOS
+http://tv2iptv.com:8000/live/wael/wael/898.ts
+#EXTINF:-1,SP-COMEDY-CENTRAL
+http://tv2iptv.com:8000/live/wael/wael/904.ts
+#EXTINF:-1,SP-CANAL-HOLLYWOOD
+http://tv2iptv.com:8000/live/wael/wael/894.ts
+#EXTINF:-1,SP-CANAL-SERIES
+http://tv2iptv.com:8000/live/wael/wael/896.ts
+#EXTINF:-1,SP-CANAL-SERIESXTRA
+http://tv2iptv.com:8000/live/wael/wael/901.ts
+#EXTINF:-1,SP-DISNEY-XD
+http://tv2iptv.com:8000/live/wael/wael/908.ts
+#EXTINF:-1,SP-DISNEY-JUNIOR
+http://tv2iptv.com:8000/live/wael/wael/909.ts
+#EXTINF:-1,SP-DISNEY-CHANNEL
+http://tv2iptv.com:8000/live/wael/wael/910.ts
+#EXTINF:-1,SP-HISTORIA
+http://tv2iptv.com:8000/live/wael/wael/911.ts
+#EXTINF:-1,SP-NATIONAL-GEOGRAPHIC
+http://tv2iptv.com:8000/live/wael/wael/912.ts
+#EXTINF:-1,FR-TF1
+http://tv2iptv.com:8000/live/wael/wael/1281.ts
+#EXTINF:-1,FR-M6
+http://tv2iptv.com:8000/live/wael/wael/1282.ts
+#EXTINF:-1,FR-CINE-FX
+http://tv2iptv.com:8000/live/wael/wael/1287.ts
+#EXTINF:-1,FR-W9*
+http://tv2iptv.com:8000/live/wael/wael/780.ts
+#EXTINF:-1,FR:SERIE.CLUB
+http://tv2iptv.com:8000/live/wael/wael/1576.ts
+#EXTINF:-1,FR:RTL.9
+http://tv2iptv.com:8000/live/wael/wael/1577.ts
+#EXTINF:-1,FR:RMC-DECOUVERT
+http://tv2iptv.com:8000/live/wael/wael/1572.ts
+#EXTINF:-1,FR:HD1
+http://tv2iptv.com:8000/live/wael/wael/1573.ts
+#EXTINF:-1,FR:Foot.24
+http://tv2iptv.com:8000/live/wael/wael/1574.ts
+#EXTINF:-1,FR:CINE.POLAR.HD
+http://tv2iptv.com:8000/live/wael/wael/1578.ts
+#EXTINF:-1,FR:Action
+http://tv2iptv.com:8000/live/wael/wael/1575.ts
+#EXTINF:-1,FR-Canal-Sport*
+http://tv2iptv.com:8000/live/wael/wael/522.ts
+#EXTINF:-1,FR-BEINSPORT-1*
+http://tv2iptv.com:8000/live/wael/wael/777.ts
+#EXTINF:-1,FR-BEINSPORT-2*
+http://tv2iptv.com:8000/live/wael/wael/778.ts
+#EXTINF:-1,FR-BEINSPORT-3*
+http://tv2iptv.com:8000/live/wael/wael/779.ts
+#EXTINF:-1,FR-BEINSPORT-MAX-4
+http://tv2iptv.com:8000/live/wael/wael/1155.ts
+#EXTINF:-1,FR-A.LA.CARTE.1
+http://tv2iptv.com:8000/live/wael/wael/1114.ts
+#EXTINF:-1,FR-A.LA.CARTE.2
+http://tv2iptv.com:8000/live/wael/wael/1115.ts
+#EXTINF:-1,FR-A.LA.CARTE.3
+http://tv2iptv.com:8000/live/wael/wael/1116.ts
+#EXTINF:-1,FR-A.LA.CARTE.4
+http://tv2iptv.com:8000/live/wael/wael/1117.ts
+#EXTINF:-1,FR-A.LA.CARTE.5
+http://tv2iptv.com:8000/live/wael/wael/1118.ts
+#EXTINF:-1,FR-A.LA.CARTE.6
+http://tv2iptv.com:8000/live/wael/wael/1119.ts
+#EXTINF:-1,FR-A.LA.CARTE.7
+http://tv2iptv.com:8000/live/wael/wael/1120.ts
+#EXTINF:-1,FR-A.LA.CARTE.8
+http://tv2iptv.com:8000/live/wael/wael/1121.ts
+#EXTINF:-1,FR-A.LA.CARTE.9
+http://tv2iptv.com:8000/live/wael/wael/1122.ts
+#EXTINF:-1,FR-A.LA.CARTE.11
+http://tv2iptv.com:8000/live/wael/wael/1124.ts
+#EXTINF:-1,FR-A.LA.CARTE.10
+http://tv2iptv.com:8000/live/wael/wael/1123.ts
+#EXTINF:-1,FR-FRANCE2*
+http://tv2iptv.com:8000/live/wael/wael/783.ts
+#EXTINF:-1,FR-DISNEY-JUNIOR*
+http://tv2iptv.com:8000/live/wael/wael/790.ts
+#EXTINF:-1,FR-DISNEY-CHANNEL*
+http://tv2iptv.com:8000/live/wael/wael/792.ts
+#EXTINF:-1,FR-Discovery-Science*
+http://tv2iptv.com:8000/live/wael/wael/793.ts
+#EXTINF:-1,FR-FRANCE-3HD
+http://tv2iptv.com:8000/live/wael/wael/1337.ts
+#EXTINF:-1,FR-FRANCE-4HD
+http://tv2iptv.com:8000/live/wael/wael/1338.ts
+#EXTINF:-1,FR-FRANCE-5HD
+http://tv2iptv.com:8000/live/wael/wael/1339.ts
+#EXTINF:-1,FR-PLANÃˆTEci*
+http://tv2iptv.com:8000/live/wael/wael/885.ts
+#EXTINF:-1,FR-PLANÃˆTE*
+http://tv2iptv.com:8000/live/wael/wael/884.ts
+#EXTINF:-1,FR-France24*
+http://tv2iptv.com:8000/live/wael/wael/883.ts
+#EXTINF:-1,FR-Discovery*
+http://tv2iptv.com:8000/live/wael/wael/886.ts
+#EXTINF:-1,FR-CINE-FRISSON*
+http://tv2iptv.com:8000/live/wael/wael/880.ts
+#EXTINF:-1,FR-CINE-FAMIZ*
+http://tv2iptv.com:8000/live/wael/wael/882.ts
+#EXTINF:-1,FR-CINE-CLASSIC*
+http://tv2iptv.com:8000/live/wael/wael/881.ts
+#EXTINF:-1,FR-OCS-MAX
+http://tv2iptv.com:8000/live/wael/wael/1128.ts
+#EXTINF:-1,FR-OCS-Geant
+http://tv2iptv.com:8000/live/wael/wael/1130.ts
+#EXTINF:-1,FR-OCS-CITY
+http://tv2iptv.com:8000/live/wael/wael/1129.ts
+#EXTINF:-1,FR-Chasse Peche
+http://tv2iptv.com:8000/live/wael/wael/1127.ts
+#EXTINF:-1,FR-SYFY
+http://tv2iptv.com:8000/live/wael/wael/1126.ts
+#EXTINF:-1,FR-OCS.CHOC
+http://tv2iptv.com:8000/live/wael/wael/1131.ts
+#EXTINF:-1,FR-Chasse Peche*
+http://tv2iptv.com:8000/live/wael/wael/887.ts
+#EXTINF:-1,FR-CANAL-Family*
+http://tv2iptv.com:8000/live/wael/wael/879.ts
+#EXTINF:-1,FR-Canal*
+http://tv2iptv.com:8000/live/wael/wael/527.ts
+#EXTINF:-1,FR-Cine-Premier*
+http://tv2iptv.com:8000/live/wael/wael/506.ts
+#EXTINF:-1,FR-Cine-Emotion*
+http://tv2iptv.com:8000/live/wael/wael/504.ts
+#EXTINF:-1,FR-Canal-Serie*
+http://tv2iptv.com:8000/live/wael/wael/437.ts
+#EXTINF:-1,FR-Nat-Geo_WILD*
+http://tv2iptv.com:8000/live/wael/wael/521.ts
+#EXTINF:-1,FR-Canal-Cinema*
+http://tv2iptv.com:8000/live/wael/wael/502.ts
+#EXTINF:-1,FR-MANGAS*
+http://tv2iptv.com:8000/live/wael/wael/503.ts
+#EXTINF:-1,FR-animaux*
+http://tv2iptv.com:8000/live/wael/wael/538.ts
+#EXTINF:-1,FR_J_ONE_HD
+http://tv2iptv.com:8000/live/wael/wael/1488.ts
+#EXTINF:-1,FR_DISNEY_XD
+http://tv2iptv.com:8000/live/wael/wael/1489.ts
+#EXTINF:-1,FR:TOUTE L.HISTOIRE
+http://tv2iptv.com:8000/live/wael/wael/1496.ts
+#EXTINF:-1,FR D.8
+http://tv2iptv.com:8000/live/wael/wael/1471.ts
+#EXTINF:-1,FR:Arte
+http://tv2iptv.com:8000/live/wael/wael/1479.ts
+#EXTINF:-1,FR:6ter
+http://tv2iptv.com:8000/live/wael/wael/1469.ts
+#EXTINF:-1,FR:NT1
+http://tv2iptv.com:8000/live/wael/wael/1476.ts
+#EXTINF:-1,FR:D.17
+http://tv2iptv.com:8000/live/wael/wael/1472.ts
+#EXTINF:-1,FR:Gulli
+http://tv2iptv.com:8000/live/wael/wael/1491.ts
+#EXTINF:-1,FR:TMC
+http://tv2iptv.com:8000/live/wael/wael/1474.ts
+#EXTINF:-1,FR:TEVA
+http://tv2iptv.com:8000/live/wael/wael/1475.ts
+#EXTINF:-1,FR:NRJ12
+http://tv2iptv.com:8000/live/wael/wael/1473.ts
+#EXTINF:-1,FR:NRJ.TV
+http://tv2iptv.com:8000/live/wael/wael/1497.ts
+#EXTINF:-1,FR:Science Vie
+http://tv2iptv.com:8000/live/wael/wael/1493.ts
+#EXTINF:-1,FR:RTS-Un
+http://tv2iptv.com:8000/live/wael/wael/1480.ts
+#EXTINF:-1,FR:RTL-TVI-HD
+http://tv2iptv.com:8000/live/wael/wael/1466.ts
+#EXTINF:-1,FR:PARAMOUNT
+http://tv2iptv.com:8000/live/wael/wael/1484.ts
+#EXTINF:-1,FR:National.Geo.Wild
+http://tv2iptv.com:8000/live/wael/wael/1494.ts
+#EXTINF:-1,FR:National.Geo
+http://tv2iptv.com:8000/live/wael/wael/1495.ts
+#EXTINF:-1,FR:MFM.TV
+http://tv2iptv.com:8000/live/wael/wael/1499.ts
+#EXTINF:-1,FR:M6.MUSIC
+http://tv2iptv.com:8000/live/wael/wael/1498.ts
+#EXTINF:-1,fr:La-Une-HD
+http://tv2iptv.com:8000/live/wael/wael/1465.ts
+#EXTINF:-1,FR:DISNEY_CINEMA
+http://tv2iptv.com:8000/live/wael/wael/1485.ts
+#EXTINF:-1,FR:CINE.POLAR
+http://tv2iptv.com:8000/live/wael/wael/1483.ts
+#EXTINF:-1,FR:CHERIE.25
+http://tv2iptv.com:8000/live/wael/wael/1478.ts
+#EXTINF:-1,FR:CANAL.J
+http://tv2iptv.com:8000/live/wael/wael/1487.ts
+#EXTINF:-1,FR:Canal+.Decale
+http://tv2iptv.com:8000/live/wael/wael/1482.ts
+#EXTINF:-1,FR:Boomerang.HD
+http://tv2iptv.com:8000/live/wael/wael/1492.ts
+#EXTINF:-1,FR:BFM.Business
+http://tv2iptv.com:8000/live/wael/wael/1500.ts
+#EXTINF:-1,fr:13eme.Rue
+http://tv2iptv.com:8000/live/wael/wael/1470.ts
+#EXTINF:-1,FR: Comedie+
+http://tv2iptv.com:8000/live/wael/wael/1477.ts
+#EXTINF:-1,DE:EuroSport
+http://tv2iptv.com:8000/live/wael/wael/1110.ts
+#EXTINF:-1,DE-Sky-Sport-1HD*
+http://tv2iptv.com:8000/live/wael/wael/872.ts
+#EXTINF:-1,DE-Sky-Sport-2HD*
+http://tv2iptv.com:8000/live/wael/wael/873.ts
+#EXTINF:-1,DE:Arena-Sport-1-HD
+http://tv2iptv.com:8000/live/wael/wael/1107.ts
+#EXTINF:-1,DE:Arena-Sport-2-HD
+http://tv2iptv.com:8000/live/wael/wael/1106.ts
+#EXTINF:-1,DE:Arena-Sport-3-HD
+http://tv2iptv.com:8000/live/wael/wael/1105.ts
+#EXTINF:-1,DE:Arena-Sport-4-HD
+http://tv2iptv.com:8000/live/wael/wael/1104.ts
+#EXTINF:-1,DE:Sky-Bundesliga-1-HD
+http://tv2iptv.com:8000/live/wael/wael/1102.ts
+#EXTINF:-1,DE:SKY-Sport--News-HD
+http://tv2iptv.com:8000/live/wael/wael/1095.ts
+#EXTINF:-1,DE-SKY_SPORTS_AUSTRIA
+http://tv2iptv.com:8000/live/wael/wael/1134.ts
+#EXTINF:-1,DE-SKY-SELECT1
+http://tv2iptv.com:8000/live/wael/wael/759.ts
+#EXTINF:-1,DE-SKY-SELECT2
+http://tv2iptv.com:8000/live/wael/wael/760.ts
+#EXTINF:-1,DE-SKY-SELECT3
+http://tv2iptv.com:8000/live/wael/wael/761.ts
+#EXTINF:-1,DE-SKY-SELECT4
+http://tv2iptv.com:8000/live/wael/wael/762.ts
+#EXTINF:-1,DE-SKY-SELECT5
+http://tv2iptv.com:8000/live/wael/wael/763.ts
+#EXTINF:-1,DE-SKY-SELECT6
+http://tv2iptv.com:8000/live/wael/wael/764.ts
+#EXTINF:-1,DE-SKY-SELECT7
+http://tv2iptv.com:8000/live/wael/wael/765.ts
+#EXTINF:-1,DE-SKY-SELECT8
+http://tv2iptv.com:8000/live/wael/wael/1081.ts
+#EXTINF:-1,DE-SKY-SELECT9
+http://tv2iptv.com:8000/live/wael/wael/1235.ts
+#EXTINF:-1,DE-ZDF
+http://tv2iptv.com:8000/live/wael/wael/1140.ts
+#EXTINF:-1,DE:RiC
+http://tv2iptv.com:8000/live/wael/wael/1579.ts
+#EXTINF:-1,DE:ORF.2
+http://tv2iptv.com:8000/live/wael/wael/1580.ts
+#EXTINF:-1,DE:Nickelodeon
+http://tv2iptv.com:8000/live/wael/wael/1581.ts
+#EXTINF:-1,DE:N24
+http://tv2iptv.com:8000/live/wael/wael/1582.ts
+#EXTINF:-1,DE:N-TV
+http://tv2iptv.com:8000/live/wael/wael/1583.ts
+#EXTINF:-1,DE:KiKa
+http://tv2iptv.com:8000/live/wael/wael/1584.ts
+#EXTINF:-1,DE:Das-Erste
+http://tv2iptv.com:8000/live/wael/wael/1585.ts
+#EXTINF:-1,DE:3Sat
+http://tv2iptv.com:8000/live/wael/wael/1586.ts
+#EXTINF:-1,DE-NTV
+http://tv2iptv.com:8000/live/wael/wael/1145.ts
+#EXTINF:-1,DE-VOX
+http://tv2iptv.com:8000/live/wael/wael/1146.ts
+#EXTINF:-1,DE-SIXX
+http://tv2iptv.com:8000/live/wael/wael/1142.ts
+#EXTINF:-1,DE-RTL2
+http://tv2iptv.com:8000/live/wael/wael/1141.ts
+#EXTINF:-1,DE-ORF-1
+http://tv2iptv.com:8000/live/wael/wael/1143.ts
+#EXTINF:-1,DE-Fox-HD
+http://tv2iptv.com:8000/live/wael/wael/1139.ts
+#EXTINF:-1,DE-RTL-Nitro
+http://tv2iptv.com:8000/live/wael/wael/1144.ts
+#EXTINF:-1,DE-TNT-Serie
+http://tv2iptv.com:8000/live/wael/wael/1138.ts
+#EXTINF:-1,DE-ROMANCE
+http://tv2iptv.com:8000/live/wael/wael/1136.ts
+#EXTINF:-1,DE:Sky-AXN-HD
+http://tv2iptv.com:8000/live/wael/wael/1091.ts
+#EXTINF:-1,DE-Sky-13-Street
+http://tv2iptv.com:8000/live/wael/wael/1137.ts
+#EXTINF:-1,DE-RTL_PASSION
+http://tv2iptv.com:8000/live/wael/wael/1135.ts
+#EXTINF:-1,DE:Sky-Atlantic-HD
+http://tv2iptv.com:8000/live/wael/wael/1103.ts
+#EXTINF:-1,DE:SKY-Action-HD
+http://tv2iptv.com:8000/live/wael/wael/1101.ts
+#EXTINF:-1,DE:Sky-Cinema-HD
+http://tv2iptv.com:8000/live/wael/wael/1100.ts
+#EXTINF:-1,DE:SKY-Emotion-HD
+http://tv2iptv.com:8000/live/wael/wael/1096.ts
+#EXTINF:-1,DE:SKY-COMEDY-HD
+http://tv2iptv.com:8000/live/wael/wael/1082.ts
+#EXTINF:-1,DE:Sky-Cinema -24-HD
+http://tv2iptv.com:8000/live/wael/wael/1092.ts
+#EXTINF:-1,DE:SKY_COMEDY_HD
+http://tv2iptv.com:8000/live/wael/wael/1108.ts
+#EXTINF:-1,DE:SKY-Cinema+24-HD
+http://tv2iptv.com:8000/live/wael/wael/1097.ts
+#EXTINF:-1,DE:SKY_CINEMA_HD_1
+http://tv2iptv.com:8000/live/wael/wael/1109.ts
+#EXTINF:-1,DE:WDR.HD
+http://tv2iptv.com:8000/live/wael/wael/1551.ts
+#EXTINF:-1,DE:N24.HD
+http://tv2iptv.com:8000/live/wael/wael/1552.ts
+#EXTINF:-1,DE:DMAX
+http://tv2iptv.com:8000/live/wael/wael/1086.ts
+#EXTINF:-1,DE:ANIXE
+http://tv2iptv.com:8000/live/wael/wael/1087.ts
+#EXTINF:-1,DE:MGM-HD
+http://tv2iptv.com:8000/live/wael/wael/1098.ts
+#EXTINF:-1,DE:Fox-Serie
+http://tv2iptv.com:8000/live/wael/wael/1085.ts
+#EXTINF:-1,DE:Sky-Planet
+http://tv2iptv.com:8000/live/wael/wael/1090.ts
+#EXTINF:-1,DE:RTL-CRIME
+http://tv2iptv.com:8000/live/wael/wael/1088.ts
+#EXTINF:-1,DE:Sky-Hits-HD
+http://tv2iptv.com:8000/live/wael/wael/1099.ts
+#EXTINF:-1,DE:Disney-XD
+http://tv2iptv.com:8000/live/wael/wael/1084.ts
+#EXTINF:-1,DE:Disney-Channel
+http://tv2iptv.com:8000/live/wael/wael/1112.ts
+#EXTINF:-1,DE:DISNEY-JUNIOR
+http://tv2iptv.com:8000/live/wael/wael/1089.ts
+#EXTINF:-1,DE:Disney-Cinemagic-HD
+http://tv2iptv.com:8000/live/wael/wael/1094.ts
+#EXTINF:-1,DE:EuroNews
+http://tv2iptv.com:8000/live/wael/wael/1111.ts
+#EXTINF:-1,DE:Discovery-HD
+http://tv2iptv.com:8000/live/wael/wael/1113.ts
+#EXTINF:-1,DE-SKY-DISCOVERY
+http://tv2iptv.com:8000/live/wael/wael/769.ts
+#EXTINF:-1,DE:HISTORY-CHANNEL
+http://tv2iptv.com:8000/live/wael/wael/1093.ts
+#EXTINF:-1,DE:National-Geographic-HD
+http://tv2iptv.com:8000/live/wael/wael/1083.ts
+#EXTINF:-1,DE: Arte
+http://tv2iptv.com:8000/live/wael/wael/1248.ts
+#EXTINF:-1,DE: Sat 1
+http://tv2iptv.com:8000/live/wael/wael/1240.ts
+#EXTINF:-1,DE:SRF1
+http://tv2iptv.com:8000/live/wael/wael/1229.ts
+#EXTINF:-1,DE:SRF2
+http://tv2iptv.com:8000/live/wael/wael/1230.ts
+#EXTINF:-1,DE: RTL I
+http://tv2iptv.com:8000/live/wael/wael/1244.ts
+#EXTINF:-1,DE: RTL II
+http://tv2iptv.com:8000/live/wael/wael/1243.ts
+#EXTINF:-1,DE: RTL Nitro
+http://tv2iptv.com:8000/live/wael/wael/1241.ts
+#EXTINF:-1,DE: RTL living
+http://tv2iptv.com:8000/live/wael/wael/1242.ts
+#EXTINF:-1,DE:ORF.Eins
+http://tv2iptv.com:8000/live/wael/wael/1247.ts
+#EXTINF:-1,DE: Pro 7
+http://tv2iptv.com:8000/live/wael/wael/1246.ts
+#EXTINF:-1,DE: PRO 7 MAXX
+http://tv2iptv.com:8000/live/wael/wael/1245.ts
+#EXTINF:-1,DE:ZDF Info HD
+http://tv2iptv.com:8000/live/wael/wael/1228.ts
+#EXTINF:-1,DE:ZDF NEO HD
+http://tv2iptv.com:8000/live/wael/wael/1227.ts
+#EXTINF:-1,DE: Sky MGM HD
+http://tv2iptv.com:8000/live/wael/wael/1236.ts
+#EXTINF:-1,DE: Sport DigiTal HD
+http://tv2iptv.com:8000/live/wael/wael/1231.ts
+#EXTINF:-1,DE: Sky TNT Serie HD
+http://tv2iptv.com:8000/live/wael/wael/1232.ts
+#EXTINF:-1,DE: Sky TNT Film HD
+http://tv2iptv.com:8000/live/wael/wael/1233.ts
+#EXTINF:-1,DE: Sky Sport 1 US HD
+http://tv2iptv.com:8000/live/wael/wael/1234.ts
+#EXTINF:-1,DE: Sky Cinema Plus 24
+http://tv2iptv.com:8000/live/wael/wael/1239.ts
+#EXTINF:-1,DE: Sky Cinema Plus 1 HD
+http://tv2iptv.com:8000/live/wael/wael/1238.ts
+#EXTINF:-1,IT-Rai-Sport-1**
+http://tv2iptv.com:8000/live/wael/wael/942.ts
+#EXTINF:-1,IT-Rai-Sport -2*
+http://tv2iptv.com:8000/live/wael/wael/943.ts
+#EXTINF:-1,IT-SKYSPORT1*
+http://tv2iptv.com:8000/live/wael/wael/549.ts
+#EXTINF:-1,IT-SKYSPORT2*
+http://tv2iptv.com:8000/live/wael/wael/548.ts
+#EXTINF:-1,IT-SKYSPORT3*
+http://tv2iptv.com:8000/live/wael/wael/870.ts
+#EXTINF:-1,IT-Fox-Sports-HD*
+http://tv2iptv.com:8000/live/wael/wael/871.ts
+#EXTINF:-1,IT-SKY-Sport-24HD**
+http://tv2iptv.com:8000/live/wael/wael/827.ts
+#EXTINF:-1,IT-Sky-Calcio-1HD**
+http://tv2iptv.com:8000/live/wael/wael/944.ts
+#EXTINF:-1,IT-Sky-Calcio-2HD**
+http://tv2iptv.com:8000/live/wael/wael/945.ts
+#EXTINF:-1,IT-Sky-Calcio-3HD**
+http://tv2iptv.com:8000/live/wael/wael/946.ts
+#EXTINF:-1,IT-Sky-Calcio-4HD**
+http://tv2iptv.com:8000/live/wael/wael/947.ts
+#EXTINF:-1,IT-Sky-Calcio-5HD**
+http://tv2iptv.com:8000/live/wael/wael/948.ts
+#EXTINF:-1,IT:Sky.Formula.1HD
+http://tv2iptv.com:8000/live/wael/wael/1821.ts
+#EXTINF:-1,IT-Sky.Sport.Moto.GP.HD
+http://tv2iptv.com:8000/live/wael/wael/1820.ts
+#EXTINF:-1,IT-Premium-Calcio-1-HD
+http://tv2iptv.com:8000/live/wael/wael/1332.ts
+#EXTINF:-1,IT-Premium-Calcio-2HD
+http://tv2iptv.com:8000/live/wael/wael/1333.ts
+#EXTINF:-1,IT-Premium-Calcio-3HD
+http://tv2iptv.com:8000/live/wael/wael/1334.ts
+#EXTINF:-1,IT-Premium-Calcio-4HD
+http://tv2iptv.com:8000/live/wael/wael/1335.ts
+#EXTINF:-1,IT-Premium-Calcio-5HD
+http://tv2iptv.com:8000/live/wael/wael/1336.ts
+#EXTINF:-1,IT-Premium-Sport-HD*
+http://tv2iptv.com:8000/live/wael/wael/830.ts
+#EXTINF:-1,IT-RAI-1HD**
+http://tv2iptv.com:8000/live/wael/wael/850.ts
+#EXTINF:-1,IT-RAI-2HD**
+http://tv2iptv.com:8000/live/wael/wael/926.ts
+#EXTINF:-1,IT-RAI-3HD**
+http://tv2iptv.com:8000/live/wael/wael/927.ts
+#EXTINF:-1,IT-RAI-4HD**
+http://tv2iptv.com:8000/live/wael/wael/928.ts
+#EXTINF:-1,IT-Rai-Movie**
+http://tv2iptv.com:8000/live/wael/wael/932.ts
+#EXTINF:-1,IT-MILAN-CH
+http://tv2iptv.com:8000/live/wael/wael/1331.ts
+#EXTINF:-1,IT-Rai-Premium**
+http://tv2iptv.com:8000/live/wael/wael/933.ts
+#EXTINF:-1,IT-RSI-La-1HD**
+http://tv2iptv.com:8000/live/wael/wael/934.ts
+#EXTINF:-1,IT-RSI-La-2HD**
+http://tv2iptv.com:8000/live/wael/wael/935.ts
+#EXTINF:-1,IT:Super!
+http://tv2iptv.com:8000/live/wael/wael/1587.ts
+#EXTINF:-1,IT:K2
+http://tv2iptv.com:8000/live/wael/wael/1588.ts
+#EXTINF:-1,IT:Fox.Animation-HD
+http://tv2iptv.com:8000/live/wael/wael/1589.ts
+#EXTINF:-1,IT-Fox-HD**
+http://tv2iptv.com:8000/live/wael/wael/937.ts
+#EXTINF:-1,IT-Fox-Crime-HD**
+http://tv2iptv.com:8000/live/wael/wael/938.ts
+#EXTINF:-1,IT-SKY-HISTORY-HD
+http://tv2iptv.com:8000/live/wael/wael/1286.ts
+#EXTINF:-1,IT-Rai-News-24
+http://tv2iptv.com:8000/live/wael/wael/1284.ts
+#EXTINF:-1,IT-FOX-LIFE-HD
+http://tv2iptv.com:8000/live/wael/wael/1285.ts
+#EXTINF:-1,IT-Top-Crime**
+http://tv2iptv.com:8000/live/wael/wael/941.ts
+#EXTINF:-1,IT_AXN-HD**
+http://tv2iptv.com:8000/live/wael/wael/940.ts
+#EXTINF:-1,IT-AXN-Sci-Fi**
+http://tv2iptv.com:8000/live/wael/wael/939.ts
+#EXTINF:-1,IT-italia-1HD**
+http://tv2iptv.com:8000/live/wael/wael/931.ts
+#EXTINF:-1,IT-Rete-4HD**
+http://tv2iptv.com:8000/live/wael/wael/929.ts
+#EXTINF:-1,IT-Canale-5HD**
+http://tv2iptv.com:8000/live/wael/wael/930.ts
+#EXTINF:-1,IT:Roma.Channel
+http://tv2iptv.com:8000/live/wael/wael/1464.ts
+#EXTINF:-1,IT:Milan.Channel
+http://tv2iptv.com:8000/live/wael/wael/1463.ts
+#EXTINF:-1,IT:Juventus.Channel
+http://tv2iptv.com:8000/live/wael/wael/1461.ts
+#EXTINF:-1,IT:Inter.Channel
+http://tv2iptv.com:8000/live/wael/wael/1462.ts
+#EXTINF:-1,IT-Sky-Uno-HD**
+http://tv2iptv.com:8000/live/wael/wael/936.ts
+#EXTINF:-1,IT-Sky-Cielo-HD*
+http://tv2iptv.com:8000/live/wael/wael/875.ts
+#EXTINF:-1,IT-Sky-Atlantic-HD*
+http://tv2iptv.com:8000/live/wael/wael/876.ts
+#EXTINF:-1,IT-SKY-CINEMA-1**
+http://tv2iptv.com:8000/live/wael/wael/836.ts
+#EXTINF:-1,IT-SKY-CINEMA-24*
+http://tv2iptv.com:8000/live/wael/wael/847.ts
+#EXTINF:-1,IT-SKY-CINEMA-MAX*
+http://tv2iptv.com:8000/live/wael/wael/832.ts
+#EXTINF:-1,IT-SKY-CINEMA-HITS**
+http://tv2iptv.com:8000/live/wael/wael/833.ts
+#EXTINF:-1,IT-Sky-Cinema Cult-HD*
+http://tv2iptv.com:8000/live/wael/wael/874.ts
+#EXTINF:-1,IT-SKY-CINEMA-FAMILY**
+http://tv2iptv.com:8000/live/wael/wael/835.ts
+#EXTINF:-1,IT-SKY-CINEMA-COMEDY-HD*
+http://tv2iptv.com:8000/live/wael/wael/829.ts
+#EXTINF:-1,IT-SKY-CINEMA-CLASSIC-HD*
+http://tv2iptv.com:8000/live/wael/wael/834.ts
+#EXTINF:-1,IT-PREMIUM-CRIME*
+http://tv2iptv.com:8000/live/wael/wael/843.ts
+#EXTINF:-1,IT-PREMIUM-CINEMA*
+http://tv2iptv.com:8000/live/wael/wael/845.ts
+#EXTINF:-1,IT-PREMIUM-CINEMA-2*
+http://tv2iptv.com:8000/live/wael/wael/844.ts
+#EXTINF:-1,IT-PREMIUM-CRIME-24*
+http://tv2iptv.com:8000/live/wael/wael/841.ts
+#EXTINF:-1,IT-PREMIUM-CINEMA-24*
+http://tv2iptv.com:8000/live/wael/wael/877.ts
+#EXTINF:-1,IT-PREMIUM-ACTION+24**
+http://tv2iptv.com:8000/live/wael/wael/848.ts
+#EXTINF:-1,IT-Premium_Disney_Channel**
+http://tv2iptv.com:8000/live/wael/wael/957.ts
+#EXTINF:-1,IT-PremiumComedy**
+http://tv2iptv.com:8000/live/wael/wael/953.ts
+#EXTINF:-1,IT-PREMIUM-STORIES**
+http://tv2iptv.com:8000/live/wael/wael/839.ts
+#EXTINF:-1,IT-Premium-Action-HD**
+http://tv2iptv.com:8000/live/wael/wael/952.ts
+#EXTINF:-1,IT-PREMIUM-CINEMA-EMOTION*
+http://tv2iptv.com:8000/live/wael/wael/842.ts
+#EXTINF:-1,IT-PREMIUM-CINEMA -ENERGY*
+http://tv2iptv.com:8000/live/wael/wael/846.ts
+#EXTINF:-1,IT-Premium-Disney-1**
+http://tv2iptv.com:8000/live/wael/wael/956.ts
+#EXTINF:-1,IT-Premium-Disney-Junior**
+http://tv2iptv.com:8000/live/wael/wael/955.ts
+#EXTINF:-1,IT-Premium-Cartoon-Network**
+http://tv2iptv.com:8000/live/wael/wael/954.ts
+#EXTINF:-1,IT:Sky-Primafila-1HD
+http://tv2iptv.com:8000/live/wael/wael/831.ts
+#EXTINF:-1,IT:Sky-Primafila-2HD*
+http://tv2iptv.com:8000/live/wael/wael/816.ts
+#EXTINF:-1,IT:Sky-Primafila-3HD*
+http://tv2iptv.com:8000/live/wael/wael/817.ts
+#EXTINF:-1,IT:Sky-Primafila-4HD*
+http://tv2iptv.com:8000/live/wael/wael/818.ts
+#EXTINF:-1,IT:Sky-Primafila-5HD*
+http://tv2iptv.com:8000/live/wael/wael/819.ts
+#EXTINF:-1,IT:Sky-Primafila-6HD*
+http://tv2iptv.com:8000/live/wael/wael/820.ts
+#EXTINF:-1,IT:Sky-Primafila-7HD**
+http://tv2iptv.com:8000/live/wael/wael/821.ts
+#EXTINF:-1,IT:Sky-Primafila-8HD**
+http://tv2iptv.com:8000/live/wael/wael/949.ts
+#EXTINF:-1,IT:Sky-Primafila-9HD**
+http://tv2iptv.com:8000/live/wael/wael/950.ts
+#EXTINF:-1,IT:Sky-Primafila-10HD**
+http://tv2iptv.com:8000/live/wael/wael/951.ts
+#EXTINF:-1,IT:Sky-Primafila-11HD
+http://tv2iptv.com:8000/live/wael/wael/1326.ts
+#EXTINF:-1,IT:Sky-Primafila-12HD
+http://tv2iptv.com:8000/live/wael/wael/1327.ts
+#EXTINF:-1,IT:Sky-Primafila-13HD
+http://tv2iptv.com:8000/live/wael/wael/1328.ts
+#EXTINF:-1,IT:Sky-Primafila-14HD
+http://tv2iptv.com:8000/live/wael/wael/1329.ts
+#EXTINF:-1,IT:Sky-Primafila-15HD
+http://tv2iptv.com:8000/live/wael/wael/1330.ts
+#EXTINF:-1,NL:Fox.Sports.1
+http://tv2iptv.com:8000/live/wael/wael/1407.ts
+#EXTINF:-1,NL:Fox.Sports.2
+http://tv2iptv.com:8000/live/wael/wael/1406.ts
+#EXTINF:-1,NL:Fox.Sports.3
+http://tv2iptv.com:8000/live/wael/wael/1405.ts
+#EXTINF:-1,NL:Fox.Sports.4
+http://tv2iptv.com:8000/live/wael/wael/1404.ts
+#EXTINF:-1,NL:Fox.Sports.5
+http://tv2iptv.com:8000/live/wael/wael/1403.ts
+#EXTINF:-1,NL:Fox.Sports.6
+http://tv2iptv.com:8000/live/wael/wael/1441.ts
+#EXTINF:-1,NL-TLC
+http://tv2iptv.com:8000/live/wael/wael/1420.ts
+#EXTINF:-1,NL-13th
+http://tv2iptv.com:8000/live/wael/wael/1452.ts
+#EXTINF:-1,NL-SYFY
+http://tv2iptv.com:8000/live/wael/wael/1421.ts
+#EXTINF:-1,NL-HBO
+http://tv2iptv.com:8000/live/wael/wael/1439.ts
+#EXTINF:-1,NL-HBO2
+http://tv2iptv.com:8000/live/wael/wael/1438.ts
+#EXTINF:-1,NL-HBO_3
+http://tv2iptv.com:8000/live/wael/wael/1437.ts
+#EXTINF:-1,NL-NPO_1
+http://tv2iptv.com:8000/live/wael/wael/1432.ts
+#EXTINF:-1,NL-NPO_2
+http://tv2iptv.com:8000/live/wael/wael/1431.ts
+#EXTINF:-1,NL-NPO_3
+http://tv2iptv.com:8000/live/wael/wael/1430.ts
+#EXTINF:-1,NL-RTL_4
+http://tv2iptv.com:8000/live/wael/wael/1428.ts
+#EXTINF:-1,NL-RTL_5
+http://tv2iptv.com:8000/live/wael/wael/1427.ts
+#EXTINF:-1,NL-RTL_7
+http://tv2iptv.com:8000/live/wael/wael/1426.ts
+#EXTINF:-1,NL-RTL_8
+http://tv2iptv.com:8000/live/wael/wael/1425.ts
+#EXTINF:-1,NL-SBS_6
+http://tv2iptv.com:8000/live/wael/wael/1423.ts
+#EXTINF:-1,NL-SBS_9
+http://tv2iptv.com:8000/live/wael/wael/1422.ts
+#EXTINF:-1,NL-Nick_Jr
+http://tv2iptv.com:8000/live/wael/wael/1433.ts
+#EXTINF:-1,NL-NPO_DOC
+http://tv2iptv.com:8000/live/wael/wael/1429.ts
+#EXTINF:-1,NL-RTL_lounge
+http://tv2iptv.com:8000/live/wael/wael/1424.ts
+#EXTINF:-1,NL-FOX_Channel
+http://tv2iptv.com:8000/live/wael/wael/1440.ts
+#EXTINF:-1,NL-Film1_Premiere
+http://tv2iptv.com:8000/live/wael/wael/1444.ts
+#EXTINF:-1,NL-Film1_Spotlight
+http://tv2iptv.com:8000/live/wael/wael/1443.ts
+#EXTINF:-1,NL-Film1_SUNDANCE
+http://tv2iptv.com:8000/live/wael/wael/1442.ts
+#EXTINF:-1,NL-Film1_Comedy_ _Kids
+http://tv2iptv.com:8000/live/wael/wael/1445.ts
+#EXTINF:-1,NL-Boomerang
+http://tv2iptv.com:8000/live/wael/wael/1450.ts
+#EXTINF:-1,NL-Nickelodeon
+http://tv2iptv.com:8000/live/wael/wael/1434.ts
+#EXTINF:-1,NL-Disney_Channel
+http://tv2iptv.com:8000/live/wael/wael/1447.ts
+#EXTINF:-1,NL-Veronica/DisneyXD_HD
+http://tv2iptv.com:8000/live/wael/wael/1419.ts
+#EXTINF:-1,NL-Animal_Planet
+http://tv2iptv.com:8000/live/wael/wael/1451.ts
+#EXTINF:-1,NL-History_HD_DUT
+http://tv2iptv.com:8000/live/wael/wael/1436.ts
+#EXTINF:-1,NL-Discovery_Channel
+http://tv2iptv.com:8000/live/wael/wael/1448.ts
+#EXTINF:-1,NL-Comedy_Central_extra
+http://tv2iptv.com:8000/live/wael/wael/1449.ts
+#EXTINF:-1,NL-Investigation_Discovery
+http://tv2iptv.com:8000/live/wael/wael/1435.ts
+#EXTINF:-1,TR:LOCA.1
+http://tv2iptv.com:8000/live/wael/wael/1689.ts
+#EXTINF:-1,TR:LOCA.2
+http://tv2iptv.com:8000/live/wael/wael/1688.ts
+#EXTINF:-1,TR:LOCA.3
+http://tv2iptv.com:8000/live/wael/wael/1687.ts
+#EXTINF:-1,TR:SALON.1
+http://tv2iptv.com:8000/live/wael/wael/1693.ts
+#EXTINF:-1,TR:SALON.2
+http://tv2iptv.com:8000/live/wael/wael/1692.ts
+#EXTINF:-1,TR:SALON.3
+http://tv2iptv.com:8000/live/wael/wael/1691.ts
+#EXTINF:-1,TR:MULTI.VIZYON.1
+http://tv2iptv.com:8000/live/wael/wael/1539.ts
+#EXTINF:-1,TR:MULTI.VIZYON.2
+http://tv2iptv.com:8000/live/wael/wael/1540.ts
+#EXTINF:-1,TR:MULTI.VIZYON.3
+http://tv2iptv.com:8000/live/wael/wael/1541.ts
+#EXTINF:-1,TR:MULTI.VIZYON.4
+http://tv2iptv.com:8000/live/wael/wael/1542.ts
+#EXTINF:-1,TR:MULTI.VIZYON.5
+http://tv2iptv.com:8000/live/wael/wael/1543.ts
+#EXTINF:-1,TR:MULTI.VIZYON.6
+http://tv2iptv.com:8000/live/wael/wael/1544.ts
+#EXTINF:-1,TR:MULTI.VIZYON.7
+http://tv2iptv.com:8000/live/wael/wael/1545.ts
+#EXTINF:-1,TR:SINEMA.ACTION.1
+http://tv2iptv.com:8000/live/wael/wael/1533.ts
+#EXTINF:-1,TR:SINEMA.ACTION.2
+http://tv2iptv.com:8000/live/wael/wael/1534.ts
+#EXTINF:-1,TR:SINEMA.ACTION.3
+http://tv2iptv.com:8000/live/wael/wael/1535.ts
+#EXTINF:-1,TR:SINEMA.ACTION.4
+http://tv2iptv.com:8000/live/wael/wael/1536.ts
+#EXTINF:-1,TR:SINEMA.ACTION.5
+http://tv2iptv.com:8000/live/wael/wael/1537.ts
+#EXTINF:-1,TR:SINEMA.ACTION.6
+http://tv2iptv.com:8000/live/wael/wael/1538.ts
+#EXTINF:-1,TR-TV8-int
+http://tv2iptv.com:8000/live/wael/wael/1161.ts
+#EXTINF:-1,TR-TV8
+http://tv2iptv.com:8000/live/wael/wael/1162.ts
+#EXTINF:-1,TR-TV2
+http://tv2iptv.com:8000/live/wael/wael/1160.ts
+#EXTINF:-1,TR-ATV
+http://tv2iptv.com:8000/live/wael/wael/1186.ts
+#EXTINF:-1,TR-TRT-1
+http://tv2iptv.com:8000/live/wael/wael/1166.ts
+#EXTINF:-1,TR-HALK
+http://tv2iptv.com:8000/live/wael/wael/1179.ts
+#EXTINF:-1,TR-FOX-TV
+http://tv2iptv.com:8000/live/wael/wael/1180.ts
+#EXTINF:-1,TR-STAR-TV
+http://tv2iptv.com:8000/live/wael/wael/1169.ts
+#EXTINF:-1,TR-Show-TV
+http://tv2iptv.com:8000/live/wael/wael/1170.ts
+#EXTINF:-1,TR-fanatik-tv
+http://tv2iptv.com:8000/live/wael/wael/1182.ts
+#EXTINF:-1,TR-A-SPOR
+http://tv2iptv.com:8000/live/wael/wael/1187.ts
+#EXTINF:-1,TR-NTV-Spor
+http://tv2iptv.com:8000/live/wael/wael/1175.ts
+#EXTINF:-1,TR-TRT-Sport
+http://tv2iptv.com:8000/live/wael/wael/1164.ts
+#EXTINF:-1,TR-KANAL-D
+http://tv2iptv.com:8000/live/wael/wael/1177.ts
+#EXTINF:-1,TR-KANAL-7
+http://tv2iptv.com:8000/live/wael/wael/1178.ts
+#EXTINF:-1,TR-BEYAZ-TV
+http://tv2iptv.com:8000/live/wael/wael/1185.ts
+#EXTINF:-1,TR-FLASH-TV
+http://tv2iptv.com:8000/live/wael/wael/1181.ts
+#EXTINF:-1,TR:FILM.THRILLER
+http://tv2iptv.com:8000/live/wael/wael/1694.ts
+#EXTINF:-1,TR:FILM.NATRYA
+http://tv2iptv.com:8000/live/wael/wael/1695.ts
+#EXTINF:-1,TR:FILM.HITS
+http://tv2iptv.com:8000/live/wael/wael/1696.ts
+#EXTINF:-1,TR:FILM.GOLD
+http://tv2iptv.com:8000/live/wael/wael/1697.ts
+#EXTINF:-1,TR:FILM.AKSION
+http://tv2iptv.com:8000/live/wael/wael/1698.ts
+#EXTINF:-1,TR:CNN.TURK
+http://tv2iptv.com:8000/live/wael/wael/1690.ts
+#EXTINF:-1,TR-TRT-TURK
+http://tv2iptv.com:8000/live/wael/wael/1163.ts
+#EXTINF:-1,TR-TRT-COCUK
+http://tv2iptv.com:8000/live/wael/wael/1165.ts
+#EXTINF:-1,TR-TGRT-KIYEM
+http://tv2iptv.com:8000/live/wael/wael/1168.ts
+#EXTINF:-1,TR-TGRT-avrupa
+http://tv2iptv.com:8000/live/wael/wael/1167.ts
+#EXTINF:-1,TR-KANAL-TURK
+http://tv2iptv.com:8000/live/wael/wael/1176.ts
+#EXTINF:-1,TR-Samanyolu-TV
+http://tv2iptv.com:8000/live/wael/wael/1171.ts
+#EXTINF:-1,TR-PLANET-TURK
+http://tv2iptv.com:8000/live/wael/wael/1172.ts
+#EXTINF:-1,TR-PLANET-PEMBE
+http://tv2iptv.com:8000/live/wael/wael/1173.ts
+#EXTINF:-1,TR-PLANET-COCUK
+http://tv2iptv.com:8000/live/wael/wael/1174.ts
+#EXTINF:-1,TR-Disney-Channel
+http://tv2iptv.com:8000/live/wael/wael/1183.ts
+#EXTINF:-1,TR-CARTOON-NETWORK
+http://tv2iptv.com:8000/live/wael/wael/1184.ts
+#EXTINF:-1,ALB:Pink
+http://tv2iptv.com:8000/live/wael/wael/1205.ts
+#EXTINF:-1,ALB:Pink2
+http://tv2iptv.com:8000/live/wael/wael/1204.ts
+#EXTINF:-1,ALB:Pink3
+http://tv2iptv.com:8000/live/wael/wael/1569.ts
+#EXTINF:-1,ALB:Pink-Kids
+http://tv2iptv.com:8000/live/wael/wael/1561.ts
+#EXTINF:-1,ALB:Pink-Film
+http://tv2iptv.com:8000/live/wael/wael/1201.ts
+#EXTINF:-1,ALB:Pink-Soap
+http://tv2iptv.com:8000/live/wael/wael/1198.ts
+#EXTINF:-1,ALB:Pink-Extra
+http://tv2iptv.com:8000/live/wael/wael/1565.ts
+#EXTINF:-1,ALB:Pink-Music
+http://tv2iptv.com:8000/live/wael/wael/1559.ts
+#EXTINF:-1,ALB:Pink-Kuvar
+http://tv2iptv.com:8000/live/wael/wael/1560.ts
+#EXTINF:-1,ALB:Pink-Hits.2
+http://tv2iptv.com:8000/live/wael/wael/1562.ts
+#EXTINF:-1,ALB:Pink-Horror
+http://tv2iptv.com:8000/live/wael/wael/1200.ts
+#EXTINF:-1,ALB:Pink-Reality
+http://tv2iptv.com:8000/live/wael/wael/1195.ts
+#EXTINF:-1,ALB:Pink-Classic
+http://tv2iptv.com:8000/live/wael/wael/1567.ts
+#EXTINF:-1,ALB:Pink-Comedy
+http://tv2iptv.com:8000/live/wael/wael/1202.ts
+#EXTINF:-1,ALB:Pink-Western
+http://tv2iptv.com:8000/live/wael/wael/1197.ts
+#EXTINF:-1,ALB:PINK-WORLD
+http://tv2iptv.com:8000/live/wael/wael/1555.ts
+#EXTINF:-1,ALB:Pink-Romance
+http://tv2iptv.com:8000/live/wael/wael/1199.ts
+#EXTINF:-1,ALB:PINK-ACTION
+http://tv2iptv.com:8000/live/wael/wael/1568.ts
+#EXTINF:-1,ALB:PINK-ZABAVA
+http://tv2iptv.com:8000/live/wael/wael/1553.ts
+#EXTINF:-1,ALB:PINK-PREMIUM
+http://tv2iptv.com:8000/live/wael/wael/1558.ts
+#EXTINF:-1,ALB:PINK-THRILLER
+http://tv2iptv.com:8000/live/wael/wael/1556.ts
+#EXTINF:-1,ALB:Pink-World.Cinema
+http://tv2iptv.com:8000/live/wael/wael/1554.ts
+#EXTINF:-1,ALB:PINK-SCI-FI FANTASY
+http://tv2iptv.com:8000/live/wael/wael/1557.ts
+#EXTINF:-1,ALB:PINK-CRIME MISTERY
+http://tv2iptv.com:8000/live/wael/wael/1566.ts
+#EXTINF:-1,ALB:PINK-FOLK.1
+http://tv2iptv.com:8000/live/wael/wael/1564.ts
+#EXTINF:-1,ALB:Pink-Folk.2
+http://tv2iptv.com:8000/live/wael/wael/1563.ts
+#EXTINF:-1,ALB:Klan-Tv
+http://tv2iptv.com:8000/live/wael/wael/1340.ts
+#EXTINF:-1,ALB:Kino-Dark
+http://tv2iptv.com:8000/live/wael/wael/1342.ts
+#EXTINF:-1,ALB:Kino-Arkiva
+http://tv2iptv.com:8000/live/wael/wael/1343.ts
+#EXTINF:-1,ALB:Kino-Action
+http://tv2iptv.com:8000/live/wael/wael/1344.ts
+#EXTINF:-1,ALB:Klan-Kosova
+http://tv2iptv.com:8000/live/wael/wael/1341.ts
+#EXTINF:-1,ALB:Kino-Premiere-1Hd
+http://tv2iptv.com:8000/live/wael/wael/1351.ts
+#EXTINF:-1,ALB:Kino-Premiere-2Hd
+http://tv2iptv.com:8000/live/wael/wael/1350.ts
+#EXTINF:-1,ALB:FILM-DY
+http://tv2iptv.com:8000/live/wael/wael/1254.ts
+#EXTINF:-1,ALB:FILM-AUTOR
+http://tv2iptv.com:8000/live/wael/wael/1256.ts
+#EXTINF:-1,ALB:FILM-DRAME
+http://tv2iptv.com:8000/live/wael/wael/1255.ts
+#EXTINF:-1,ALB:FILM-AKSION
+http://tv2iptv.com:8000/live/wael/wael/1257.ts
+#EXTINF:-1,ALB:FILM-KOMEDI
+http://tv2iptv.com:8000/live/wael/wael/1253.ts
+#EXTINF:-1,ALB: FILM THRILLER
+http://tv2iptv.com:8000/live/wael/wael/1252.ts
+#EXTINF:-1,ALB: Tring Sofia
+http://tv2iptv.com:8000/live/wael/wael/1259.ts
+#EXTINF:-1,ALB: Tring Smile
+http://tv2iptv.com:8000/live/wael/wael/1258.ts
+#EXTINF:-1,ALB: TRING LIFE
+http://tv2iptv.com:8000/live/wael/wael/1274.ts
+#EXTINF:-1,ALB: TRING MAX
+http://tv2iptv.com:8000/live/wael/wael/1273.ts
+#EXTINF:-1,ALB: TRING TRING
+http://tv2iptv.com:8000/live/wael/wael/1270.ts
+#EXTINF:-1,ALB: TRING SUPER
+http://tv2iptv.com:8000/live/wael/wael/1271.ts
+#EXTINF:-1,ALB: TRING WORLD
+http://tv2iptv.com:8000/live/wael/wael/1269.ts
+#EXTINF:-1,ALB: TRING PLANET
+http://tv2iptv.com:8000/live/wael/wael/1272.ts
+#EXTINF:-1,ALB: TRING KOMEDI
+http://tv2iptv.com:8000/live/wael/wael/1275.ts
+#EXTINF:-1,ALB: TRING HISTORI
+http://tv2iptv.com:8000/live/wael/wael/1276.ts
+#EXTINF:-1,ALB: TRING FANTASY
+http://tv2iptv.com:8000/live/wael/wael/1277.ts
+#EXTINF:-1,ALB:Film.Hits
+http://tv2iptv.com:8000/live/wael/wael/1375.ts
+#EXTINF:-1,ALB:Film-Nje
+http://tv2iptv.com:8000/live/wael/wael/1352.ts
+#EXTINF:-1,ALB:Film-Gold-1
+http://tv2iptv.com:8000/live/wael/wael/1345.ts
+#EXTINF:-1,ALB:Film-Gold-2
+http://tv2iptv.com:8000/live/wael/wael/1346.ts
+#EXTINF:-1,ALB:Film-Gold-3
+http://tv2iptv.com:8000/live/wael/wael/1347.ts
+#EXTINF:-1,ALB:Film-Gold-4
+http://tv2iptv.com:8000/live/wael/wael/1348.ts
+#EXTINF:-1,ALB:EXP.Natyra
+http://tv2iptv.com:8000/live/wael/wael/1370.ts
+#EXTINF:-1,ALB:EXP-Histori
+http://tv2iptv.com:8000/live/wael/wael/1371.ts
+#EXTINF:-1,ALB:EXP.Shkence
+http://tv2iptv.com:8000/live/wael/wael/1369.ts
+#EXTINF:-1,ALB:SuperSport.1HD
+http://tv2iptv.com:8000/live/wael/wael/1196.ts
+#EXTINF:-1,ALB: Super Sport 2
+http://tv2iptv.com:8000/live/wael/wael/1268.ts
+#EXTINF:-1,ALB: Super Sport 3
+http://tv2iptv.com:8000/live/wael/wael/1267.ts
+#EXTINF:-1,ALB: Super Sport 4
+http://tv2iptv.com:8000/live/wael/wael/1266.ts
+#EXTINF:-1,ALB: Super Sport 5
+http://tv2iptv.com:8000/live/wael/wael/1265.ts
+#EXTINF:-1,ALB: Super Sport 6
+http://tv2iptv.com:8000/live/wael/wael/1264.ts
+#EXTINF:-1,ALB: Tring Sport 1 HD
+http://tv2iptv.com:8000/live/wael/wael/1261.ts
+#EXTINF:-1,ALB: Tring Sport 2 HD
+http://tv2iptv.com:8000/live/wael/wael/1260.ts
+#EXTINF:-1,ALB: Super Sport Kosova 1
+http://tv2iptv.com:8000/live/wael/wael/1263.ts
+#EXTINF:-1,ALB: Super Sport Kosova 2
+http://tv2iptv.com:8000/live/wael/wael/1262.ts
+#EXTINF:-1,ALB:T.TV
+http://tv2iptv.com:8000/live/wael/wael/1377.ts
+#EXTINF:-1,ALB:Sofia
+http://tv2iptv.com:8000/live/wael/wael/1362.ts
+#EXTINF:-1,ALB:TVSH
+http://tv2iptv.com:8000/live/wael/wael/1321.ts
+#EXTINF:-1,ALB:Tip-TV
+http://tv2iptv.com:8000/live/wael/wael/1365.ts
+#EXTINF:-1,ALB:RTV.21
+http://tv2iptv.com:8000/live/wael/wael/1822.ts
+#EXTINF:-1,ALB:Top-News
+http://tv2iptv.com:8000/live/wael/wael/1367.ts
+#EXTINF:-1,ALB:Top_Channel
+http://tv2iptv.com:8000/live/wael/wael/1823.ts
+#EXTINF:-1,ALB:Top_Channel.HD
+http://tv2iptv.com:8000/live/wael/wael/1824.ts
+#EXTINF:-1,ALB:Tring_Sport_News
+http://tv2iptv.com:8000/live/wael/wael/1324.ts
+#EXTINF:-1,ALB:TRING_SHQIP
+http://tv2iptv.com:8000/live/wael/wael/1325.ts
+#EXTINF:-1,ALB:Travel.Channel
+http://tv2iptv.com:8000/live/wael/wael/1372.ts
+#EXTINF:-1,ALB:Ora.News
+http://tv2iptv.com:8000/live/wael/wael/1368.ts
+#EXTINF:-1,ALB:Nat.Geographic
+http://tv2iptv.com:8000/live/wael/wael/1373.ts
+#EXTINF:-1,ALB:Junior
+http://tv2iptv.com:8000/live/wael/wael/1364.ts
+#EXTINF:-1,ALB:Jolly.HD
+http://tv2iptv.com:8000/live/wael/wael/1376.ts
+#EXTINF:-1,ALB:FOX
+http://tv2iptv.com:8000/live/wael/wael/1381.ts
+#EXTINF:-1,ALB:FOX.CRIME
+http://tv2iptv.com:8000/live/wael/wael/1382.ts
+#EXTINF:-1,ALB:DIGI-GOLD
+http://tv2iptv.com:8000/live/wael/wael/1374.ts
+#EXTINF:-1,ALB:Cufo-Tv
+http://tv2iptv.com:8000/live/wael/wael/1361.ts
+#EXTINF:-1,ALB:Bang-Bang
+http://tv2iptv.com:8000/live/wael/wael/1363.ts
+#EXTINF:-1,ALB:ABC-News
+http://tv2iptv.com:8000/live/wael/wael/1366.ts
+#EXTINF:-1,ALB::Stinet
+http://tv2iptv.com:8000/live/wael/wael/1379.ts
+#EXTINF:-1,ALB::Muse
+http://tv2iptv.com:8000/live/wael/wael/1380.ts
+#EXTINF:-1,ALB::Kino-Premiere-3Hd
+http://tv2iptv.com:8000/live/wael/wael/1349.ts
+#EXTINF:-1,ALB::3.Plus
+http://tv2iptv.com:8000/live/wael/wael/1378.ts
+#EXTINF:-1,ALB: Sci-fi...Fantasy
+http://tv2iptv.com:8000/live/wael/wael/1203.ts
+#EXTINF:-1,PT:TVCINE.1
+http://tv2iptv.com:8000/live/wael/wael/1412.ts
+#EXTINF:-1,PT:TVCINE.2
+http://tv2iptv.com:8000/live/wael/wael/1411.ts
+#EXTINF:-1,(PT:TVCINE.3
+http://tv2iptv.com:8000/live/wael/wael/1410.ts
+#EXTINF:-1,PT:TVCINE.4
+http://tv2iptv.com:8000/live/wael/wael/1409.ts
+#EXTINF:-1,PT:TV.SERIES
+http://tv2iptv.com:8000/live/wael/wael/1413.ts
+#EXTINF:-1,PT:Benfica.TV.1
+http://tv2iptv.com:8000/live/wael/wael/1408.ts
+#EXTINF:-1,PT:SPORT.TV1
+http://tv2iptv.com:8000/live/wael/wael/1417.ts
+#EXTINF:-1,PT:SPORT.TV2
+http://tv2iptv.com:8000/live/wael/wael/1416.ts
+#EXTINF:-1,PT:SPORT.TV3
+http://tv2iptv.com:8000/live/wael/wael/1415.ts
+#EXTINF:-1,PT:SPORT.TV4
+http://tv2iptv.com:8000/live/wael/wael/1414.ts
+#EXTINF:-1,PT:SPORT.TV5
+http://tv2iptv.com:8000/live/wael/wael/1418.ts
+#EXTINF:-1,PT:TVI.REALITY
+http://tv2iptv.com:8000/live/wael/wael/1657.ts
+#EXTINF:-1,PT:TVI.FICCAO
+http://tv2iptv.com:8000/live/wael/wael/1664.ts
+#EXTINF:-1,PT:Tvi.24
+http://tv2iptv.com:8000/live/wael/wael/1665.ts
+#EXTINF:-1,PT:TVI
+http://tv2iptv.com:8000/live/wael/wael/1658.ts
+#EXTINF:-1,PT:Tv.Record
+http://tv2iptv.com:8000/live/wael/wael/1666.ts
+#EXTINF:-1,PT:Sporting.TV
+http://tv2iptv.com:8000/live/wael/wael/1659.ts
+#EXTINF:-1,PT:SIC.MULHER
+http://tv2iptv.com:8000/live/wael/wael/1667.ts
+#EXTINF:-1,PT:SIC.K
+http://tv2iptv.com:8000/live/wael/wael/1668.ts
+#EXTINF:-1,PT:SIC
+http://tv2iptv.com:8000/live/wael/wael/1660.ts
+#EXTINF:-1,PT:RTP.MEMORIA
+http://tv2iptv.com:8000/live/wael/wael/1669.ts
+#EXTINF:-1,PT:RTP.MADEIRA
+http://tv2iptv.com:8000/live/wael/wael/1670.ts
+#EXTINF:-1,PT:RTP.3
+http://tv2iptv.com:8000/live/wael/wael/1661.ts
+#EXTINF:-1,PT:RTP.2
+http://tv2iptv.com:8000/live/wael/wael/1671.ts
+#EXTINF:-1,PT:REAL.MADRID
+http://tv2iptv.com:8000/live/wael/wael/1683.ts
+#EXTINF:-1,PT:Porto.Canal
+http://tv2iptv.com:8000/live/wael/wael/1672.ts
+#EXTINF:-1,PT:PANDA.BIGGS
+http://tv2iptv.com:8000/live/wael/wael/1673.ts
+#EXTINF:-1,PT:Odisseia
+http://tv2iptv.com:8000/live/wael/wael/1674.ts
+#EXTINF:-1,PT:Nickelodeon
+http://tv2iptv.com:8000/live/wael/wael/1675.ts
+#EXTINF:-1,PT:Mtv.Portugal
+http://tv2iptv.com:8000/live/wael/wael/1676.ts
+#EXTINF:-1,PT:JIM.JAM
+http://tv2iptv.com:8000/live/wael/wael/1677.ts
+#EXTINF:-1,PT:EUROSPORT
+http://tv2iptv.com:8000/live/wael/wael/1678.ts
+#EXTINF:-1,PT:Disney.Junior
+http://tv2iptv.com:8000/live/wael/wael/1679.ts
+#EXTINF:-1,PT:Canal.de.Historia
+http://tv2iptv.com:8000/live/wael/wael/1680.ts
+#EXTINF:-1,PT:BTV.2.HD
+http://tv2iptv.com:8000/live/wael/wael/1662.ts
+#EXTINF:-1,PT:BTV.2
+http://tv2iptv.com:8000/live/wael/wael/1681.ts
+#EXTINF:-1,PT:BTV.1.HD
+http://tv2iptv.com:8000/live/wael/wael/1663.ts
+#EXTINF:-1,PT:BTV.1
+http://tv2iptv.com:8000/live/wael/wael/1682.ts
+#EXTINF:-1,PT:BARCA.TV
+http://tv2iptv.com:8000/live/wael/wael/1684.ts
+#EXTINF:-1,PT:BABY.TV
+http://tv2iptv.com:8000/live/wael/wael/1685.ts
+#EXTINF:-1,PT:AMC
+http://tv2iptv.com:8000/live/wael/wael/1686.ts
+#EXTINF:-1,RUS:TV1000 Comedy HD
+http://tv2iptv.com:8000/live/wael/wael/1714.ts
+#EXTINF:-1,RUS:TV1000
+http://tv2iptv.com:8000/live/wael/wael/1713.ts
+#EXTINF:-1,RUS:TV 1000 ACTION
+http://tv2iptv.com:8000/live/wael/wael/1715.ts
+#EXTINF:-1,RUS:Travel Tv
+http://tv2iptv.com:8000/live/wael/wael/1704.ts
+#EXTINF:-1,RUS:THT
+http://tv2iptv.com:8000/live/wael/wael/1709.ts
+#EXTINF:-1,RUS:Sony Sci-Fi
+http://tv2iptv.com:8000/live/wael/wael/1717.ts
+#EXTINF:-1,RUS:Russia1
+http://tv2iptv.com:8000/live/wael/wael/1711.ts
+#EXTINF:-1,RUS:Premiera
+http://tv2iptv.com:8000/live/wael/wael/1712.ts
+#EXTINF:-1,RUS:NtvFootball3
+http://tv2iptv.com:8000/live/wael/wael/1702.ts
+#EXTINF:-1,RUS:NtvFootball2
+http://tv2iptv.com:8000/live/wael/wael/1701.ts
+#EXTINF:-1,RUS:NtvFootball1
+http://tv2iptv.com:8000/live/wael/wael/1700.ts
+#EXTINF:-1,RUS:LiFENews
+http://tv2iptv.com:8000/live/wael/wael/1703.ts
+#EXTINF:-1,RUS:htb
+http://tv2iptv.com:8000/live/wael/wael/1710.ts
+#EXTINF:-1,RUS:Disney
+http://tv2iptv.com:8000/live/wael/wael/1716.ts
+#EXTINF:-1,RUS:TB3
+http://tv2iptv.com:8000/live/wael/wael/1706.ts
+#EXTINF:-1,africa:24
+http://tv2iptv.com:8000/live/wael/wael/1781.ts
+#EXTINF:-1,africa:SBC
+http://tv2iptv.com:8000/live/wael/wael/1775.ts
+#EXTINF:-1,africa.imedi
+http://tv2iptv.com:8000/live/wael/wael/1777.ts
+#EXTINF:-1,Africa:AD.TV
+http://tv2iptv.com:8000/live/wael/wael/1769.ts
+#EXTINF:-1,africa:hd.hits
+http://tv2iptv.com:8000/live/wael/wael/1782.ts
+#EXTINF:-1,africa:globotv
+http://tv2iptv.com:8000/live/wael/wael/1780.ts
+#EXTINF:-1,Africa:KURIOS
+http://tv2iptv.com:8000/live/wael/wael/1772.ts
+#EXTINF:-1,africa.MAYA.TV
+http://tv2iptv.com:8000/live/wael/wael/1779.ts
+#EXTINF:-1,africa:MAYA.TV
+http://tv2iptv.com:8000/live/wael/wael/1776.ts
+#EXTINF:-1,africa:OGUN.TV
+http://tv2iptv.com:8000/live/wael/wael/1770.ts
+#EXTINF:-1,africa:SIC.OPCAO
+http://tv2iptv.com:8000/live/wael/wael/1774.ts
+#EXTINF:-1,Africa:TELE.CEIBA
+http://tv2iptv.com:8000/live/wael/wael/1768.ts
+#EXTINF:-1,Africa:Rwanda.Television
+http://tv2iptv.com:8000/live/wael/wael/1767.ts
+#EXTINF:-1,africa:TVC.NEWS.NIGERIA
+http://tv2iptv.com:8000/live/wael/wael/1771.ts
+#EXTINF:-1,Africa:CONTINENTAL.NIGERIA
+http://tv2iptv.com:8000/live/wael/wael/1773.ts
+#EXTINF:-1,africa:AFRIQUE.MEDIA
+http://tv2iptv.com:8000/live/wael/wael/1778.ts
+#EXTINF:-1,EXYU:TV1000
+http://tv2iptv.com:8000/live/wael/wael/1739.ts
+#EXTINF:-1,EXYU:RTL2
+http://tv2iptv.com:8000/live/wael/wael/1741.ts
+#EXTINF:-1,EXYU:RTL
+http://tv2iptv.com:8000/live/wael/wael/1740.ts
+#EXTINF:-1,EXYU:NOVA HR
+http://tv2iptv.com:8000/live/wael/wael/1749.ts
+#EXTINF:-1,EXYU:NATIONAL GEOGRAPHIC
+http://tv2iptv.com:8000/live/wael/wael/1752.ts
+#EXTINF:-1,EXYU:N1
+http://tv2iptv.com:8000/live/wael/wael/1750.ts
+#EXTINF:-1,EXYU:HRT4
+http://tv2iptv.com:8000/live/wael/wael/1745.ts
+#EXTINF:-1,EXYU:HRT3
+http://tv2iptv.com:8000/live/wael/wael/1744.ts
+#EXTINF:-1,EXYU:HRT2
+http://tv2iptv.com:8000/live/wael/wael/1743.ts
+#EXTINF:-1,EXYU:HRT1
+http://tv2iptv.com:8000/live/wael/wael/1742.ts
+#EXTINF:-1,EXYU:HAYAT BIH
+http://tv2iptv.com:8000/live/wael/wael/1756.ts
+#EXTINF:-1,EXYU:HAPPY
+http://tv2iptv.com:8000/live/wael/wael/1757.ts
+#EXTINF:-1,EXYU:FOX MOVIES
+http://tv2iptv.com:8000/live/wael/wael/1760.ts
+#EXTINF:-1,EXYU:FOX Life
+http://tv2iptv.com:8000/live/wael/wael/1761.ts
+#EXTINF:-1,EXYU:FOX CRIME
+http://tv2iptv.com:8000/live/wael/wael/1759.ts
+#EXTINF:-1,EXYU:FOX
+http://tv2iptv.com:8000/live/wael/wael/1758.ts
+#EXTINF:-1,EXYU:DomaTv
+http://tv2iptv.com:8000/live/wael/wael/1746.ts
+#EXTINF:-1,EXYU:CINESTAR ACTION
+http://tv2iptv.com:8000/live/wael/wael/1755.ts
+#EXTINF:-1,EXYU:Cinestar 2
+http://tv2iptv.com:8000/live/wael/wael/1754.ts
+#EXTINF:-1,EXYU:Cinestar 1
+http://tv2iptv.com:8000/live/wael/wael/1753.ts
+#EXTINF:-1,EXYU:BNBIH
+http://tv2iptv.com:8000/live/wael/wael/1747.ts
+#EXTINF:-1,EXYU:B92
+http://tv2iptv.com:8000/live/wael/wael/1748.ts
+#EXTINF:-1,EXYU: 24 KITCHEN
+http://tv2iptv.com:8000/live/wael/wael/1751.ts
+#EXTINF:-1,SRB:Pink World
+http://tv2iptv.com:8000/live/wael/wael/1725.ts
+#EXTINF:-1,SRB:Pink Premium
+http://tv2iptv.com:8000/live/wael/wael/1723.ts
+#EXTINF:-1,SRB:Pink Film
+http://tv2iptv.com:8000/live/wael/wael/1724.ts
+#EXTINF:-1,SRB:Pink Classic
+http://tv2iptv.com:8000/live/wael/wael/1726.ts
+#EXTINF:-1,SRB:Pink Action
+http://tv2iptv.com:8000/live/wael/wael/1722.ts
+#EXTINF:-1,SRB:Pink 3
+http://tv2iptv.com:8000/live/wael/wael/1721.ts
+#EXTINF:-1,SRB:Pink 2
+http://tv2iptv.com:8000/live/wael/wael/1719.ts
+#EXTINF:-1,SRB:Pink
+http://tv2iptv.com:8000/live/wael/wael/1718.ts
+#EXTINF:-1,BE:VTM HD
+http://tv2iptv.com:8000/live/wael/wael/1727.ts
+#EXTINF:-1,BE:VITAYA
+http://tv2iptv.com:8000/live/wael/wael/1728.ts
+#EXTINF:-1,BE:VIER HD
+http://tv2iptv.com:8000/live/wael/wael/1729.ts
+#EXTINF:-1,BE:RTL TVI HD
+http://tv2iptv.com:8000/live/wael/wael/1730.ts
+#EXTINF:-1,BE:PLUG RTL
+http://tv2iptv.com:8000/live/wael/wael/1731.ts
+#EXTINF:-1,BE:LA UNE HD
+http://tv2iptv.com:8000/live/wael/wael/1732.ts
+#EXTINF:-1,BE:LA DEUX
+http://tv2iptv.com:8000/live/wael/wael/1733.ts
+#EXTINF:-1,IN:Zee.Anmol
+http://tv2iptv.com:8000/live/wael/wael/1505.ts
+#EXTINF:-1,IN:Star.Vijay
+http://tv2iptv.com:8000/live/wael/wael/1506.ts
+#EXTINF:-1,IN:Star.Plus
+http://tv2iptv.com:8000/live/wael/wael/1507.ts
+#EXTINF:-1,IN:SonySIX.HD
+http://tv2iptv.com:8000/live/wael/wael/1508.ts
+#EXTINF:-1,IN:Sony.MOVIE
+http://tv2iptv.com:8000/live/wael/wael/1509.ts
+#EXTINF:-1,IN:Sony.Max
+http://tv2iptv.com:8000/live/wael/wael/1510.ts
+#EXTINF:-1,IN:B4UPlus
+http://tv2iptv.com:8000/live/wael/wael/1504.ts
+#EXTINF:-1,IN:B4U:Music
+http://tv2iptv.com:8000/live/wael/wael/1501.ts
+#EXTINF:-1,IN:B4U:Aflam
+http://tv2iptv.com:8000/live/wael/wael/1502.ts
+#EXTINF:-1,IN:B4U.MASTI
+http://tv2iptv.com:8000/live/wael/wael/1503.ts
+#EXTINF:-1,NOR:SVT.1
+http://tv2iptv.com:8000/live/wael/wael/1549.ts
+#EXTINF:-1,NOR:SVT.2
+http://tv2iptv.com:8000/live/wael/wael/1550.ts
+#EXTINF:-1,NOR:Viasat.Golf
+http://tv2iptv.com:8000/live/wael/wael/1391.ts
+#EXTINF:-1,NOR:Viasat.Sport
+http://tv2iptv.com:8000/live/wael/wael/1383.ts
+#EXTINF:-1,NOR:Viasat.Fotboll
+http://tv2iptv.com:8000/live/wael/wael/1390.ts
+#EXTINF:-1,NOR:Viasat.Family
+http://tv2iptv.com:8000/live/wael/wael/1387.ts
+#EXTINF:-1,NOR:Viasat.Hockey
+http://tv2iptv.com:8000/live/wael/wael/1548.ts
+#EXTINF:-1,NOR:Viasat.History
+http://tv2iptv.com:8000/live/wael/wael/1547.ts
+#EXTINF:-1,NOR:Viasat.Series
+http://tv2iptv.com:8000/live/wael/wael/1384.ts
+#EXTINF:-1,NOR:C.More.Hits
+http://tv2iptv.com:8000/live/wael/wael/1400.ts
+#EXTINF:-1,NOR:C.More.Live
+http://tv2iptv.com:8000/live/wael/wael/1395.ts
+#EXTINF:-1,NOR:C.More.First
+http://tv2iptv.com:8000/live/wael/wael/1401.ts
+#EXTINF:-1,NOR:C.More.Action
+http://tv2iptv.com:8000/live/wael/wael/1402.ts
+#EXTINF:-1,NOR:C.More.Series
+http://tv2iptv.com:8000/live/wael/wael/1394.ts
+#EXTINF:-1,NOR:C.More.Hockey
+http://tv2iptv.com:8000/live/wael/wael/1396.ts
+#EXTINF:-1,NOR:C.More.Emotion
+http://tv2iptv.com:8000/live/wael/wael/1398.ts
+#EXTINF:-1,NOR:C.More.Sport
+http://tv2iptv.com:8000/live/wael/wael/1399.ts
+#EXTINF:-1,NOR:C.More.Tennis
+http://tv2iptv.com:8000/live/wael/wael/1392.ts
+#EXTINF:-1,NOR:C.More.Fotboll
+http://tv2iptv.com:8000/live/wael/wael/1397.ts
+#EXTINF:-1,NOR:C.More.Sport.Extreme
+http://tv2iptv.com:8000/live/wael/wael/1393.ts
+#EXTINF:-1,SHOW-WWE-RAW
+http://tv2iptv.com:8000/movie/wael/wael/755.mkv
+#EXTINF:-1,movies-kidz-2015-1
+http://tv2iptv.com:8000/movie/wael/wael/666.mkv
+#EXTINF:-1,movies-kidz-2015-2
+http://tv2iptv.com:8000/movie/wael/wael/667.mkv
+#EXTINF:-1,movies-kidz-2015-3
+http://tv2iptv.com:8000/movie/wael/wael/668.mkv
+#EXTINF:-1,movies-kidz-2015-4
+http://tv2iptv.com:8000/movie/wael/wael/669.mkv
+#EXTINF:-1,movies-kidz-2015-5
+http://tv2iptv.com:8000/movie/wael/wael/670.mkv
+#EXTINF:-1,movies-arabic-2015-1
+http://tv2iptv.com:8000/movie/wael/wael/656.mkv
+#EXTINF:-1,movies-arabic-2015-2
+http://tv2iptv.com:8000/movie/wael/wael/657.mkv
+#EXTINF:-1,movies-arabic-2015-3
+http://tv2iptv.com:8000/movie/wael/wael/658.mkv
+#EXTINF:-1,movies-arabic-2015-4
+http://tv2iptv.com:8000/movie/wael/wael/659.mkv
+#EXTINF:-1,movies-arabic-2015-5
+http://tv2iptv.com:8000/movie/wael/wael/660.mkv
+#EXTINF:-1,movies-arabic-2015-6
+http://tv2iptv.com:8000/movie/wael/wael/661.mkv
+#EXTINF:-1,movies-arabic-2015-7
+http://tv2iptv.com:8000/movie/wael/wael/662.mkv
+#EXTINF:-1,movies-arabic-2015-8
+http://tv2iptv.com:8000/movie/wael/wael/663.mkv
+#EXTINF:-1,movies-arabic-2015-9
+http://tv2iptv.com:8000/movie/wael/wael/664.mkv
+#EXTINF:-1,movies-arabic-2015-10
+http://tv2iptv.com:8000/movie/wael/wael/665.mkv
+#EXTINF:-1,movies-arabic-2015-11
+http://tv2iptv.com:8000/movie/wael/wael/853.mkv
+#EXTINF:-1,movies-arabic-2015-12
+http://tv2iptv.com:8000/movie/wael/wael/854.mkv
+#EXTINF:-1,movies-arabic-2015-13
+http://tv2iptv.com:8000/movie/wael/wael/855.mkv
+#EXTINF:-1,movies-arabic-2015-14
+http://tv2iptv.com:8000/movie/wael/wael/856.mkv
+#EXTINF:-1,movies-arabic-2015-15
+http://tv2iptv.com:8000/movie/wael/wael/857.mkv
+#EXTINF:-1,movies-arabic-2015-16
+http://tv2iptv.com:8000/movie/wael/wael/858.mkv
+#EXTINF:-1,movies-arabic-2015-17
+http://tv2iptv.com:8000/movie/wael/wael/859.mkv
+#EXTINF:-1,movies-arabic-2015-18
+http://tv2iptv.com:8000/movie/wael/wael/860.mkv
+#EXTINF:-1,movies-arabic-2015-19
+http://tv2iptv.com:8000/movie/wael/wael/861.mkv
+#EXTINF:-1,movies-arabic-2015-20
+http://tv2iptv.com:8000/movie/wael/wael/862.mkv
+#EXTINF:-1,movies-eng-1
+http://tv2iptv.com:8000/movie/wael/wael/636.mkv
+#EXTINF:-1,movies-eng-2
+http://tv2iptv.com:8000/movie/wael/wael/637.mkv
+#EXTINF:-1,movies-eng-3
+http://tv2iptv.com:8000/movie/wael/wael/638.mkv
+#EXTINF:-1,movies-eng-4
+http://tv2iptv.com:8000/movie/wael/wael/639.mkv
+#EXTINF:-1,movies-eng-5
+http://tv2iptv.com:8000/movie/wael/wael/640.mkv
+#EXTINF:-1,movies-eng-6
+http://tv2iptv.com:8000/movie/wael/wael/641.mkv
+#EXTINF:-1,movies-eng-7
+http://tv2iptv.com:8000/movie/wael/wael/642.mkv
+#EXTINF:-1,movies-eng-8
+http://tv2iptv.com:8000/movie/wael/wael/643.mkv
+#EXTINF:-1,movies-eng-9
+http://tv2iptv.com:8000/movie/wael/wael/644.mkv
+#EXTINF:-1,movies-eng-10
+http://tv2iptv.com:8000/movie/wael/wael/645.mkv
+#EXTINF:-1,movies-eng-11
+http://tv2iptv.com:8000/movie/wael/wael/646.mkv
+#EXTINF:-1,movies-eng-12
+http://tv2iptv.com:8000/movie/wael/wael/647.mkv
+#EXTINF:-1,movies-eng-13
+http://tv2iptv.com:8000/movie/wael/wael/648.mkv
+#EXTINF:-1,movies-eng-14
+http://tv2iptv.com:8000/movie/wael/wael/649.mkv
+#EXTINF:-1,movies-eng-15
+http://tv2iptv.com:8000/movie/wael/wael/650.mkv
+#EXTINF:-1,movies-eng-16
+http://tv2iptv.com:8000/movie/wael/wael/651.mkv
+#EXTINF:-1,movies-eng-17
+http://tv2iptv.com:8000/movie/wael/wael/652.mkv
+#EXTINF:-1,movies-eng-18
+http://tv2iptv.com:8000/movie/wael/wael/653.mkv
+#EXTINF:-1,movies-eng-19
+http://tv2iptv.com:8000/movie/wael/wael/654.mkv
+#EXTINF:-1,movies-eng-20
+http://tv2iptv.com:8000/movie/wael/wael/655.mkv
+#EXTINF:-1,movies-eng-21
+http://tv2iptv.com:8000/movie/wael/wael/725.mkv
+#EXTINF:-1,movies-eng-22
+http://tv2iptv.com:8000/movie/wael/wael/726.mkv
+#EXTINF:-1,movies-eng-23
+http://tv2iptv.com:8000/movie/wael/wael/727.mkv
+#EXTINF:-1,movies-eng-24
+http://tv2iptv.com:8000/movie/wael/wael/728.mkv
+#EXTINF:-1,movies-eng-25
+http://tv2iptv.com:8000/movie/wael/wael/729.mkv
+#EXTINF:-1,movies-eng-26
+http://tv2iptv.com:8000/movie/wael/wael/730.mkv
+#EXTINF:-1,movies-eng-27
+http://tv2iptv.com:8000/movie/wael/wael/731.mkv
+#EXTINF:-1,movies-eng-28
+http://tv2iptv.com:8000/movie/wael/wael/732.mkv
+#EXTINF:-1,movies-eng-29
+http://tv2iptv.com:8000/movie/wael/wael/733.mkv
+#EXTINF:-1,movies-eng-30
+http://tv2iptv.com:8000/movie/wael/wael/734.mkv
+#EXTINF:-1,movies-eng-31
+http://tv2iptv.com:8000/movie/wael/wael/735.mkv
+#EXTINF:-1,movies-eng-32
+http://tv2iptv.com:8000/movie/wael/wael/736.mkv
+#EXTINF:-1,movies-eng-33
+http://tv2iptv.com:8000/movie/wael/wael/737.mkv
+#EXTINF:-1,movies-eng-34
+http://tv2iptv.com:8000/movie/wael/wael/738.mkv
+#EXTINF:-1,movies-eng-35
+http://tv2iptv.com:8000/movie/wael/wael/739.mkv
+#EXTINF:-1,movies-eng-36
+http://tv2iptv.com:8000/movie/wael/wael/740.mkv
+#EXTINF:-1,movies-english-2015-37
+http://tv2iptv.com:8000/movie/wael/wael/741.mkv
+#EXTINF:-1,movies-english-2015-38
+http://tv2iptv.com:8000/movie/wael/wael/742.mkv
+#EXTINF:-1,movies-english-2015-39
+http://tv2iptv.com:8000/movie/wael/wael/743.mkv
+#EXTINF:-1,movies-eng-40
+http://tv2iptv.com:8000/movie/wael/wael/744.mkv
+#EXTINF:-1,movies-eng-41
+http://tv2iptv.com:8000/movie/wael/wael/745.mkv
+#EXTINF:-1,movies-eng-42
+http://tv2iptv.com:8000/movie/wael/wael/746.mkv
+#EXTINF:-1,movies-eng-43
+http://tv2iptv.com:8000/movie/wael/wael/747.mkv
+#EXTINF:-1,movies-eng-44
+http://tv2iptv.com:8000/movie/wael/wael/748.mkv
+#EXTINF:-1,movies-eng-45
+http://tv2iptv.com:8000/movie/wael/wael/749.mkv
+#EXTINF:-1,movies-eng-46
+http://tv2iptv.com:8000/movie/wael/wael/750.mkv
+#EXTINF:-1,movies-eng-47
+http://tv2iptv.com:8000/movie/wael/wael/751.mkv
+#EXTINF:-1,movies-english-2015-48
+http://tv2iptv.com:8000/movie/wael/wael/752.mkv
+#EXTINF:-1,movies-eng-49
+http://tv2iptv.com:8000/movie/wael/wael/753.mkv
+#EXTINF:-1,movies-english-2015-50
+http://tv2iptv.com:8000/movie/wael/wael/754.mkv
 </List>

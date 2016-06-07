@@ -3,8 +3,6 @@
 #EXTM3U
 #EXTINF:-1,---NOVITA
 http://dummylink.com
-#EXTINF:-1,Sky Cinema Momentaneamente off
-http://dummylink.com
 #EXTINF:-1,The Boy 2016 (clicca qui)
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14458.mkv
 #EXTINF:-1,Pele il Film (clicca qui)
@@ -515,194 +513,458 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
+#EXTINF:-1,----------Mediaset Premium----------
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4613.ts
+#EXTINF:-1,Premium Cinema HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4527.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4528.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4529.ts
+#EXTINF:-1,Premium Cinema +24
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4530.ts
+#EXTINF:-1,Premium Emotion
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4534.ts
+#EXTINF:-1,Premium Comedy
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4540.ts
+#EXTINF:-1,Premium Energy
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4533.ts
+#EXTINF:-1,Premium Stories
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4532.ts
+#EXTINF:-1,Premium Stories +24
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4544.ts
+#EXTINF:-1,Premium Action HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4537.ts
+#EXTINF:-1,Premium Joi
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4536.ts
+#EXTINF:-1,Studio Universal - Premium
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4541.ts
+#EXTINF:-1,Premium Action +24
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4538.ts
+#EXTINF:-1,Disney Junior - Premium
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4542.ts
+#EXTINF:-1,Premium Crime HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4531.ts
+#EXTINF:-1,Cartoon Network - Premium
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4545.ts
+#EXTINF:-1,--- Premium Sport
+http://dummylink.com
+#EXTINF:-1,Premium Sport HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4553.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4546.ts
+#EXTINF:-1,Premium Sport 2
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5131.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4026.ts
+#EXTINF:-1,Premium Calcio 1
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4548.ts
+#EXTINF:-1,Premium Calcio 2
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4549.ts
+#EXTINF:-1,Premium Calcio 5
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4550.ts
+#EXTINF:-1,Premium calcio 6
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4551.ts
+#EXTINF:-1,Premium Calcio 7
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4552.ts
+#EXTINF:-1,Rai Sport 1
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4554.ts
+#EXTINF:-1,Rai Sport 2
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4488.ts
+#EXTINF:-1,Rai Premium
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4491.ts
+#EXTINF:-1,BBC Knowledge - Premium
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4555.ts
 #EXTINF:-1,----------Sky Cinema ----------
 http://ipsatpro.com:8000/live/rahiima/rahiima1/682.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5053.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5054.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5062.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5057.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5058.ts
+#EXTINF:-1,Sky Cinema Classics HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5061.ts
 #EXTINF:-1,Sky Cinema Passion HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/678.ts
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5064.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5060.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5055.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5063.ts
 #EXTINF:-1,Sky Cinema 3D
 http://ipsatpro.com:8000/live/rahiima/rahiima1/562.ts
-#EXTINF:-1,------ Intrattenimento ----
-http://ipsatpro.com:8000/live/rahiima/rahiima1/669.ts
-#EXTINF:-1,Mtv Music
-http://ipsatpro.com:8000/live/rahiima/rahiima1/668.ts
-#EXTINF:-1,Cielo
-http://ipsatpro.com:8000/live/rahiima/rahiima1/658.ts
-#EXTINF:-1,Boing
-http://ipsatpro.com:8000/live/rahiima/rahiima1/659.ts
-#EXTINF:-1,Fox HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/664.ts
-#EXTINF:-1,Fox Life HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/665.ts
-#EXTINF:-1,Fox Crime HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/663.ts
-#EXTINF:-1,Fox Comedy HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/662.ts
-#EXTINF:-1,Sky Atlantic HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/666.ts
+#EXTINF:-1,----------Sky Intrattenimento----------
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4635.ts
 #EXTINF:-1,Sky Uno HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/667.ts
-#EXTINF:-1,Sky Focus
-http://ipsatpro.com:8000/live/rahiima/rahiima1/660.ts
-#EXTINF:-1,Sky Mediaset Extra
-http://ipsatpro.com:8000/live/rahiima/rahiima1/603.ts
-#EXTINF:-1,Mediaset Italia 2
-http://ipsatpro.com:8000/live/rahiima/rahiima1/661.ts
-#EXTINF:-1,---------- sport ----------
-http://ipsatpro.com:8000/live/rahiima/rahiima1/656.ts
-#EXTINF:-1,Fox Sports 1 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/650.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/655.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/654.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/653.ts
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4376.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4377.ts
+#EXTINF:-1,Fox HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4380.ts
+#EXTINF:-1,Fox +1
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4385.ts
+#EXTINF:-1,Fox life HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4378.ts
+#EXTINF:-1,Fox Life +1
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4379.ts
+#EXTINF:-1,Fox Crime HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4381.ts
+#EXTINF:-1,Fox Crime +1
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4382.ts
+#EXTINF:-1,Fox Animation HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4384.ts
+#EXTINF:-1,Fox Comedy HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4383.ts
+#EXTINF:-1,Sky Atlantic HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4388.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4389.ts
+#EXTINF:-1,AXN HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4387.ts
+#EXTINF:-1,AXN +1
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4165.ts
+#EXTINF:-1,AXN Sci-Fi
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4398.ts
+#EXTINF:-1,Comedy Central
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4386.ts
+#EXTINF:-1,Real Time HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4390.ts
+#EXTINF:-1,Cielo HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4397.ts
+#EXTINF:-1,MTV HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4089.ts
+#EXTINF:-1,Focus
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4558.ts
+#EXTINF:-1,GIALLO
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4394.ts
+#EXTINF:-1,ALICE
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4432.ts
+#EXTINF:-1,Fashion TV
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4246.ts
+#EXTINF:-1,TV2000
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4137.ts
+#EXTINF:-1,Sky 3D
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4375.ts
+#EXTINF:-1,Lei
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4392.ts
+#EXTINF:-1,Iris
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4561.ts
+#EXTINF:-1,Mediaset Italia Due
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4560.ts
+#EXTINF:-1,La 5
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4559.ts
+#EXTINF:-1,Mediaset EXTRA
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4556.ts
+#EXTINF:-1,Top Crime
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4535.ts
+#EXTINF:-1,----------Sky Sport----------
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5113.ts
 #EXTINF:-1,Sky Sport 24 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/652.ts
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4400.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5077.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5078.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4969.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5080.ts
+#EXTINF:-1,Fox Sports HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5090.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/651.ts
-#EXTINF:-1,Sky Moto GP HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/646.ts
-#EXTINF:-1,Super Tennis HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/645.ts
-#EXTINF:-1,---------- Calcio -----------
-http://ipsatpro.com:8000/live/rahiima/rahiima1/644.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/643.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/642.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/641.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/640.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/568.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/567.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/566.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/565.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/564.ts
-#EXTINF:-1,Rai Sport 1
-http://ipsatpro.com:8000/live/rahiima/rahiima1/639.ts
-#EXTINF:-1,Rai Sport 2
-http://ipsatpro.com:8000/live/rahiima/rahiima1/560.ts
-#EXTINF:-1,SportTitalia
-http://ipsatpro.com:8000/live/rahiima/rahiima1/638.ts
-#EXTINF:-1,Rete Sport
-http://ipsatpro.com:8000/live/rahiima/rahiima1/1840.ts
-#EXTINF:-1,Sky Eurosport
-http://ipsatpro.com:8000/live/rahiima/rahiima1/637.ts
-#EXTINF:-1,Sky Eurosport 2
-http://ipsatpro.com:8000/live/rahiima/rahiima1/636.ts
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5082.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5081.ts
+#EXTINF:-1,Eurosport HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5091.ts
+#EXTINF:-1,Eurosport 2 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5092.ts
+#EXTINF:-1,Supertennis HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5079.ts
+#EXTINF:-1,Poker Italia
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5085.ts
+#EXTINF:-1,Class HorseTv
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4348.ts
+#EXTINF:-1,Sport Italia
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5083.ts
+#EXTINF:-1,ROMATV
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5084.ts
 #EXTINF:-1,Inter Channel
-http://ipsatpro.com:8000/live/rahiima/rahiima1/559.ts
-#EXTINF:-1,Milan channel
-http://ipsatpro.com:8000/live/rahiima/rahiima1/676.ts
-#EXTINF:-1,Roma channel
-http://ipsatpro.com:8000/live/rahiima/rahiima1/558.ts
-#EXTINF:-1,Juventus TV
-http://ipsatpro.com:8000/live/rahiima/rahiima1/557.ts
-#EXTINF:-1,--------- Cultura ----------
-http://ipsatpro.com:8000/live/rahiima/rahiima1/635.ts
-#EXTINF:-1,Sky TG 24
-http://ipsatpro.com:8000/live/rahiima/rahiima1/629.ts
-#EXTINF:-1,Discovery HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/630.ts
-#EXTINF:-1,Sky History HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/634.ts
-#EXTINF:-1,National Geo HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/633.ts
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5089.ts
+#EXTINF:-1,J | Juventus TV
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5088.ts
+#EXTINF:-1,Milan Channel
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5086.ts
+#EXTINF:-1,Lazio Style Ch
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5087.ts
+#EXTINF:-1,Bike Channel HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5093.ts
+#EXTINF:-1,UnireSat by Teleippica
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4125.ts
+#EXTINF:-1,----------Sky Calcio----------
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5114.ts
+#EXTINF:-1,Sky Calcio Info
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4334.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4438.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5096.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5097.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5098.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5099.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5100.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5101.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5102.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4446.ts
+#EXTINF:-1,Sky Calcio 9
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4447.ts
+#EXTINF:-1,Sky Calcio 10
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5095.ts
+#EXTINF:-1,Sky Calcio 11
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5043.ts
+#EXTINF:-1,Sky Calcio 12
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4163.ts
+#EXTINF:-1,----------Sky Cultura----------
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4619.ts
+#EXTINF:-1,eXplora HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4473.ts
+#EXTINF:-1,NationalGeo HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4468.ts
 #EXTINF:-1,NatGeo Wild HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/632.ts
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4469.ts
+#EXTINF:-1,NatGeo Wild +1
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4086.ts
 #EXTINF:-1,NatGeo People HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/631.ts
-#EXTINF:-1,Sky Animal Planet
-http://ipsatpro.com:8000/live/rahiima/rahiima1/604.ts
-#EXTINF:-1,----Mediaset Premium ----
-http://ipsatpro.com:8000/live/rahiima/rahiima1/628.ts
-#EXTINF:-1,Premium Cinema HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/627.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/609.ts
-#EXTINF:-1,Premium Cinema +24
-http://ipsatpro.com:8000/live/rahiima/rahiima1/612.ts
-#EXTINF:-1,Premium Crime
-http://ipsatpro.com:8000/live/rahiima/rahiima1/621.ts
-#EXTINF:-1,Premium Crime +24
-http://ipsatpro.com:8000/live/rahiima/rahiima1/611.ts
-#EXTINF:-1,Premium Action HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/626.ts
-#EXTINF:-1,Premium Comedy
-http://ipsatpro.com:8000/live/rahiima/rahiima1/620.ts
-#EXTINF:-1,Premium Action +24 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/618.ts
-#EXTINF:-1,Premium Stories
-http://ipsatpro.com:8000/live/rahiima/rahiima1/625.ts
-#EXTINF:-1,Premium Joy
-http://ipsatpro.com:8000/live/rahiima/rahiima1/624.ts
-#EXTINF:-1,Premium Energy
-http://ipsatpro.com:8000/live/rahiima/rahiima1/623.ts
-#EXTINF:-1,Premium Emotion
-http://ipsatpro.com:8000/live/rahiima/rahiima1/622.ts
-#EXTINF:-1,Premium Studio Universal
-http://ipsatpro.com:8000/live/rahiima/rahiima1/619.ts
-#EXTINF:-1,Premium Disney Junior
-http://ipsatpro.com:8000/live/rahiima/rahiima1/617.ts
-#EXTINF:-1,Premium Disney Channel
-http://ipsatpro.com:8000/live/rahiima/rahiima1/616.ts
-#EXTINF:-1,Premium Discovery World
-http://ipsatpro.com:8000/live/rahiima/rahiima1/614.ts
-#EXTINF:-1,Premium Cartoon Network
-http://ipsatpro.com:8000/live/rahiima/rahiima1/613.ts
-#EXTINF:-1,Premium Sport
-http://ipsatpro.com:8000/live/rahiima/rahiima1/615.ts
-#EXTINF:-1,Premium EuroSport 1 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/608.ts
-#EXTINF:-1,Premium EuroSport 2 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/610.ts
-#EXTINF:-1,Premium Calcio HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/607.ts
-#EXTINF:-1,Premium Calcio 1
-http://ipsatpro.com:8000/live/rahiima/rahiima1/606.ts
-#EXTINF:-1,Premium Calcio 2
-http://ipsatpro.com:8000/live/rahiima/rahiima1/605.ts
-#EXTINF:-1,---------- Primafila ---------
-http://ipsatpro.com:8000/live/rahiima/rahiima1/602.ts
-#EXTINF:-1,Sky Primafila 1 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/601.ts
-#EXTINF:-1,Sky Primafila 2 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/600.ts
-#EXTINF:-1,Sky Primafila 3 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/599.ts
-#EXTINF:-1,Sky Primafila 4 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/598.ts
-#EXTINF:-1,Sky Primafila 5 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/597.ts
-#EXTINF:-1,Sky Primafila 6 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/596.ts
-#EXTINF:-1,Sky Primafila 7 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/595.ts
-#EXTINF:-1,Sky Primafila 8 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/594.ts
-#EXTINF:-1,Sky Primafila 9 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/593.ts
-#EXTINF:-1,Sky Primafila 10 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/592.ts
-#EXTINF:-1,Sky Primafila 11 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/591.ts
-#EXTINF:-1,Sky Primafila 12 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/590.ts
-#EXTINF:-1,Sky Primafila 13 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/589.ts
-#EXTINF:-1,Sky Primafila 14 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/588.ts
-#EXTINF:-1,Sky Primafila 15 HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/587.ts
-#EXTINF:-1,Sky Primafila WWE HD
-http://ipsatpro.com:8000/live/rahiima/rahiima1/586.ts
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4470.ts
+#EXTINF:-1,Discovery HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4476.ts
+#EXTINF:-1,Discovery +1
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4085.ts
+#EXTINF:-1,Discovery Sci HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4475.ts
+#EXTINF:-1,Discovery Travel HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4474.ts
+#EXTINF:-1,CI Crime Inv HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4477.ts
+#EXTINF:-1,DMAX HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4396.ts
+#EXTINF:-1,DMAX+1
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4395.ts
+#EXTINF:-1,Gambero Rosso HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4472.ts
+#EXTINF:-1,History HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4471.ts
+#EXTINF:-1,Sky Arte HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4467.ts
+#EXTINF:-1,Caccia
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4479.ts
+#EXTINF:-1,Pesca
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4391.ts
+#EXTINF:-1,DoveTv
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4087.ts
+#EXTINF:-1,Animal Planet
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4480.ts
+#EXTINF:-1,MARCOPOLO
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4337.ts
+#EXTINF:-1,Laeffe
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4346.ts
+#EXTINF:-1,----------Sky Bambini----------
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4618.ts
+#EXTINF:-1,Cartoon-LIVE Masha E Orso
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4498.ts
+#EXTINF:-1,Disney Ch. +2
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4160.ts
+#EXTINF:-1,Disney XD HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4456.ts
+#EXTINF:-1,TeenNick
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4088.ts
+#EXTINF:-1,Disney Junior
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4124.ts
+#EXTINF:-1,Cartoon Network
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4263.ts
+#EXTINF:-1,Boomerang
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4460.ts
+#EXTINF:-1,nickelodeon
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4461.ts
+#EXTINF:-1,Nick Jr
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4452.ts
+#EXTINF:-1,Baby TV
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4463.ts
+#EXTINF:-1,DeAJunior
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4458.ts
+#EXTINF:-1,DeAKids
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5603.ts
+#EXTINF:-1,MAN-GA
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4453.ts
+#EXTINF:-1,Super!
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4448.ts
+#EXTINF:-1,Rai Yoyo
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4450.ts
+#EXTINF:-1,Rai Gulp
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4451.ts
+#EXTINF:-1,Cartonito
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4459.ts
+#EXTINF:-1,Boing
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4462.ts
+#EXTINF:-1,K2
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4454.ts
+#EXTINF:-1,----------Sky Musica----------
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4617.ts
+#EXTINF:-1,Vevo TV 1 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5626.ts
+#EXTINF:-1,Vevo TV 2 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5625.ts
+#EXTINF:-1,Vevo TV 3 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5624.ts
+#EXTINF:-1,VEVO 02
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5622.ts
+#EXTINF:-1,VEVO 03
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5621.ts
+#EXTINF:-1,VEVO 04
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5620.ts
+#EXTINF:-1,VEVO 06
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5618.ts
+#EXTINF:-1,VEVO 05
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5619.ts
+#EXTINF:-1,VEVO 07
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5617.ts
+#EXTINF:-1,VEVO 08
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5616.ts
+#EXTINF:-1,VEVO 09
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5615.ts
+#EXTINF:-1,VEVO 10
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5613.ts
+#EXTINF:-1,VEVO 11
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5612.ts
+#EXTINF:-1,VEVO 12
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5611.ts
+#EXTINF:-1,VEVO 13
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5610.ts
+#EXTINF:-1,VEVO 14
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5609.ts
+#EXTINF:-1,VEVO 15
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5608.ts
+#EXTINF:-1,VEVO 16
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5607.ts
+#EXTINF:-1,VEVO 18
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5606.ts
+#EXTINF:-1,DEEJAY TV
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4175.ts
+#EXTINF:-1,Classica HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4347.ts
+#EXTINF:-1,Radio Italia
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4466.ts
+#EXTINF:-1,Radio Taormina
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4109.ts
+#EXTINF:-1,Radio DeeJay
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4110.ts
+#EXTINF:-1,Radio Capital Tv
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4111.ts
+#EXTINF:-1,Radio NumberOne Tv
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4118.ts
+#EXTINF:-1,Radio montecarlo
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4465.ts
+#EXTINF:-1,Onda Italiana
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4114.ts
+#EXTINF:-1,RADIONORBA TV
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4115.ts
+#EXTINF:-1,kissKiss Napoli TV
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4116.ts
+#EXTINF:-1,----------Sky Notizie-----------
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4616.ts
+#EXTINF:-1,TgCom24
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4483.ts
+#EXTINF:-1,Sky TG24 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4481.ts
+#EXTINF:-1,Rai News 24
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4484.ts
+#EXTINF:-1,Tele Bari
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4335.ts
+#EXTINF:-1,Videolina
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4485.ts
+#EXTINF:-1,-----------sky Primafila----------
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4615.ts
+#EXTINF:-1,Primafila Vetrina
+http://gameserver4.streamiptv.online:80/movie/amninomaress/owkuVJucJA/4976.mkv
+#EXTINF:-1,Vetrina live Primafila
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5425.ts
+#EXTINF:-1,Primafila 1 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4500.ts
+#EXTINF:-1,Primafila 2
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4501.ts
+#EXTINF:-1,Primafila 3 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4502.ts
+#EXTINF:-1,Primafila 4
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4503.ts
+#EXTINF:-1,Primafila 5 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4504.ts
+#EXTINF:-1,Primafila 6
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4505.ts
+#EXTINF:-1,Primafila 7 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4506.ts
+#EXTINF:-1,Primafila 8
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4507.ts
+#EXTINF:-1,Primafila 9 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4508.ts
+#EXTINF:-1,Primafila 10
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4509.ts
+#EXTINF:-1,Primafila 11 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4510.ts
+#EXTINF:-1,Primafila 12
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4511.ts
+#EXTINF:-1,Primafila 13 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4512.ts
+#EXTINF:-1,Primafila 14
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4513.ts
+#EXTINF:-1,Primafila 15
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4514.ts
+#EXTINF:-1,Primafila 16
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4515.ts
+#EXTINF:-1,Primafila 17
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4516.ts
+#EXTINF:-1,Primafila 18
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4517.ts
+#EXTINF:-1,Primafila 19
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4518.ts
+#EXTINF:-1,----------Primafila (Vod)----------
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4519.ts
+#EXTINF:-1,Primafila 1 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/amninomaress/owkuVJucJA/4970.mkv
+#EXTINF:-1,Primafila 3 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/amninomaress/owkuVJucJA/4971.mkv
+#EXTINF:-1,Primafila 5 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/amninomaress/owkuVJucJA/4972.mkv
+#EXTINF:-1,Primafila 7 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/amninomaress/owkuVJucJA/4973.mkv
+#EXTINF:-1,Primafila 9 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/amninomaress/owkuVJucJA/4977.mkv
+#EXTINF:-1,Primafila 11 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/amninomaress/owkuVJucJA/4974.mkv
+#EXTINF:-1,Primafila 13 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/amninomaress/owkuVJucJA/4975.mkv
+#EXTINF:-1,Film In Sala HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4495.ts
+#EXTINF:-1,Film In Sala 2 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4496.ts
+#EXTINF:-1,Film In Sala 3 HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4497.ts
+#EXTINF:-1,Prima Visione HD
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4493.ts
+#EXTINF:-1,Sala Retro
+http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4494.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

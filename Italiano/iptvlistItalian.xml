@@ -699,8 +699,6 @@ http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5083.ts
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4125.ts
 #EXTINF:-1,----------Sky Calcio----------
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5114.ts
-#EXTINF:-1,Sky Calcio Info
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4334.ts
 #EXTINF:-1,Sky Supercalcio HD
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4438.ts
 #EXTINF:-1,Sky Calcio 1 HD
@@ -887,10 +885,6 @@ http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4335.ts
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4485.ts
 #EXTINF:-1,-----------sky Primafila----------
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4615.ts
-#EXTINF:-1,Primafila Vetrina
-http://gameserver4.streamiptv.online:80/movie/amninomaress/owkuVJucJA/4976.mkv
-#EXTINF:-1,Vetrina live Primafila
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5425.ts
 #EXTINF:-1,Primafila 1 HD
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4500.ts
 #EXTINF:-1,Primafila 2
@@ -931,6 +925,8 @@ http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4517.ts
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4518.ts
 #EXTINF:-1,----------Primafila (Vod)----------
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4519.ts
+#EXTINF:-1,Vetrina Primafila
+http://gameserver4.streamiptv.online:80/movie/amninomaress/owkuVJucJA/4976.mkv
 #EXTINF:-1,Primafila 1 HD (Vod)
 http://gameserver4.streamiptv.online:80/movie/amninomaress/owkuVJucJA/4970.mkv
 #EXTINF:-1,Primafila 3 HD (Vod)

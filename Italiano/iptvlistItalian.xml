@@ -515,6 +515,212 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
+#EXTINF:-1,----------Sky Cinema ----------
+http://ipsatpro.com:8000/live/rahiima/rahiima1/682.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/680.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/679.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/675.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/672.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/677.ts
+#EXTINF:-1,Sky Cinema +Max HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/673.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/678.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/671.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/670.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/674.ts
+#EXTINF:-1,Sky Cinema 3D
+http://ipsatpro.com:8000/live/rahiima/rahiima1/562.ts
+#EXTINF:-1,------ Intrattenimento ----
+http://ipsatpro.com:8000/live/rahiima/rahiima1/669.ts
+#EXTINF:-1,Mtv Music
+http://ipsatpro.com:8000/live/rahiima/rahiima1/668.ts
+#EXTINF:-1,Cielo
+http://ipsatpro.com:8000/live/rahiima/rahiima1/658.ts
+#EXTINF:-1,Boing
+http://ipsatpro.com:8000/live/rahiima/rahiima1/659.ts
+#EXTINF:-1,Fox HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/664.ts
+#EXTINF:-1,Fox Life HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/665.ts
+#EXTINF:-1,Fox Crime HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/663.ts
+#EXTINF:-1,Fox Comedy HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/662.ts
+#EXTINF:-1,Sky Atlantic HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/666.ts
+#EXTINF:-1,Sky Uno HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/667.ts
+#EXTINF:-1,Sky Focus
+http://ipsatpro.com:8000/live/rahiima/rahiima1/660.ts
+#EXTINF:-1,Sky Mediaset Extra
+http://ipsatpro.com:8000/live/rahiima/rahiima1/603.ts
+#EXTINF:-1,Mediaset Italia 2
+http://ipsatpro.com:8000/live/rahiima/rahiima1/661.ts
+#EXTINF:-1,---------- sport ----------
+http://ipsatpro.com:8000/live/rahiima/rahiima1/656.ts
+#EXTINF:-1,Fox Sports 1 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/650.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/655.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/654.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/653.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/652.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/651.ts
+#EXTINF:-1,Sky Moto GP HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/646.ts
+#EXTINF:-1,Super Tennis HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/645.ts
+#EXTINF:-1,---------- Calcio -----------
+http://ipsatpro.com:8000/live/rahiima/rahiima1/644.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/643.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/642.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/641.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/640.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/568.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/567.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/566.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/565.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/564.ts
+#EXTINF:-1,Rai Sport 1
+http://ipsatpro.com:8000/live/rahiima/rahiima1/639.ts
+#EXTINF:-1,Rai Sport 2
+http://ipsatpro.com:8000/live/rahiima/rahiima1/560.ts
+#EXTINF:-1,SportTitalia
+http://ipsatpro.com:8000/live/rahiima/rahiima1/638.ts
+#EXTINF:-1,Rete Sport
+http://ipsatpro.com:8000/live/rahiima/rahiima1/1840.ts
+#EXTINF:-1,Sky Eurosport
+http://ipsatpro.com:8000/live/rahiima/rahiima1/637.ts
+#EXTINF:-1,Sky Eurosport 2
+http://ipsatpro.com:8000/live/rahiima/rahiima1/636.ts
+#EXTINF:-1,Inter Channel
+http://ipsatpro.com:8000/live/rahiima/rahiima1/559.ts
+#EXTINF:-1,Milan channel
+http://ipsatpro.com:8000/live/rahiima/rahiima1/676.ts
+#EXTINF:-1,Roma channel
+http://ipsatpro.com:8000/live/rahiima/rahiima1/558.ts
+#EXTINF:-1,Juventus TV
+http://ipsatpro.com:8000/live/rahiima/rahiima1/557.ts
+#EXTINF:-1,--------- Cultura ----------
+http://ipsatpro.com:8000/live/rahiima/rahiima1/635.ts
+#EXTINF:-1,Sky TG 24
+http://ipsatpro.com:8000/live/rahiima/rahiima1/629.ts
+#EXTINF:-1,Discovery HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/630.ts
+#EXTINF:-1,Sky History HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/634.ts
+#EXTINF:-1,National Geo HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/633.ts
+#EXTINF:-1,NatGeo Wild HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/632.ts
+#EXTINF:-1,NatGeo People HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/631.ts
+#EXTINF:-1,Sky Animal Planet
+http://ipsatpro.com:8000/live/rahiima/rahiima1/604.ts
+#EXTINF:-1,----Mediaset Premium ----
+http://ipsatpro.com:8000/live/rahiima/rahiima1/628.ts
+#EXTINF:-1,Premium Cinema HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/627.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/609.ts
+#EXTINF:-1,Premium Cinema +24
+http://ipsatpro.com:8000/live/rahiima/rahiima1/612.ts
+#EXTINF:-1,Premium Crime
+http://ipsatpro.com:8000/live/rahiima/rahiima1/621.ts
+#EXTINF:-1,Premium Crime +24
+http://ipsatpro.com:8000/live/rahiima/rahiima1/611.ts
+#EXTINF:-1,Premium Action HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/626.ts
+#EXTINF:-1,Premium Comedy
+http://ipsatpro.com:8000/live/rahiima/rahiima1/620.ts
+#EXTINF:-1,Premium Action +24 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/618.ts
+#EXTINF:-1,Premium Stories
+http://ipsatpro.com:8000/live/rahiima/rahiima1/625.ts
+#EXTINF:-1,Premium Joy
+http://ipsatpro.com:8000/live/rahiima/rahiima1/624.ts
+#EXTINF:-1,Premium Energy
+http://ipsatpro.com:8000/live/rahiima/rahiima1/623.ts
+#EXTINF:-1,Premium Emotion
+http://ipsatpro.com:8000/live/rahiima/rahiima1/622.ts
+#EXTINF:-1,Premium Studio Universal
+http://ipsatpro.com:8000/live/rahiima/rahiima1/619.ts
+#EXTINF:-1,Premium Disney Junior
+http://ipsatpro.com:8000/live/rahiima/rahiima1/617.ts
+#EXTINF:-1,Premium Disney Channel
+http://ipsatpro.com:8000/live/rahiima/rahiima1/616.ts
+#EXTINF:-1,Premium Discovery World
+http://ipsatpro.com:8000/live/rahiima/rahiima1/614.ts
+#EXTINF:-1,Premium Cartoon Network
+http://ipsatpro.com:8000/live/rahiima/rahiima1/613.ts
+#EXTINF:-1,Premium Sport
+http://ipsatpro.com:8000/live/rahiima/rahiima1/615.ts
+#EXTINF:-1,Premium EuroSport 1 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/608.ts
+#EXTINF:-1,Premium EuroSport 2 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/610.ts
+#EXTINF:-1,Premium Calcio HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/607.ts
+#EXTINF:-1,Premium Calcio 1
+http://ipsatpro.com:8000/live/rahiima/rahiima1/606.ts
+#EXTINF:-1,Premium Calcio 2
+http://ipsatpro.com:8000/live/rahiima/rahiima1/605.ts
+#EXTINF:-1,---------- Primafila ---------
+http://ipsatpro.com:8000/live/rahiima/rahiima1/602.ts
+#EXTINF:-1,Sky Primafila 1 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/601.ts
+#EXTINF:-1,Sky Primafila 2 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/600.ts
+#EXTINF:-1,Sky Primafila 3 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/599.ts
+#EXTINF:-1,Sky Primafila 4 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/598.ts
+#EXTINF:-1,Sky Primafila 5 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/597.ts
+#EXTINF:-1,Sky Primafila 6 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/596.ts
+#EXTINF:-1,Sky Primafila 7 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/595.ts
+#EXTINF:-1,Sky Primafila 8 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/594.ts
+#EXTINF:-1,Sky Primafila 9 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/593.ts
+#EXTINF:-1,Sky Primafila 10 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/592.ts
+#EXTINF:-1,Sky Primafila 11 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/591.ts
+#EXTINF:-1,Sky Primafila 12 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/590.ts
+#EXTINF:-1,Sky Primafila 13 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/589.ts
+#EXTINF:-1,Sky Primafila 14 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/588.ts
+#EXTINF:-1,Sky Primafila 15 HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/587.ts
+#EXTINF:-1,Sky Primafila WWE HD
+http://ipsatpro.com:8000/live/rahiima/rahiima1/586.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

@@ -553,6 +553,10 @@ http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4531.ts
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4545.ts
 #EXTINF:-1,--- Premium Sport
 http://dummylink.com
+#EXTINF:-1,Premium Eurosport 1 HD
+http://mainstream.dyndns.tv:8000/live/TTNwcgJc7Y/UBLusX20iA/1093.ts
+#EXTINF:-1,Premium Eurosport 2 HD
+http://mainstream.dyndns.tv:8000/live/TTNwcgJc7Y/UBLusX20iA/1094.ts
 #EXTINF:-1,Premium Sport HD
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4553.ts
 #EXTINF:-1,Premium Sport 2 HD

@@ -3,7 +3,7 @@
 #EXTM3U
 #EXTINF:-1,---NOVITA
 http://dummylink.com
-#EXTINF:-1,Gomorra 2x09 2x10 (in fondo)
+#EXTINF:-1,Gomorra (in fondo)
 http://dummylink.com
 #EXTINF:-1,SQUADRA ANTIMAFIA (in fondo)
 http://dummylink.com
@@ -1667,12 +1667,6 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/14058.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14059.mkv
 #EXTINF:-1,Zombie Massacre
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14060.mkv
-#EXTINF:-1,-----GOMORRA-----
-http://dummylink.com
-#EXTINF:-1,Gomorra 2x09
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14556.mkv
-#EXTINF:-1,Gomorra 2x10
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14557.mkv
 #EXTINF:-1,---IL CAPO DEI CAPI
 http://dummylink.com
 #EXTINF:-1,Il Capo Dei Capi Episodio 1
@@ -5274,6 +5268,7 @@ http://fullblack.fullapple.me:8000/movie/pablito/pablito/538.mkv
 #EXTINF:-1,Harry Pot. e i doni della morte p.2
 http://fullblack.fullapple.me:8000/movie/pablito/pablito/539.mkv
 #EXTINF:-1,--- SQUADRA ANTIMAFIA
+http://dummylink.com
 http://fullblack.fullapple.me:8000/live/pablito/pablito/1004.ts
 #EXTINF:-1,Squadra Antimafia S01 EP01
 http://fullblack.fullapple.me:8000/movie/pablito/pablito/904.mkv
@@ -5399,4 +5394,26 @@ http://fullblack.fullapple.me:8000/movie/pablito/pablito/963.mkv
 http://fullblack.fullapple.me:8000/movie/pablito/pablito/964.mkv
 #EXTINF:-1,Squadra Antimafia S07 EP10
 http://fullblack.fullapple.me:8000/movie/pablito/pablito/965.mkv
+#EXTINF:-1,--- GOMORRA
+http://dummylink.com
+#EXTINF:-1,Gomorra 2x01
+http://lucky.lts1.net:23000/live/VoEp2lOg9H/a03U9xtA9V/17133.ts
+#EXTINF:-1,Gomorra 2x02
+http://lucky.lts1.net:23000/live/VoEp2lOg9H/a03U9xtA9V/17135.ts
+#EXTINF:-1,Gomorra 2x03
+http://lucky.lts1.net:23000/live/VoEp2lOg9H/a03U9xtA9V/18207.ts
+#EXTINF:-1,Gomorra 2x04
+http://lucky.lts1.net:23000/live/VoEp2lOg9H/a03U9xtA9V/18208.ts
+#EXTINF:-1,Gomorra 2x05
+http://lucky.lts1.net:23000/live/VoEp2lOg9H/a03U9xtA9V/18209.ts
+#EXTINF:-1,Gomorra 2x06
+http://lucky.lts1.net:23000/live/VoEp2lOg9H/a03U9xtA9V/18210.ts
+#EXTINF:-1,Gomorra 2x07
+http://lucky.lts1.net:23000/live/VoEp2lOg9H/a03U9xtA9V/18736.ts
+#EXTINF:-1,Gomorra 2x08
+http://lucky.lts1.net:23000/live/VoEp2lOg9H/a03U9xtA9V/18737.ts
+#EXTINF:-1,Gomorra 2x09
+http://lucky.lts1.net:23000/live/VoEp2lOg9H/a03U9xtA9V/18738.ts
+#EXTINF:-1,Gomorra 2x10
+http://lucky.lts1.net:23000/live/VoEp2lOg9H/a03U9xtA9V/18739.ts
 </List>

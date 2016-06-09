@@ -20,23 +20,23 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/14351.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5044.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4116.ts
 #EXTINF:-1,Rai 2 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5045.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4117.ts
 #EXTINF:-1,Rai 3 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5046.ts
-#EXTINF:-1,Rete 4 HD
-http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4118.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
-#EXTINF:-1,Canale 5 HD
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
+#EXTINF:-1,Rete 4 HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4119.ts
+#EXTINF:-1,Canale 5 HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4120.ts
 #EXTINF:-1,Italia 1 HD
-http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
-#EXTINF:-1,La7 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4186.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4121.ts
+#EXTINF:-1,La 7 HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4122.ts
 #EXTINF:-1 ,Rai 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
 #EXTINF:-1,Iris
@@ -676,57 +676,49 @@ http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4556.ts
 #EXTINF:-1,Top Crime
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4535.ts
 #EXTINF:-1,----------Sky Sport----------
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5113.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4090.ts
 #EXTINF:-1,Sky Sport 24 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4400.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4114.ts
 #EXTINF:-1,Sky Sport 1 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5077.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4092.ts
 #EXTINF:-1,Sky Sport 2 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5078.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4093.ts
 #EXTINF:-1,Sky Sport 3 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4969.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4094.ts
 #EXTINF:-1,Sky Sport Plus HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5080.ts
-#EXTINF:-1,Fox Sports HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5090.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4091.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5082.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4095.ts
 #EXTINF:-1,Sky Sport MotoGP HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5081.ts
-#EXTINF:-1,Eurosport HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5091.ts
-#EXTINF:-1,Eurosport 2 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5092.ts
-#EXTINF:-1,Supertennis HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5079.ts
-#EXTINF:-1,Poker Italia
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5085.ts
-#EXTINF:-1,Class HorseTv
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4348.ts
-#EXTINF:-1,Sport Italia
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5083.ts
-#EXTINF:-1,UnireSat by Teleippica
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4125.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4096.ts
+#EXTINF:-1,Fox Sports HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4099.ts
+#EXTINF:-1,Bike Channel
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/6972.ts
+#EXTINF:-1,POKERItalia24
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/6973.ts
+#EXTINF:-1,RedBull Channel
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/6191.ts
 #EXTINF:-1,----------Sky Calcio----------
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5114.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4100.ts
 #EXTINF:-1,Sky Supercalcio HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4438.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/5227.ts
 #EXTINF:-1,Sky Calcio 1 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5096.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4102.ts
 #EXTINF:-1,Sky Calcio 2 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5097.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4103.ts
 #EXTINF:-1,Sky Calcio 3 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5098.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5099.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5100.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5101.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5102.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4446.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4104.ts
+#EXTINF:-1,Sky Calcio 4
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4105.ts
+#EXTINF:-1,Sky Calcio 5
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4106.ts
+#EXTINF:-1,Sky Calcio 6
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4107.ts
+#EXTINF:-1,Sky Calcio 7
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4108.ts
+#EXTINF:-1,Sky Calcio 8
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4109.ts
 #EXTINF:-1,Sky Calcio 9
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4447.ts
 #EXTINF:-1,Sky Calcio 10
@@ -736,49 +728,39 @@ http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5043.ts
 #EXTINF:-1,Sky Calcio 12
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4163.ts
 #EXTINF:-1,----------Sky Cultura----------
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4619.ts
-#EXTINF:-1,eXplora HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4473.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4078.ts
+#EXTINF:-1,Explora HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4079.ts
 #EXTINF:-1,NationalGeo HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4468.ts
-#EXTINF:-1,NatGeo Wild HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4469.ts
-#EXTINF:-1,NatGeo Wild +1
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4086.ts
-#EXTINF:-1,NatGeo People HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4470.ts
-#EXTINF:-1,Discovery HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4476.ts
-#EXTINF:-1,Discovery +1
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4085.ts
-#EXTINF:-1,Discovery Sci HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4475.ts
-#EXTINF:-1,Discovery Travel HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4474.ts
-#EXTINF:-1,CI Crime Inv HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4477.ts
-#EXTINF:-1,DMAX HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4396.ts
-#EXTINF:-1,DMAX+1
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4395.ts
-#EXTINF:-1,Gambero Rosso HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4472.ts
-#EXTINF:-1,History HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4471.ts
-#EXTINF:-1,Sky Arte HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4467.ts
-#EXTINF:-1,Caccia
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4479.ts
-#EXTINF:-1,Pesca
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4391.ts
-#EXTINF:-1,DoveTv
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4087.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4080.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4082.ts
+#EXTINF:-1,Nat Geo Peaple HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4081.ts
 #EXTINF:-1,Animal Planet
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4480.ts
-#EXTINF:-1,MARCOPOLO
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4337.ts
-#EXTINF:-1,Laeffe
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4346.ts
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4083.ts
+#EXTINF:-1,Discovery HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4084.ts
+#EXTINF:-1,Discovery Science HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4085.ts
+#EXTINF:-1,Discovery T&L HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4086.ts
+#EXTINF:-1,Dmax
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4181.ts
+#EXTINF:-1,Crime Investigation HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4074.ts
+#EXTINF:-1,History HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4088.ts
+#EXTINF:-1,Sky Arte HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4089.ts
+#EXTINF:-1,Gambero Rosso HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4087.ts
+#EXTINF:-1,Caccia e Pesca
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/5810.ts
+#EXTINF:-1,Pesca e Caccia
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/5811.ts
+#EXTINF:-1,Italianfishing TV
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/13506.ts
 #EXTINF:-1,----------Sky Bambini----------
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4618.ts
 #EXTINF:-1,Cartoon-LIVE Masha E Orso

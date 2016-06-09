@@ -97,8 +97,6 @@ http://topiptv.net:5890/live/Robert/Robert/1458.ts
 http://topiptv.net:5890/live/Robert/Robert/1477.ts
 #EXTINF:-1,-------------ArabicNilSat--------------
 http://topiptv.net:5890/live/Robert/Robert/1498.ts
-#EXTINF:-1,•¤¤¤¤¤¤•MAROCAIN•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/980.ts
 #EXTINF:-1,medi1 TV
 http://topiptv.net:5890/live/Robert/Robert/861.ts
 #EXTINF:-1,Al AOULA
@@ -479,8 +477,6 @@ http://topiptv.net:5890/live/Robert/Robert/184.ts
 http://topiptv.net:5890/live/Robert/Robert/183.ts
 #EXTINF:-1,-------------osn--------------
 http://topiptv.net:5890/live/Robert/Robert/1462.ts
-#EXTINF:-1,•¤¤¤¤¤¤•OSN_SHOWTIM•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/852.ts
 #EXTINF:-1,OSN Yahala!
 http://topiptv.net:5890/live/Robert/Robert/32.ts
 #EXTINF:-1,OSN YAhala! Drama
@@ -509,8 +505,6 @@ http://topiptv.net:5890/live/Robert/Robert/40.ts
 http://topiptv.net:5890/live/Robert/Robert/869.ts
 #EXTINF:-1,-------------france--------------
 http://topiptv.net:5890/live/Robert/Robert/1459.ts
-#EXTINF:-1,•¤¤¤¤¤¤•FRANCE•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/855.ts
 #EXTINF:-1,¤¤•¤¤generale¤¤•¤¤
 http://topiptv.net:5890/live/Robert/Robert/1496.ts
 #EXTINF:-1,Tf1 HD
@@ -789,8 +783,6 @@ http://topiptv.net:5890/live/Robert/Robert/1036.ts
 http://topiptv.net:5890/live/Robert/Robert/1463.ts
 #EXTINF:-1,•¤¤¤¤¤¤•SPANISH•¤¤¤¤¤¤•
 http://topiptv.net:5890/live/Robert/Robert/860.ts
-#EXTINF:-1,•¤¤¤*¤¤¤•Generales•¤¤¤*¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/1414.ts
 #EXTINF:-1,LA 1
 http://topiptv.net:5890/live/Robert/Robert/490.ts
 #EXTINF:-1,LA 2
@@ -925,8 +917,6 @@ http://topiptv.net:5890/live/Robert/Robert/981.ts
 http://topiptv.net:5890/live/Robert/Robert/915.ts
 #EXTINF:-1,-------------belgique--------------
 http://topiptv.net:5890/live/Robert/Robert/1489.ts
-#EXTINF:-1,•¤¤¤¤¤¤•BELGIQUE•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/854.ts
 #EXTINF:-1,La Une
 http://topiptv.net:5890/live/Robert/Robert/848.ts
 #EXTINF:-1,La Deux
@@ -949,8 +939,6 @@ http://topiptv.net:5890/live/Robert/Robert/1585.ts
 http://topiptv.net:5890/live/Robert/Robert/1584.ts
 #EXTINF:-1,-------------nederland--------------
 http://topiptv.net:5890/live/Robert/Robert/1464.ts
-#EXTINF:-1,•¤¤¤¤¤¤•NEDERLEND•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/856.ts
 #EXTINF:-1,NPO 1
 http://topiptv.net:5890/live/Robert/Robert/842.ts
 #EXTINF:-1,NPO 2
@@ -1013,10 +1001,6 @@ http://topiptv.net:5890/live/Robert/Robert/1742.ts
 http://topiptv.net:5890/live/Robert/Robert/1706.ts
 #EXTINF:-1,-------------sky deutsh--------------
 http://topiptv.net:5890/live/Robert/Robert/1465.ts
-#EXTINF:-1,•¤¤¤¤¤¤•GERMANY•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/857.ts
-#EXTINF:-1,¤¤¤¤¤¤¤PPV¤¤¤¤¤¤¤
-http://topiptv.net:5890/live/Robert/Robert/1445.ts
 #EXTINF:-1,Sky Select  HD 1
 http://topiptv.net:5890/live/Robert/Robert/830.ts
 #EXTINF:-1,Sky Select  HD 2
@@ -1141,10 +1125,6 @@ http://topiptv.net:5890/live/Robert/Robert/379.ts
 http://topiptv.net:5890/live/Robert/Robert/373.ts
 #EXTINF:-1,-------------sky uk--------------
 http://topiptv.net:5890/live/Robert/Robert/1466.ts
-#EXTINF:-1,•¤¤¤¤¤¤•SKY_UK•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/859.ts
-#EXTINF:-1,¤¤¤¤¤¤Generale¤¤¤¤¤¤
-http://topiptv.net:5890/live/Robert/Robert/1452.ts
 #EXTINF:-1,RTÉ One
 http://topiptv.net:5890/live/Robert/Robert/922.ts
 #EXTINF:-1,RTÉ Two
@@ -1305,10 +1285,6 @@ http://topiptv.net:5890/live/Robert/Robert/283.ts
 http://topiptv.net:5890/live/Robert/Robert/813.ts
 #EXTINF:-1,-------------sky italia--------------
 http://topiptv.net:5890/live/Robert/Robert/1467.ts
-#EXTINF:-1,•¤¤¤¤¤¤•ITALIA•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/858.ts
-#EXTINF:-1,*¤¤¤•¤¤¤*Generale*¤¤¤•¤¤¤*
-http://topiptv.net:5890/live/Robert/Robert/1434.ts
 #EXTINF:-1,Rai 1 HD
 http://topiptv.net:5890/live/Robert/Robert/388.ts
 #EXTINF:-1,Rai 2 HD
@@ -1493,10 +1469,6 @@ http://topiptv.net:5890/live/Robert/Robert/1245.ts
 http://topiptv.net:5890/live/Robert/Robert/1122.ts
 #EXTINF:-1,-------------portugal--------------
 http://topiptv.net:5890/live/Robert/Robert/1468.ts
-#EXTINF:-1,•¤¤¤¤¤¤•PORTUGAL•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/906.ts
-#EXTINF:-1,•¤¤¤•¤¤¤Generale¤¤¤•¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/1440.ts
 #EXTINF:-1,RTP 1 HD
 http://topiptv.net:5890/live/Robert/Robert/890.ts
 #EXTINF:-1,RTP 2 HD
@@ -1627,8 +1599,6 @@ http://topiptv.net:5890/live/Robert/Robert/881.ts
 http://topiptv.net:5890/live/Robert/Robert/898.ts
 #EXTINF:-1,-------------albanian--------------
 http://topiptv.net:5890/live/Robert/Robert/1469.ts
-#EXTINF:-1,•¤¤¤¤¤¤•ALBANIAN•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/975.ts
 #EXTINF:-1,RTK 1
 http://topiptv.net:5890/live/Robert/Robert/1792.ts
 #EXTINF:-1,TVSH
@@ -1697,8 +1667,6 @@ http://topiptv.net:5890/live/Robert/Robert/1327.ts
 http://topiptv.net:5890/live/Robert/Robert/1328.ts
 #EXTINF:-1,-------------indian--------------
 http://topiptv.net:5890/live/Robert/Robert/1470.ts
-#EXTINF:-1,•¤¤¤¤¤¤•INDIAN•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/976.ts
 #EXTINF:-1,EE TV
 http://topiptv.net:5890/live/Robert/Robert/946.ts
 #EXTINF:-1,Zee TV
@@ -1739,8 +1707,6 @@ http://topiptv.net:5890/live/Robert/Robert/948.ts
 http://topiptv.net:5890/live/Robert/Robert/944.ts
 #EXTINF:-1,-------------turkish--------------
 http://topiptv.net:5890/live/Robert/Robert/1471.ts
-#EXTINF:-1,•¤¤¤¤¤¤•TURKISH•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/1095.ts
 #EXTINF:-1,Star TV
 http://topiptv.net:5890/live/Robert/Robert/1298.ts
 #EXTINF:-1,Fox  HD
@@ -1811,8 +1777,6 @@ http://topiptv.net:5890/live/Robert/Robert/1296.ts
 http://topiptv.net:5890/live/Robert/Robert/1295.ts
 #EXTINF:-1,-------------arena--------------
 http://topiptv.net:5890/live/Robert/Robert/1473.ts
-#EXTINF:-1,•¤¤¤¤¤¤•ArenaSports•¤¤¤¤¤¤•
-http://topiptv.net:5890/live/Robert/Robert/1094.ts
 #EXTINF:-1,Arena Sports 1
 http://topiptv.net:5890/live/Robert/Robert/1072.ts
 #EXTINF:-1,Arena Sports 2

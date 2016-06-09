@@ -3,6 +3,86 @@
 #EXTM3U
 #EXTINF:-1,----UK
 http://dummylink.com
+#EXTINF:-1,Sky1 HD
+http://topiptv.net:5890/live/Robert/Robert/266.ts
+#EXTINF:-1,Sky2
+http://topiptv.net:5890/live/Robert/Robert/267.ts
+#EXTINF:-1,Film4 HD
+http://topiptv.net:5890/live/Robert/Robert/1086.ts
+#EXTINF:-1,Sky Arts 1
+http://topiptv.net:5890/live/Robert/Robert/1254.ts
+#EXTINF:-1,Sky Select HD
+http://topiptv.net:5890/live/Robert/Robert/257.ts
+#EXTINF:-1,Sky Movies Premiere
+http://topiptv.net:5890/live/Robert/Robert/264.ts
+#EXTINF:-1,UK:SkyMoviesGreat Modern
+http://topiptv.net:5890/live/Robert/Robert/1207.ts
+#EXTINF:-1,Sky Movies Disney HD
+http://topiptv.net:5890/live/Robert/Robert/1253.ts
+#EXTINF:-1,Sky Moveis Drama
+http://topiptv.net:5890/live/Robert/Robert/258.ts
+#EXTINF:-1,UK:DinsenyChannelUK
+http://topiptv.net:5890/live/Robert/Robert/1090.ts
+#EXTINF:-1,Sky Disney HD
+http://topiptv.net:5890/live/Robert/Robert/282.ts
+#EXTINF:-1,Sky Movies Comedy
+http://topiptv.net:5890/live/Robert/Robert/806.ts
+#EXTINF:-1,Sky Atlantic HD
+http://topiptv.net:5890/live/Robert/Robert/261.ts
+#EXTINF:-1,Sky ScFi/HorHD
+http://topiptv.net:5890/live/Robert/Robert/263.ts
+#EXTINF:-1,Sky Movies Showcase
+http://topiptv.net:5890/live/Robert/Robert/1087.ts
+#EXTINF:-1,Sky Movies Family
+http://topiptv.net:5890/live/Robert/Robert/1088.ts
+#EXTINF:-1,Sky Movies Action
+http://topiptv.net:5890/live/Robert/Robert/1089.ts
+#EXTINF:-1,Sky Living
+http://topiptv.net:5890/live/Robert/Robert/1085.ts
+#EXTINF:-1,Sky Movies Thriller
+http://topiptv.net:5890/live/Robert/Robert/260.ts
+#EXTINF:-1,Sky True Movies
+http://topiptv.net:5890/live/Robert/Robert/271.ts
+#EXTINF:-1,Sky True Movies 2
+http://topiptv.net:5890/live/Robert/Robert/272.ts
+#EXTINF:-1,Dave
+http://topiptv.net:5890/live/Robert/Robert/269.ts
+#EXTINF:-1,UK:Fox
+http://topiptv.net:5890/live/Robert/Robert/1208.ts
+#EXTINF:-1,uk:Syfy
+http://topiptv.net:5890/live/Robert/Robert/265.ts
+#EXTINF:-1,Uk:NatGeoGraphic
+http://topiptv.net:5890/live/Robert/Robert/286.ts
+#EXTINF:-1,UK:NationalGeography-Wild
+http://topiptv.net:5890/live/Robert/Robert/807.ts
+#EXTINF:-1,Uk:DiscoverySc
+http://topiptv.net:5890/live/Robert/Robert/291.ts
+#EXTINF:-1,Uk:DiscoveryHistory
+http://topiptv.net:5890/live/Robert/Robert/292.ts
+#EXTINF:-1,Disc. Turbo
+http://topiptv.net:5890/live/Robert/Robert/1106.ts
+#EXTINF:-1,Uk:DiscoveryCI
+http://topiptv.net:5890/live/Robert/Robert/290.ts
+#EXTINF:-1,Discovery HD
+http://topiptv.net:5890/live/Robert/Robert/289.ts
+#EXTINF:-1,Uk:DiscoveryWorld
+http://topiptv.net:5890/live/Robert/Robert/1260.ts
+#EXTINF:-1,Uk:AnimalPlanet
+http://topiptv.net:5890/live/Robert/Robert/288.ts
+#EXTINF:-1,Nick Jr.
+http://topiptv.net:5890/live/Robert/Robert/1084.ts
+#EXTINF:-1,Nicktoons
+http://topiptv.net:5890/live/Robert/Robert/284.ts
+#EXTINF:-1,nickelodeon
+http://topiptv.net:5890/live/Robert/Robert/285.ts
+#EXTINF:-1,Disney Junior
+http://topiptv.net:5890/live/Robert/Robert/283.ts
+#EXTINF:-1,Cartoon Netwrk
+http://topiptv.net:5890/live/Robert/Robert/813.ts
+#EXTINF:-1,Good Food
+http://topiptv.net:5890/live/Robert/Robert/1213.ts
+#EXTINF:-1,Food Network
+http://topiptv.net:5890/live/Robert/Robert/1212.ts
 #EXTINF:-1,BBC 1 HD
 http://mainstream.dyndns.tv:8000/live/TTNwcgJc7Y/UBLusX20iA/1162.ts
 #EXTINF:-1,BBC 2 HD

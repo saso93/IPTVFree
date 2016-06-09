@@ -523,6 +523,160 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
+#EXTINF:-1,----------Premium Cinema----------
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4189.ts
+#EXTINF:-1,Premium Cinema HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4126.ts
+#EXTINF:-1,Premium Cinema +24
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4127.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4128.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4129.ts
+#EXTINF:-1,Premium Emotion
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4130.ts
+#EXTINF:-1,Premium Energy
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4131.ts
+#EXTINF:-1,Premium Comedy
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4132.ts
+#EXTINF:-1,Premium Studio Universal
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4133.ts
+#EXTINF:-1,Rai Movie
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4134.ts
+#EXTINF:-1,Iris
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4135.ts
+#EXTINF:-1,----------Premium Intrattenimento----------
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4136.ts
+#EXTINF:-1,Premium Action HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4137.ts
+#EXTINF:-1,Premium Action +24
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4138.ts
+#EXTINF:-1,Premium Crime HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4139.ts
+#EXTINF:-1,Premium Crime +24
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4140.ts
+#EXTINF:-1,Premium Joy
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4141.ts
+#EXTINF:-1,Premium Stories
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4142.ts
+#EXTINF:-1,Rai Premium
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4143.ts
+#EXTINF:-1,SplitTV
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/16412.ts
+#EXTINF:-1,TV 8
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/16410.ts
+#EXTINF:-1,La 5
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4147.ts
+#EXTINF:-1,La 7d
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4153.ts
+#EXTINF:-1,Fine Living
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4150.ts
+#EXTINF:-1,Rai 4
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4144.ts
+#EXTINF:-1,Rai 5
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4145.ts
+#EXTINF:-1,Top Crime
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4146.ts
+#EXTINF:-1,Mediaset Italia Due
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4148.ts
+#EXTINF:-1,Mediaset Extra
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4149.ts
+#EXTINF:-1,Cielo HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4151.ts
+#EXTINF:-1,Giallo
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4155.ts
+#EXTINF:-1,TV 2000
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4156.ts
+#EXTINF:-1,RTV San Marino
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4270.ts
+#EXTINF:-1,CBL classic
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4269.ts
+#EXTINF:-1,----------Premium Sport----------
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4159.ts
+#EXTINF:-1,Premium Sport 1
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4160.ts
+#EXTINF:-1,Premium Sport 1 Full HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/16025.ts
+#EXTINF:-1,Premium Sport 2
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4161.ts
+#EXTINF:-1,Premium Sport 2 Full HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/16024.ts
+#EXTINF:-1,Premium Calcio
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4162.ts
+#EXTINF:-1,Premium Calcio 1
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4163.ts
+#EXTINF:-1,Premium Calcio 2
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4164.ts
+#EXTINF:-1,Premium Calcio 3
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4165.ts
+#EXTINF:-1,Premium Calcio 4
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4166.ts
+#EXTINF:-1,Premium Calcio 5
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4167.ts
+#EXTINF:-1,Premium Calcio 6
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4168.ts
+#EXTINF:-1,Premium Calcio 7
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4169.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4172.ts
+#EXTINF:-1,Eurosport
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4170.ts
+#EXTINF:-1,Eurosport 2
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4171.ts
+#EXTINF:-1,Supertennis HD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4176.ts
+#EXTINF:-1,Sport Italia
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4173.ts
+#EXTINF:-1,Nuvolari
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4174.ts
+#EXTINF:-1,----------Premium Cultura----------
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4177.ts
+#EXTINF:-1,Focus
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4180.ts
+#EXTINF:-1,Alice
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4182.ts
+#EXTINF:-1,Marco Polo
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4183.ts
+#EXTINF:-1,Rai Scuola
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4184.ts
+#EXTINF:-1,Rai Senato
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4185.ts
+#EXTINF:-1,----------Premium News----------
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4186.ts
+#EXTINF:-1,Rai News 24
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4187.ts
+#EXTINF:-1,TgCom 24
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4188.ts
+#EXTINF:-1,MP: TG NORBA
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4257.ts
+#EXTINF:-1,----------Bambini----------
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4045.ts
+#EXTINF:-1,Boing
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4053.ts
+#EXTINF:-1,Carton Network
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4050.ts
+#EXTINF:-1,Cartoonito
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4054.ts
+#EXTINF:-1,Disney Channel
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4046.ts
+#EXTINF:-1,Disney Junior
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4048.ts
+#EXTINF:-1,Disney XD
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4049.ts
+#EXTINF:-1,Frisbee
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4057.ts
+#EXTINF:-1,K2
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4056.ts
+#EXTINF:-1,Rai Gulp
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4051.ts
+#EXTINF:-1,Rai Yoyo
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4052.ts
+#EXTINF:-1,Man-Ga
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/6974.ts
+#EXTINF:-1,Super!
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/4055.ts
+#EXTINF:-1,TeenNick
+http://iptv-company.dyndns.org:19553/live/ciotto/ciotto/16411.ts
 #EXTINF:-1,----------Mediaset Premium----------
 http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/4613.ts
 #EXTINF:-1,Premium Cinema HD

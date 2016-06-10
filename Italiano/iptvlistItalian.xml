@@ -3,10 +3,6 @@
 #EXTM3U
 #EXTINF:-1,---NOVITA
 http://dummylink.com
-#EXTINF:-1,Categoria Horror (in fondo)
-http://dummylink.com
-#EXTINF:-1,Categoria Azione (in fondo)
-http://dummylink.com
 #EXTINF:-1,Gomorra (in fondo)
 http://dummylink.com
 #EXTINF:-1,Dexter (in fondo)
@@ -1230,7 +1226,7 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/11612.mkv
 #EXTINF:-1,Sarà il mio tipo
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13837.mkv
 #EXTINF:-1,-----HORROR-----
-
+http://dummylink.com
 #EXTINF:-1,Dario Argento Il Gatto a Nove Code
 http://gtatemvod.com:43100/movie/viper/viper/4402.mkv
 #EXTINF:-1,Dario Argento Suspiria
@@ -1755,140 +1751,6 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/13204.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13834.mkv
 #EXTINF:-1,We Are Your Friends 2015
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14459.mkv
-#EXTINF:-1,-----AZIONE
-http://dummylink.com
-#EXTINF:-1,A Bronx Tale Robert De Niro
-http://gtatemvod.com:43100/movie/viper/viper/12217.mkv
-#EXTINF:-1,Anarchia La Notte del Giudizio
-http://gtatemvod.com:43100/movie/viper/viper/12994.mkv
-#EXTINF:-1,Arma Letale 4
-http://gtatemvod.com:43100/movie/viper/viper/3439.mkv
-#EXTINF:-1,Arma Letale 3
-http://gtatemvod.com:43100/movie/viper/viper/3438.mkv
-#EXTINF:-1,Arma Letale 2
-http://gtatemvod.com:43100/movie/viper/viper/3437.mkv
-#EXTINF:-1,Arma Letale
-http://gtatemvod.com:43100/movie/viper/viper/3440.mkv
-#EXTINF:-1,Arnold Schwarzenegger Commando 1985
-http://gtatemvod.com:43100/movie/viper/viper/11617.mkv
-#EXTINF:-1,Attacco Al Potere Parte 1
-http://gtatemvod.com:43100/movie/viper/viper/2520.mkv
-#EXTINF:-1,Attacco Al Potere Parte 2
-http://gtatemvod.com:43100/movie/viper/viper/2521.mkv
-#EXTINF:-1,Cobra
-http://gtatemvod.com:43100/movie/viper/viper/4228.mkv
-#EXTINF:-1,Contagious Epidemia Mortale
-http://gtatemvod.com:43100/movie/viper/viper/4266.mkv
-#EXTINF:-1,Descendants 2015
-http://gtatemvod.com:43100/movie/viper/viper/13187.mkv
-#EXTINF:-1,Fast And Furious 7
-http://gtatemvod.com:43100/movie/viper/viper/4207.mkv
-#EXTINF:-1,Hitman Agent 47 2015
-http://gtatemvod.com:43100/movie/viper/viper/14304.mkv
-#EXTINF:-1,Ip Man 3
-http://gtatemvod.com:43100/movie/viper/viper/14247.mkv
-#EXTINF:-1,Ip Man III
-http://gtatemvod.com:43100/movie/viper/viper/2533.mkv
-#EXTINF:-1,Joker Wild Card
-http://gtatemvod.com:43100/movie/viper/viper/13959.mkv
-#EXTINF:-1,L Evocazione
-http://gtatemvod.com:43100/movie/viper/viper/14305.mkv
-#EXTINF:-1,Maze Runner Il Labirinto
-http://gtatemvod.com:43100/movie/viper/viper/2243.mkv
-#EXTINF:-1,Milano Palermo il ritorno
-http://gtatemvod.com:43100/movie/viper/viper/12803.mkv
-#EXTINF:-1,Napoli Palermo New York Il triangolo della camorra
-http://gtatemvod.com:43100/movie/viper/viper/4376.mkv
-#EXTINF:-1,Nato il 4 luglio
-http://gtatemvod.com:43100/movie/viper/viper/14070.mkv
-#EXTINF:-1,Operazione UNCLE
-http://gtatemvod.com:43100/movie/viper/viper/14306.mkv
-#EXTINF:-1,Prisoners
-http://gtatemvod.com:43100/movie/viper/viper/14307.mkv
-#EXTINF:-1,Rhinestone Nick lo scatenato
-http://gtatemvod.com:43100/movie/viper/viper/13131.mkv
-#EXTINF:-1,RoboCop
-http://gtatemvod.com:43100/movie/viper/viper/4278.mkv
-#EXTINF:-1,Robocop 2
-http://gtatemvod.com:43100/movie/viper/viper/4279.mkv
-#EXTINF:-1,Robocop 3
-http://gtatemvod.com:43100/movie/viper/viper/4280.mkv
-#EXTINF:-1,Tomorrowland  il mondo di domani
-http://gtatemvod.com:43100/movie/viper/viper/14311.mkv
-#EXTINF:-1,Tracers
-http://gtatemvod.com:43100/movie/viper/viper/13964.mkv
-#EXTINF:-1,Safe House Nessuno e al sicuro
-http://gtatemvod.com:43100/movie/viper/viper/14308.mkv
-#EXTINF:-1,Salvate il soldato Ryan
-http://gtatemvod.com:43100/movie/viper/viper/12738.mkv
-#EXTINF:-1,San Andreas
-http://gtatemvod.com:43100/movie/viper/viper/11640.mkv
-#EXTINF:-1,Sicario 2015
-http://gtatemvod.com:43100/movie/viper/viper/14310.mkv
-#EXTINF:-1,Survivor
-http://gtatemvod.com:43100/movie/viper/viper/3100.mkv
-#EXTINF:-1,Sylvester Stallone Sorvegliato Speciale
-http://gtatemvod.com:43100/movie/viper/viper/4404.mkv
-#EXTINF:-1,The Wolverine Extended
-http://gtatemvod.com:43100/movie/viper/viper/1203.mkv
-#EXTINF:-1,These Final Hours
-http://gtatemvod.com:43100/movie/viper/viper/5663.mkv
-#EXTINF:-1,Tornado La Furia del Diavolo
-http://gtatemvod.com:43100/movie/viper/viper/12998.mkv
-#EXTINF:-1,Transcendence
-http://gtatemvod.com:43100/movie/viper/viper/4359.mkv
-#EXTINF:-1,The Lazarus Effect
-http://gtatemvod.com:43100/movie/viper/viper/11648.mkv
-#EXTINF:-1,Vehicle 19
-http://gtatemvod.com:43100/movie/viper/viper/1210.mkv
-#EXTINF:-1,007 Agente 007 Si vive solo due volte
-http://gtatemvod.com:43100/movie/viper/viper/4241.mkv
-#EXTINF:-1,007 Dr No
-http://gtatemvod.com:43100/movie/viper/viper/4242.mkv
-#EXTINF:-1,007 GoldenEye
-http://gtatemvod.com:43100/movie/viper/viper/4239.mkv
-#EXTINF:-1,007 Quantum of solace
-http://gtatemvod.com:43100/movie/viper/viper/4238.mkv
-#EXTINF:-1,007 Moonraker operazione spazio
-http://gtatemvod.com:43100/movie/viper/viper/4240.mkv
-#EXTINF:-1,007 Skyfall
-http://gtatemvod.com:43100/movie/viper/viper/1101.mkv
-#EXTINF:-1,007 Si Vive Solo Due Volte
-http://gtatemvod.com:43100/movie/viper/viper/4243.mkv
-#EXTINF:-1,007 Thunderball Operazione tuono
-http://gtatemvod.com:43100/movie/viper/viper/4244.mkv
-#EXTINF:-1,-----HORROR-----
-http://dummylink.com
-#EXTINF:-1,Dario Argento Il Gatto a Nove Code
-http://gtatemvod.com:43100/movie/Augusto/Augusto/4402.mkv
-#EXTINF:-1,Dario Argento Suspiria
-http://gtatemvod.com:43100/movie/Augusto/Augusto/4403.mkv
-#EXTINF:-1,Dead Rising: Watchtower
-http://gtatemvod.com:43100/movie/Augusto/Augusto/11621.mkv
-#EXTINF:-1,I 13 Spettri
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14061.mkv
-#EXTINF:-1,Jeepers Creepers - Il Canto del Diavolo
-http://gtatemvod.com:43100/movie/Augusto/Augusto/12969.mkv
-#EXTINF:-1,Necropolis la citta dei morti
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14054.mkv
-#EXTINF:-1,Premonitions
-http://gtatemvod.com:43100/movie/Augusto/Augusto/13910.mkv
-#EXTINF:-1,Prossima fermata l inferno
-http://gtatemvod.com:43100/movie/Augusto/Augusto/13966.avi
-#EXTINF:-1,The gallows - L  esecuzione
-http://gtatemvod.com:43100/movie/Augusto/Augusto/13174.mkv
-#EXTINF:-1,The last exorcism Liberaci dal male
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14055.mkv
-#EXTINF:-1,The Woman in Black
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14056.mkv
-#EXTINF:-1,Wolf Creek
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14057.mkv
-#EXTINF:-1,Zombie Apocalypse
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14058.mkv
-#EXTINF:-1,Zombie Honeymoon
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14059.mkv
-#EXTINF:-1,Zombie Massacre
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14060.mkv
 #EXTINF:-1,---IL CAPO DEI CAPI
 http://dummylink.com
 #EXTINF:-1,Il Capo Dei Capi Episodio 1

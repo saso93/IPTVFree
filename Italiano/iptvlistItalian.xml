@@ -20,23 +20,23 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/14351.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2399.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5044.ts
 #EXTINF:-1,Rai 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2400.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5045.ts
 #EXTINF:-1,Rai 3 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2401.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5046.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3813.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5047.ts
 #EXTINF:-1,Canale 5 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3811.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5049.ts
 #EXTINF:-1,Italia 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3812.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5048.ts
 #EXTINF:-1,La 7 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3814.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4186.ts
 #EXTINF:-1 ,Rai 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
 #EXTINF:-1,Iris
@@ -523,524 +523,474 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,-------- SKY CINEMA --------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/1032.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3806.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/7436.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4148.ts
-#EXTINF:-1,Sky Cinema  24 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18690.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3820.ts
-#EXTINF:-1,Sky Cinema Hits HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18691.ts
-#EXTINF:-1,SKY Cinema Family HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3237.ts
-#EXTINF:-1,Sky Cinema Family HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18693.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3807.ts
-#EXTINF:-1,Sky Cinema Max HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18692.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3821.ts
-#EXTINF:-1,Sky Cinema Passion HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18694.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3816.ts
-#EXTINF:-1,Sky Cinema Cult HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18695.ts
-#EXTINF:-1,Sky CInema Classic HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3663.ts
-#EXTINF:-1,Sky Cinema Classic HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18697.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3236.ts
-#EXTINF:-1,Sky Cinema Comedy  HD +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18696.ts
-#EXTINF:-1,---- SKY CINEMA ADSL LENTA ---
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17974.ts
-#EXTINF:-1,Sky Cinema 1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13721.ts
-#EXTINF:-1,Sky Cinema  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13723.ts
-#EXTINF:-1,Sky Cinema  +24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13722.ts
-#EXTINF:-1,Sky Cinema  Hits
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/14014.ts
-#EXTINF:-1,Sky Cinema Family
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13717.ts
-#EXTINF:-1,Sky Cinema Family  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13716.ts
-#EXTINF:-1,Sky Cinema Max
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13715.ts
-#EXTINF:-1,Sky Cinema Max  1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13714.ts
-#EXTINF:-1,Sky Cinema Passion
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13712.ts
-#EXTINF:-1,Sky Cinema Cult
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13718.ts
-#EXTINF:-1,Sky Cinema Classic
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13720.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13719.ts
-#EXTINF:-1,---- PREMIUM CINEMA
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17975.ts
-#EXTINF:-1,Premium Cinema 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2450.ts
-#EXTINF:-1,Premium Cinema 1 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18720.ts
-#EXTINF:-1,Premium Cinema  24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2518.ts
-#EXTINF:-1,Premium Cinema 1 24  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18719.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2517.ts
-#EXTINF:-1,Premium Cinema 2 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18722.ts
-#EXTINF:-1,Premium Cinema 2  24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2519.ts
-#EXTINF:-1,Premium Cinema 2  24  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18721.ts
-#EXTINF:-1,Paramount Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13608.ts
-#EXTINF:-1,Premium Cinema Action  24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2451.ts
-#EXTINF:-1,Premium Crime HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2522.ts
-#EXTINF:-1,Premium Crime HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18725.ts
-#EXTINF:-1,Premium Crime  24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2455.ts
-#EXTINF:-1,Premium Crime 24  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18724.ts
-#EXTINF:-1,Premium Action HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2521.ts
-#EXTINF:-1,Premium Action +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18717.ts
-#EXTINF:-1,Premium Stories
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2461.ts
-#EXTINF:-1,Premium Stories  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18733.ts
-#EXTINF:-1,Premium Stories + 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13141.ts
-#EXTINF:-1,Premium Stories  24  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18734.ts
-#EXTINF:-1,Premium Joy
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2460.ts
-#EXTINF:-1,Premium Joy  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18729.ts
-#EXTINF:-1,Premium Joy + 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13140.ts
-#EXTINF:-1,Premium Joy 24  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18730.ts
-#EXTINF:-1,Premium Studio Universal
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2462.ts
-#EXTINF:-1,Premium Cinema Energy
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2454.ts
-#EXTINF:-1,Premium Energy  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18728.ts
-#EXTINF:-1,Premium Cinema Emotion
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2453.ts
-#EXTINF:-1,Premium Emotion  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18727.ts
-#EXTINF:-1,Premium Cinema Comedy
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2452.ts
-#EXTINF:-1,Premium Comedy  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18723.ts
-#EXTINF:-1,-------SKY INTRATTENIMENTO -------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/1039.ts
-#EXTINF:-1,Sky 3D
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12007.ts
-#EXTINF:-1,Sky Uno HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3808.ts
-#EXTINF:-1,Sky Uno HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18705.ts
-#EXTINF:-1,Sky Atlantic HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3805.ts
-#EXTINF:-1,Sky Atlantic HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18711.ts
-#EXTINF:-1,Sky Atlantic HD  +2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18716.ts
-#EXTINF:-1,Sposa HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16158.ts
-#EXTINF:-1,Fox HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3801.ts
-#EXTINF:-1,Fox HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18707.ts
-#EXTINF:-1,Fox Life HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3802.ts
-#EXTINF:-1,Fox Life HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18708.ts
-#EXTINF:-1,Fox Crime HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2424.ts
-#EXTINF:-1,Fox Crime HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18709.ts
-#EXTINF:-1,Fox Comedy HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2423.ts
-#EXTINF:-1,Fox Animation HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2509.ts
-#EXTINF:-1,AXN HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2411.ts
-#EXTINF:-1,Axn HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18710.ts
-#EXTINF:-1,AXN Sci Fi
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2527.ts
-#EXTINF:-1,Crime Investigation HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3649.ts
-#EXTINF:-1,Comedy Central
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17130.ts
-#EXTINF:-1,Real Time +1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12834.ts
-#EXTINF:-1,Dmax
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2417.ts
-#EXTINF:-1,Real Time
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2468.ts
-#EXTINF:-1,Dee Jay Tv  1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12838.ts
-#EXTINF:-1,Man-ga
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12210.ts
-#EXTINF:-1,Iris
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2514.ts
-#EXTINF:-1,Giallo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3223.ts
-#EXTINF:-1,Cielo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2414.ts
-#EXTINF:-1,Lei
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2526.ts
-#EXTINF:-1,TV 2000
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2515.ts
-#EXTINF:-1,Rai Premium
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2466.ts
+#EXTINF:-1,----------Sky Cinema----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5112.ts
+#EXTINF:-1,Cinema 1 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5053.ts
+#EXTINF:-1,Cinema +1 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5054.ts
+#EXTINF:-1,Cinema +24 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5062.ts
+#EXTINF:-1,Cinema Hits HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5057.ts
+#EXTINF:-1,CinemaFamilyHD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5058.ts
+#EXTINF:-1,CinemaFamily+1HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5059.ts
+#EXTINF:-1,Cinema Classics HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5061.ts
+#EXTINF:-1,Cinema Passion HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5064.ts
+#EXTINF:-1,Cinema Comedy HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5060.ts
+#EXTINF:-1,Cinema Max HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5055.ts
+#EXTINF:-1,Cinema Max +1 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5056.ts
+#EXTINF:-1,Cinema Cult HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5063.ts
 #EXTINF:-1,Rai Movie
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2464.ts
-#EXTINF:-1,Rai 4
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2407.ts
-#EXTINF:-1,Rai 5
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2408.ts
-#EXTINF:-1,Mediaset Extra
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2434.ts
-#EXTINF:-1,La 7d
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2431.ts
-#EXTINF:-1,La 5
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2516.ts
-#EXTINF:-1,Top Crime
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2489.ts
-#EXTINF:-1,Italia 2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2429.ts
-#EXTINF:-1,SRF Info
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2511.ts
-#EXTINF:-1,Tv Globo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2499.ts
-#EXTINF:-1,Teleticino HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2500.ts
-#EXTINF:-1,M6 HD FR
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2510.ts
-#EXTINF:-1,RTS 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2505.ts
-#EXTINF:-1,RTS 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2506.ts
-#EXTINF:-1,-------- SKY CULTURA --------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/1036.ts
-#EXTINF:-1,National Geographic HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2437.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2439.ts
-#EXTINF:-1,Animal Planet
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2410.ts
-#EXTINF:-1,Nat Geo People HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2438.ts
-#EXTINF:-1,Discovery HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3824.ts
-#EXTINF:-1,Discovery Science HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3825.ts
-#EXTINF:-1,Discovery T e L HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3817.ts
-#EXTINF:-1,Dmax +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12902.ts
-#EXTINF:-1,Classica HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17131.ts
-#EXTINF:-1,Caccia e Pesca
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3823.ts
-#EXTINF:-1,Pesca e Caccia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12197.ts
-#EXTINF:-1,Italia Fishing
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16160.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4492.ts
+#EXTINF:-1,Paramount Channel HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5166.ts
+#EXTINF:-1,Dvs Cinema
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5065.ts
+#EXTINF:-1,Emotion Napoli
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5066.ts
+#EXTINF:-1,Gomorra
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5585.ts
+#EXTINF:-1,DVs Il trono di Spade
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5586.ts
+#EXTINF:-1,----------Sky Intrattenimento----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4635.ts
+#EXTINF:-1,Sky Uno HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4376.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4377.ts
+#EXTINF:-1,Fox HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4380.ts
+#EXTINF:-1,Fox +1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4385.ts
+#EXTINF:-1,Fox life HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4378.ts
+#EXTINF:-1,Fox Life +1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4379.ts
+#EXTINF:-1,Fox Crime HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4381.ts
+#EXTINF:-1,Fox Crime +1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4382.ts
+#EXTINF:-1,Fox Animation HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4384.ts
+#EXTINF:-1,Fox Comedy HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4383.ts
+#EXTINF:-1,Sky Atlantic HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4388.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4389.ts
+#EXTINF:-1,AXN HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4387.ts
+#EXTINF:-1,AXN +1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4165.ts
+#EXTINF:-1,AXN Sci-Fi
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4398.ts
+#EXTINF:-1,Comedy Central
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4386.ts
+#EXTINF:-1,Real Time HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4390.ts
+#EXTINF:-1,Cielo HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4397.ts
+#EXTINF:-1,MTV HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4089.ts
 #EXTINF:-1,Focus
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2422.ts
-#EXTINF:-1,History HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4159.ts
-#EXTINF:-1,Explora HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4158.ts
-#EXTINF:-1,Sky Arte HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2524.ts
-#EXTINF:-1,Gambero Rosso HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3658.ts
-#EXTINF:-1,Alice
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2409.ts
-#EXTINF:-1,Fine Living
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2421.ts
-#EXTINF:-1,Marco Polo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2433.ts
-#EXTINF:-1,Leonardo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2432.ts
-#EXTINF:-1,E! Enternament
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2418.ts
-#EXTINF:-1,Rai Storia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/14099.ts
-#EXTINF:-1,Rai Scuola
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2496.ts
-#EXTINF:-1,Rai Senato
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2497.ts
-#EXTINF:-1,--------- SKY BAMBINI ---------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/6638.ts
-#EXTINF:-1,Dea Kids
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13701.ts
-#EXTINF:-1,Boing
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/14082.ts
-#EXTINF:-1,Sky Disney Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16161.ts
-#EXTINF:-1,Premium Disney Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2457.ts
-#EXTINF:-1,Premium Disney Junior
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3645.ts
-#EXTINF:-1,Premium Disney Junior  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18726.ts
-#EXTINF:-1,Premium Disney +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2458.ts
-#EXTINF:-1,Disney XD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2416.ts
-#EXTINF:-1,Cartoonito
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2413.ts
-#EXTINF:-1,K2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2430.ts
-#EXTINF:-1,Frisbee
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2427.ts
-#EXTINF:-1,Rai Gulp
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2463.ts
-#EXTINF:-1,Super!
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2487.ts
-#EXTINF:-1,Rai Yoyo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2498.ts
-#EXTINF:-1,Nikeleodeon
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8663.ts
-#EXTINF:-1,Premium Carton Network
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2449.ts
-#EXTINF:-1,Premium Cartoon Network  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18718.ts
-#EXTINF:-1,-------- NOTIZIE -------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/6640.ts
-#EXTINF:-1,Sky TG 24 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2485.ts
-#EXTINF:-1,Rai News 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2465.ts
-#EXTINF:-1,TgCom 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2488.ts
-#EXTINF:-1,TG Norba 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/7493.ts
-#EXTINF:-1,Gazzetta tv
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/7494.ts
-#EXTINF:-1,Videolina
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9286.ts
-#EXTINF:-1,TV luna
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9289.ts
-#EXTINF:-1,Telemia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9284.ts
-#EXTINF:-1,Antenna Sicilia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9281.ts
-#EXTINF:-1,R3
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9283.ts
-#EXTINF:-1,Italia 7 gold
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9280.ts
-#EXTINF:-1,Clb classic Italia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9282.ts
-#EXTINF:-1,Canale 8
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9288.ts
-#EXTINF:-1,Canale 21
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9287.ts
-#EXTINF:-1,Sardegna 1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9285.ts
-#EXTINF:-1,-------- SKY SPORT --------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/1033.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4558.ts
+#EXTINF:-1,GIALLO
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4394.ts
+#EXTINF:-1,ALICE
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4432.ts
+#EXTINF:-1,Fashion TV
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4246.ts
+#EXTINF:-1,TV2000
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4137.ts
+#EXTINF:-1,Sky 3D
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4375.ts
+#EXTINF:-1,Lei
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4392.ts
+#EXTINF:-1,Iris
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4561.ts
+#EXTINF:-1,Mediaset Italia Due
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4560.ts
+#EXTINF:-1,La 5
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4559.ts
+#EXTINF:-1,Mediaset EXTRA
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4556.ts
+#EXTINF:-1,Top Crime
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4535.ts
+#EXTINF:-1,----------Sky Sport----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5113.ts
 #EXTINF:-1,Sky Sport 24 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2483.ts
-#EXTINF:-1,Sky Sport 24 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18698.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8640.ts
-#EXTINF:-1,Sky Sport Plus HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18702.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4400.ts
 #EXTINF:-1,Sky Sport 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2480.ts
-#EXTINF:-1,Sky Sport 1 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18699.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5077.ts
 #EXTINF:-1,Sky Sport 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2481.ts
-#EXTINF:-1,Sky Sport 2 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18700.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5078.ts
 #EXTINF:-1,Sky Sport 3 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2482.ts
-#EXTINF:-1,Sky Sport 3 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18701.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4969.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5080.ts
 #EXTINF:-1,Fox Sports HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3109.ts
-#EXTINF:-1,Fox Sport HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18706.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5090.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2478.ts
-#EXTINF:-1,Sky Sport F1 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18703.ts
-#EXTINF:-1,Sky Moto GP HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2479.ts
-#EXTINF:-1,Sky Sport MotoGP HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18704.ts
-#EXTINF:-1,Class Horse Tv
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16159.ts
-#EXTINF:-1,Eurosport 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4156.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5082.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5081.ts
+#EXTINF:-1,Eurosport HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5091.ts
 #EXTINF:-1,Eurosport 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4157.ts
-#EXTINF:-1,Sport Italia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/7156.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13609.ts
-#EXTINF:-1,Rai Sport 1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2467.ts
-#EXTINF:-1,Rai Sport 2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8664.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5092.ts
 #EXTINF:-1,Supertennis HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2513.ts
-#EXTINF:-1,Motor TV
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3226.ts
-#EXTINF:-1,Nuvolari
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3666.ts
-#EXTINF:-1,Poker Italia 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13702.ts
-#EXTINF:-1,Auto Moto Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13861.ts
-#EXTINF:-1,Bike Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13859.ts
-#EXTINF:-1,-------- SKY CALCIO --------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/1359.ts
-#EXTINF:-1,Sky Supercalcio FHD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13607.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2484.ts
-#EXTINF:-1,Sky Supercalcio HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18712.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2470.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2471.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2472.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4160.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4511.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4512.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/6107.ts
-#EXTINF:-1,Sky Calcio 8
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8497.ts
-#EXTINF:-1,Sky Calcio 9
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8498.ts
-#EXTINF:-1,Sky Calcio 10
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8496.ts
-#EXTINF:-1,Sky Calcio 11 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12013.ts
-#EXTINF:-1,Sky Calcio 12 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12014.ts
-#EXTINF:-1,Juventus TV
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8620.ts
-#EXTINF:-1,MIlan Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8618.ts
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5079.ts
+#EXTINF:-1,Poker Italia
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5085.ts
+#EXTINF:-1,Class HorseTv
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4348.ts
+#EXTINF:-1,Sport Italia
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5083.ts
+#EXTINF:-1,ROMATV
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5084.ts
 #EXTINF:-1,Inter Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4215.ts
-#EXTINF:-1,Roma TV
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8622.ts
-#EXTINF:-1,Lazio Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12211.ts
-#EXTINF:-1,----PREMIUM SPORT
-http://dummylink.com
-#EXTINF:-1,Premium Sport 1 FHD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16137.ts
-#EXTINF:-1,Premium Sport 2 FHD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16138.ts
-#EXTINF:-1,Premium Sport 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3664.ts
-#EXTINF:-1,Premium Sport 1 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18731.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12840.ts
-#EXTINF:-1,Premium Sport 1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16139.ts
-#EXTINF:-1,Premium Sport 1  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18732.ts
-#EXTINF:-1,Premium Sport 2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16140.ts
-#EXTINF:-1,Premium Calcio
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2490.ts
-#EXTINF:-1,Premium Calcio HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2448.ts
-#EXTINF:-1,Premium Calcio 1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/5297.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13123.ts
-#EXTINF:-1,Premium Calcio 2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/5298.ts
-#EXTINF:-1,Premium Calcio 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2442.ts
-#EXTINF:-1,Premium Calcio 3
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2443.ts
-#EXTINF:-1,Premium Calcio 3 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13118.ts
-#EXTINF:-1,Premium Calcio 4
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2444.ts
-#EXTINF:-1,Premium Calcio 4 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13119.ts
-#EXTINF:-1,Premium Calcio 5
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2445.ts
-#EXTINF:-1,Premium Calcio 5 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13120.ts
-#EXTINF:-1,Premium Calcio 6
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2446.ts
-#EXTINF:-1,Premium Calcio 6 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13121.ts
-#EXTINF:-1,Premium Calcio 7
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2447.ts
-#EXTINF:-1,Premium Calcio 7 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13122.ts
-#EXTINF:-1,----- NUOVI PRIMAFILA -----
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13606.ts
-#EXTINF:-1,PF1 -L ABBIAMO FATTA GROSSA-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18194.mkv
-#EXTINF:-1,PF2 -CREED-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18198.mkv
-#EXTINF:-1,PF3 -STEVE JOBS-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18199.mkv
-#EXTINF:-1,PF4 -REVENAT REDVIVO-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18200.mkv
-#EXTINF:-1,PF5 -THE PROGRAM-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18201.mkv
-#EXTINF:-1,PF6 -THE LOBSTER-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18202.mkv
-#EXTINF:-1,PF7 -STAR WARS: IL RISVEGLIO DELLA FORZA-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18203.mkv
-#EXTINF:-1,PF8 -SE MI LASCI NON VALE-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18204.mkv
-#EXTINF:-1,PF9 -THE GREEN INFERNO-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18205.mkv
-#EXTINF:-1,PF10 -SICARIO-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18195.mkv
-#EXTINF:-1,PF11 -EXTRACTION-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18196.mkv
-#EXTINF:-1,PF12 -THE VISIT-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18197.mkv
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5089.ts
+#EXTINF:-1,J | Juventus TV
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5088.ts
+#EXTINF:-1,Milan Channel
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5086.ts
+#EXTINF:-1,Lazio Style Ch
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5087.ts
+#EXTINF:-1,Bike Channel HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5093.ts
+#EXTINF:-1,UnireSat by Teleippica
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4125.ts
+#EXTINF:-1,----------Sky Calcio----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5114.ts
+#EXTINF:-1,Sky Calcio Info
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4334.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4438.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5096.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5097.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5098.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5099.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5100.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5101.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5102.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4446.ts
+#EXTINF:-1,Sky Calcio 9
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4447.ts
+#EXTINF:-1,Sky Calcio 10
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5095.ts
+#EXTINF:-1,Sky Calcio 11
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5043.ts
+#EXTINF:-1,Sky Calcio 12
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4163.ts
+#EXTINF:-1,----------CONNESSIONI LENTE----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4620.ts
+#EXTINF:-1,Rai 1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4486.ts
+#EXTINF:-1,Rai 2
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4487.ts
+#EXTINF:-1,Rai 3
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4489.ts
+#EXTINF:-1,Canale 5
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4071.ts
+#EXTINF:-1,Cinema 1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4069.ts
+#EXTINF:-1,Cinema +24
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4070.ts
+#EXTINF:-1,Cinema Hits
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4067.ts
+#EXTINF:-1,Cinema Comedy
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4068.ts
+#EXTINF:-1,Cinema Max
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4066.ts
+#EXTINF:-1,Cinema Family
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4065.ts
+#EXTINF:-1,Fox
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4063.ts
+#EXTINF:-1,Fox Crime
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4064.ts
+#EXTINF:-1,Fox Life
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4062.ts
+#EXTINF:-1,Sky Atlantic
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4083.ts
+#EXTINF:-1,NationalGeo
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4027.ts
+#EXTINF:-1,Sky Uno
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4076.ts
+#EXTINF:-1,Premium Sport
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4084.ts
+#EXTINF:-1,Sky Sport 1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4073.ts
+#EXTINF:-1,Sky Sport24
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4078.ts
+#EXTINF:-1,Sky Sport Plus
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4072.ts
+#EXTINF:-1,Sky Sport F1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4075.ts
+#EXTINF:-1,Sky Sport MotoGP
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4074.ts
+#EXTINF:-1,Fox Sport
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4061.ts
+#EXTINF:-1,Sky Supercalcio
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4077.ts
+#EXTINF:-1,Sky Calcio 1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4082.ts
+#EXTINF:-1,Sky Calcio 2
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4081.ts
+#EXTINF:-1,Sky Calcio 3
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4080.ts
+#EXTINF:-1,Sky Calcio 4
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4058.ts
+#EXTINF:-1,Sky Calcio 5
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4059.ts
+#EXTINF:-1,Sky Calcio 6
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4079.ts
+#EXTINF:-1,Sky Calcio 7
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4060.ts
+#EXTINF:-1,----------Sky Cultura----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4619.ts
+#EXTINF:-1,eXplora HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4473.ts
+#EXTINF:-1,NationalGeo HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4468.ts
+#EXTINF:-1,NatGeo Wild HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4469.ts
+#EXTINF:-1,NatGeo Wild +1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4086.ts
+#EXTINF:-1,NatGeo People HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4470.ts
+#EXTINF:-1,Discovery HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4476.ts
+#EXTINF:-1,Discovery +1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4085.ts
+#EXTINF:-1,Discovery Sci HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4475.ts
+#EXTINF:-1,Discovery Travel HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4474.ts
+#EXTINF:-1,CI Crime Inv HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4477.ts
+#EXTINF:-1,DMAX HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4396.ts
+#EXTINF:-1,DMAX+1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4395.ts
+#EXTINF:-1,Gambero Rosso HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4472.ts
+#EXTINF:-1,History HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4471.ts
+#EXTINF:-1,Sky Arte HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4467.ts
+#EXTINF:-1,Caccia
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4479.ts
+#EXTINF:-1,Pesca
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4391.ts
+#EXTINF:-1,DoveTv
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4087.ts
+#EXTINF:-1,Animal Planet
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4480.ts
+#EXTINF:-1,MARCOPOLO
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4337.ts
+#EXTINF:-1,Laeffe
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4346.ts
+#EXTINF:-1,----------Sky Bambini----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4618.ts
+#EXTINF:-1,Cartoon-LIVE Masha E Orso
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4498.ts
+#EXTINF:-1,Disney Ch. +2
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4160.ts
+#EXTINF:-1,Disney XD HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4456.ts
+#EXTINF:-1,TeenNick
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4088.ts
+#EXTINF:-1,Disney Junior
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4124.ts
+#EXTINF:-1,Cartoon Network
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4263.ts
+#EXTINF:-1,Boomerang
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4460.ts
+#EXTINF:-1,Nickelodeon
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4461.ts
+#EXTINF:-1,Nick Jr
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4452.ts
+#EXTINF:-1,Baby TV
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4463.ts
+#EXTINF:-1,DeAJunior
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4458.ts
+#EXTINF:-1,DeAKids
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5603.ts
+#EXTINF:-1,MAN-GA
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4453.ts
+#EXTINF:-1,Super!
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4448.ts
+#EXTINF:-1,Rai Yoyo
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4450.ts
+#EXTINF:-1,Rai Gulp
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4451.ts
+#EXTINF:-1,Cartonito
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4459.ts
+#EXTINF:-1,Boing
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4462.ts
+#EXTINF:-1,K2
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4454.ts
+#EXTINF:-1,----------Sky Musica----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4617.ts
+#EXTINF:-1,Vevo TV 1 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5626.ts
+#EXTINF:-1,Vevo TV 2 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5625.ts
+#EXTINF:-1,Vevo TV 3 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5624.ts
+#EXTINF:-1,VEVO 02
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5622.ts
+#EXTINF:-1,VEVO 03
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5621.ts
+#EXTINF:-1,VEVO 04
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5620.ts
+#EXTINF:-1,VEVO 06
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5618.ts
+#EXTINF:-1,VEVO 05
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5619.ts
+#EXTINF:-1,VEVO 07
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5617.ts
+#EXTINF:-1,VEVO 08
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5616.ts
+#EXTINF:-1,VEVO 09
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5615.ts
+#EXTINF:-1,VEVO 10
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5613.ts
+#EXTINF:-1,VEVO 11
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5612.ts
+#EXTINF:-1,VEVO 12
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5611.ts
+#EXTINF:-1,VEVO 13
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5610.ts
+#EXTINF:-1,VEVO 14
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5609.ts
+#EXTINF:-1,VEVO 15
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5608.ts
+#EXTINF:-1,VEVO 16
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5607.ts
+#EXTINF:-1,VEVO 18
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5606.ts
+#EXTINF:-1,DEEJAY TV
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4175.ts
+#EXTINF:-1,Classica HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4347.ts
+#EXTINF:-1,Radio Italia
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4466.ts
+#EXTINF:-1,Radio Taormina
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4109.ts
+#EXTINF:-1,Radio DeeJay
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4110.ts
+#EXTINF:-1,Radio Capital Tv
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4111.ts
+#EXTINF:-1,Radio NumberOne Tv
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4118.ts
+#EXTINF:-1,Radio montecarlo
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4465.ts
+#EXTINF:-1,Onda Italiana
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4114.ts
+#EXTINF:-1,RADIONORBA TV
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4115.ts
+#EXTINF:-1,kissKiss Napoli TV
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4116.ts
+#EXTINF:-1,----------Sky Notizie-----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4616.ts
+#EXTINF:-1,TgCom24
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4483.ts
+#EXTINF:-1,Sky TG24 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4481.ts
+#EXTINF:-1,Rai News 24
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4484.ts
+#EXTINF:-1,Tele Bari
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4335.ts
+#EXTINF:-1,Videolina
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4485.ts
+#EXTINF:-1,-----------sky Primafila----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4615.ts
+#EXTINF:-1,Primafila Vetrina
+http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4976.mkv
+#EXTINF:-1,Vetrina live Primafila
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5425.ts
+#EXTINF:-1,Primafila 1 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4500.ts
+#EXTINF:-1,Primafila 2
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4501.ts
+#EXTINF:-1,Primafila 3 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4502.ts
+#EXTINF:-1,Primafila 4
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4503.ts
+#EXTINF:-1,Primafila 5 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4504.ts
+#EXTINF:-1,Primafila 6
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4505.ts
+#EXTINF:-1,Primafila 7 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4506.ts
+#EXTINF:-1,Primafila 8
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4507.ts
+#EXTINF:-1,Primafila 9 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4508.ts
+#EXTINF:-1,Primafila 10
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4509.ts
+#EXTINF:-1,Primafila 11 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4510.ts
+#EXTINF:-1,Primafila 12
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4511.ts
+#EXTINF:-1,Primafila 13 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4512.ts
+#EXTINF:-1,Primafila 14
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4513.ts
+#EXTINF:-1,Primafila 15
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4514.ts
+#EXTINF:-1,Primafila 16
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4515.ts
+#EXTINF:-1,Primafila 17
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4516.ts
+#EXTINF:-1,Primafila 18
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4517.ts
+#EXTINF:-1,Primafila 19
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4518.ts
+#EXTINF:-1,----------Primafila (Vod)----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4519.ts
+#EXTINF:-1,Primafila 1 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4970.mkv
+#EXTINF:-1,Primafila 3 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4971.mkv
+#EXTINF:-1,Primafila 5 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4972.mkv
+#EXTINF:-1,Primafila 7 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4973.mkv
+#EXTINF:-1,Primafila 9 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4977.mkv
+#EXTINF:-1,Primafila 11 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4974.mkv
+#EXTINF:-1,Primafila 13 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4975.mkv
+#EXTINF:-1,Film In Sala HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4495.ts
+#EXTINF:-1,Film In Sala 2 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4496.ts
+#EXTINF:-1,Film In Sala 3 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4497.ts
+#EXTINF:-1,Prima Visione HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4493.ts
+#EXTINF:-1,Sala Retro
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4494.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

@@ -3,8 +3,6 @@
 #EXTM3U
 #EXTINF:-1,---NOVITA
 http://dummylink.com
-#EXTINF:-1,Gomorra (in fondo)
-http://dummylink.com
 #EXTINF:-1,Squadra antimafia(in fondo)
 http://dummylink.com
 #EXTINF:-1,Harry Potter (in fondo)
@@ -5423,50 +5421,4 @@ http://fullblack.fullapple.me:8000/movie/pablito/pablito/963.mkv
 http://fullblack.fullapple.me:8000/movie/pablito/pablito/964.mkv
 #EXTINF:-1,Squadra Antimafia S07 EP10
 http://fullblack.fullapple.me:8000/movie/pablito/pablito/965.mkv
-#EXTINF:-1,---GOMORRA
-http://dummylink.com
-#EXTINF:-1,Gomorra 1x01
-http://gtatemvod.com:43100/movie/viper/viper/982.mkv
-#EXTINF:-1,Gomorra 1x02
-http://gtatemvod.com:43100/movie/viper/viper/983.mkv
-#EXTINF:-1,Gomorra 1x03
-http://gtatemvod.com:43100/movie/viper/viper/984.mkv
-#EXTINF:-1,Gomorra 1x04
-http://gtatemvod.com:43100/movie/viper/viper/985.mkv
-#EXTINF:-1,Gomorra 1x05
-http://gtatemvod.com:43100/movie/viper/viper/986.mkv
-#EXTINF:-1,Gomorra 1x06
-http://gtatemvod.com:43100/movie/viper/viper/987.mkv
-#EXTINF:-1,Gomorra 1x07
-http://gtatemvod.com:43100/movie/viper/viper/988.mkv
-#EXTINF:-1,Gomorra 1x08
-http://gtatemvod.com:43100/movie/viper/viper/989.mkv
-#EXTINF:-1,Gomorra 1x09
-http://gtatemvod.com:43100/movie/viper/viper/990.mkv
-#EXTINF:-1,Gomorra 1x10
-http://gtatemvod.com:43100/movie/viper/viper/991.mkv
-#EXTINF:-1,Gomorra 1x11
-http://gtatemvod.com:43100/movie/viper/viper/992.mkv
-#EXTINF:-1,Gomorra 1x12
-http://gtatemvod.com:43100/movie/viper/viper/993.mkv
-#EXTINF:-1,Gomorra 2x01
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17133.ts
-#EXTINF:-1,Gomorra 2x02
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17135.ts
-#EXTINF:-1,Gomorra 2x03
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18207.ts
-#EXTINF:-1,Gomorra 2x04
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18208.ts
-#EXTINF:-1,Gomorra 2x05
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18209.ts
-#EXTINF:-1,Gomorra 2x06
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18210.ts
-#EXTINF:-1,Gomorra 2x07
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18736.ts
-#EXTINF:-1,Gomorra 2x08
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18737.ts
-#EXTINF:-1,Gomorra 2x09
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18738.ts
-#EXTINF:-1,Gomorra 2x10
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18739.ts
 </List>

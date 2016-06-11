@@ -921,10 +921,6 @@ http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4335.ts
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4485.ts
 #EXTINF:-1,-----------sky Primafila----------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4615.ts
-#EXTINF:-1,Primafila Vetrina
-http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4976.mkv
-#EXTINF:-1,Vetrina live Primafila
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5425.ts
 #EXTINF:-1,Primafila 1 HD
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4500.ts
 #EXTINF:-1,Primafila 2
@@ -965,6 +961,8 @@ http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4517.ts
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4518.ts
 #EXTINF:-1,----------Primafila (Vod)----------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4519.ts
+#EXTINF:-1,Vetrina Primafila
+http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4976.mkv
 #EXTINF:-1,Primafila 1 HD (Vod)
 http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4970.mkv
 #EXTINF:-1,Primafila 3 HD (Vod)

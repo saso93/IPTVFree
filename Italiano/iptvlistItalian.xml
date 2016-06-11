@@ -18,23 +18,23 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/14351.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5044.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1162.ts
 #EXTINF:-1,Rai 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5045.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1163.ts
 #EXTINF:-1,Rai 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5046.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1164.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5047.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1178.ts
 #EXTINF:-1,Canale 5 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5049.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1115.ts
 #EXTINF:-1,Italia 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5048.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1128.ts
 #EXTINF:-1,La 7 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4186.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1130.ts
 #EXTINF:-1 ,Rai 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
 #EXTINF:-1,Iris
@@ -90,9 +90,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5050.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1180.ts
 #EXTINF:-1,RSI LA 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5051.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1181.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83
@@ -523,532 +523,308 @@ http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
 #EXTINF:-1,----------PREMIUM CINEMA----------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4613.ts
-#EXTINF:-1,Premium Cinema HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4527.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4528.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4529.ts
+#EXTINF:-1,Premium Cinema 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1152.ts
 #EXTINF:-1,Premium Cinema +24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4530.ts
-#EXTINF:-1,Premium Emotion
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4534.ts
-#EXTINF:-1,Premium Comedy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4540.ts
-#EXTINF:-1,Premium Energy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4533.ts
-#EXTINF:-1,Premium Stories
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4532.ts
-#EXTINF:-1,Premium Stories +24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4544.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1149.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1155.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1154.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1150.ts
+#EXTINF:-1,Premium Cinema Energy
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1151.ts
+#EXTINF:-1,Premium Cinema Emotion
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1156.ts
+#EXTINF:-1,Paramount Channel HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2909.ts
+#EXTINF:-1,Studio Universal
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1185.ts
+#EXTINF:-1,Rai Movie HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1168.ts
+#EXTINF:-1,Iris
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1127.ts
 #EXTINF:-1,Premium Action HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4537.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1139.ts
 #EXTINF:-1,Premium Action +24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4538.ts
-#EXTINF:-1,Premium Joi
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4536.ts
-#EXTINF:-1,Premium Joi +24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4555.ts
-#EXTINF:-1,Studio Universal - Premium
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4541.ts
-#EXTINF:-1,Disney Junior - Premium
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4542.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1138.ts
 #EXTINF:-1,Premium Crime HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4531.ts
-#EXTINF:-1,Cartoon Network - Premium
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4545.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1158.ts
+#EXTINF:-1,Premium Crime +24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1157.ts
+#EXTINF:-1,Premium Cinema Joi
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1153.ts
+#EXTINF:-1,Premium Cinema Joi +24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1192.ts
 #EXTINF:-1,--- PREMIUM SPORT
 http://dummylink.com
 #EXTINF:-1,Premium Sport HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4553.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1160.ts
 #EXTINF:-1,Premium Sport 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4546.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1148.ts
 #EXTINF:-1,Premium Sport 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5131.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1140.ts
 #EXTINF:-1,Premium Calcio 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4026.ts
-#EXTINF:-1,Premium Calcio 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4548.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1141.ts
 #EXTINF:-1,Premium Calcio 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4549.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1142.ts
+#EXTINF:-1,Premium Calcio 3
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1143.ts
+#EXTINF:-1,Premium Calcio 4
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1144.ts
 #EXTINF:-1,Premium Calcio 5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4550.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1145.ts
 #EXTINF:-1,Premium Calcio 6
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4551.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1146.ts
 #EXTINF:-1,Premium Calcio 7
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4552.ts
-#EXTINF:-1,Rai Sport 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4554.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1147.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1172.ts
 #EXTINF:-1,Rai Sport 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4488.ts
-#EXTINF:-1,Rai Premium
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4491.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1173.ts
+#EXTINF:-1,Eurosport 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1124.ts
+#EXTINF:-1,Eurosport 2 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1123.ts
+#EXTINF:-1,SuperTennis HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1186.ts
+#EXTINF:-1,BIKE CHANNEL HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2044.ts
+#EXTINF:-1,Sportitalia
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1184.ts
+#EXTINF:-1,Automoto TV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1113.ts
+#EXTINF:-1,Class Horse TV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1119.ts
 #EXTINF:-1,----------Sky Cinema----------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5112.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5053.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5054.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5062.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/30.ts
+#EXTINF:-1,SKY CINEMA +24 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1505.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5057.ts
-#EXTINF:-1,Sky CinemaFamilyHD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5058.ts
-#EXTINF:-1,Sky CinemaFamily+1HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5059.ts
-#EXTINF:-1,Sky Cinema Classics HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5061.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/28.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/32.ts
 #EXTINF:-1,Sky Cinema Passion HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5064.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/31.ts
 #EXTINF:-1,Sky Cinema Comedy HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5060.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5055.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5056.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5063.ts
-#EXTINF:-1,Rai Movie
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4492.ts
-#EXTINF:-1,Paramount Channel HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5166.ts
-#EXTINF:-1,Dvs Cinema
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5065.ts
-#EXTINF:-1,Emotion Napoli
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5066.ts
-#EXTINF:-1,Gomorra
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5585.ts
-#EXTINF:-1,DVs Il trono di Spade
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5586.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/33.ts
+#EXTINF:-1,Cinema Max HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/51.ts
+#EXTINF:-1,Cinema Cult HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/46.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/29.ts
+#EXTINF:-1,Sky 3D
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1868.ts
 #EXTINF:-1,----------Sky Intrattenimento----------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4635.ts
 #EXTINF:-1,Sky Uno HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4376.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4377.ts
-#EXTINF:-1,Fox HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4380.ts
-#EXTINF:-1,Fox +1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4385.ts
-#EXTINF:-1,Fox life HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4378.ts
-#EXTINF:-1,Fox Life +1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4379.ts
-#EXTINF:-1,Fox Crime HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4381.ts
-#EXTINF:-1,Fox Crime +1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4382.ts
-#EXTINF:-1,Fox Animation HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4384.ts
-#EXTINF:-1,Fox Comedy HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4383.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/47.ts
 #EXTINF:-1,Sky Atlantic HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4388.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4389.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/34.ts
 #EXTINF:-1,AXN HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4387.ts
-#EXTINF:-1,AXN +1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4165.ts
-#EXTINF:-1,AXN Sci-Fi
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4398.ts
-#EXTINF:-1,Comedy Central
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4386.ts
-#EXTINF:-1,Real Time HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4390.ts
-#EXTINF:-1,Cielo HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4397.ts
-#EXTINF:-1,MTV HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4089.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/41.ts
+#EXTINF:-1,Fox HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/43.ts
+#EXTINF:-1,Fox Life HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1486.ts
+#EXTINF:-1,Fox Crime HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/50.ts
+#EXTINF:-1,Fox Comedy HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/37.ts
+#EXTINF:-1,Fox Animation HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1487.ts
+#EXTINF:-1,Premium Stories
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1161.ts
+#EXTINF:-1,Premium Stories +24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1121.ts
+#EXTINF:-1,Animal Planet
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/7.ts
+#EXTINF:-1,Discovery Channel HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/45.ts
+#EXTINF:-1,Discovery Sci HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/5.ts
+#EXTINF:-1,Discovery Travel and Living HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1467.ts
+#EXTINF:-1,Crime Investigation HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/6.ts
+#EXTINF:-1,Explora HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/4.ts
 #EXTINF:-1,Focus
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4558.ts
-#EXTINF:-1,GIALLO
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4394.ts
-#EXTINF:-1,ALICE
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4432.ts
-#EXTINF:-1,Fashion TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4246.ts
-#EXTINF:-1,TV2000
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4137.ts
-#EXTINF:-1,Sky 3D
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4375.ts
-#EXTINF:-1,Lei
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4392.ts
-#EXTINF:-1,Iris
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4561.ts
-#EXTINF:-1,Mediaset Italia Due
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4560.ts
-#EXTINF:-1,La 5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4559.ts
-#EXTINF:-1,Mediaset EXTRA
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4556.ts
-#EXTINF:-1,Top Crime
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4535.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1125.ts
+#EXTINF:-1,FINE LIVING
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2267.ts
+#EXTINF:-1,DMAX
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1122.ts
+#EXTINF:-1,National Geographic HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/42.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/44.ts
+#EXTINF:-1,Nat Geo People
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/39.ts
+#EXTINF:-1,History HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/40.ts
+#EXTINF:-1,Nautical HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2685.ts
+#EXTINF:-1,Marco Polo
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/38.ts
+#EXTINF:-1,Rai Scuola
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1171.ts
+#EXTINF:-1,Rai Storia
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1174.ts
+#EXTINF:-1,Italian Fishing TV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1129.ts
+#EXTINF:-1,Pesca e Caccia
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2.ts
+#EXTINF:-1,Caccia e Pesca
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1484.ts
 #EXTINF:-1,----------Sky Sport----------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5113.ts
 #EXTINF:-1,Sky Sport 24 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4400.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/24.ts
 #EXTINF:-1,Sky Sport 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5077.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/20.ts
 #EXTINF:-1,Sky Sport 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5078.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/21.ts
 #EXTINF:-1,Sky Sport 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4969.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/22.ts
 #EXTINF:-1,Sky Sport Plus HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5080.ts
-#EXTINF:-1,Fox Sports HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5090.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1490.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5082.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/23.ts
 #EXTINF:-1,Sky Sport MotoGP HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5081.ts
-#EXTINF:-1,Eurosport HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5091.ts
-#EXTINF:-1,Eurosport 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5092.ts
-#EXTINF:-1,Supertennis HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5079.ts
-#EXTINF:-1,Poker Italia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5085.ts
-#EXTINF:-1,Class HorseTv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4348.ts
-#EXTINF:-1,Sport Italia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5083.ts
-#EXTINF:-1,ROMATV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5084.ts
-#EXTINF:-1,Inter Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5089.ts
-#EXTINF:-1,J | Juventus TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5088.ts
-#EXTINF:-1,Milan Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5086.ts
-#EXTINF:-1,Lazio Style Ch
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5087.ts
-#EXTINF:-1,Bike Channel HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5093.ts
-#EXTINF:-1,UnireSat by Teleippica
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4125.ts
-#EXTINF:-1,----------Sky Calcio----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5114.ts
-#EXTINF:-1,Sky Calcio Info
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4334.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4438.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/27.ts
+#EXTINF:-1,Fox Sport HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/35.ts
+#EXTINF:-1,Sky SuperCalcio HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/49.ts
 #EXTINF:-1,Sky Calcio 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5096.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/25.ts
 #EXTINF:-1,Sky Calcio 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5097.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/26.ts
 #EXTINF:-1,Sky Calcio 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5098.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/14.ts
 #EXTINF:-1,Sky Calcio 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5099.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/13.ts
 #EXTINF:-1,Sky Calcio 5 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5100.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/12.ts
 #EXTINF:-1,Sky Calcio 6 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5101.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5102.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4446.ts
-#EXTINF:-1,Sky Calcio 9
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4447.ts
-#EXTINF:-1,Sky Calcio 10
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5095.ts
-#EXTINF:-1,Sky Calcio 11
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5043.ts
-#EXTINF:-1,Sky Calcio 12
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4163.ts
-#EXTINF:-1,----------CONNESSIONI LENTE----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4620.ts
-#EXTINF:-1,Rai 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4486.ts
-#EXTINF:-1,Rai 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4487.ts
-#EXTINF:-1,Rai 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4489.ts
-#EXTINF:-1,Canale 5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4071.ts
-#EXTINF:-1,Sky Cinema 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4069.ts
-#EXTINF:-1,Sky Cinema +24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4070.ts
-#EXTINF:-1,Sky Cinema Hits
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4067.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4068.ts
-#EXTINF:-1,Sky Cinema Max
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4066.ts
-#EXTINF:-1,Sky Cinema Family
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4065.ts
-#EXTINF:-1,Fox
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4063.ts
-#EXTINF:-1,Fox Crime
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4064.ts
-#EXTINF:-1,Fox Life
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4062.ts
-#EXTINF:-1,Sky Atlantic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4083.ts
-#EXTINF:-1,NationalGeo
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4027.ts
-#EXTINF:-1,Sky Uno
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4076.ts
-#EXTINF:-1,Premium Sport
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4084.ts
-#EXTINF:-1,Sky Sport 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4073.ts
-#EXTINF:-1,Sky Sport24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4078.ts
-#EXTINF:-1,Sky Sport Plus
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4072.ts
-#EXTINF:-1,Sky Sport F1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4075.ts
-#EXTINF:-1,Sky Sport MotoGP
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4074.ts
-#EXTINF:-1,Fox Sport
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4061.ts
-#EXTINF:-1,Sky Supercalcio
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4077.ts
-#EXTINF:-1,Sky Calcio 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4082.ts
-#EXTINF:-1,Sky Calcio 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4081.ts
-#EXTINF:-1,Sky Calcio 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4080.ts
-#EXTINF:-1,Sky Calcio 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4058.ts
-#EXTINF:-1,Sky Calcio 5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4059.ts
-#EXTINF:-1,Sky Calcio 6
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4079.ts
-#EXTINF:-1,Sky Calcio 7
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4060.ts
-#EXTINF:-1,----------Sky Cultura----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4619.ts
-#EXTINF:-1,eXplora HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4473.ts
-#EXTINF:-1,NationalGeo HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4468.ts
-#EXTINF:-1,NatGeo Wild HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4469.ts
-#EXTINF:-1,NatGeo Wild +1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4086.ts
-#EXTINF:-1,NatGeo People HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4470.ts
-#EXTINF:-1,Discovery HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4476.ts
-#EXTINF:-1,Discovery +1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4085.ts
-#EXTINF:-1,Discovery Sci HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4475.ts
-#EXTINF:-1,Discovery Travel HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4474.ts
-#EXTINF:-1,CI Crime Inv HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4477.ts
-#EXTINF:-1,DMAX HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4396.ts
-#EXTINF:-1,DMAX+1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4395.ts
-#EXTINF:-1,Gambero Rosso HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4472.ts
-#EXTINF:-1,History HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4471.ts
-#EXTINF:-1,Sky Arte HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4467.ts
-#EXTINF:-1,Caccia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4479.ts
-#EXTINF:-1,Pesca
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4391.ts
-#EXTINF:-1,DoveTv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4087.ts
-#EXTINF:-1,Animal Planet
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4480.ts
-#EXTINF:-1,MARCOPOLO
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4337.ts
-#EXTINF:-1,Laeffe
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4346.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/11.ts
+#EXTINF:-1,SKY Calcio 7 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/10.ts
+#EXTINF:-1,SKY Calcio 8 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/9.ts
+#EXTINF:-1,SKY Calcio 9 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1760.ts
+#EXTINF:-1,Inter Channel
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/18.ts
+#EXTINF:-1,Juventus Channel
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/17.ts
+#EXTINF:-1,Milan channel
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/16.ts
+#EXTINF:-1,Roma Channel
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/15.ts
 #EXTINF:-1,----------Sky Bambini----------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4618.ts
-#EXTINF:-1,Cartoon-LIVE Masha E Orso
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4498.ts
-#EXTINF:-1,Disney Ch. +2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4160.ts
-#EXTINF:-1,Disney XD HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4456.ts
-#EXTINF:-1,TeenNick
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4088.ts
+#EXTINF:-1,Disney XD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/36.ts
 #EXTINF:-1,Disney Junior
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4124.ts
-#EXTINF:-1,Cartoon Network
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4263.ts
-#EXTINF:-1,Boomerang
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4460.ts
-#EXTINF:-1,Nickelodeon
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4461.ts
-#EXTINF:-1,Nick Jr
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4452.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1502.ts
+#EXTINF:-1,Disney Channel HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1500.ts
+#EXTINF:-1,CartoonNetwork
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1117.ts
 #EXTINF:-1,Baby TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4463.ts
-#EXTINF:-1,DeAJunior
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4458.ts
-#EXTINF:-1,DeAKids
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5603.ts
-#EXTINF:-1,MAN-GA
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4453.ts
-#EXTINF:-1,Super!
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4448.ts
-#EXTINF:-1,Rai Yoyo
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4450.ts
-#EXTINF:-1,Rai Gulp
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4451.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2638.ts
 #EXTINF:-1,Cartonito
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4459.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1116.ts
 #EXTINF:-1,Boing
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4462.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1114.ts
+#EXTINF:-1,Rai Gulp
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1167.ts
+#EXTINF:-1,Super!
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1470.ts
 #EXTINF:-1,K2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4454.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1466.ts
+#EXTINF:-1,Frisbee
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1465.ts
+#EXTINF:-1,Rai Yoyo
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1175.ts
 #EXTINF:-1,----------Sky Musica----------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4617.ts
-#EXTINF:-1,Vevo TV 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5626.ts
-#EXTINF:-1,Vevo TV 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5625.ts
-#EXTINF:-1,Vevo TV 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5624.ts
-#EXTINF:-1,VEVO 02
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5622.ts
-#EXTINF:-1,VEVO 03
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5621.ts
-#EXTINF:-1,VEVO 04
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5620.ts
-#EXTINF:-1,VEVO 06
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5618.ts
-#EXTINF:-1,VEVO 05
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5619.ts
-#EXTINF:-1,VEVO 07
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5617.ts
-#EXTINF:-1,VEVO 08
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5616.ts
-#EXTINF:-1,VEVO 09
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5615.ts
-#EXTINF:-1,VEVO 10
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5613.ts
-#EXTINF:-1,VEVO 11
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5612.ts
-#EXTINF:-1,VEVO 12
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5611.ts
-#EXTINF:-1,VEVO 13
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5610.ts
-#EXTINF:-1,VEVO 14
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5609.ts
-#EXTINF:-1,VEVO 15
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5608.ts
-#EXTINF:-1,VEVO 16
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5607.ts
-#EXTINF:-1,VEVO 18
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5606.ts
-#EXTINF:-1,DEEJAY TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4175.ts
-#EXTINF:-1,Classica HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4347.ts
-#EXTINF:-1,Radio Italia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4466.ts
-#EXTINF:-1,Radio Taormina
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4109.ts
-#EXTINF:-1,Radio DeeJay
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4110.ts
-#EXTINF:-1,Radio Capital Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4111.ts
-#EXTINF:-1,Radio NumberOne Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4118.ts
-#EXTINF:-1,Radio montecarlo
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4465.ts
-#EXTINF:-1,Onda Italiana
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4114.ts
-#EXTINF:-1,RADIONORBA TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4115.ts
-#EXTINF:-1,kissKiss Napoli TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4116.ts
+#EXTINF:-1,Radio Montecarlo Tv
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2164.ts
+#EXTINF:-1,MTV Live HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1135.ts
+#EXTINF:-1,MTV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1136.ts
+#EXTINF:-1,MTV Music
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1461.ts
+#EXTINF:-1,MTV Hits
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1460.ts
+#EXTINF:-1,MTV Dance
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1459.ts
+#EXTINF:-1,MTV Rocks
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1462.ts
+#EXTINF:-1,MTV Base
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1457.ts
+#EXTINF:-1,MTV Classic
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1458.ts
+#EXTINF:-1,VH1
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1463.ts
+#EXTINF:-1,Retro Music TV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2894.ts
+#EXTINF:-1,Viva
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1464.ts
+#EXTINF:-1,Deejay TV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1120.ts
+#EXTINF:-1,VEVO 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2686.ts
+#EXTINF:-1,VEVO 2 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2687.ts
+#EXTINF:-1,VEVO 3 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2688.ts
 #EXTINF:-1,----------Sky Notizie-----------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4616.ts
-#EXTINF:-1,TgCom24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4483.ts
-#EXTINF:-1,Sky TG24 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4481.ts
+#EXTINF:-1,Sky TG 24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/48.ts
 #EXTINF:-1,Rai News 24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4484.ts
-#EXTINF:-1,Tele Bari
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4335.ts
-#EXTINF:-1,Videolina
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4485.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1169.ts
+#EXTINF:-1,TGCom 24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1187.ts
+#EXTINF:-1,Telepace HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2910.ts
 #EXTINF:-1,-----------sky Primafila----------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4615.ts
-#EXTINF:-1,Primafila 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4500.ts
-#EXTINF:-1,Primafila 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4501.ts
-#EXTINF:-1,Primafila 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4502.ts
-#EXTINF:-1,Primafila 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4503.ts
-#EXTINF:-1,Primafila 5 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4504.ts
-#EXTINF:-1,Primafila 6
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4505.ts
-#EXTINF:-1,Primafila 7 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4506.ts
-#EXTINF:-1,Primafila 8
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4507.ts
-#EXTINF:-1,Primafila 9 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4508.ts
-#EXTINF:-1,Primafila 10
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4509.ts
-#EXTINF:-1,Primafila 11 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4510.ts
-#EXTINF:-1,Primafila 12
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4511.ts
-#EXTINF:-1,Primafila 13 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4512.ts
-#EXTINF:-1,Primafila 14
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4513.ts
-#EXTINF:-1,Primafila 15
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4514.ts
-#EXTINF:-1,Primafila 16
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4515.ts
-#EXTINF:-1,Primafila 17
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4516.ts
-#EXTINF:-1,Primafila 18
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4517.ts
-#EXTINF:-1,Primafila 19
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4518.ts
-#EXTINF:-1,----------Primafila (Vod)----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4519.ts
-#EXTINF:-1,Vetrina Primafila
-http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4976.mkv
-#EXTINF:-1,Primafila 1 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4970.mkv
-#EXTINF:-1,Primafila 3 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4971.mkv
-#EXTINF:-1,Primafila 5 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4972.mkv
-#EXTINF:-1,Primafila 7 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4973.mkv
-#EXTINF:-1,Primafila 9 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4977.mkv
-#EXTINF:-1,Primafila 11 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4974.mkv
-#EXTINF:-1,Primafila 13 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/cardillo/cardillo/4975.mkv
-#EXTINF:-1,Film In Sala HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4495.ts
-#EXTINF:-1,Film In Sala 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4496.ts
-#EXTINF:-1,Film In Sala 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4497.ts
-#EXTINF:-1,Prima Visione HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4493.ts
-#EXTINF:-1,Sala Retro
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4494.ts
+#EXTINF:-1,Sky Primafila 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1734.ts
+#EXTINF:-1,Sky Primafila 2 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1735.ts
+#EXTINF:-1,Sky Primafila 3 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1736.ts
+#EXTINF:-1,Sky Primafila 4 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1737.ts
+#EXTINF:-1,Sky Primafila 5 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1738.ts
+#EXTINF:-1,Sky Primafila 6 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1739.ts
+#EXTINF:-1,Sky Primafila 7 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1740.ts
+#EXTINF:-1,Sky Primafila 8 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1741.ts
+#EXTINF:-1,Sky Primafila 11 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1471.ts
+#EXTINF:-1,Sky Primafila 12 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1472.ts
+#EXTINF:-1,Sky Primafila 13 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1473.ts
+#EXTINF:-1,Sky Primafila 14 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1474.ts
+#EXTINF:-1,Sky Primafila 15 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1475.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

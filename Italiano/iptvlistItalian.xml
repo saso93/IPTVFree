@@ -521,6 +521,68 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
+#EXTINF:-1,----------PREMIUM CINEMA----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4613.ts
+#EXTINF:-1,Premium Cinema HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4527.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4528.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4529.ts
+#EXTINF:-1,Premium Cinema +24
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4530.ts
+#EXTINF:-1,Premium Emotion
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4534.ts
+#EXTINF:-1,Premium Comedy
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4540.ts
+#EXTINF:-1,Premium Energy
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4533.ts
+#EXTINF:-1,Premium Stories
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4532.ts
+#EXTINF:-1,Premium Stories +24
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4544.ts
+#EXTINF:-1,Premium Action HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4537.ts
+#EXTINF:-1,Premium Action +24
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4538.ts
+#EXTINF:-1,Premium Joi
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4536.ts
+#EXTINF:-1,Premium Joi +24
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4555.ts
+#EXTINF:-1,Studio Universal - Premium
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4541.ts
+#EXTINF:-1,Disney Junior - Premium
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4542.ts
+#EXTINF:-1,Premium Crime HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4531.ts
+#EXTINF:-1,Cartoon Network - Premium
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4545.ts
+#EXTINF:-1,--- PREMIUM SPORT
+http://dummylink.com
+#EXTINF:-1,Premium Sport HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4553.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4546.ts
+#EXTINF:-1,Premium Sport 2
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5131.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4026.ts
+#EXTINF:-1,Premium Calcio 1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4548.ts
+#EXTINF:-1,Premium Calcio 2
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4549.ts
+#EXTINF:-1,Premium Calcio 5
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4550.ts
+#EXTINF:-1,Premium Calcio 6
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4551.ts
+#EXTINF:-1,Premium Calcio 7
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4552.ts
+#EXTINF:-1,Rai Sport 1
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4554.ts
+#EXTINF:-1,Rai Sport 2
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4488.ts
+#EXTINF:-1,Rai Premium
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4491.ts
 #EXTINF:-1,----------Sky Cinema----------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5112.ts
 #EXTINF:-1,Sky Cinema 1 HD

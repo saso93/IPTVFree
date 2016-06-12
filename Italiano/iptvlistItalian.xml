@@ -716,23 +716,23 @@ http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3476.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1162.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6736.ts
 #EXTINF:-1,Rai 2 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1163.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6735.ts
 #EXTINF:-1,Rai 3 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1164.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6734.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1178.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6733.ts
 #EXTINF:-1,Canale 5 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1115.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6753.ts
 #EXTINF:-1,Italia 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1128.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/9915.ts
 #EXTINF:-1,La 7 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1130.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6738.ts
 #EXTINF:-1 ,Rai 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
 #EXTINF:-1,Iris
@@ -788,9 +788,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1180.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6837.ts
 #EXTINF:-1,RSI LA 2 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1181.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6836.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83
@@ -1219,350 +1219,220 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,------SKY CINEMA ------
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/908.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/51.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/801.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/160.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/53.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/241.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2614.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/93.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/54.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/230.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/802.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/55.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/159.ts
-#EXTINF:-1,Iris
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1081.ts
-#EXTINF:-1,Rai Movie
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1599.ts
-#EXTINF:-1,------SKY INTRATTENIMENTO ------
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/909.ts
-#EXTINF:-1,Sky Uno HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/639.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1975.ts
-#EXTINF:-1,Sky Atlantic HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/95.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2303.ts
-#EXTINF:-1,Sky Fox HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/56.ts
+#EXTINF:-1,----SKY CINEMA
+http://archimede1.ddns.net:8000/live/oristano/oristano/6867.ts
+#EXTINF:-1,SKY CINEMA 1 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6722.ts
+#EXTINF:-1,SKY CINEMA MAX HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6813.ts
+#EXTINF:-1,SKY CINEMA  +1 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6894.ts
+#EXTINF:-1,SKY CINEMA 24 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6820.ts
+#EXTINF:-1,SKY CINEMA HITS HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6814.ts
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6815.ts
+#EXTINF:-1,SKY CINEMA PASSION HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6812.ts
+#EXTINF:-1,SKY CINEMA CLASSIC HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6819.ts
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6818.ts
+#EXTINF:-1,SKY CINEMA CULT HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6817.ts
+#EXTINF:-1,-- SKY INTRATENIMENTO
+http://archimede1.ddns.net:8000/live/oristano/oristano/6868.ts
+#EXTINF:-1,SKY ATLANTIC HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6831.ts
+#EXTINF:-1,SKY FOX HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6810.ts
 #EXTINF:-1,Sky Fox Life HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/795.ts
-#EXTINF:-1,Sky Fox Crime HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3.ts
-#EXTINF:-1,Sky Crime Investigation HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/992.ts
-#EXTINF:-1,Topcrime
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/820.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6809.ts
+#EXTINF:-1,SKY UNO HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6797.ts
+#EXTINF:-1,SKY FOX CRIME HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6807.ts
+#EXTINF:-1,Sky Ci Crime Investigation HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6821.ts
+#EXTINF:-1,Sky Axn HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6830.ts
 #EXTINF:-1,Giallo
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1998.ts
-#EXTINF:-1,Sky Fox Comedy HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/805.ts
-#EXTINF:-1,Sky Fox Animation HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/917.ts
-#EXTINF:-1,AXN HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/681.ts
-#EXTINF:-1,Real Time HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/803.ts
-#EXTINF:-1,Real Time +1
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1834.ts
-#EXTINF:-1,Sposa TV HD
-rtmp://46.21.28.5:22544/live/sposahd1
-#EXTINF:-1,Cielo
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/82.ts
-#EXTINF:-1,Mediaset Italia 2
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/821.ts
-#EXTINF:-1,Mediaset Extra
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/822.ts
-#EXTINF:-1,TV 2000
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1825.ts
-#EXTINF:-1,La 5
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1082.ts
-#EXTINF:-1,Rai Premium
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1600.ts
-#EXTINF:-1,Rai 4
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/843.ts
-#EXTINF:-1,Rai 5
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1601.ts
-#EXTINF:-1,TV Luna
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2125.ts
-#EXTINF:-1,Canale 8
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2123.ts
-#EXTINF:-1,Canale 21
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/838.ts
-#EXTINF:-1,Videolina
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/839.ts
-#EXTINF:-1,------SKY SPORT ------
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/910.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/951.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/68.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/782.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2536.ts
-#EXTINF:-1,Sportitalia
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/30.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/97.ts
-#EXTINF:-1,Sky Sport Moto GP HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/913.ts
-#EXTINF:-1,Eurosport 1
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3613.ts
-#EXTINF:-1,Eurosport 2
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3612.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/29.ts
-#EXTINF:-1,Rai Sport 2
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/990.ts
-#EXTINF:-1,Super Tennis HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/96.ts
-#EXTINF:-1,Poker Italia
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2535.ts
-#EXTINF:-1,------SKY CALCIO ------
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/916.ts
-#EXTINF:-1,Sky Fox Sports HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/128.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/83.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/190.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/191.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/193.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/194.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/365.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/195.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/196.ts
-#EXTINF:-1,Sky Calcio 8
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2534.ts
-#EXTINF:-1,Juventus Channel
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1291.ts
-#EXTINF:-1,Milan Channel
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1295.ts
-#EXTINF:-1,Inter Channel
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1598.ts
-#EXTINF:-1,Roma Channel
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1591.ts
-#EXTINF:-1,------SKY CULTURA ------
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/911.ts
-#EXTINF:-1,Explora HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/899.ts
-#EXTINF:-1,National Geographic HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/988.ts
-#EXTINF:-1,Nat Geo People
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/901.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1331.ts
-#EXTINF:-1,Discovery Channel HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/989.ts
-#EXTINF:-1,Discovery Science
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/796.ts
-#EXTINF:-1,Focus
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1297.ts
-#EXTINF:-1,Dmax HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/94.ts
-#EXTINF:-1,Animal Planet
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1816.ts
-#EXTINF:-1,Sky Arte HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1629.ts
-#EXTINF:-1,History HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/804.ts
-#EXTINF:-1,Rai Storia
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2253.ts
-#EXTINF:-1,Rai Scuola
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3297.ts
-#EXTINF:-1,Gambero Rosso
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1290.ts
-#EXTINF:-1,Pesca e Caccia
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1332.ts
-#EXTINF:-1,Fine Living
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1298.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6979.ts
+#EXTINF:-1,----CULTURA
+http://archimede1.ddns.net:8000/live/oristano/oristano/6871.ts
+#EXTINF:-1,SKY Discovery Chanel HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6758.ts
+#EXTINF:-1,Sky Discovery Sci
+http://archimede1.ddns.net:8000/live/oristano/oristano/6721.ts
+#EXTINF:-1,SKY Nat Geo People
+http://archimede1.ddns.net:8000/live/oristano/oristano/6885.ts
+#EXTINF:-1,Sky NatGeo
+http://archimede1.ddns.net:8000/live/oristano/oristano/6884.ts
+#EXTINF:-1,Discovery T e L
+http://archimede1.ddns.net:8000/live/oristano/oristano/6895.ts
+#EXTINF:-1,NatGeo Wild
+http://archimede1.ddns.net:8000/live/oristano/oristano/6896.ts
+#EXTINF:-1,SKY History  HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6745.ts
+#EXTINF:-1,SKY Explora HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6757.ts
+#EXTINF:-1,Premium-Discovery World
+http://archimede1.ddns.net:8000/live/oristano/oristano/6854.ts
+#EXTINF:-1,Gamberosso
+http://archimede1.ddns.net:8000/live/oristano/oristano/6927.ts
+#EXTINF:-1,Pianeta TV
+http://archimede1.ddns.net:8000/live/oristano/oristano/6936.ts
 #EXTINF:-1,Alice
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1296.ts
-#EXTINF:-1,Marco Polo
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1094.ts
-#EXTINF:-1,Travel e Living
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/900.ts
-#EXTINF:-1,-----SKY BAMBINI -----
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/950.ts
-#EXTINF:-1,Disney Channel
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/42.ts
-#EXTINF:-1,Disney Channel +1
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1630.ts
-#EXTINF:-1,Disney Junior
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/156.ts
-#EXTINF:-1,Cartoon Network
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/155.ts
-#EXTINF:-1,Sky Man-ga
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2537.ts
-#EXTINF:-1,Super
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1605.ts
-#EXTINF:-1,Nick JR
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1833.ts
-#EXTINF:-1,Nickelodeon
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1820.ts
-#EXTINF:-1,Nickelodeon +1
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1824.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6944.ts
+#EXTINF:-1,Marcopolo
+http://archimede1.ddns.net:8000/live/oristano/oristano/6941.ts
+#EXTINF:-1,Animal Planet
+http://archimede1.ddns.net:8000/live/oristano/oristano/6981.ts
+#EXTINF:-1,Focus
+http://archimede1.ddns.net:8000/live/oristano/oristano/6974.ts
+#EXTINF:-1,top calcio 24
+http://archimede1.ddns.net:8000/live/oristano/oristano/6938.ts
+#EXTINF:-1,Sport Italia
+http://archimede1.ddns.net:8000/live/oristano/oristano/8092.ts
+#EXTINF:-1,Caccia e pesca
+http://archimede1.ddns.net:8000/live/oristano/oristano/6925.ts
+#EXTINF:-1,Pesca e caccia
+http://archimede1.ddns.net:8000/live/oristano/oristano/6975.ts
+#EXTINF:-1,SKY Tg 24 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6743.ts
+#EXTINF:-1,---- BAMBINI
+http://archimede1.ddns.net:8000/live/oristano/oristano/6870.ts
+#EXTINF:-1,SKY Disney Chanel HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6754.ts
+#EXTINF:-1,SKY Disney XD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6732.ts
+#EXTINF:-1,Junior
+http://archimede1.ddns.net:8000/live/oristano/oristano/7420.ts
+#EXTINF:-1,Premium-Disney Channel
+http://archimede1.ddns.net:8000/live/oristano/oristano/6853.ts
+#EXTINF:-1,Premium-Disney Channel  1
+http://archimede1.ddns.net:8000/live/oristano/oristano/6852.ts
+#EXTINF:-1,Premium-Cartoon Network
+http://archimede1.ddns.net:8000/live/oristano/oristano/6858.ts
+#EXTINF:-1,Premium-Disney Junior
+http://archimede1.ddns.net:8000/live/oristano/oristano/6851.ts
+#EXTINF:-1,CARTOONITO
+http://archimede1.ddns.net:8000/live/oristano/oristano/6772.ts
+#EXTINF:-1,Super!
+http://archimede1.ddns.net:8000/live/oristano/oristano/6742.ts
+#EXTINF:-1,BOING
+http://archimede1.ddns.net:8000/live/oristano/oristano/6795.ts
+#EXTINF:-1,Rai Yoyo
+http://archimede1.ddns.net:8000/live/oristano/oristano/6839.ts
+#EXTINF:-1,RAI GULP
+http://archimede1.ddns.net:8000/live/oristano/oristano/6845.ts
+#EXTINF:-1,FRISBEE
+http://archimede1.ddns.net:8000/live/oristano/oristano/6770.ts
 #EXTINF:-1,K2
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1123.ts
-#EXTINF:-1,Frisbee
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1300.ts
-#EXTINF:-1,Disney XD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1631.ts
-#EXTINF:-1,Boomerang
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1972.ts
-#EXTINF:-1,Rai YoYo
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1579.ts
-#EXTINF:-1,Rai Gulp
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1338.ts
-#EXTINF:-1,Boing
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1080.ts
-#EXTINF:-1,Cartoonito
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1124.ts
-#EXTINF:-1,------ NOTIZIE ------
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/918.ts
-#EXTINF:-1,SKY TG 24
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/66.ts
-#EXTINF:-1,Rai News 24
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2222.ts
-#EXTINF:-1,TGCom 24
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1086.ts
-#EXTINF:-1,------ PREMIUM CINEMA ------
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/920.ts
-#EXTINF:-1,Premium Cinema HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/33.ts
-#EXTINF:-1,Premium Cinema +24
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1767.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6750.ts
+#EXTINF:-1,Man-Ga
+http://archimede1.ddns.net:8000/live/oristano/oristano/7426.ts
+#EXTINF:-1,---PREMIUM CINEMA
+http://archimede1.ddns.net:8000/live/oristano/oristano/6872.ts
+#EXTINF:-1,Premium-Cinema HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6857.ts
 #EXTINF:-1,Premium Cinema 2 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1766.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1768.ts
-#EXTINF:-1,Premium Action HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/41.ts
-#EXTINF:-1,Premium Action +24
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1812.ts
-#EXTINF:-1,Premium Energy
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/157.ts
-#EXTINF:-1,Premium Emotion
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/38.ts
-#EXTINF:-1,Premium Comedy
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/34.ts
-#EXTINF:-1,Premium Crime HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/35.ts
-#EXTINF:-1,Premium Crime +24
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1811.ts
-#EXTINF:-1,Premium Stories
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/63.ts
-#EXTINF:-1,Premium Stories +24
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3411.ts
-#EXTINF:-1,Premium Joi
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/39.ts
-#EXTINF:-1,Premium Joi +24
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3410.ts
-#EXTINF:-1,Premium Studio Universal
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/37.ts
-#EXTINF:-1,------ PREMIUM SPORT ------
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1209.ts
-#EXTINF:-1,Premium Sport HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1847.ts
-#EXTINF:-1,Premium Sport
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1293.ts
-#EXTINF:-1,Premium Sport 2
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3283.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3288.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/43.ts
-#EXTINF:-1,Premium Calcio 1
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/154.ts
-#EXTINF:-1,Premium Calcio 2
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/640.ts
-#EXTINF:-1,Premium Calcio 3
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/641.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6729.ts
+#EXTINF:-1,Premium-Cinema  24
+http://archimede1.ddns.net:8000/live/oristano/oristano/6773.ts
+#EXTINF:-1,Premium-Cinema 2  24
+http://archimede1.ddns.net:8000/live/oristano/oristano/6765.ts
+#EXTINF:-1,Premium-Action HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6862.ts
+#EXTINF:-1,Premium-Action  24
+http://archimede1.ddns.net:8000/live/oristano/oristano/6766.ts
+#EXTINF:-1,Premium-Crime HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6855.ts
+#EXTINF:-1,Premium-Crime  24
+http://archimede1.ddns.net:8000/live/oristano/oristano/6748.ts
+#EXTINF:-1,Premium-Studio Universal
+http://archimede1.ddns.net:8000/live/oristano/oristano/6847.ts
+#EXTINF:-1,Premium-Comedy
+http://archimede1.ddns.net:8000/live/oristano/oristano/6856.ts
+#EXTINF:-1,Premium-Stories
+http://archimede1.ddns.net:8000/live/oristano/oristano/6762.ts
+#EXTINF:-1,Premium-Joy
+http://archimede1.ddns.net:8000/live/oristano/oristano/6848.ts
+#EXTINF:-1,premium Joi +24
+http://archimede1.ddns.net:8000/live/oristano/oristano/6866.ts
+#EXTINF:-1,Premium-Energy
+http://archimede1.ddns.net:8000/live/oristano/oristano/6849.ts
+#EXTINF:-1,Premium-Emotion
+http://archimede1.ddns.net:8000/live/oristano/oristano/6850.ts
+#EXTINF:-1,--- PREMIUM SPORT
+http://archimede1.ddns.net:8000/live/oristano/oristano/6874.ts
+#EXTINF:-1,Premium-Sport HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6763.ts
+#EXTINF:-1,Premium-Sport
+http://archimede1.ddns.net:8000/live/oristano/oristano/6764.ts
+#EXTINF:-1,----PREMIUM CALCIO
+http://archimede1.ddns.net:8000/live/oristano/oristano/6873.ts
+#EXTINF:-1,Premium Calcio HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6774.ts
+#EXTINF:-1,Premium-Calcio 1
+http://archimede1.ddns.net:8000/live/oristano/oristano/6860.ts
+#EXTINF:-1,Premium-Calcio 2
+http://archimede1.ddns.net:8000/live/oristano/oristano/6859.ts
+#EXTINF:-1,Premium-Calcio 3
+http://archimede1.ddns.net:8000/live/oristano/oristano/6741.ts
 #EXTINF:-1,Premium Calcio 4
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/921.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6731.ts
 #EXTINF:-1,Premium Calcio 5
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/690.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6730.ts
 #EXTINF:-1,Premium Calcio 6
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/922.ts
+http://archimede1.ddns.net:8000/live/oristano/oristano/6726.ts
 #EXTINF:-1,Premium Calcio 7
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1294.ts
-#EXTINF:-1,--PRIMAFILA
-http://dummylink.com
-#EXTINF:-1,Sky Primafila 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1734.ts
-#EXTINF:-1,Sky Primafila 2 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1735.ts
-#EXTINF:-1,Sky Primafila 3 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1736.ts
-#EXTINF:-1,Sky Primafila 4 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1737.ts
-#EXTINF:-1,Sky Primafila 5 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1738.ts
-#EXTINF:-1,Sky Primafila 6 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1739.ts
-#EXTINF:-1,Sky Primafila 7 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1740.ts
-#EXTINF:-1,Sky Primafila 8 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1741.ts
-#EXTINF:-1,Sky Primafila 11 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1471.ts
-#EXTINF:-1,Sky Primafila 12 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1472.ts
-#EXTINF:-1,Sky Primafila 13 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1473.ts
-#EXTINF:-1,Sky Primafila 14 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1474.ts
-#EXTINF:-1,Sky Primafila 15 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1475.ts
-#EXTINF:-1,------ PRIMAFILA ON DEMAND------
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/407.mp4
-#EXTINF:-1,Primafila 1 HD (Deadpool)
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3298.mkv
-#EXTINF:-1,Primafila 3 HD (Zootropolis)
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3300.mkv
-#EXTINF:-1,Primafila 5 HD  (The Danish Girl)
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3302.mkv
-#EXTINF:-1,Primafila 7 HD (Single Ma Non Troppo)
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3304.mkv
-#EXTINF:-1,Primafila 9 HD (La Quinta Onda)
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3306.mkv
-#EXTINF:-1,Primafila 11 HD (Point Break)
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3308.mkv
-#EXTINF:-1,Primafila 13 HD (Belle E Sebastien - L`Avventura Continua)
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3310.mkv
-#EXTINF:-1,Primafila 15 HD (The Program)
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3312.mkv
-#EXTINF:-1,Primafila 16 HD (Joy)
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3313.mkv
-#EXTINF:-1,Primafila 17 HD (The Last Witch Hunter L Ultimo Cacciatore Di Streghe)
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3314.mkv
-#EXTINF:-1,Primafila 18 HD (Assolo)
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3315.mkv
+http://archimede1.ddns.net:8000/live/oristano/oristano/6725.ts
+#EXTINF:-1,---SKY SPORT
+http://archimede1.ddns.net:8000/live/oristano/oristano/6869.ts
+#EXTINF:-1,SKY SPORT 1 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6803.ts
+#EXTINF:-1,SKY SPORT 2 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6802.ts
+#EXTINF:-1,SKY SPORT 3 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6800.ts
+#EXTINF:-1,SKY SPORT 24 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6801.ts
+#EXTINF:-1,Sky Fox Sport HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6808.ts
+#EXTINF:-1,SKY Sport Plus HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6744.ts
+#EXTINF:-1,Sky Moto GP HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6806.ts
+#EXTINF:-1,SKY F1 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6811.ts
+#EXTINF:-1,SuperTennis HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6740.ts
+#EXTINF:-1,Spilt TV
+http://archimede1.ddns.net:8000/live/oristano/oristano/6942.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6935.ts
+#EXTINF:-1,Sport 1
+http://archimede1.ddns.net:8000/live/oristano/oristano/6934.ts
+#EXTINF:-1,SportItalia
+http://archimede1.ddns.net:8000/live/oristano/oristano/6933.ts
+#EXTINF:-1,---SKY CALCIO
+http://archimede1.ddns.net:8000/live/oristano/oristano/6875.ts
+#EXTINF:-1,SKY SUPERCALCIO HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6799.ts
+#EXTINF:-1,SKY CALCIO 1 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6829.ts
+#EXTINF:-1,SKY CALCIO 2 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6828.ts
+#EXTINF:-1,SKY CALCIO 3 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6827.ts
+#EXTINF:-1,SKY CALCIO 4 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6826.ts
+#EXTINF:-1,SKY CALCIO 5 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6825.ts
+#EXTINF:-1,SKY CALCIO 6 HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/6824.ts
 #EXTINF:-1,---- FILM IN SALA ----
 http://tvservice.webhop.me:80/live/GN0007/0007GN/2693.ts
 #EXTINF:-1,Vetrina Film In Sala
@@ -1583,6 +1453,36 @@ http://tvservice.webhop.me:80/movie/GN0007/0007GN/2673.mkv
 http://tvservice.webhop.me:80/movie/GN0007/0007GN/2676.mp4
 #EXTINF:-1,Film In Sala 8
 http://tvservice.webhop.me:80/movie/GN0007/0007GN/2675.mkv
+#EXTINF:-1,---MUSICA
+http://archimede1.ddns.net:8000/live/oristano/oristano/7441.ts
+#EXTINF:-1,Radio Italia
+http://archimede1.ddns.net:8000/live/oristano/oristano/7417.ts
+#EXTINF:-1,MTV Music
+http://archimede1.ddns.net:8000/live/oristano/oristano/6940.ts
+#EXTINF:-1,RTL 102.5 TV
+http://archimede1.ddns.net:8000/live/oristano/oristano/6769.ts
+#EXTINF:-1,Radio 105 TV
+http://archimede1.ddns.net:8000/live/oristano/oristano/6899.ts
+#EXTINF:-1,Virgin Radio TV
+http://archimede1.ddns.net:8000/live/oristano/oristano/6900.ts
+#EXTINF:-1,Vevo ROCK TV
+http://archimede1.ddns.net:8000/live/oristano/oristano/7398.ts
+#EXTINF:-1,Vevo Music TV
+http://archimede1.ddns.net:8000/live/oristano/oristano/7399.ts
+#EXTINF:-1,Rouge TV music non stop
+http://archimede1.ddns.net:8000/live/oristano/oristano/7413.ts
+#EXTINF:-1,ROUGE TV CH
+http://archimede1.ddns.net:8000/live/oristano/oristano/7414.ts
+#EXTINF:-1,RADIO VIRGIN TV
+http://archimede1.ddns.net:8000/live/oristano/oristano/7415.ts
+#EXTINF:-1,Radio Montecarlo TV
+http://archimede1.ddns.net:8000/live/oristano/oristano/7416.ts
+#EXTINF:-1,Best Music HD
+http://archimede1.ddns.net:8000/live/oristano/oristano/7424.ts
+#EXTINF:-1,M6 MUSIC
+http://archimede1.ddns.net:8000/live/oristano/oristano/7419.ts
+#EXTINF:-1,GONG music
+http://archimede1.ddns.net:8000/live/oristano/oristano/7421.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

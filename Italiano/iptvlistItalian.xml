@@ -3,18 +3,10 @@
 #EXTM3U
 #EXTINF:-1,---NOVITA
 http://dummylink.com
-#EXTINF:-1,Squadra antimafia(in fondo)
+#EXTINF:-1, Film In sala e Primafila on Demand (in fondo)
 http://dummylink.com
-#EXTINF:-1,Harry Potter (in fondo)
+#EXTINF:-1, Gomorra (in fondo)
 http://dummylink.com
-#EXTINF:-1,Tiramisu 2016 (clicca qui)
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14450.mkv
-#EXTINF:-1,Captain America Civil War (clicca qui)
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14379.mp4
-#EXTINF:-1,Codice 999 720p (clicca qui)
-http://serv01.iptvplanet.eu:11118/movie/pippo/pippo/2849.mp4
-#EXTINF:-1,Kung Fu Panda 3 (clicca qui)
-http://gtatemvod.com:43100/movie/Augusto/Augusto/14351.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
@@ -865,6 +857,26 @@ http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3313.mkv
 http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3314.mkv
 #EXTINF:-1,Primafila 18 HD (Assolo)
 http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3315.mkv
+#EXTINF:-1,---- FILM IN SALA ----
+http://tvservice.webhop.me:80/live/GN0007/0007GN/2693.ts
+#EXTINF:-1,Vetrina Film In Sala
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/2692.mkv
+#EXTINF:-1,Film In Sala 1
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/2668.mkv
+#EXTINF:-1,Film In Sala 2
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/2669.mkv
+#EXTINF:-1,Film In Sala 3
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/2670.mkv
+#EXTINF:-1,Film In Sala 4
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/2671.mkv
+#EXTINF:-1,Film In Sala 5
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/2672.mp4
+#EXTINF:-1,Film In Sala 6
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/2673.mkv
+#EXTINF:-1,Film in Sala 7
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/2676.mp4
+#EXTINF:-1,Film In Sala 8
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/2675.mkv
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC
@@ -5297,4 +5309,50 @@ http://fullblack.fullapple.me:8000/movie/pablito/pablito/963.mkv
 http://fullblack.fullapple.me:8000/movie/pablito/pablito/964.mkv
 #EXTINF:-1,Squadra Antimafia S07 EP10
 http://fullblack.fullapple.me:8000/movie/pablito/pablito/965.mkv
+#EXTINF:-1,---GOMORRA
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3530.mkv
+#EXTINF:-1,Gomorra 1x01 Il clan dei Savastano
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3530.mkv
+#EXTINF:-1,Gomorra 1x02 Ti fidi di me
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3531.mkv
+#EXTINF:-1,Gomorra 1x03 L omm e casa
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3532.mkv
+#EXTINF:-1,Gomorra 1x04 Sangue africano
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3533.mkv
+#EXTINF:-1,Gomorra 1x05 Il ruggito della leonessa
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3534.mkv
+#EXTINF:-1,Gomorra 1x06 Roulette spagnola
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3535.mkv
+#EXTINF:-1,Gomorra 1x07 Imma contro tutti
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3536.mkv
+#EXTINF:-1,Gomorra 1x08 La scheda bianca
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3537.mkv
+#EXTINF:-1,Gomorra 1x09 Gelsomina Verde
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3538.mkv
+#EXTINF:-1,Gomorra 1x10 Ora facciamo i Conte
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3539.mkv
+#EXTINF:-1,Gomorra 1x11 100 modi per uccidere
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3540.mkv
+#EXTINF:-1,Gomorra 1x12 Gli Immortali
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/3541.mkv
+#EXTINF:-1,Gomorra 2x01 Episodio 1
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/4918.mkv
+#EXTINF:-1,Gomorra 2x02 Episodio 2
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/4919.mkv
+#EXTINF:-1,Gomorra 2x03 Episodio 3
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/5044.mkv
+#EXTINF:-1,Gomorra 2x04 Episodio 4
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/5045.mkv
+#EXTINF:-1,Gomorra 2x05 Episodio 5
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/5378.mkv
+#EXTINF:-1,Gomorra 2x06 Episodio 6
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/5379.mkv
+#EXTINF:-1,Gomorra 2x07 Episodio 7
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/5424.mkv
+#EXTINF:-1,Gomorra 2x08 Episodio 8
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/5425.mkv
+#EXTINF:-1,Gomorra 2x09 Episodio 9
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/5459.mkv
+#EXTINF:-1,Gomorra 2x10 Episodio 10
+http://tvservice.webhop.me:80/movie/GN0007/0007GN/5460.mkv
 </List>

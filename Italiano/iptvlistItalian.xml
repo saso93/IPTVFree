@@ -576,7 +576,7 @@ http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/803.ts
 #EXTINF:-1,Real Time +1
 http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1834.ts
 #EXTINF:-1,Sposa TV HD
-#rtmp://46.21.28.5:22544/live/sposahd1
+rtmp://46.21.28.5:22544/live/sposahd1
 #EXTINF:-1,Cielo
 http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/82.ts
 #EXTINF:-1,Mediaset Italia 2

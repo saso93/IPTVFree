@@ -521,284 +521,300 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,----------PREMIUM CINEMA----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4613.ts
-#EXTINF:-1,Premium Cinema 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1152.ts
-#EXTINF:-1,Premium Cinema +24
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1149.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1155.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1154.ts
-#EXTINF:-1,Premium Cinema Comedy
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1150.ts
-#EXTINF:-1,Premium Cinema Energy
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1151.ts
-#EXTINF:-1,Premium Cinema Emotion
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1156.ts
-#EXTINF:-1,Paramount Channel HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2909.ts
-#EXTINF:-1,Studio Universal
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1185.ts
-#EXTINF:-1,Rai Movie HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1168.ts
-#EXTINF:-1,Iris
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1127.ts
-#EXTINF:-1,Premium Action HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1139.ts
-#EXTINF:-1,Premium Action +24
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1138.ts
-#EXTINF:-1,Premium Crime HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1158.ts
-#EXTINF:-1,Premium Crime +24
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1157.ts
-#EXTINF:-1,Premium Cinema Joi
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1153.ts
-#EXTINF:-1,Premium Cinema Joi +24
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1192.ts
-#EXTINF:-1,--- PREMIUM SPORT
-http://dummylink.com
-#EXTINF:-1,Premium Sport HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1160.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1148.ts
-#EXTINF:-1,Premium Sport 2
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1140.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1141.ts
-#EXTINF:-1,Premium Calcio 2
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1142.ts
-#EXTINF:-1,Premium Calcio 3
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1143.ts
-#EXTINF:-1,Premium Calcio 4
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1144.ts
-#EXTINF:-1,Premium Calcio 5
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1145.ts
-#EXTINF:-1,Premium Calcio 6
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1146.ts
-#EXTINF:-1,Premium Calcio 7
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1147.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1172.ts
-#EXTINF:-1,Rai Sport 2
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1173.ts
-#EXTINF:-1,Eurosport 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1124.ts
-#EXTINF:-1,Eurosport 2 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1123.ts
-#EXTINF:-1,SuperTennis HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1186.ts
-#EXTINF:-1,BIKE CHANNEL HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2044.ts
-#EXTINF:-1,Sportitalia
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1184.ts
-#EXTINF:-1,Automoto TV
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1113.ts
-#EXTINF:-1,Class Horse TV
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1119.ts
-#EXTINF:-1,----------Sky Cinema----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5112.ts
+#EXTINF:-1,------SKY CINEMA ------
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/908.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/30.ts
-#EXTINF:-1,SKY CINEMA +24 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1505.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/51.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/801.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/160.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/28.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/53.ts
 #EXTINF:-1,Sky Cinema Family HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/32.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/241.ts
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2614.ts
 #EXTINF:-1,Sky Cinema Passion HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/31.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/93.ts
 #EXTINF:-1,Sky Cinema Comedy HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/33.ts
-#EXTINF:-1,Cinema Max HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/51.ts
-#EXTINF:-1,Cinema Cult HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/46.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/54.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/230.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/802.ts
+#EXTINF:-1,IT  - Sky Cinema Cult HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/55.ts
 #EXTINF:-1,Sky Cinema Classic HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/29.ts
-#EXTINF:-1,Sky 3D
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1868.ts
-#EXTINF:-1,----------Sky Intrattenimento----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4635.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/159.ts
+#EXTINF:-1,Iris
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1081.ts
+#EXTINF:-1,Rai Movie
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1599.ts
+#EXTINF:-1,------SKY INTRATTENIMENTO ------
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/909.ts
 #EXTINF:-1,Sky Uno HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/47.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/639.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1975.ts
 #EXTINF:-1,Sky Atlantic HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/34.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/95.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2303.ts
+#EXTINF:-1,Sky Fox HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/56.ts
+#EXTINF:-1,Sky Fox Life HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/795.ts
+#EXTINF:-1,Sky Fox Crime HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3.ts
+#EXTINF:-1,Sky Crime Investigation HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/992.ts
+#EXTINF:-1,Topcrime
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/820.ts
+#EXTINF:-1,Giallo
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1998.ts
+#EXTINF:-1,Sky Fox Comedy HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/805.ts
+#EXTINF:-1,Sky Fox Animation HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/917.ts
 #EXTINF:-1,AXN HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/41.ts
-#EXTINF:-1,Fox HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/43.ts
-#EXTINF:-1,Fox Life HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1486.ts
-#EXTINF:-1,Fox Crime HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/50.ts
-#EXTINF:-1,Fox Comedy HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/37.ts
-#EXTINF:-1,Fox Animation HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1487.ts
-#EXTINF:-1,Premium Stories
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1161.ts
-#EXTINF:-1,Premium Stories +24
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1121.ts
-#EXTINF:-1,Animal Planet
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/7.ts
-#EXTINF:-1,Discovery Channel HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/45.ts
-#EXTINF:-1,Discovery Sci HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/5.ts
-#EXTINF:-1,Discovery Travel and Living HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1467.ts
-#EXTINF:-1,Crime Investigation HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/6.ts
-#EXTINF:-1,Explora HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/4.ts
-#EXTINF:-1,Focus
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1125.ts
-#EXTINF:-1,FINE LIVING
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2267.ts
-#EXTINF:-1,DMAX
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1122.ts
-#EXTINF:-1,National Geographic HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/42.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/44.ts
-#EXTINF:-1,Nat Geo People
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/39.ts
-#EXTINF:-1,History HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/40.ts
-#EXTINF:-1,Nautical HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2685.ts
-#EXTINF:-1,Marco Polo
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/38.ts
-#EXTINF:-1,Rai Scuola
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1171.ts
-#EXTINF:-1,Rai Storia
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1174.ts
-#EXTINF:-1,Italian Fishing TV
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1129.ts
-#EXTINF:-1,Pesca e Caccia
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2.ts
-#EXTINF:-1,Caccia e Pesca
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1484.ts
-#EXTINF:-1,----------Sky Sport----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5113.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/681.ts
+#EXTINF:-1,Real Time HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/803.ts
+#EXTINF:-1,Real Time +1
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1834.ts
+#EXTINF:-1,Sposa TV HD
+#rtmp://46.21.28.5:22544/live/sposahd1
+#EXTINF:-1,Cielo
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/82.ts
+#EXTINF:-1,Mediaset Italia 2
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/821.ts
+#EXTINF:-1,Mediaset Extra
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/822.ts
+#EXTINF:-1,TV 2000
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1825.ts
+#EXTINF:-1,La 5
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1082.ts
+#EXTINF:-1,Rai Premium
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1600.ts
+#EXTINF:-1,Rai 4
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/843.ts
+#EXTINF:-1,Rai 5
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1601.ts
+#EXTINF:-1,TV Luna
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2125.ts
+#EXTINF:-1,Canale 8
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2123.ts
+#EXTINF:-1,Canale 21
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/838.ts
+#EXTINF:-1,Videolina
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/839.ts
+#EXTINF:-1,------SKY SPORT ------
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/910.ts
 #EXTINF:-1,Sky Sport 24 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/24.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/951.ts
 #EXTINF:-1,Sky Sport 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/20.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2.ts
 #EXTINF:-1,Sky Sport 2 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/21.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/68.ts
 #EXTINF:-1,Sky Sport 3 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/22.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/782.ts
 #EXTINF:-1,Sky Sport Plus HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1490.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2536.ts
+#EXTINF:-1,Sportitalia
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/30.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/23.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/27.ts
-#EXTINF:-1,Fox Sport HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/35.ts
-#EXTINF:-1,Sky SuperCalcio HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/49.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/97.ts
+#EXTINF:-1,Sky Sport Moto GP HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/913.ts
+#EXTINF:-1,Eurosport 1
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3613.ts
+#EXTINF:-1,Eurosport 2
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3612.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/29.ts
+#EXTINF:-1,Rai Sport 2
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/990.ts
+#EXTINF:-1,Super Tennis HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/96.ts
+#EXTINF:-1,Poker Italia
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2535.ts
+#EXTINF:-1,------SKY CALCIO ------
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/916.ts
+#EXTINF:-1,Sky Fox Sports HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/128.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/83.ts
 #EXTINF:-1,Sky Calcio 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/25.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/190.ts
 #EXTINF:-1,Sky Calcio 2 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/26.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/191.ts
 #EXTINF:-1,Sky Calcio 3 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/14.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/193.ts
 #EXTINF:-1,Sky Calcio 4 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/13.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/194.ts
 #EXTINF:-1,Sky Calcio 5 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/12.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/365.ts
 #EXTINF:-1,Sky Calcio 6 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/11.ts
-#EXTINF:-1,SKY Calcio 7 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/10.ts
-#EXTINF:-1,SKY Calcio 8 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/9.ts
-#EXTINF:-1,SKY Calcio 9 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1760.ts
-#EXTINF:-1,Inter Channel
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/18.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/195.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/196.ts
+#EXTINF:-1,Sky Calcio 8
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2534.ts
 #EXTINF:-1,Juventus Channel
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/17.ts
-#EXTINF:-1,Milan channel
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/16.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1291.ts
+#EXTINF:-1,Milan Channel
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1295.ts
+#EXTINF:-1,Inter Channel
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1598.ts
 #EXTINF:-1,Roma Channel
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/15.ts
-#EXTINF:-1,----------Sky Bambini----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4618.ts
-#EXTINF:-1,Disney XD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/36.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1591.ts
+#EXTINF:-1,------SKY CULTURA ------
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/911.ts
+#EXTINF:-1,Explora HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/899.ts
+#EXTINF:-1,National Geographic HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/988.ts
+#EXTINF:-1,Nat Geo People
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/901.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1331.ts
+#EXTINF:-1,Discovery Channel HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/989.ts
+#EXTINF:-1,Discovery Science
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/796.ts
+#EXTINF:-1,Focus
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1297.ts
+#EXTINF:-1,Dmax HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/94.ts
+#EXTINF:-1,Animal Planet
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1816.ts
+#EXTINF:-1,Sky Arte HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1629.ts
+#EXTINF:-1,History HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/804.ts
+#EXTINF:-1,Rai Storia
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2253.ts
+#EXTINF:-1,Rai Scuola
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3297.ts
+#EXTINF:-1,Gambero Rosso
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1290.ts
+#EXTINF:-1,Pesca e Caccia
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1332.ts
+#EXTINF:-1,Fine Living
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1298.ts
+#EXTINF:-1,Alice
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1296.ts
+#EXTINF:-1,Marco Polo
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1094.ts
+#EXTINF:-1,Travel e Living
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/900.ts
+#EXTINF:-1,-----SKY BAMBINI -----
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/950.ts
+#EXTINF:-1,Disney Channel
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/42.ts
+#EXTINF:-1,Disney Channel +1
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1630.ts
 #EXTINF:-1,Disney Junior
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1502.ts
-#EXTINF:-1,Disney Channel HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1500.ts
-#EXTINF:-1,CartoonNetwork
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1117.ts
-#EXTINF:-1,Baby TV
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2638.ts
-#EXTINF:-1,Cartonito
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1116.ts
-#EXTINF:-1,Boing
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1114.ts
-#EXTINF:-1,Rai Gulp
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1167.ts
-#EXTINF:-1,Super!
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1470.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/156.ts
+#EXTINF:-1,Cartoon Network
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/155.ts
+#EXTINF:-1,Sky Man-ga
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2537.ts
+#EXTINF:-1,Super
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1605.ts
+#EXTINF:-1,Nick JR
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1833.ts
+#EXTINF:-1,Nickelodeon
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1820.ts
+#EXTINF:-1,Nickelodeon +1
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1824.ts
 #EXTINF:-1,K2
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1466.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1123.ts
 #EXTINF:-1,Frisbee
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1465.ts
-#EXTINF:-1,Rai Yoyo
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1175.ts
-#EXTINF:-1,----------Sky Musica----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4617.ts
-#EXTINF:-1,Radio Montecarlo Tv
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2164.ts
-#EXTINF:-1,MTV Live HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1135.ts
-#EXTINF:-1,MTV
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1136.ts
-#EXTINF:-1,MTV Music
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1461.ts
-#EXTINF:-1,MTV Hits
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1460.ts
-#EXTINF:-1,MTV Dance
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1459.ts
-#EXTINF:-1,MTV Rocks
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1462.ts
-#EXTINF:-1,MTV Base
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1457.ts
-#EXTINF:-1,MTV Classic
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1458.ts
-#EXTINF:-1,VH1
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1463.ts
-#EXTINF:-1,Retro Music TV
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2894.ts
-#EXTINF:-1,Viva
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1464.ts
-#EXTINF:-1,Deejay TV
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1120.ts
-#EXTINF:-1,VEVO 1 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2686.ts
-#EXTINF:-1,VEVO 2 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2687.ts
-#EXTINF:-1,VEVO 3 HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2688.ts
-#EXTINF:-1,----------Sky Notizie-----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4616.ts
-#EXTINF:-1,Sky TG 24
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/48.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1300.ts
+#EXTINF:-1,Disney XD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1631.ts
+#EXTINF:-1,Boomerang
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1972.ts
+#EXTINF:-1,Rai YoYo
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1579.ts
+#EXTINF:-1,Rai Gulp
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1338.ts
+#EXTINF:-1,Boing
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1080.ts
+#EXTINF:-1,Cartoonito
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1124.ts
+#EXTINF:-1,------ NOTIZIE ------
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/918.ts
+#EXTINF:-1,SKY TG 24
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/66.ts
 #EXTINF:-1,Rai News 24
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1169.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/2222.ts
 #EXTINF:-1,TGCom 24
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1187.ts
-#EXTINF:-1,Telepace HD
-http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2910.ts
-#EXTINF:-1,-----------sky Primafila----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4615.ts
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1086.ts
+#EXTINF:-1,------ PREMIUM CINEMA ------
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/920.ts
+#EXTINF:-1,Premium Cinema HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/33.ts
+#EXTINF:-1,Premium Cinema +24
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1767.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1766.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1768.ts
+#EXTINF:-1,Premium Action HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/41.ts
+#EXTINF:-1,Premium Action +24
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1812.ts
+#EXTINF:-1,Premium Energy
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/157.ts
+#EXTINF:-1,Premium Emotion
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/38.ts
+#EXTINF:-1,Premium Comedy
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/34.ts
+#EXTINF:-1,Premium Crime HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/35.ts
+#EXTINF:-1,Premium Crime +24
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1811.ts
+#EXTINF:-1,Premium Stories
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/63.ts
+#EXTINF:-1,Premium Stories +24
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3411.ts
+#EXTINF:-1,Premium Joi
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/39.ts
+#EXTINF:-1,Premium Joi +24
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3410.ts
+#EXTINF:-1,IT  - Premium Studio Universal
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/37.ts
+#EXTINF:-1,------ PREMIUM SPORT ------
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1209.ts
+#EXTINF:-1,Premium Sport HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1847.ts
+#EXTINF:-1,Premium Sport
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1293.ts
+#EXTINF:-1,Premium Sport 2
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3283.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/3288.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/43.ts
+#EXTINF:-1,Premium Calcio 1
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/154.ts
+#EXTINF:-1,Premium Calcio 2
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/640.ts
+#EXTINF:-1,Premium Calcio 3
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/641.ts
+#EXTINF:-1,Premium Calcio 4
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/921.ts
+#EXTINF:-1,Premium Calcio 5
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/690.ts
+#EXTINF:-1,Premium Calcio 6
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/922.ts
+#EXTINF:-1,Premium Calcio 7
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/1294.ts
+#EXTINF:-1,--PRIMAFILA
+http://dummylink.com
 #EXTINF:-1,Sky Primafila 1 HD
 http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1734.ts
 #EXTINF:-1,Sky Primafila 2 HD
@@ -825,6 +841,30 @@ http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1473.ts
 http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1474.ts
 #EXTINF:-1,Sky Primafila 15 HD
 http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1475.ts
+#EXTINF:-1,------ PRIMAFILA ON DEMAND------
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/407.mp4
+#EXTINF:-1,Primafila 1 HD (Deadpool)
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3298.mkv
+#EXTINF:-1,Primafila 3 HD (Zootropolis)
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3300.mkv
+#EXTINF:-1,Primafila 5 HD  (The Danish Girl)
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3302.mkv
+#EXTINF:-1,Primafila 7 HD (Single Ma Non Troppo)
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3304.mkv
+#EXTINF:-1,Primafila 9 HD (La Quinta Onda)
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3306.mkv
+#EXTINF:-1,Primafila 11 HD (Point Break)
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3308.mkv
+#EXTINF:-1,Primafila 13 HD (Belle E Sebastien - L`Avventura Continua)
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3310.mkv
+#EXTINF:-1,Primafila 15 HD (The Program)
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3312.mkv
+#EXTINF:-1,Primafila 16 HD (Joy)
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3313.mkv
+#EXTINF:-1,Primafila 17 HD (The Last Witch Hunter - L`Ultimo Cacciatore Di Streghe)
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3314.mkv
+#EXTINF:-1,Primafila 18 HD (Assolo)
+http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3315.mkv
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

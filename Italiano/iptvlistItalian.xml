@@ -3,8 +3,6 @@
 #EXTM3U
 #EXTINF:-1,---NOVITA
 http://dummylink.com
-#EXTINF:-1,Belgio Italia 21.00
-http://archimede1.ddns.net:8000/live/oristano/oristano/6736.ts
 #EXTINF:-1, On Demand (in fondo)
 http://dummylink.com
 #EXTINF:-1, Film In sala e Primafila on Demand (in fondo)
@@ -517,270 +515,462 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,----SKY CINEMA
-http://archimede1.ddns.net:8000/live/oristano/oristano/6867.ts
-#EXTINF:-1,SKY CINEMA 1 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6722.ts
-#EXTINF:-1,SKY CINEMA MAX HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6813.ts
-#EXTINF:-1,SKY CINEMA  +1 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6894.ts
-#EXTINF:-1,SKY CINEMA 24 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6820.ts
-#EXTINF:-1,SKY CINEMA HITS HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6814.ts
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6815.ts
-#EXTINF:-1,SKY CINEMA PASSION HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6812.ts
-#EXTINF:-1,SKY CINEMA CLASSIC HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6819.ts
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6818.ts
-#EXTINF:-1,SKY CINEMA CULT HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6817.ts
-#EXTINF:-1,-- SKY INTRATENIMENTO
-http://archimede1.ddns.net:8000/live/oristano/oristano/6868.ts
-#EXTINF:-1,SKY ATLANTIC HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6831.ts
-#EXTINF:-1,SKY FOX HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6810.ts
-#EXTINF:-1,Sky Fox Life HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6809.ts
-#EXTINF:-1,SKY UNO HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6797.ts
-#EXTINF:-1,SKY FOX CRIME HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6807.ts
-#EXTINF:-1,Sky Ci Crime Investigation HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6821.ts
-#EXTINF:-1,Sky Axn HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6830.ts
-#EXTINF:-1,Giallo
-http://archimede1.ddns.net:8000/live/oristano/oristano/6979.ts
-#EXTINF:-1,----CULTURA
-http://archimede1.ddns.net:8000/live/oristano/oristano/6871.ts
-#EXTINF:-1,SKY Discovery Chanel HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6758.ts
-#EXTINF:-1,Sky Discovery Sci
-http://archimede1.ddns.net:8000/live/oristano/oristano/6721.ts
-#EXTINF:-1,SKY Nat Geo People
-http://archimede1.ddns.net:8000/live/oristano/oristano/6885.ts
-#EXTINF:-1,Sky NatGeo
-http://archimede1.ddns.net:8000/live/oristano/oristano/6884.ts
-#EXTINF:-1,Discovery T e L
-http://archimede1.ddns.net:8000/live/oristano/oristano/6895.ts
-#EXTINF:-1,NatGeo Wild
-http://archimede1.ddns.net:8000/live/oristano/oristano/6896.ts
-#EXTINF:-1,SKY History  HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6745.ts
-#EXTINF:-1,SKY Explora HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6757.ts
-#EXTINF:-1,Premium-Discovery World
-http://archimede1.ddns.net:8000/live/oristano/oristano/6854.ts
-#EXTINF:-1,Gamberosso
-http://archimede1.ddns.net:8000/live/oristano/oristano/6927.ts
-#EXTINF:-1,Pianeta TV
-http://archimede1.ddns.net:8000/live/oristano/oristano/6936.ts
-#EXTINF:-1,Alice
-http://archimede1.ddns.net:8000/live/oristano/oristano/6944.ts
-#EXTINF:-1,Marcopolo
-http://archimede1.ddns.net:8000/live/oristano/oristano/6941.ts
-#EXTINF:-1,Animal Planet
-http://archimede1.ddns.net:8000/live/oristano/oristano/6981.ts
-#EXTINF:-1,Focus
-http://archimede1.ddns.net:8000/live/oristano/oristano/6974.ts
-#EXTINF:-1,top calcio 24
-http://archimede1.ddns.net:8000/live/oristano/oristano/6938.ts
-#EXTINF:-1,Sport Italia
-http://archimede1.ddns.net:8000/live/oristano/oristano/8092.ts
-#EXTINF:-1,Caccia e pesca
-http://archimede1.ddns.net:8000/live/oristano/oristano/6925.ts
-#EXTINF:-1,Pesca e caccia
-http://archimede1.ddns.net:8000/live/oristano/oristano/6975.ts
-#EXTINF:-1,SKY Tg 24 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6743.ts
-#EXTINF:-1,---- BAMBINI
-http://archimede1.ddns.net:8000/live/oristano/oristano/6870.ts
-#EXTINF:-1,SKY Disney Chanel HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6754.ts
-#EXTINF:-1,SKY Disney XD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6732.ts
-#EXTINF:-1,Junior
-http://archimede1.ddns.net:8000/live/oristano/oristano/7420.ts
-#EXTINF:-1,Premium-Disney Channel
-http://archimede1.ddns.net:8000/live/oristano/oristano/6853.ts
-#EXTINF:-1,Premium-Disney Channel  1
-http://archimede1.ddns.net:8000/live/oristano/oristano/6852.ts
-#EXTINF:-1,Premium-Cartoon Network
-http://archimede1.ddns.net:8000/live/oristano/oristano/6858.ts
-#EXTINF:-1,Premium-Disney Junior
-http://archimede1.ddns.net:8000/live/oristano/oristano/6851.ts
-#EXTINF:-1,CARTOONITO
-http://archimede1.ddns.net:8000/live/oristano/oristano/6772.ts
-#EXTINF:-1,Super!
-http://archimede1.ddns.net:8000/live/oristano/oristano/6742.ts
-#EXTINF:-1,BOING
-http://archimede1.ddns.net:8000/live/oristano/oristano/6795.ts
-#EXTINF:-1,Rai Yoyo
-http://archimede1.ddns.net:8000/live/oristano/oristano/6839.ts
-#EXTINF:-1,RAI GULP
-http://archimede1.ddns.net:8000/live/oristano/oristano/6845.ts
-#EXTINF:-1,FRISBEE
-http://archimede1.ddns.net:8000/live/oristano/oristano/6770.ts
-#EXTINF:-1,K2
-http://archimede1.ddns.net:8000/live/oristano/oristano/6750.ts
-#EXTINF:-1,Man-Ga
-http://archimede1.ddns.net:8000/live/oristano/oristano/7426.ts
-#EXTINF:-1,---PREMIUM CINEMA
-http://archimede1.ddns.net:8000/live/oristano/oristano/6872.ts
-#EXTINF:-1,Premium-Cinema HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6857.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6729.ts
-#EXTINF:-1,Premium-Cinema  24
-http://archimede1.ddns.net:8000/live/oristano/oristano/6773.ts
-#EXTINF:-1,Premium-Cinema 2  24
-http://archimede1.ddns.net:8000/live/oristano/oristano/6765.ts
-#EXTINF:-1,Premium-Action HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6862.ts
-#EXTINF:-1,Premium-Action  24
-http://archimede1.ddns.net:8000/live/oristano/oristano/6766.ts
-#EXTINF:-1,Premium-Crime HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6855.ts
-#EXTINF:-1,Premium-Crime  24
-http://archimede1.ddns.net:8000/live/oristano/oristano/6748.ts
-#EXTINF:-1,Premium-Studio Universal
-http://archimede1.ddns.net:8000/live/oristano/oristano/6847.ts
-#EXTINF:-1,Premium-Comedy
-http://archimede1.ddns.net:8000/live/oristano/oristano/6856.ts
-#EXTINF:-1,Premium-Stories
-http://archimede1.ddns.net:8000/live/oristano/oristano/6762.ts
-#EXTINF:-1,Premium-Joy
-http://archimede1.ddns.net:8000/live/oristano/oristano/6848.ts
-#EXTINF:-1,premium Joi +24
-http://archimede1.ddns.net:8000/live/oristano/oristano/6866.ts
-#EXTINF:-1,Premium-Energy
-http://archimede1.ddns.net:8000/live/oristano/oristano/6849.ts
-#EXTINF:-1,Premium-Emotion
-http://archimede1.ddns.net:8000/live/oristano/oristano/6850.ts
-#EXTINF:-1,--- PREMIUM SPORT
-http://archimede1.ddns.net:8000/live/oristano/oristano/6874.ts
-#EXTINF:-1,Premium-Sport HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6763.ts
-#EXTINF:-1,Premium-Sport
-http://archimede1.ddns.net:8000/live/oristano/oristano/6764.ts
-#EXTINF:-1,----PREMIUM CALCIO
-http://archimede1.ddns.net:8000/live/oristano/oristano/6873.ts
-#EXTINF:-1,Premium Calcio HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6774.ts
-#EXTINF:-1,Premium-Calcio 1
-http://archimede1.ddns.net:8000/live/oristano/oristano/6860.ts
-#EXTINF:-1,Premium-Calcio 2
-http://archimede1.ddns.net:8000/live/oristano/oristano/6859.ts
-#EXTINF:-1,Premium-Calcio 3
-http://archimede1.ddns.net:8000/live/oristano/oristano/6741.ts
-#EXTINF:-1,Premium Calcio 4
-http://archimede1.ddns.net:8000/live/oristano/oristano/6731.ts
-#EXTINF:-1,Premium Calcio 5
-http://archimede1.ddns.net:8000/live/oristano/oristano/6730.ts
-#EXTINF:-1,Premium Calcio 6
-http://archimede1.ddns.net:8000/live/oristano/oristano/6726.ts
-#EXTINF:-1,Premium Calcio 7
-http://archimede1.ddns.net:8000/live/oristano/oristano/6725.ts
-#EXTINF:-1,---SKY SPORT
-http://archimede1.ddns.net:8000/live/oristano/oristano/6869.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6803.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6802.ts
-#EXTINF:-1,SKY SPORT 3 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6800.ts
-#EXTINF:-1,SKY SPORT 24 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6801.ts
-#EXTINF:-1,Sky Fox Sport HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6808.ts
-#EXTINF:-1,SKY Sport Plus HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6744.ts
-#EXTINF:-1,Sky Moto GP HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6806.ts
-#EXTINF:-1,SKY F1 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6811.ts
+#EXTINF:-1,--------Sky Cinema--------
+http://google.comt:8000/hdmi
+#EXTINF:-1,Sky Cinema1 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/244.ts
+#EXTINF:-1,Sky Cinema1 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/247.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/248.ts
+#EXTINF:-1,sky Cinema+1 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/246.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/391.ts
+#EXTINF:-1,Sky Cinema +24 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/392.ts
+#EXTINF:-1,Sky Cinema 24 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/245.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://bstream2.wondernight.net:8000/live/russo/russo/388.ts
+#EXTINF:-1,Sky Cinema Hits HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/237.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://bstream2.wondernight.net:8000/live/russo/russo/239.ts
+#EXTINF:-1,Sky Cinema Family HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/238.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://bstream2.wondernight.net:8000/live/russo/russo/386.ts
+#EXTINF:-1,Sky Cinema Comedi HD
+http://bstream2.wondernight.net:8000/live/russo/russo/243.ts
+#EXTINF:-1,Sky Cinema Comedy HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/242.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://bstream2.wondernight.net:8000/live/russo/russo/235.ts
+#EXTINF:-1,Sky Cinema Max Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/234.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://bstream2.wondernight.net:8000/live/russo/russo/389.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://bstream2.wondernight.net:8000/live/russo/russo/390.ts
+#EXTINF:-1,Sky 3D
+http://bstream2.wondernight.net:8000/live/russo/russo/267.ts
+#EXTINF:-1,--------Sky Intrattenimento--------
+http://google.comt:8000/hdmi
+#EXTINF:-1,Sky Uno HD
+http://bstream2.wondernight.net:8000/live/russo/russo/200.ts
+#EXTINF:-1,Sky Uno HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/198.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/199.ts
+#EXTINF:-1,Sky Atlantic HD
+http://bstream2.wondernight.net:8000/live/russo/russo/415.ts
+#EXTINF:-1,Sky Atlantic HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/265.ts
+#EXTINF:-1,Sky Mario HD
+http://bstream2.wondernight.net:8000/live/russo/russo/266.ts
+#EXTINF:-1,Fox HD
+http://bstream2.wondernight.net:8000/live/russo/russo/362.ts
+#EXTINF:-1,Sky Fox HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/224.ts
+#EXTINF:-1,Fox +1
+http://bstream2.wondernight.net:8000/live/russo/russo/367.ts
+#EXTINF:-1,Fox Life HD
+http://bstream2.wondernight.net:8000/live/russo/russo/359.ts
+#EXTINF:-1,Sky Fox Life HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/225.ts
+#EXTINF:-1,Fox Life +1
+http://bstream2.wondernight.net:8000/live/russo/russo/361.ts
+#EXTINF:-1,Fox Crime HD
+http://bstream2.wondernight.net:8000/live/russo/russo/363.ts
+#EXTINF:-1,Sky Fox Crime HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/227.ts
+#EXTINF:-1,Fox Crime +1
+http://bstream2.wondernight.net:8000/live/russo/russo/364.ts
+#EXTINF:-1,Fox Comedy HD
+http://bstream2.wondernight.net:8000/live/russo/russo/365.ts
+#EXTINF:-1,Fox Animation HD
+http://bstream2.wondernight.net:8000/live/russo/russo/366.ts
+#EXTINF:-1,Axn HD
+http://bstream2.wondernight.net:8000/live/russo/russo/413.ts
+#EXTINF:-1,Sky AXN  HD  Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/264.ts
+#EXTINF:-1,Axn +1
+http://bstream2.wondernight.net:8000/live/russo/russo/412.ts
+#EXTINF:-1,Axn SciFi
+http://bstream2.wondernight.net:8000/live/russo/russo/411.ts
+#EXTINF:-1,MTV HD
+http://bstream2.wondernight.net:8000/live/russo/russo/337.ts
+#EXTINF:-1,Comedy Central
+http://bstream2.wondernight.net:8000/live/russo/russo/384.ts
+#EXTINF:-1,Sky Animal Planet
+http://bstream2.wondernight.net:8000/live/russo/russo/178.ts
+#EXTINF:-1,Real Time HD
+http://bstream2.wondernight.net:8000/live/russo/russo/277.ts
+#EXTINF:-1,Gambero rosso HD
+http://bstream2.wondernight.net:8000/live/russo/russo/357.ts
+#EXTINF:-1,Lei
+http://bstream2.wondernight.net:8000/live/russo/russo/343.ts
+#EXTINF:-1,Laeffe
+http://bstream2.wondernight.net:8000/live/russo/russo/345.ts
+#EXTINF:-1,Poker Italia 24
+http://bstream2.wondernight.net:8000/live/russo/russo/327.ts
+#EXTINF:-1,Sky TG 24 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/197.ts
+#EXTINF:-1,TG 24 Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/186.ts
+#EXTINF:-1,Class CNBC
+http://bstream2.wondernight.net:8000/live/russo/russo/2681.ts
+#EXTINF:-1,--------Sky Cultura--------
+http://google.comt:8000/hdmi
+#EXTINF:-1,Discovery HD
+http://bstream2.wondernight.net:8000/live/russo/russo/380.ts
+#EXTINF:-1,Sky Discovery HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/231.ts
+#EXTINF:-1,National Geo HD
+http://bstream2.wondernight.net:8000/live/russo/russo/333.ts
+#EXTINF:-1,Sky NationalGeo HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/217.ts
+#EXTINF:-1,NatGeo People HD
+http://bstream2.wondernight.net:8000/live/russo/russo/334.ts
+#EXTINF:-1,Sky NatGeo People HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/219.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://bstream2.wondernight.net:8000/live/russo/russo/335.ts
+#EXTINF:-1,Sky NatGeo Wild HD Dsl lente
+http://bstream2.wondernight.net:8000/live/russo/russo/218.ts
+#EXTINF:-1,History HD
+http://bstream2.wondernight.net:8000/live/russo/russo/355.ts
+#EXTINF:-1,Sky History HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/222.ts
+#EXTINF:-1,Discovery Scienze HD
+http://bstream2.wondernight.net:8000/live/russo/russo/379.ts
+#EXTINF:-1,Sky Discovery Sci HD (dsl lente)
+http://bstream2.wondernight.net:8000/live/russo/russo/230.ts
+#EXTINF:-1,CI Crime+Inv HD
+http://bstream2.wondernight.net:8000/live/russo/russo/394.ts
+#EXTINF:-1,Discovery travel Living HD
+http://bstream2.wondernight.net:8000/live/russo/russo/378.ts
+#EXTINF:-1,Arte HD
+http://bstream2.wondernight.net:8000/live/russo/russo/416.ts
+#EXTINF:-1,Dmax HD
+http://bstream2.wondernight.net:8000/live/russo/russo/374.ts
+#EXTINF:-1,Explora HD
+http://bstream2.wondernight.net:8000/live/russo/russo/370.ts
+#EXTINF:-1,Sky Classica HD
+http://bstream2.wondernight.net:8000/live/russo/russo/233.ts
+#EXTINF:-1,Pesca
+http://bstream2.wondernight.net:8000/live/russo/russo/329.ts
+#EXTINF:-1,Caccia
+http://bstream2.wondernight.net:8000/live/russo/russo/406.ts
+#EXTINF:-1,Sky Dove TV
+http://bstream2.wondernight.net:8000/live/russo/russo/228.ts
+#EXTINF:-1,--------Sky Sport--------
+http://google.comt:8000/hdmi
+#EXTINF:-1,Sky Sport 24 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/210.ts
+#EXTINF:-1,Sky Sport 24 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/211.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://bstream2.wondernight.net:8000/live/russo/russo/204.ts
+#EXTINF:-1,Sky Sport Plus Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/203.ts
+#EXTINF:-1,Fox Sport HD
+http://bstream2.wondernight.net:8000/live/russo/russo/360.ts
+#EXTINF:-1,Sky Fox Sport HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/223.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/214.ts
+#EXTINF:-1,Sky Sport 1 Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/215.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/213.ts
+#EXTINF:-1,Sky Sport 2 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/212.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/209.ts
+#EXTINF:-1,Sky Sport 3 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/208.ts
+#EXTINF:-1,EuroSport HD
+http://bstream2.wondernight.net:8000/live/russo/russo/372.ts
+#EXTINF:-1,EuroSport 2 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/373.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/207.ts
+#EXTINF:-1,Sky Sport F1 Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/206.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://bstream2.wondernight.net:8000/live/russo/russo/205.ts
+#EXTINF:-1,Sky Moto GP HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/221.ts
+#EXTINF:-1,AutoMoto TV
+http://bstream2.wondernight.net:8000/live/russo/russo/414.ts
 #EXTINF:-1,SuperTennis HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6740.ts
-#EXTINF:-1,Spilt TV
-http://archimede1.ddns.net:8000/live/oristano/oristano/6942.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6935.ts
-#EXTINF:-1,Sport 1
-http://archimede1.ddns.net:8000/live/oristano/oristano/6934.ts
-#EXTINF:-1,SportItalia
-http://archimede1.ddns.net:8000/live/oristano/oristano/6933.ts
-#EXTINF:-1,---SKY CALCIO
-http://archimede1.ddns.net:8000/live/oristano/oristano/6875.ts
-#EXTINF:-1,SKY SUPERCALCIO HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6799.ts
-#EXTINF:-1,SKY CALCIO 1 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6829.ts
-#EXTINF:-1,SKY CALCIO 2 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6828.ts
-#EXTINF:-1,SKY CALCIO 3 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6827.ts
-#EXTINF:-1,SKY CALCIO 4 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6826.ts
-#EXTINF:-1,SKY CALCIO 5 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6825.ts
-#EXTINF:-1,SKY CALCIO 6 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6824.ts
-#EXTINF:-1,---- FILM IN SALA ----
-http://tvservice.webhop.me:80/live/GN0007/0007GN/2693.ts
-#EXTINF:-1,Vetrina Film In Sala
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2692.mkv
-#EXTINF:-1,Film In Sala 1
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2668.mkv
-#EXTINF:-1,Film In Sala 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2669.mkv
-#EXTINF:-1,Film In Sala 3
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2670.mkv
-#EXTINF:-1,Film In Sala 4
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2671.mkv
-#EXTINF:-1,Film In Sala 5
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2672.mp4
-#EXTINF:-1,Film In Sala 6
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2673.mkv
-#EXTINF:-1,Film in Sala 7
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2676.mp4
-#EXTINF:-1,Film In Sala 8
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2675.mkv
+http://bstream2.wondernight.net:8000/live/russo/russo/190.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://bstream2.wondernight.net:8000/live/russo/russo/202.ts
+#EXTINF:-1,sky Supercalcio Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/201.ts
+#EXTINF:-1,Juventus Channel
+http://bstream2.wondernight.net:8000/live/russo/russo/350.ts
+#EXTINF:-1,Inter Channel
+http://bstream2.wondernight.net:8000/live/russo/russo/354.ts
+#EXTINF:-1,Milan channel
+http://bstream2.wondernight.net:8000/live/russo/russo/338.ts
+#EXTINF:-1,Roma TV
+http://bstream2.wondernight.net:8000/live/russo/russo/275.ts
+#EXTINF:-1,Lazio Channel
+http://bstream2.wondernight.net:8000/live/russo/russo/344.ts
+#EXTINF:-1,Bike Channel HD
+http://bstream2.wondernight.net:8000/live/russo/russo/409.ts
+#EXTINF:-1,Class Horse
+http://bstream2.wondernight.net:8000/live/russo/russo/385.ts
+#EXTINF:-1,Uniresat
+http://bstream2.wondernight.net:8000/live/russo/russo/180.ts
+#EXTINF:-1,--------Sky Calcio--------
+http://google.comt:8000/hdmi
+#EXTINF:-1,Sky Calcio Info
+http://bstream2.wondernight.net:8000/live/russo/russo/400.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/262.ts
+#EXTINF:-1,Sky Calcio 1 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/263.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/260.ts
+#EXTINF:-1,Sky Calcio 2 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/261.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/258.ts
+#EXTINF:-1,Sky Calcio 3 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/259.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/257.ts
+#EXTINF:-1,Sky Calcio 4 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/256.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/255.ts
+#EXTINF:-1,Sky Calcio 5 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/254.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/253.ts
+#EXTINF:-1,Sky Calcio 6 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/252.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/251.ts
+#EXTINF:-1,Sky Calcio 7 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/250.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/402.ts
+#EXTINF:-1,Sky Calcio 8 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/249.ts
+#EXTINF:-1,Sky Calcio 9
+http://bstream2.wondernight.net:8000/live/russo/russo/401.ts
+#EXTINF:-1,Sky Calcio 10
+http://bstream2.wondernight.net:8000/live/russo/russo/405.ts
+#EXTINF:-1,Sky Calcio 11
+http://bstream2.wondernight.net:8000/live/russo/russo/404.ts
+#EXTINF:-1,Sky Calcio 12
+http://bstream2.wondernight.net:8000/live/russo/russo/403.ts
+#EXTINF:-1,--------Premium Cinema--------
+http://google.comt:8000/hdmi
+#EXTINF:-1,Premium Cinema HD
+http://bstream2.wondernight.net:8000/live/russo/russo/311.ts
+#EXTINF:-1,Premium Cinema HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/310.ts
+#EXTINF:-1,Premium Cinema +24
+http://bstream2.wondernight.net:8000/live/russo/russo/315.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/313.ts
+#EXTINF:-1,Premium Cinema 2 HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/309.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://bstream2.wondernight.net:8000/live/russo/russo/314.ts
+#EXTINF:-1,Premium Action HD
+http://bstream2.wondernight.net:8000/live/russo/russo/325.ts
+#EXTINF:-1,Premium Action HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/324.ts
+#EXTINF:-1,Premium Action +24
+http://bstream2.wondernight.net:8000/live/russo/russo/326.ts
+#EXTINF:-1,Premium Crime HD
+http://bstream2.wondernight.net:8000/live/russo/russo/306.ts
+#EXTINF:-1,Premium Crime HD Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/305.ts
+#EXTINF:-1,Premium Crime +24
+http://bstream2.wondernight.net:8000/live/russo/russo/307.ts
+#EXTINF:-1,Premium Comedy
+http://bstream2.wondernight.net:8000/live/russo/russo/308.ts
+#EXTINF:-1,Premium Cinema Emotion
+http://bstream2.wondernight.net:8000/live/russo/russo/312.ts
+#EXTINF:-1,Premium Energy
+http://bstream2.wondernight.net:8000/live/russo/russo/303.ts
+#EXTINF:-1,Premium Studio Universal
+http://bstream2.wondernight.net:8000/live/russo/russo/297.ts
+#EXTINF:-1,--------Premium Intrattenimento--------
+http://google.comt:8000/hdmi
+#EXTINF:-1,Premium Joi
+http://bstream2.wondernight.net:8000/live/russo/russo/302.ts
+#EXTINF:-1,Premium Joi +24
+http://bstream2.wondernight.net:8000/live/russo/russo/323.ts
+#EXTINF:-1,Premium Stories
+http://bstream2.wondernight.net:8000/live/russo/russo/298.ts
+#EXTINF:-1,Premium Stories +24
+http://bstream2.wondernight.net:8000/live/russo/russo/304.ts
+#EXTINF:-1,--------Premium Sport--------
+http://google.comt:8000/hdmi
+#EXTINF:-1,Premium Sport HD
+http://bstream2.wondernight.net:8000/live/russo/russo/299.ts
+#EXTINF:-1,Premium Sport HD 1080p
+http://bstream2.wondernight.net:8000/live/russo/russo/4112.ts
+#EXTINF:-1,Premium Sport Dsl Lente
+http://bstream2.wondernight.net:8000/live/russo/russo/300.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/316.ts
+#EXTINF:-1,Premium Sport 2
+http://bstream2.wondernight.net:8000/live/russo/russo/301.ts
+#EXTINF:-1,Sportitalia
+http://bstream2.wondernight.net:8000/live/russo/russo/195.ts
+#EXTINF:-1,Premium Calcio 1
+http://bstream2.wondernight.net:8000/live/russo/russo/322.ts
+#EXTINF:-1,Premium Calcio 2
+http://bstream2.wondernight.net:8000/live/russo/russo/321.ts
+#EXTINF:-1,Premium Calcio 3
+http://bstream2.wondernight.net:8000/live/russo/russo/320.ts
+#EXTINF:-1,Premium Calcio 4
+http://bstream2.wondernight.net:8000/live/russo/russo/319.ts
+#EXTINF:-1,Premium Calcio 5
+http://bstream2.wondernight.net:8000/live/russo/russo/318.ts
+#EXTINF:-1,Premium Calcio 6
+http://bstream2.wondernight.net:8000/live/russo/russo/317.ts
 #EXTINF:-1,---MUSICA
-http://archimede1.ddns.net:8000/live/oristano/oristano/7441.ts
+http://google.comt:8000/hdmi
+#EXTINF:-1,M2Otv
+http://bstream2.wondernight.net:8000/live/russo/russo/342.ts
+#EXTINF:-1,Ondalatina
+http://bstream2.wondernight.net:8000/live/russo/russo/330.ts
+#EXTINF:-1,Radio Montecarlo
+http://bstream2.wondernight.net:8000/live/russo/russo/294.ts
+#EXTINF:-1,RTL 102.5
+http://bstream2.wondernight.net:8000/live/russo/russo/272.ts
 #EXTINF:-1,Radio Italia
-http://archimede1.ddns.net:8000/live/oristano/oristano/7417.ts
-#EXTINF:-1,MTV Music
-http://archimede1.ddns.net:8000/live/oristano/oristano/6940.ts
-#EXTINF:-1,RTL 102.5 TV
-http://archimede1.ddns.net:8000/live/oristano/oristano/6769.ts
-#EXTINF:-1,Radio 105 TV
-http://archimede1.ddns.net:8000/live/oristano/oristano/6899.ts
-#EXTINF:-1,Virgin Radio TV
-http://archimede1.ddns.net:8000/live/oristano/oristano/6900.ts
-#EXTINF:-1,Vevo ROCK TV
-http://archimede1.ddns.net:8000/live/oristano/oristano/7398.ts
-#EXTINF:-1,Vevo Music TV
-http://archimede1.ddns.net:8000/live/oristano/oristano/7399.ts
-#EXTINF:-1,Rouge TV music non stop
-http://archimede1.ddns.net:8000/live/oristano/oristano/7413.ts
-#EXTINF:-1,ROUGE TV CH
-http://archimede1.ddns.net:8000/live/oristano/oristano/7414.ts
-#EXTINF:-1,RADIO VIRGIN TV
-http://archimede1.ddns.net:8000/live/oristano/oristano/7415.ts
-#EXTINF:-1,Radio Montecarlo TV
-http://archimede1.ddns.net:8000/live/oristano/oristano/7416.ts
-#EXTINF:-1,Best Music HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/7424.ts
-#EXTINF:-1,M6 MUSIC
-http://archimede1.ddns.net:8000/live/oristano/oristano/7419.ts
-#EXTINF:-1,GONG music
-http://archimede1.ddns.net:8000/live/oristano/oristano/7421.ts
+http://bstream2.wondernight.net:8000/live/russo/russo/295.ts
+#EXTINF:-1,Studio 90 Italia
+http://bstream2.wondernight.net:8000/live/russo/russo/192.ts
+#EXTINF:-1,Radio Taormina
+http://bstream2.wondernight.net:8000/live/russo/russo/293.ts
+#EXTINF:-1,Radio 105
+http://bstream2.wondernight.net:8000/live/russo/russo/296.ts
+#EXTINF:-1,---BAMBINI
+http://google.comt:8000/hdmi
+#EXTINF:-1,Cartoon Network
+http://bstream2.wondernight.net:8000/live/russo/russo/396.ts
+#EXTINF:-1,Sky Disney XD HD
+http://bstream2.wondernight.net:8000/live/russo/russo/229.ts
+#EXTINF:-1,Disney Channel HD
+http://bstream2.wondernight.net:8000/live/russo/russo/375.ts
+#EXTINF:-1,TeenNick
+http://bstream2.wondernight.net:8000/live/russo/russo/189.ts
+#EXTINF:-1,Nick Junior
+http://bstream2.wondernight.net:8000/live/russo/russo/332.ts
+#EXTINF:-1,Nicolodeon
+http://bstream2.wondernight.net:8000/live/russo/russo/331.ts
+#EXTINF:-1,Super
+http://bstream2.wondernight.net:8000/live/russo/russo/191.ts
+#EXTINF:-1,Rai Gulp
+http://bstream2.wondernight.net:8000/live/russo/russo/284.ts
+#EXTINF:-1,Rai Yoyo
+http://bstream2.wondernight.net:8000/live/russo/russo/278.ts
+#EXTINF:-1,Dea Kids
+http://bstream2.wondernight.net:8000/live/russo/russo/382.ts
+#EXTINF:-1,Dea Junior
+http://bstream2.wondernight.net:8000/live/russo/russo/383.ts
+#EXTINF:-1,Disney Junior
+http://bstream2.wondernight.net:8000/live/russo/russo/376.ts
+#EXTINF:-1,Disney Channel +1
+http://bstream2.wondernight.net:8000/live/russo/russo/377.ts
+#EXTINF:-1,Manga
+http://bstream2.wondernight.net:8000/live/russo/russo/341.ts
+#EXTINF:-1,Boomerang
+http://bstream2.wondernight.net:8000/live/russo/russo/407.ts
+#EXTINF:-1,Boing
+http://bstream2.wondernight.net:8000/live/russo/russo/408.ts
+#EXTINF:-1,Freesbe
+http://bstream2.wondernight.net:8000/live/russo/russo/358.ts
+#EXTINF:-1,K2
+http://bstream2.wondernight.net:8000/live/russo/russo/349.ts
+#EXTINF:-1,Cartonito
+http://bstream2.wondernight.net:8000/live/russo/russo/397.ts
+#EXTINF:-1,Baby TV
+http://bstream2.wondernight.net:8000/live/russo/russo/410.ts
+#EXTINF:-1,Barbie Channel
+http://bstream2.wondernight.net:8000/live/russo/russo/563.ts
+#EXTINF:-1,Masha E Orso Channel
+http://bstream2.wondernight.net:8000/live/russo/russo/564.ts
+#EXTINF:-1,Tom & Jerry Channel
+http://bstream2.wondernight.net:8000/live/russo/russo/565.ts
+#EXTINF:-1,PeppaPig Channel
+http://bstream2.wondernight.net:8000/live/russo/russo/2771.ts
+#EXTINF:-1,----PRIMAFILA
+http://google.comt:8000/hdmi
+#EXTINF:-1,Primafila Vetrina
+http://bstream2.wondernight.net:8000/movie/russo/russo/802.mkv
+#EXTINF:-1,Primafila 1 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/444.ts
+#EXTINF:-1,Primafila 2 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/445.ts
+#EXTINF:-1,Primafila 3 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/446.ts
+#EXTINF:-1,Primafila 4 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/447.ts
+#EXTINF:-1,Primafila 5 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/448.ts
+#EXTINF:-1,Primafila 6 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/449.ts
+#EXTINF:-1,Primafila 7 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/450.ts
+#EXTINF:-1,Primafila 8 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/451.ts
+#EXTINF:-1,Primafila 9 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/452.ts
+#EXTINF:-1,Primafila 10 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/453.ts
+#EXTINF:-1,Primafila 11 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/454.ts
+#EXTINF:-1,Primafila 12 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/455.ts
+#EXTINF:-1,Primafila 13 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/456.ts
+#EXTINF:-1,Primafila 14 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/457.ts
+#EXTINF:-1,Primafila 15 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/458.ts
+#EXTINF:-1,Primafila 16 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/459.ts
+#EXTINF:-1,Primafila 17 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/460.ts
+#EXTINF:-1,Primafila 18 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/461.ts
+#EXTINF:-1,Primafila 19 HD
+http://bstream2.wondernight.net:8000/live/russo/russo/462.ts
+#EXTINF:-1,PrimaFila 1 HD VOD
+http://bstream2.wondernight.net:8000/movie/russo/russo/463.mkv
+#EXTINF:-1,PrimaFila 3 HD VOD
+http://bstream2.wondernight.net:8000/movie/russo/russo/464.mkv
+#EXTINF:-1,PrimaFila 5 HD VOD
+http://bstream2.wondernight.net:8000/movie/russo/russo/465.mkv
+#EXTINF:-1,PrimaFila 7 HD VOD
+http://bstream2.wondernight.net:8000/movie/russo/russo/466.mkv
+#EXTINF:-1,PrimaFila 9 HD VOD
+http://bstream2.wondernight.net:8000/movie/russo/russo/467.mkv
+#EXTINF:-1,PrimaFila 11 HD VOD
+http://bstream2.wondernight.net:8000/movie/russo/russo/468.mkv
+#EXTINF:-1,PrimaFila 13 HD VOD
+http://bstream2.wondernight.net:8000/movie/russo/russo/469.mkv
+#EXTINF:-1,PrimaFila 15 HD VOD
+http://bstream2.wondernight.net:8000/movie/russo/russo/470.mkv
+#EXTINF:-1,PrimaFila 17 HD VOD
+http://bstream2.wondernight.net:8000/movie/russo/russo/471.mkv
+#EXTINF:-1,PrimaFila 19 HD VOD
+http://bstream2.wondernight.net:8000/movie/russo/russo/472.mkv
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC
@@ -5497,470 +5687,4 @@ http://tvservice.webhop.me:80/movie/GN0007/0007GN/3286.mkv
 http://tvservice.webhop.me:80/movie/GN0007/0007GN/2727.mkv
 #EXTINF:-1,Yellowbird
 http://tvservice.webhop.me:80/movie/GN0007/0007GN/3321.mkv
-#EXTINF:-1,---ON DEMAND   
-http://spirit01.webhop.me:8000/live/VOwCu3atg2/5CCpzeT1b9/919.ts
-#EXTINF:-1,Youth   La Giovinezza
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4022.mp4
-#EXTINF:-1,Via Dalla Pazza Folla
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4025.mp4
-#EXTINF:-1,Tremors 5   Bloodlines
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4023.mp4
-#EXTINF:-1,The Divergent Series  Insurgent
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4026.mp4
-#EXTINF:-1,Survivor
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4027.mp4
-#EXTINF:-1,Pressure
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4009.mp4
-#EXTINF:-1,Poltergeist
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4030.mp4
-#EXTINF:-1,Pixels
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4010.mp4
-#EXTINF:-1,Pitch Perfect 2
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4031.mp4
-#EXTINF:-1,Operazione U.N.C.L.E
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4011.mp4
-#EXTINF:-1,Minions
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4013.mp4
-#EXTINF:-1,Maze Runner   La Fuga
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4014.mp4
-#EXTINF:-1,Magic Mike XXL
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4015.mp4
-#EXTINF:-1,Mad Max Fury Road
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4032.mp4
-#EXTINF:-1,Last Knights
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4016.mp4
-#EXTINF:-1,L.A.S.S.O. Nella Manica
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4017.mp4
-#EXTINF:-1,Fuga In Tacchi A Spillo
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4018.mp4
-#EXTINF:-1,Entourage
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4019.mp4
-#EXTINF:-1,Dead Rising Watchtower
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4020.mp4
-#EXTINF:-1,Come Ti Rovino Le Vacanze
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4021.mp4
-#EXTINF:-1,Affare Fatto
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4024.mp4
-#EXTINF:-1,Soldato Semplice
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4028.mp4
-#EXTINF:-1,Shaun   Vita Da Pecora
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4029.mp4
-#EXTINF:-1,Se Dio Vuole
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4008.mp4
-#EXTINF:-1,Mune Il Guardiano Della Luna
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4012.mp4
-#EXTINF:-1,Un Disastro Di Ragazza
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3987.mp4
-#EXTINF:-1,Tracers
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3989.mp4
-#EXTINF:-1,The Wedding Ringer Un Testimone In Affitto
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4004.mp4
-#EXTINF:-1,The Visit
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3988.mp4
-#EXTINF:-1,The Transporter Legacy
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3990.mp4
-#EXTINF:-1,The Gallows L Esecuzione
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4005.mp4
-#EXTINF:-1,The Final Girls
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4006.mp4
-#EXTINF:-1,Terminator Genisys
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3992.mp4
-#EXTINF:-1,Ted 2
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4007.mp4
-#EXTINF:-1,Straight Outta Compton
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3993.mp4
-#EXTINF:-1,Sopravvissuto The Martian
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3994.mp4
-#EXTINF:-1,Mission Impossible   Rogue Nation
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3995.mp4
-#EXTINF:-1,Lo Stagista Inaspettato
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3996.mp4
-#EXTINF:-1,Joe Dirt 2 Beautiful Loser
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3999.mp4
-#EXTINF:-1,Fury
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3997.mp4
-#EXTINF:-1,Everest
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3998.mp4
-#EXTINF:-1,Dove Eravamo Rimasti
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4000.mp4
-#EXTINF:-1,Contagious
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4001.mp4
-#EXTINF:-1,Blackhat
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4002.mp4
-#EXTINF:-1,Ant Man
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/4003.mp4
-#EXTINF:-1,   The Perfect Guy
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3991.mp4
-#EXTINF:-1,Victor Frankenstein
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3959.mp4
-#EXTINF:-1,Un`Occasione Da Dio
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3984.mp4
-#EXTINF:-1,Una Notte Da Matricole
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3972.mp4
-#EXTINF:-1,The Walk
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3973.mp4
-#EXTINF:-1,Tales Of Halloween
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3974.mp4
-#EXTINF:-1,Spy
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3975.mp4
-#EXTINF:-1,Sinister 2
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3976.mp4
-#EXTINF:-1,Selfless
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3977.mp4
-#EXTINF:-1,Ritorno Alla Vita
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3978.mp4
-#EXTINF:-1,Reversal   La Fuga È Solo L`Inizio
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3979.mp4
-#EXTINF:-1,Hotel Transylvania 2
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3981.mp4
-#EXTINF:-1,Crimson Peak
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3982.mp4
-#EXTINF:-1,Bad Blood   Debito Di Sangue
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3983.mp4
-#EXTINF:-1,   007 Spectre
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3986.mp4
-#EXTINF:-1,Io Che Amo Solo Te
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3980.mp4
-#EXTINF:-1,Alaska
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3985.mp4
-#EXTINF:-1,The Gunman
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3960.mp4
-#EXTINF:-1,The End Of The Tour
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3951.mp4
-#EXTINF:-1,The Avengers Age Of Ultron
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3961.mp4
-#EXTINF:-1,Snoopy   Friends   Il Film Dei Peanuts
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3963.mp4
-#EXTINF:-1,Scherzi Della Natura
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3964.mp4
-#EXTINF:-1,Operator
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3965.mp4
-#EXTINF:-1,Mr.Holmes   Il Mistero Del Caso Irrisolto
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3952.mp4
-#EXTINF:-1,Manuale Scout Per L`Apocalisse Zombie
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3953.mp4
-#EXTINF:-1,L`Uomo Con I Pugni Di Ferro 2
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3955.mp4
-#EXTINF:-1,Kingsman    Secret Service
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3966.mp4
-#EXTINF:-1,Kill Zone    Ai Confini Della Giustiziai
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3967.mp4
-#EXTINF:-1,Inside Out
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3944.mp4
-#EXTINF:-1,Il Viaggio Di Arlo
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3958.mp4
-#EXTINF:-1,Il Settimo Figlio
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3945.mp4
-#EXTINF:-1,Il Sapore Del Successo
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3968.mp4
-#EXTINF:-1,Grandma
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3957.mp4
-#EXTINF:-1,Ghosthunters   Gli Acchiappafantasmi
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3971.mp4
-#EXTINF:-1,Extraction
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3947.mp4
-#EXTINF:-1,Cop Car
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3948.mp4
-#EXTINF:-1,Child 44   Il Bambino Numero 44
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3956.mp4
-#EXTINF:-1,Bone Tomahawk
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3949.mp4
-#EXTINF:-1,Black Mass   L`Ultimo Gangster
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3970.mp4
-#EXTINF:-1, Halo   The Fall Of Reach
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3946.mp4
-#EXTINF:-1,Veteran
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3950.mp4
-#EXTINF:-1,Suburra
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3962.mp4
-#EXTINF:-1,Loro Chi?
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3954.mp4
-#EXTINF:-1,Gli ultimi Saranno Ultimi
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3969.mp4
-#EXTINF:-1,Woman In Gold
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3934.mp4
-#EXTINF:-1,Vice
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3935.mp4
-#EXTINF:-1,The Lazarus Effect
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3923.mp4
-#EXTINF:-1,The Hateful Eight
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3924.mp4
-#EXTINF:-1,Star Wars   Il Risveglio Della Forza
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3925.mp4
-#EXTINF:-1,Skin Traffik
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3926.mp4
-#EXTINF:-1,Sballati Per Le Feste
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3939.mp4
-#EXTINF:-1,Racing Extinction   Il Mondo Che Scompare
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3940.mp4
-#EXTINF:-1,Premonitions
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3941.mp4
-#EXTINF:-1,Perfect Day
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3927.mp4
-#EXTINF:-1,Mortdecai
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3936.mp4
-#EXTINF:-1,Macbeth
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3937.mp4
-#EXTINF:-1,Knock Knock
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3942.mp4
-#EXTINF:-1,Joker   Wild Card
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3943.mp4
-#EXTINF:-1,Il Piccolo Principe
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3928.mp4
-#EXTINF:-1,By The Sea
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3930.mp4
-#EXTINF:-1,Anomalisa
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3931.mp4
-#EXTINF:-1,A Spasso Nel Bosco
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3933.mp4
-#EXTINF:-1,13 Hours The Secret Soldiers Of Benghazi
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3922.mp4
-#EXTINF:-1,   Una Campana Per Ursli
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3938.mp4
-#EXTINF:-1,Dio Esiste E Vive A Bruxelles
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3929.mp4
-#EXTINF:-1,Assolo
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3921.mp4
-#EXTINF:-1,A Bigger Splash
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3932.mp4
-#EXTINF:-1,Focus   Niente È Come Sembra
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3909.mp4
-#EXTINF:-1,Zootropolis
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3881.mp4
-#EXTINF:-1,The Danish Girl
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3890.mp4
-#EXTINF:-1,Quel Fantastico Peggior Anno Della Mia Vita
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3888.mp4
-#EXTINF:-1,Qualcosa Di Buono
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3887.mp4
-#EXTINF:-1,Professore Per Amore
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3884.mp4
-#EXTINF:-1,Predestination
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3883.mp4
-#EXTINF:-1,Point Break
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3880.mp4
-#EXTINF:-1,L`Ultimo Cacciatore Di Streghe
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3889.mp4
-#EXTINF:-1,Poli Opposti
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3882.mp4
-#EXTINF:-1,Belle E Sebastien L Avventura Continua
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3891.mp4
-#EXTINF:-1,Albert E Il Diamante Magico
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3893.mp4
-#EXTINF:-1,Piccoli Brividi
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3874.mp4
-#EXTINF:-1,Paranormal Activity   The Ghost Dimension
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3873.mp4
-#EXTINF:-1,Pan   Viaggio Sull`Isola Che Non C`è
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3872.mp4
-#EXTINF:-1,Padri E Figlie
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3871.mp4
-#EXTINF:-1,Natale Col Boss
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3869.mp4
-#EXTINF:-1,Parte 1 Hunger Games   Il Canto Della Rivolta
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3865.mp4
-#EXTINF:-1,Parte 2 Hunger Games   Mockingjay
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3866.mp4
-#EXTINF:-1,No Escape   Colpo Di Stato
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3870.mp4
-#EXTINF:-1,Le Regole Del Caos
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3868.mp4
-#EXTINF:-1,La Grande Scommessa
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3867.mp4
-#EXTINF:-1,Krampus   Natale Non È Sempre Natale
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3864.mp4
-#EXTINF:-1,Joy
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3863.mp4
-#EXTINF:-1,Irrational Man
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3862.mp4
-#EXTINF:-1,Il Ponte Delle Spie
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3860.mp4
-#EXTINF:-1,I Fantastici Quattro
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3853.mp4
-#EXTINF:-1,Heart Of The Sea   Le Origini Di Moby Dick
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3858.mp4
-#EXTINF:-1,Giovani Si Diventa
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3857.mp4
-#EXTINF:-1,Dope Follia E Riscatto
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3852.mp4
-#EXTINF:-1,Alvin Superstar   Nessuno Ci Può Fermare
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3855.mp4
-#EXTINF:-1,Io E Lei
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3861.mp4
-#EXTINF:-1,Il Professor Cenerentolo
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3859.mp4
-#EXTINF:-1,Game Therapy
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3854.mp4
-#EXTINF:-1,Quo Vado?
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3837.mp4
-#EXTINF:-1,Dark Places   Nei Luoghi Oscuri
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3851.mp4
-#EXTINF:-1,Daddys Home
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3850.mp4
-#EXTINF:-1,Città Di Carta
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3849.mp4
-#EXTINF:-1,Breaking Dance
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3848.mp4
-#EXTINF:-1,Appuntamento Con L`Amore
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3847.mp4
-#EXTINF:-1,45 Anni
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3846.mp4
-#EXTINF:-1,The Vatican Tapes
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3842.mp4
-#EXTINF:-1,The Program
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3830.mp4
-#EXTINF:-1,The Lobster
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3829.mp4
-#EXTINF:-1,Special Correspondents
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3841.mp4
-#EXTINF:-1,Single Ma Non Troppo
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3840.mp4
-#EXTINF:-1,Remember
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3839.mp4
-#EXTINF:-1,Ratter
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3838.mp4
-#EXTINF:-1,Playing It Cool
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3836.mp4
-#EXTINF:-1,Page Eight
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3835.mp4
-#EXTINF:-1,Niente Cambia Tutto Cambia
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3834.mp4
-#EXTINF:-1,Giotto L`Amico Dei Pinguini
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3831.mp4
-#EXTINF:-1,The Wave
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3843.mp4
-#EXTINF:-1,L`Universale
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3833.mp4
-#EXTINF:-1,IL Labirinto Del Silenzio
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3832.mp4
-#EXTINF:-1,Deadpool
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3809.mp4
-#EXTINF:-1,L`Abbiamo Fatta Grossa
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3821.mp4
-#EXTINF:-1,Se Mi Lasci Non Vale
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3824.mp4
-#EXTINF:-1,The Green Inferno
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3828.mp4
-#EXTINF:-1,Steve Jobs
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3826.mp4
-#EXTINF:-1,Sicario
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3825.mp4
-#EXTINF:-1,Revenant Redivivo
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3823.mp4
-#EXTINF:-1,Precious Cargo
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3827.mp4
-#EXTINF:-1,Creed   Nato Per Combattere
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3822.mp4
-#EXTINF:-1,La Quinta Onda
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3810.mp4
-#EXTINF:-1,Un Poliziotto Alle Elementari 2
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3815.mp4
-#EXTINF:-1,The Homesman
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3814.mp4
-#EXTINF:-1,Pride And Prejudice And Zombies
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3813.mp4
-#EXTINF:-1,Manglehorn
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3812.mp4
-#EXTINF:-1,La Corrispondeza
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3811.mp4
-#EXTINF:-1,Il Viaggio Di Norm
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3816.mp4
-#EXTINF:-1,Iceman
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3817.mp4
-#EXTINF:-1,Standoff Punto Morto
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3820.mp4
-#EXTINF:-1,Jarhead 3 Sotto Assedio
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3819.mp4
-#EXTINF:-1,Doraemon   Nobita E Gli Eroi Dello Spazio
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3818.mp4
-#EXTINF:-1,The Visit
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3682.mkv
-#EXTINF:-1,Sinister 2
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3681.mkv
-#EXTINF:-1,Much Loved
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3591.mkv
-#EXTINF:-1,Mortdecai
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3590.mkv
-#EXTINF:-1,Mega Shark Vs Kolossus
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3587.mkv
-#EXTINF:-1,Maraviglioso Boccaccio
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3583.mkv
-#EXTINF:-1,Manuale Scout Per L`Apocalisse Zombie
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3582.mkv
-#EXTINF:-1,L`Uomo Con I Pugni Di Ferro 2
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3540.mkv
-#EXTINF:-1,L`Ultimo Lupo
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3539.mkv
-#EXTINF:-1,L`Esorcismo Di Molly Hartley
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3538.mkv
-#EXTINF:-1,L`Attesa
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3541.mkv
-#EXTINF:-1,Love And Mercy
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3560.mkv
-#EXTINF:-1,Life
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3559.mkv
-#EXTINF:-1,Legacy
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3557.mkv
-#EXTINF:-1,Last Knights
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3553.mkv
-#EXTINF:-1,La Solita Commedia Inferno
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3546.mkv
-#EXTINF:-1,La Risposta Ãˆ Nelle Stelle
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3550.mkv
-#EXTINF:-1,La Legge Del Mercato
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3544.mkv
-#EXTINF:-1,L.A.S.S.O Nella Manica
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3535.mkv
-#EXTINF:-1,Knock Knock
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3534.mkv
-#EXTINF:-1,Jurassic City
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3530.mkv
-#EXTINF:-1,Joker Wild Card
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3528.mkv
-#EXTINF:-1,Joe Dirt 2 Sfigati Si Nasce
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3527.mkv
-#EXTINF:-1,Non C`Ãˆ 2 Senza Te
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3561.mkv
-#EXTINF:-1,Sole A Catinelle
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3562.mkv
-#EXTINF:-1,Cado Dalle Nubi
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3524.mkv
-#EXTINF:-1,Italiano Medio
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3522.mkv
-#EXTINF:-1,Insurgent
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3520.mkv
-#EXTINF:-1,Insidious 3 L`Inizio
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3519.mkv
-#EXTINF:-1,Il Superpoliziotto Del Supermercato 2
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3517.mkv
-#EXTINF:-1,Il Fascino Indiscreto Dell`Amore
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3509.mkv
-#EXTINF:-1,I ll See You In My Dreams
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3508.mkv
-#EXTINF:-1,Humandroid
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3507.mkv
-#EXTINF:-1,Home Sweet Hell
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3506.mkv
-#EXTINF:-1,Ho Ucciso Napoleone
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3505.mkv
-#EXTINF:-1,Giustizieri Da Strapazzo In Luisiana
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3504.mkv
-#EXTINF:-1,Freeheld
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3495.mkv
-#EXTINF:-1,Francesca
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3494.mkv
-#EXTINF:-1,Ex Machina
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3490.mkv
-#EXTINF:-1,Eva Braun
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3489.mkv
-#EXTINF:-1,Estate A Staten Island
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3488.mkv
-#EXTINF:-1,Dragonheart 3 La Maledizione Dello Stregone
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3485.mkv
-#EXTINF:-1,Dheepan Una Nuova Vita
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3482.mkv
-#EXTINF:-1,Dead Rising Watchtower
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3480.mkv
-#EXTINF:-1,Danny Collins
-http://spirit01.webhop.me:8000/movie/VOwCu3atg2/5CCpzeT1b9/3476.mkv
 </List>

@@ -5,6 +5,8 @@
 http://dummylink.com
 #EXTINF:-1,Gomorra 21.00
 http://bstream2.wondernight.net:8000/live/russo/russo/415.ts
+#EXTINF:-1,Gomorra 21.00 alternativo
+http://bstream2.wondernight.net:8000/live/nico/nico/415.ts 
 #EXTINF:-1, Gomorra (in fondo)
 http://dummylink.com
 #EXTINF:-1,---DEFAULT

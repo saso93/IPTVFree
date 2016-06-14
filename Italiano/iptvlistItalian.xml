@@ -7,6 +7,10 @@ http://dummylink.com
 http://iptv.proff.co:15003/live/vito/vito/16.ts
 #EXTINF:-1,Gomorra 21.00 alternativo
 http://iptv.proff.co:15003/live/vito/vito/1585.ts
+#EXTINF:-1,Gomorra 21.00 alternativo
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4388.ts
+#EXTINF:-1,Gomorra 21.00 alternativo
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4388.ts
 #EXTINF:-1, Gomorra (in fondo)
 http://dummylink.com
 #EXTINF:-1,---DEFAULT
@@ -903,6 +907,136 @@ http://iptv.proff.co:15003/live/vito/vito/127.ts
 http://iptv.proff.co:15003/live/vito/vito/128.ts
 #EXTINF:-1,Premium Calcio 6
 http://iptv.proff.co:15003/live/vito/vito/129.ts
+#EXTINF:-1,----------Sky Musica----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4617.ts
+#EXTINF:-1,Vevo TV 1 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5626.ts
+#EXTINF:-1,Vevo TV 2 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5625.ts
+#EXTINF:-1,Vevo TV 3 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5624.ts
+#EXTINF:-1,VEVO 02
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5622.ts
+#EXTINF:-1,VEVO 03
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5621.ts
+#EXTINF:-1,VEVO 04
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5620.ts
+#EXTINF:-1,VEVO 06
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5618.ts
+#EXTINF:-1,VEVO 05
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5619.ts
+#EXTINF:-1,VEVO 07
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5617.ts
+#EXTINF:-1,VEVO 08
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5616.ts
+#EXTINF:-1,VEVO 09
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5615.ts
+#EXTINF:-1,VEVO 10
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5613.ts
+#EXTINF:-1,VEVO 11
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5612.ts
+#EXTINF:-1,VEVO 12
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5611.ts
+#EXTINF:-1,VEVO 13
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5610.ts
+#EXTINF:-1,VEVO 14
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5609.ts
+#EXTINF:-1,VEVO 15
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5608.ts
+#EXTINF:-1,VEVO 16
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5607.ts
+#EXTINF:-1,VEVO 18
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5606.ts
+#EXTINF:-1,DEEJAY TV
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4175.ts
+#EXTINF:-1,Classica HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4347.ts
+#EXTINF:-1,Radio Italia
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4466.ts
+#EXTINF:-1,Radio Taormina
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4109.ts
+#EXTINF:-1,Radio DeeJay
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4110.ts
+#EXTINF:-1,Radio Capital Tv
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4111.ts
+#EXTINF:-1,Radio NumberOne Tv
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4118.ts
+#EXTINF:-1,Radio montecarlo
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4465.ts
+#EXTINF:-1,Onda Italiana
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4114.ts
+#EXTINF:-1,RADIONORBA TV
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4115.ts
+#EXTINF:-1,kissKiss Napoli TV
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4116.ts
+#EXTINF:-1,-----------sky Primafila----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4615.ts
+#EXTINF:-1,Primafila 1 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4500.ts
+#EXTINF:-1,Primafila 2
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4501.ts
+#EXTINF:-1,Primafila 3 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4502.ts
+#EXTINF:-1,Primafila 4
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4503.ts
+#EXTINF:-1,Primafila 5 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4504.ts
+#EXTINF:-1,Primafila 6
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4505.ts
+#EXTINF:-1,Primafila 7 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4506.ts
+#EXTINF:-1,Primafila 8
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4507.ts
+#EXTINF:-1,Primafila 9 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4508.ts
+#EXTINF:-1,Primafila 10
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4509.ts
+#EXTINF:-1,Primafila 11 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4510.ts
+#EXTINF:-1,Primafila 12
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4511.ts
+#EXTINF:-1,Primafila 13 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4512.ts
+#EXTINF:-1,Primafila 14
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4513.ts
+#EXTINF:-1,Primafila 15
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4514.ts
+#EXTINF:-1,Primafila 16
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4515.ts
+#EXTINF:-1,Primafila 17
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4516.ts
+#EXTINF:-1,Primafila 18
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4517.ts
+#EXTINF:-1,Primafila 19
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4518.ts
+#EXTINF:-1,----------Primafila (Vod)----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4519.ts
+#EXTINF:-1,Primafila Vetrina
+http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4976.mkv
+#EXTINF:-1,Primafila 1 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4970.mkv
+#EXTINF:-1,Primafila 3 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4971.mkv
+#EXTINF:-1,Primafila 5 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4972.mkv
+#EXTINF:-1,Primafila 7 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4973.mkv
+#EXTINF:-1,Primafila 9 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4977.mkv
+#EXTINF:-1,Primafila 11 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4974.mkv
+#EXTINF:-1,Primafila 13 HD (Vod)
+http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4975.mkv
+#EXTINF:-1,Film In Sala HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4495.ts
+#EXTINF:-1,Film In Sala 2 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4496.ts
+#EXTINF:-1,Film In Sala 3 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4497.ts
+#EXTINF:-1,Prima Visione HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4493.ts
+#EXTINF:-1,Sala Retro
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4494.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

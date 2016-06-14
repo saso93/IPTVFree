@@ -21,6 +21,8 @@ http://iptv.proff.co:15003/live/vito/vito/1.ts
 http://iptv.proff.co:15003/live/vito/vito/1588.ts
 #EXTINF:-1,Gomorra 21.00 alternativo
 http://gameserver4.streamiptv.online:80/live/mariac/mariac/5053.ts
+#EXTINF:-1,Gomorra 21.00 alternativo
+http://iptv.proff.co:15003/live/vito/vito/1585.ts
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD

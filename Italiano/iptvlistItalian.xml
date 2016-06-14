@@ -8,23 +8,23 @@ http://dummylink.com
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6736.ts
+http://bstream2.wondernight.net:8000/live/russo/russo/292.ts
 #EXTINF:-1,Rai 2 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6735.ts
+http://bstream2.wondernight.net:8000/live/russo/russo/290.ts
 #EXTINF:-1,Rai 3 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6734.ts
+http://bstream2.wondernight.net:8000/live/russo/russo/288.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6733.ts
+http://bstream2.wondernight.net:8000/live/russo/russo/276.ts
 #EXTINF:-1,Canale 5 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6753.ts
+http://bstream2.wondernight.net:8000/live/russo/russo/398.ts
 #EXTINF:-1,Italia 1 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/9915.ts
+http://bstream2.wondernight.net:8000/live/russo/russo/352.ts
 #EXTINF:-1,La 7 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6738.ts
+http://bstream2.wondernight.net:8000/live/russo/russo/347.ts
 #EXTINF:-1 ,Rai 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
 #EXTINF:-1,Iris
@@ -80,9 +80,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6837.ts
+http://bstream2.wondernight.net:8000/live/russo/russo/274.ts
 #EXTINF:-1,RSI LA 2 HD
-http://archimede1.ddns.net:8000/live/oristano/oristano/6836.ts
+http://bstream2.wondernight.net:8000/live/russo/russo/273.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83

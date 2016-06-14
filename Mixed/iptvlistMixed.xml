@@ -1,2622 +1,1256 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <List>
 #EXTM3U
-#EXTINF:-1,----------DE----------
+#EXTINF:-1,----------MIX---------
 http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4636.ts
-#EXTINF:-1,DE ARD HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4674.ts
-#EXTINF:-1,DE ZDF
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4653.ts
-#EXTINF:-1,DE WDR HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4654.ts
-#EXTINF:-1,DE RTL HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4667.ts
-#EXTINF:-1,DE SAT.1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4646.ts
-#EXTINF:-1,DE ProSieben HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4638.ts
-#EXTINF:-1,DE VOX
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4655.ts
-#EXTINF:-1,DE DMAX
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4648.ts
-#EXTINF:-1,DE RTL2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4668.ts
-#EXTINF:-1,DE kabel eins HD.
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4670.ts
-#EXTINF:-1,DE SUPER RTL
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4643.ts
-#EXTINF:-1,DE RTL NITRO
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4666.ts
-#EXTINF:-1,DE 3sat
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4649.ts
-#EXTINF:-1,DE Arte HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4673.ts
-#EXTINF:-1,DE N24 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5141.ts
-#EXTINF:-1,DE n-tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5142.ts
-#EXTINF:-1,DE intv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4639.ts
-#EXTINF:-1,DE Sky Cinema HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4637.ts
-#EXTINF:-1,DE Sky Cinema  1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4693.ts
-#EXTINF:-1,DE Sky Cinema +1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5581.ts
-#EXTINF:-1,DE Sky Cinema  24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4692.ts
-#EXTINF:-1,DE Sky Action
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4665.ts
-#EXTINF:-1,DE Sky Comedy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4640.ts
-#EXTINF:-1,DE Sky Emotion
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4663.ts
-#EXTINF:-1,DE Sky Hits
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4683.ts
-#EXTINF:-1,DE Sky Nostalgie
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4694.ts
-#EXTINF:-1,DE MGM
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4678.ts
-#EXTINF:-1,DE TNT Film
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5134.ts
-#EXTINF:-1,DE Sport Digital HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5582.ts
-#EXTINF:-1,DE SkySport HD1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4645.ts
-#EXTINF:-1,DE Sky Sport 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4661.ts
-#EXTINF:-1,DE SkySport HD2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4644.ts
-#EXTINF:-1,DE Sky Sport 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4684.ts
-#EXTINF:-1,DE Sky Sport News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4659.ts
-#EXTINF:-1,DE Sport Time TV 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4657.ts
-#EXTINF:-1,DE Sport Time TV 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4658.ts
-#EXTINF:-1,DE Sky Bundesliga 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4702.ts
-#EXTINF:-1,DE SKY Bundesliga 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4703.ts
-#EXTINF:-1,DE SKY Bundesliga 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4704.ts
-#EXTINF:-1,DE SKY Bundesliga 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4705.ts
-#EXTINF:-1,DE SKY Bundesliga 5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4706.ts
-#EXTINF:-1,DE SKY Bundesliga 6
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4707.ts
-#EXTINF:-1,DE SKY Bundesliga 7
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4708.ts
-#EXTINF:-1,DE SKY Bundesliga 8
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4709.ts
-#EXTINF:-1,DE SKY Bundesliga 9
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4710.ts
-#EXTINF:-1,DE Dea Junior
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4691.ts
-#EXTINF:-1,DE Dysney XD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4698.ts
-#EXTINF:-1,DE Disney Cinemagic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4688.ts
-#EXTINF:-1,DE Kika
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4642.ts
-#EXTINF:-1,DE Junior
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4697.ts
-#EXTINF:-1,DE Disney Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5143.ts
-#EXTINF:-1,DE Sky Atlantic HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4664.ts
-#EXTINF:-1,DE Fox
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4671.ts
-#EXTINF:-1,DE Fox Serie
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4687.ts
-#EXTINF:-1,DE AXN Action
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5144.ts
-#EXTINF:-1,DE Sixx
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5136.ts
-#EXTINF:-1,DE TLC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5135.ts
-#EXTINF:-1,DE Sat 1 Gold
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5137.ts
-#EXTINF:-1,DE RTL Living
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5138.ts
-#EXTINF:-1,DE Romance TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5139.ts
-#EXTINF:-1,DE Pro Sieben Maxx
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5140.ts
-#EXTINF:-1,DE Sat 1 Emotions
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4091.ts
-#EXTINF:-1,DE RTL-Passion
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4695.ts
-#EXTINF:-1,DE TNT-Serie
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4680.ts
-#EXTINF:-1,DE Syfy HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4656.ts
-#EXTINF:-1,DE Syfy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4681.ts
-#EXTINF:-1,DE RTL Crime
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4696.ts
-#EXTINF:-1,DE Sky Krimi
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4662.ts
-#EXTINF:-1,DE HeimatKanal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4686.ts
-#EXTINF:-1,DE 1-2-3.TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5145.ts
-#EXTINF:-1,DE Discovery Channel HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4672.ts
-#EXTINF:-1,DE Discovery Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4679.ts
-#EXTINF:-1,DE National Geographic Channel HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4669.ts
-#EXTINF:-1,DE National Geographic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4677.ts
-#EXTINF:-1,DE Nat Geo Wild
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4685.ts
-#EXTINF:-1,DE Spiegel Geschichte
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4682.ts
-#EXTINF:-1,DE History Chanel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4647.ts
-#EXTINF:-1,DE ZDF Kultur
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5132.ts
-#EXTINF:-1,DE ZDF Info
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5133.ts
-#EXTINF:-1,DE Discovery Chanell
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4651.ts
-#EXTINF:-1,Sky Select 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4159.ts
-#EXTINF:-1,Sky Select 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4158.ts
-#EXTINF:-1,Sky Select 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4157.ts
-#EXTINF:-1,Sky Select 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4156.ts
-#EXTINF:-1,Sky Select 5 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4155.ts
-#EXTINF:-1,Sky Select 6 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4154.ts
-#EXTINF:-1,Sky Select 7 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4153.ts
-#EXTINF:-1,Sky Select 8 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4152.ts
-#EXTINF:-1,Sky Select 9 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4151.ts
-#EXTINF:-1,DE ORF 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4652.ts
-#EXTINF:-1,DE ORF 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4641.ts
-#EXTINF:-1,DE Sky Sport Austria
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4660.ts
-#EXTINF:-1,----------Svizzera----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4717.ts
-#EXTINF:-1,CH RTS 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5584.ts
-#EXTINF:-1,CH RTS 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5583.ts
-#EXTINF:-1,CH SRF 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4107.ts
-#EXTINF:-1,CH SRF 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4106.ts
-#EXTINF:-1,----------Luxemburg----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5602.ts
-#EXTINF:-1,Luxemburg RTL Ch 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5601.ts
-#EXTINF:-1,Luxemburg RTL Ch 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5600.ts
-#EXTINF:-1,Luxemburg RTL Ch 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5599.ts
-#EXTINF:-1,----------Belgio----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4819.ts
-#EXTINF:-1,BE RTL TVI HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4829.ts
-#EXTINF:-1,BE LA UNE HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4830.ts
-#EXTINF:-1,BE LA TROIS
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4831.ts
-#EXTINF:-1,BE LA DEUX
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4832.ts
-#EXTINF:-1,------------Brasile----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5130.ts
-#EXTINF:-1,TVE HD 720 Brasil- -BRASIL
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5118.ts
-#EXTINF:-1,TV Pocos â€“ Sports-BRAZIL
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5119.ts
-#EXTINF:-1,TV Pioneira Teresina (Afiliada SBT) Brasil
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5120.ts
-#EXTINF:-1,TV ManÃ¡-Maputo Brasil
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5121.ts
-#EXTINF:-1,TV MANÃ FRANCE Brasil
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5122.ts
-#EXTINF:-1,TV MANÃ Cordoba Brasil
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5123.ts
-#EXTINF:-1,SBT CE (NordesTV) Brasil
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5124.ts
-#EXTINF:-1,RIT TV Brasil
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5125.ts
-#EXTINF:-1,Rede Minas Brasil
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5126.ts
-#EXTINF:-1,MANA SAT BRASIL
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5127.ts
-#EXTINF:-1,LEVANTE TV  BRASIL
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5128.ts
-#EXTINF:-1,Extremadura TV Brasil
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5129.ts
-#EXTINF:-1,---------- Poland ----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6817.ts
-#EXTINF:-1,PL WTK
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6774.ts
-#EXTINF:-1,PL Twoja TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6775.ts
-#EXTINF:-1,PL TVP Sport HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6776.ts
-#EXTINF:-1,PL TVP Info
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6777.ts
-#EXTINF:-1,PL TVP 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6778.ts
-#EXTINF:-1,PL TVP 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6779.ts
-#EXTINF:-1,PL TVN Turbo
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6780.ts
-#EXTINF:-1,PL TVN Style
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6781.ts
-#EXTINF:-1,PL TVN 24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6782.ts
-#EXTINF:-1,PL TVN
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6783.ts
-#EXTINF:-1,PL TV4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6784.ts
-#EXTINF:-1,PL TV Trwam
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6785.ts
-#EXTINF:-1,PL TV Republika
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6786.ts
-#EXTINF:-1,PL TV PULS
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6787.ts
-#EXTINF:-1,PL TV Asta
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6788.ts
-#EXTINF:-1,PL Trwam
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6789.ts
-#EXTINF:-1,PL Telewizja CTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6790.ts
-#EXTINF:-1,PL Telewizja
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6791.ts
-#EXTINF:-1,PL Polsat Sport News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6792.ts
-#EXTINF:-1,PL Polsat Sport Extra HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6793.ts
-#EXTINF:-1,PL Polsat Play
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6794.ts
-#EXTINF:-1,PL Polsat News 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6795.ts
-#EXTINF:-1,PL Polsat News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6796.ts
-#EXTINF:-1,PL Polsat Film
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6797.ts
-#EXTINF:-1,PL Polsat Cafe
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6798.ts
-#EXTINF:-1,PL Polsat
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6799.ts
-#EXTINF:-1,PL Polo TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6800.ts
-#EXTINF:-1,PL Planete
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6801.ts
-#EXTINF:-1,PL Mini Mini
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6802.ts
-#EXTINF:-1,PL Lech TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6803.ts
-#EXTINF:-1,PL KINO POLSKA
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6804.ts
-#EXTINF:-1,PL ITV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6805.ts
-#EXTINF:-1,PL History
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6806.ts
-#EXTINF:-1,PL Fokus Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6807.ts
-#EXTINF:-1,PL Filmbox Arthouse
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6808.ts
-#EXTINF:-1,PL Eleven Sports HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6809.ts
-#EXTINF:-1,PL Eleven HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6810.ts
-#EXTINF:-1,PL Discovery Turbo Xtra
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6811.ts
-#EXTINF:-1,PL Da Vinci Learning
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6812.ts
-#EXTINF:-1,PL CW24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6813.ts
-#EXTINF:-1,PL CBS Action
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6814.ts
-#EXTINF:-1,PL Amazing
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6815.ts
-#EXTINF:-1,PL 4Fun TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6816.ts
-#EXTINF:-1,------------Francia----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5996.ts
-#EXTINF:-1,FR: W9 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5861.ts
-#EXTINF:-1,FR: Voyage HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5862.ts
-#EXTINF:-1,FR: TV Breizh HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5863.ts
-#EXTINF:-1,FR: TMC HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5864.ts
-#EXTINF:-1,FR: Tiji HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5865.ts
-#EXTINF:-1,FR: TF1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5866.ts
-#EXTINF:-1,FR: Teva HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5867.ts
-#EXTINF:-1,FR: Teletoon   HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5868.ts
-#EXTINF:-1,FR: Teletoon   1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5869.ts
-#EXTINF:-1,FR: Serie Club HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5870.ts
-#EXTINF:-1,FR: Science   Vie
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5871.ts
-#EXTINF:-1,FR: Planete   HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5872.ts
-#EXTINF:-1,FR: Paris Premiere HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5873.ts
-#EXTINF:-1,FR: Paramount Channel HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5874.ts
-#EXTINF:-1,FR: OCS Geants HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5875.ts
-#EXTINF:-1,FR: OCS City
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5876.ts
-#EXTINF:-1,FR: OCS Choc HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5877.ts
-#EXTINF:-1,FR: Numero 23
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5878.ts
-#EXTINF:-1,FR: NT1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5879.ts
-#EXTINF:-1,FR: NRJ 12 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5880.ts
-#EXTINF:-1,FR: Nickelodeon Junior
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5881.ts
-#EXTINF:-1,FR: National Geographic HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5882.ts
-#EXTINF:-1,FR: MTV HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5883.ts
-#EXTINF:-1,FR: Motors TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5884.ts
-#EXTINF:-1,FR: M6 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5885.ts
-#EXTINF:-1,FR: LCP
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5886.ts
-#EXTINF:-1,FR: J-One HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5887.ts
-#EXTINF:-1,FR: i24 News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5888.ts
-#EXTINF:-1,FR: HD1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5889.ts
-#EXTINF:-1,FR: Gulli
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5890.ts
-#EXTINF:-1,FR: Grand Lille TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5891.ts
-#EXTINF:-1,FR: Golf  HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5892.ts
-#EXTINF:-1,FR: Game One
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5893.ts
-#EXTINF:-1,FR: France O HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5894.ts
-#EXTINF:-1,FR: France 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5898.ts
-#EXTINF:-1,FR: France 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5897.ts
-#EXTINF:-1,FR: France 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5896.ts
-#EXTINF:-1,FR: France 5 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5895.ts
-#EXTINF:-1,FR: Equidia Life HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5899.ts
-#EXTINF:-1,FR: Enorme Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5900.ts
-#EXTINF:-1,FR: Disney Junior HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5901.ts
-#EXTINF:-1,FR: Disney Cinema HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5902.ts
-#EXTINF:-1,FR: Disney Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5903.ts
-#EXTINF:-1,FR: Discovery Science HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5904.ts
-#EXTINF:-1,FR: Discovery HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5905.ts
-#EXTINF:-1,FR: D8 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5906.ts
-#EXTINF:-1,FR: D17 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5907.ts
-#EXTINF:-1,FR: Cpac
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5908.ts
-#EXTINF:-1,FR: Comedie
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5909.ts
-#EXTINF:-1,FR: Cine Premier HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5910.ts
-#EXTINF:-1,FR: Cine Frisson HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5911.ts
-#EXTINF:-1,FR: Cine Famiz HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5912.ts
-#EXTINF:-1,FR: Cine Classic HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5913.ts
-#EXTINF:-1,FR: Cherie 25 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5914.ts
-#EXTINF:-1,FR: Cartoon Network HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5915.ts
-#EXTINF:-1,FR: Canal  Series HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5916.ts
-#EXTINF:-1,FR: Canal  HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5917.ts
-#EXTINF:-1,FR: Canal  Family HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5918.ts
-#EXTINF:-1,FR: Canal  Decale HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5919.ts
-#EXTINF:-1,FR: Canal  Cinema HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5920.ts
-#EXTINF:-1,FR: Boomerang HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5921.ts
-#EXTINF:-1,FR: Boing HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5922.ts
-#EXTINF:-1,FR: BFM Business
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5923.ts
-#EXTINF:-1,FR: Arte HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5924.ts
-#EXTINF:-1,FR: Antenne Reunion
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5925.ts
-#EXTINF:-1,FR: AB1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5926.ts
-#EXTINF:-1,FR: A La Carte 6
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5927.ts
-#EXTINF:-1,FR: 6 TER HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5928.ts
-#EXTINF:-1,FR: 13e Rue
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5929.ts
-#EXTINF:-1,FR Weo
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5930.ts
-#EXTINF:-1,FR Ushuaia TV HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5931.ts
-#EXTINF:-1,FR TVA Montreal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5932.ts
-#EXTINF:-1,FR TV5 Monde Europe
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5933.ts
-#EXTINF:-1,FR TV Lux
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5934.ts
-#EXTINF:-1,FR Toute L histoire
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5935.ts
-#EXTINF:-1,FR SyFy HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5936.ts
-#EXTINF:-1,FR RTL9 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5937.ts
-#EXTINF:-1,FR Rouge TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5938.ts
-#EXTINF:-1,FR RMC Decouverte
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5939.ts
-#EXTINF:-1,FR Plug RTL
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5940.ts
-#EXTINF:-1,FR Planete  CI HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5941.ts
-#EXTINF:-1,FR Planete  A E HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5942.ts
-#EXTINF:-1,FR OL TV HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5943.ts
-#EXTINF:-1,FR OCS Max HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5944.ts
-#EXTINF:-1,FR Nat Geo Wild HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5945.ts
-#EXTINF:-1,FR Mirabelle TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5946.ts
-#EXTINF:-1,FR Manga
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5947.ts
-#EXTINF:-1,FR Ma Chaine Sport HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5948.ts
-#EXTINF:-1,FR M6 Music
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5949.ts
-#EXTINF:-1,FR Leman Bleu
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5950.ts
-#EXTINF:-1,FR LCI HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5951.ts
-#EXTINF:-1,FR La Tele
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5952.ts
-#EXTINF:-1,FR La Deux
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5953.ts
-#EXTINF:-1,FR La chaine Normande
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5954.ts
-#EXTINF:-1,FR L equipe 21 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5955.ts
-#EXTINF:-1,FR Kombat Sport HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5956.ts
-#EXTINF:-1,FR Infosport
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5957.ts
-#EXTINF:-1,FR I TELE HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5958.ts
-#EXTINF:-1,FR Histoire
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5959.ts
-#EXTINF:-1,FR Gong Base
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5960.ts
-#EXTINF:-1,FR France 24 Fr
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5961.ts
-#EXTINF:-1,FR Foot  24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5962.ts
-#EXTINF:-1,FR Eurosport 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5963.ts
-#EXTINF:-1,FR Eurosport 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5964.ts
-#EXTINF:-1,FR Euronews Fr
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5965.ts
-#EXTINF:-1,FR Equidia Live HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5966.ts
-#EXTINF:-1,FR E! Entertainment
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5967.ts
-#EXTINF:-1,FR Disney XD HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5968.ts
-#EXTINF:-1,FR Club RTL
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5969.ts
-#EXTINF:-1,FR Cine Polar
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5970.ts
-#EXTINF:-1,FR Cine FX
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5971.ts
-#EXTINF:-1,FR Cine Emotion HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5972.ts
-#EXTINF:-1,FR Canal Savoir
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5973.ts
-#EXTINF:-1,FR Canal Play 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5974.ts
-#EXTINF:-1,FR Canal Play 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5975.ts
-#EXTINF:-1,FR Canal J HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5976.ts
-#EXTINF:-1,FR Canal  Sport HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5977.ts
-#EXTINF:-1,FR BFM Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5978.ts
-#EXTINF:-1,FR Bein Sports 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5981.ts
-#EXTINF:-1,FR Bein Sports 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5980.ts
-#EXTINF:-1,FR Bein Sports 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5979.ts
-#EXTINF:-1,FR Bein Sport Max5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5985.ts
-#EXTINF:-1,FR Bein Sport Max4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5986.ts
-#EXTINF:-1,FR Bein Sport Max6
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5984.ts
-#EXTINF:-1,FR Bein Sport Max7
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5983.ts
-#EXTINF:-1,FR Bein Sport Max8
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5982.ts
-#EXTINF:-1,FR Animaux
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5987.ts
-#EXTINF:-1,FR Alsace 20
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5988.ts
-#EXTINF:-1,FR Action HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5989.ts
-#EXTINF:-1,FR A La Carte 7
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5990.ts
-#EXTINF:-1,FR A La Carte 5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5991.ts
-#EXTINF:-1,FR A La Carte 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5992.ts
-#EXTINF:-1,FR A La Carte 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5993.ts
-#EXTINF:-1,FR A La Carte 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5994.ts
-#EXTINF:-1,FR A La Carte 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5995.ts
-#EXTINF:-1,----------Arabi---------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4833.ts
-#EXTINF:-1,AR: Tunisie 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5997.ts
-#EXTINF:-1,AR: Tunisia First TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5998.ts
-#EXTINF:-1,AR: Touyour Baby
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5999.ts
-#EXTINF:-1,AR: Tourath
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6000.ts
-#EXTINF:-1,AR: TL Liban
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6001.ts
-#EXTINF:-1,AR: Saoudi 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6002.ts
-#EXTINF:-1,AR: Rotani Classic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6003.ts
-#EXTINF:-1,AR: Quran Hidayah Eng
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6004.ts
-#EXTINF:-1,AR: OSN Ya Hala Shabab HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6005.ts
-#EXTINF:-1,AR: OSN Movies HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6006.ts
-#EXTINF:-1,AR: OSN Movies Action  2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6007.ts
-#EXTINF:-1,AR: OSN Filmbox HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6008.ts
-#EXTINF:-1,AR: OSN Docubox HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6009.ts
-#EXTINF:-1,AR: OSN Animaux HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6010.ts
-#EXTINF:-1,AR: OSN Animal Planet HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6011.ts
-#EXTINF:-1,AR: ON Live
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6012.ts
-#EXTINF:-1,AR: Oman
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6013.ts
-#EXTINF:-1,AR: Nourmina
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6014.ts
-#EXTINF:-1,AR: Noor Dubai
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6015.ts
-#EXTINF:-1,AR: NBN
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6016.ts
-#EXTINF:-1,AR: MBC Pro Sports 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6017.ts
-#EXTINF:-1,AR: MBC Pro Sports 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6018.ts
-#EXTINF:-1,AR: MBC Drama HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6019.ts
-#EXTINF:-1,AR: MBC 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6020.ts
-#EXTINF:-1,AR: Mazzika
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6021.ts
-#EXTINF:-1,AR: Libia 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6022.ts
-#EXTINF:-1,AR: LDC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6023.ts
-#EXTINF:-1,AR: Jeem HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6024.ts
-#EXTINF:-1,AR: Harim Esoltan Drama
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6025.ts
-#EXTINF:-1,AR: Gear One
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6026.ts
-#EXTINF:-1,AR: FM
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6027.ts
-#EXTINF:-1,AR: Ettasiaa
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6028.ts
-#EXTINF:-1,AR: Dzair News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6029.ts
-#EXTINF:-1,AR: Dubai Sports 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6030.ts
-#EXTINF:-1,AR: Dubai Sports 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6031.ts
-#EXTINF:-1,AR: Dream
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6032.ts
-#EXTINF:-1,AR: Daleel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6033.ts
-#EXTINF:-1,AR: Coran Hidaiah FR
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6034.ts
-#EXTINF:-1,AR: Cinema Tube
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6035.ts
-#EXTINF:-1,AR: Cinema 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6036.ts
-#EXTINF:-1,AR: Cartoon Network
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6037.ts
-#EXTINF:-1,AR: C ONE TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6038.ts
-#EXTINF:-1,AR: Baraem
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6042.ts
-#EXTINF:-1,AR: ART HIKAYAT 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6043.ts
-#EXTINF:-1,AR: Al Saida
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6044.ts
-#EXTINF:-1,AR: Al Risala
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6045.ts
-#EXTINF:-1,AR: Al Rahma
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6046.ts
-#EXTINF:-1,AR: Al Rafidain
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6047.ts
-#EXTINF:-1,AR: Al Majd Educational
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6048.ts
-#EXTINF:-1,AR: Al Janoubiya
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6049.ts
-#EXTINF:-1,AR: Al Ikhbaria
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6050.ts
-#EXTINF:-1,AR: Al Chourouk HD DZ
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6051.ts
-#EXTINF:-1,AR: Ajman
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6052.ts
-#EXTINF:-1,AR Zwina
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6053.ts
-#EXTINF:-1,AR Zee Alwan
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6054.ts
-#EXTINF:-1,AR Zee Aflam
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6055.ts
-#EXTINF:-1,AR Zaytouna
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6056.ts
-#EXTINF:-1,AR Wisal TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6057.ts
-#EXTINF:-1,AR Watan
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6058.ts
-#EXTINF:-1,AR Tunisie 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6059.ts
-#EXTINF:-1,AR TRT Arabia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6060.ts
-#EXTINF:-1,AR Touyour Al Jannah
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6061.ts
-#EXTINF:-1,AR Tounesna
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6062.ts
-#EXTINF:-1,AR Toktok Aflam
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6063.ts
-#EXTINF:-1,AR TNN
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6064.ts
-#EXTINF:-1,AR Ten
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6065.ts
-#EXTINF:-1,AR Talaquie
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6066.ts
-#EXTINF:-1,AR Taha
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6067.ts
-#EXTINF:-1,AR Tagharid
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6068.ts
-#EXTINF:-1,AR Sunnah Nebawiya
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6069.ts
-#EXTINF:-1,AR Space Toon
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6070.ts
-#EXTINF:-1,AR Souriya News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6071.ts
-#EXTINF:-1,AR Souriya Drama
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6072.ts
-#EXTINF:-1,AR Souria Al Oula
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6073.ts
-#EXTINF:-1,AR Souria
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6074.ts
-#EXTINF:-1,AR Sky News Arabia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6075.ts
-#EXTINF:-1,AR Sharjah Sports HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6076.ts
-#EXTINF:-1,AR Sharjah HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6077.ts
-#EXTINF:-1,AR Shabab TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6078.ts
-#EXTINF:-1,AR Semsem
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6079.ts
-#EXTINF:-1,AR Sedu
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6080.ts
-#EXTINF:-1,AR Saoudi 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6081.ts
-#EXTINF:-1,AR Samira TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6082.ts
-#EXTINF:-1,AR Samara
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6083.ts
-#EXTINF:-1,AR Sama Dubai
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6084.ts
-#EXTINF:-1,AR Safa
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6085.ts
-#EXTINF:-1,AR Sada Drama
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6086.ts
-#EXTINF:-1,AR RT Arabia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6087.ts
-#EXTINF:-1,AR Royal Secrets
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6088.ts
-#EXTINF:-1,AR Royal Edhak
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6089.ts
-#EXTINF:-1,AR Royal Bedewiya
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6090.ts
-#EXTINF:-1,AR Rotana Mousica
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6091.ts
-#EXTINF:-1,AR Rotana Masria
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6092.ts
-#EXTINF:-1,AR Rotana Khalijiya
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6093.ts
-#EXTINF:-1,AR Rotana Clip
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6094.ts
-#EXTINF:-1,AR Rotana Cinema
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6095.ts
-#EXTINF:-1,AR Ro2ia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6096.ts
-#EXTINF:-1,AR Risalat Al Islam
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6097.ts
-#EXTINF:-1,AR Rawdha
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6098.ts
-#EXTINF:-1,AR RAK TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6099.ts
-#EXTINF:-1,AR Panorama Food
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6100.ts
-#EXTINF:-1,AR Panorama Film
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6101.ts
-#EXTINF:-1,AR Panorama Drama 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6102.ts
-#EXTINF:-1,AR Palestine El Yawm
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6103.ts
-#EXTINF:-1,AR Ouyoun Al Watan
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6104.ts
-#EXTINF:-1,AR OTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6105.ts
-#EXTINF:-1,AR OSN Ya Hela Drama HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6106.ts
-#EXTINF:-1,AR OSN Ya Hala HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6107.ts
-#EXTINF:-1,AR OSN TLC HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6108.ts
-#EXTINF:-1,AR OSN Star World HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6109.ts
-#EXTINF:-1,AR OSN Star Movies HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6110.ts
-#EXTINF:-1,AR OSN Pro Action HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6111.ts
-#EXTINF:-1,AR OSN Movies Premiere HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6112.ts
-#EXTINF:-1,AR OSN Movies Kids HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6113.ts
-#EXTINF:-1,AR OSN Movies Action HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6114.ts
-#EXTINF:-1,AR OSN Movie Box
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6115.ts
-#EXTINF:-1,AR OSN ID
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6116.ts
-#EXTINF:-1,AR OSN H2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6117.ts
-#EXTINF:-1,AR OSN Fox HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6118.ts
-#EXTINF:-1,AR OSN Fix   Foxi
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6119.ts
-#EXTINF:-1,AR OSN First Comedy HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6120.ts
-#EXTINF:-1,AR OSN EX
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6121.ts
-#EXTINF:-1,AR OSN Disney Junior
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6122.ts
-#EXTINF:-1,AR OSN Discovery World
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6123.ts
-#EXTINF:-1,AR OSN Discovery Science HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6124.ts
-#EXTINF:-1,AR OSN Cinema 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6125.ts
-#EXTINF:-1,AR OSN Animal Planet HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6126.ts
-#EXTINF:-1,AR OSN Al Yawm
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6127.ts
-#EXTINF:-1,AR Orient
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6128.ts
-#EXTINF:-1,AR Numidia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6129.ts
-#EXTINF:-1,AR Noor El Cham
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6130.ts
-#EXTINF:-1,AR Noon
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6131.ts
-#EXTINF:-1,AR Nile Sport
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6132.ts
-#EXTINF:-1,AR Nile Life
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6133.ts
-#EXTINF:-1,AR Nile Family
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6134.ts
-#EXTINF:-1,AR Nile Drama
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6135.ts
-#EXTINF:-1,AR Nile Cultural
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6136.ts
-#EXTINF:-1,AR Nile Comedy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6137.ts
-#EXTINF:-1,AR Nile Cinema
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6138.ts
-#EXTINF:-1,AR Nessma
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6139.ts
-#EXTINF:-1,AR Nabdh Souria
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6140.ts
-#EXTINF:-1,AR Nabaa
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6141.ts
-#EXTINF:-1,AR Music Al Rimas
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6142.ts
-#EXTINF:-1,AR Music Al Haneen
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6143.ts
-#EXTINF:-1,AR MTV Liban
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6144.ts
-#EXTINF:-1,AR Moga Comedy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6145.ts
-#EXTINF:-1,AR Moga Cinema
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6146.ts
-#EXTINF:-1,AR Modern Sport
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6147.ts
-#EXTINF:-1,AR Mekkah
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6148.ts
-#EXTINF:-1,AR Medi 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6149.ts
-#EXTINF:-1,AR MBC ProSports 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6150.ts
-#EXTINF:-1,AR MBC Pro Sports 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6151.ts
-#EXTINF:-1,AR MBC Max HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6152.ts
-#EXTINF:-1,AR MBC Masr
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6153.ts
-#EXTINF:-1,AR MBC Bollywood
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6154.ts
-#EXTINF:-1,AR MBC Action HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6155.ts
-#EXTINF:-1,AR MBC 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6156.ts
-#EXTINF:-1,AR MBC 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6157.ts
-#EXTINF:-1,AR MBC 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6158.ts
-#EXTINF:-1,AR Masr 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6159.ts
-#EXTINF:-1,AR Masah
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6160.ts
-#EXTINF:-1,AR Maroc 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6161.ts
-#EXTINF:-1,AR Majed
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6162.ts
-#EXTINF:-1,AR Maghreb 24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6163.ts
-#EXTINF:-1,AR Macca
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6164.ts
-#EXTINF:-1,AR Maan
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6165.ts
-#EXTINF:-1,AR M Tunisie
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6166.ts
-#EXTINF:-1,AR M Classic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6167.ts
-#EXTINF:-1,AR Libiya Al Mahar
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6168.ts
-#EXTINF:-1,AR Libia Al Hadath
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6169.ts
-#EXTINF:-1,AR LBC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6170.ts
-#EXTINF:-1,AR Lana
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6171.ts
-#EXTINF:-1,AR Kuwait TV HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6172.ts
-#EXTINF:-1,AR KBC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6173.ts
-#EXTINF:-1,AR Kayfa
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6174.ts
-#EXTINF:-1,AR Karameesh
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6175.ts
-#EXTINF:-1,AR Iqraa TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6176.ts
-#EXTINF:-1,AR Imagine Movies
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6177.ts
-#EXTINF:-1,AR Ikhtarna Lak
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6178.ts
-#EXTINF:-1,AR Hod Hod
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6179.ts
-#EXTINF:-1,AR Hannibal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6180.ts
-#EXTINF:-1,AR Future TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6181.ts
-#EXTINF:-1,AR Funoon TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6182.ts
-#EXTINF:-1,AR Free TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6183.ts
-#EXTINF:-1,AR France 24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6184.ts
-#EXTINF:-1,AR Fatafeat
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6185.ts
-#EXTINF:-1,AR Euronews
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6186.ts
-#EXTINF:-1,AR Ennahar DZ
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6187.ts
-#EXTINF:-1,AR Dzair
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6188.ts
-#EXTINF:-1,AR DW
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6189.ts
-#EXTINF:-1,AR Dubai Zaman
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6190.ts
-#EXTINF:-1,AR Dubai TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6191.ts
-#EXTINF:-1,AR Dubai Sports 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6192.ts
-#EXTINF:-1,AR Dubai Racing
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6193.ts
-#EXTINF:-1,AR Dubai One
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6194.ts
-#EXTINF:-1,AR DUBAI DRAMA
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6195.ts
-#EXTINF:-1,AR Dubai Al Oula
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6196.ts
-#EXTINF:-1,AR CNC Aflam
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6197.ts
-#EXTINF:-1,AR CNBC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6198.ts
-#EXTINF:-1,AR Cinema Pro
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6199.ts
-#EXTINF:-1,AR Cinema 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6200.ts
-#EXTINF:-1,AR Cinema
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6201.ts
-#EXTINF:-1,AR Cima
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6202.ts
-#EXTINF:-1,AR Charkia Kalba
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6203.ts
-#EXTINF:-1,AR CBC Sefra
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6204.ts
-#EXTINF:-1,AR CBC Extra
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6205.ts
-#EXTINF:-1,AR CBC Drama
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6206.ts
-#EXTINF:-1,AR CBC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6207.ts
-#EXTINF:-1,AR Canal Algerie
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6208.ts
-#EXTINF:-1,AR Cairo Drama
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6209.ts
-#EXTINF:-1,AR Cairo Cinema
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6210.ts
-#EXTINF:-1,AR Bzaf Life DZ
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6211.ts
-#EXTINF:-1,AR Beur TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6212.ts
-#EXTINF:-1,AR: Bein Movies 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6041.ts
-#EXTINF:-1,----------Bein Sport----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4817.ts
-#EXTINF:-1,AR Bein Sports News HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6213.ts
-#EXTINF:-1,AR Bein Sports HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6214.ts
-#EXTINF:-1,AR: Bein Sports 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6040.ts
-#EXTINF:-1,AR Bein Sports 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6238.ts
-#EXTINF:-1,AR Bein Movies 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6241.ts
-#EXTINF:-1,AR Bein Movies 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6240.ts
-#EXTINF:-1,AR Bein Movies 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6239.ts
-#EXTINF:-1,AR Bein Sports 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6229.ts
-#EXTINF:-1,AR Bein Sports 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6230.ts
-#EXTINF:-1,AR Bein Sports 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6227.ts
-#EXTINF:-1,AR Bein Sports 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6228.ts
-#EXTINF:-1,AR Bein Sports 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6225.ts
-#EXTINF:-1,AR Bein Sports 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6226.ts
-#EXTINF:-1,AR Bein Sports 5 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6223.ts
-#EXTINF:-1,AR Bein Sports 5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6224.ts
-#EXTINF:-1,AR Bein Sports 6 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6221.ts
-#EXTINF:-1,AR Bein Sports 6
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6222.ts
-#EXTINF:-1,AR Bein Sports 7 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6219.ts
-#EXTINF:-1,AR Bein Sports 7
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6220.ts
-#EXTINF:-1,AR Bein Sports 8 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6217.ts
-#EXTINF:-1,AR Bein Sports 8
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6218.ts
-#EXTINF:-1,AR Bein Sports 9 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6215.ts
-#EXTINF:-1,AR Bein Sports 9
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6216.ts
-#EXTINF:-1,AR Bein Sports 10 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6236.ts
-#EXTINF:-1,AR Bein Sports 10
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6237.ts
-#EXTINF:-1,AR Bein Sports 11 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6234.ts
-#EXTINF:-1,AR Bein Sports 11
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6235.ts
-#EXTINF:-1,AR Bein Sports 12 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6232.ts
-#EXTINF:-1,AR Bein Sports 12
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6233.ts
-#EXTINF:-1,AR: Bein Sports 13 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6039.ts
-#EXTINF:-1,AR Bein Sports 14 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6231.ts
-#EXTINF:-1,AR BBC News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6242.ts
-#EXTINF:-1,AR Basma
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6243.ts
-#EXTINF:-1,AR Bahrain TV HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6244.ts
-#EXTINF:-1,AR Baghdad TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6245.ts
-#EXTINF:-1,AR B4U Plus
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6246.ts
-#EXTINF:-1,AR B4U Aflam
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6247.ts
-#EXTINF:-1,AR B2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6248.ts
-#EXTINF:-1,AR Azhari
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6249.ts
-#EXTINF:-1,AR Ayaat
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6250.ts
-#EXTINF:-1,AR ART HIKAYAT
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6251.ts
-#EXTINF:-1,AR ART CINEMA
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6252.ts
-#EXTINF:-1,AR ART AFLAM 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6253.ts
-#EXTINF:-1,AR ART AFLAM 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6254.ts
-#EXTINF:-1,AR ANN
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6255.ts
-#EXTINF:-1,AR Algerie 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6256.ts
-#EXTINF:-1,AR Al Wathaikiya
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6257.ts
-#EXTINF:-1,AR Al Tabiaa
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6258.ts
-#EXTINF:-1,AR Al Sharq
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6259.ts
-#EXTINF:-1,AR Al Shallal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6260.ts
-#EXTINF:-1,AR Al Seha Wal Jamal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6261.ts
-#EXTINF:-1,AR Al Riadhia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6262.ts
-#EXTINF:-1,AR Al Rayane HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6263.ts
-#EXTINF:-1,AR Al Rayan 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6264.ts
-#EXTINF:-1,AR Al Raeid
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6265.ts
-#EXTINF:-1,AR Al Raed
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6266.ts
-#EXTINF:-1,AR Al Quds
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6267.ts
-#EXTINF:-1,AR Al Nile
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6268.ts
-#EXTINF:-1,AR Al Nahar One
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6269.ts
-#EXTINF:-1,AR Al Nahar Drama
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6270.ts
-#EXTINF:-1,AR Al Nahar Cinema
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6271.ts
-#EXTINF:-1,AR Al Nahar Al Yawm
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6272.ts
-#EXTINF:-1,AR Al Naeem
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6273.ts
-#EXTINF:-1,AR Al Mostakilla
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6274.ts
-#EXTINF:-1,AR Al Mehwar
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6275.ts
-#EXTINF:-1,AR Al Mayadeen
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6276.ts
-#EXTINF:-1,AR Al Masria
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6277.ts
-#EXTINF:-1,AR Al Masa
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6278.ts
-#EXTINF:-1,AR Al Manar
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6279.ts
-#EXTINF:-1,AR Al Majd Quran
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6280.ts
-#EXTINF:-1,AR Al Majd Hadith
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6281.ts
-#EXTINF:-1,AR Al Majd Atfal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6282.ts
-#EXTINF:-1,AR Al Majd
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6283.ts
-#EXTINF:-1,AR Al Maghribia Ikhbaria
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6284.ts
-#EXTINF:-1,AR Al Magharibia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6285.ts
-#EXTINF:-1,AR Al Maali
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6286.ts
-#EXTINF:-1,AR Al Kout
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6287.ts
-#EXTINF:-1,AR Al Karama
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6288.ts
-#EXTINF:-1,AR Al Kahira Wal Nes 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6289.ts
-#EXTINF:-1,AR Al Kahira Wal Nes
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6290.ts
-#EXTINF:-1,AR Al Kahira
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6291.ts
-#EXTINF:-1,AR Al Kaas 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6292.ts
-#EXTINF:-1,AR Al Kaas 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6293.ts
-#EXTINF:-1,AR Al Kaas 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6294.ts
-#EXTINF:-1,AR Al Kaas 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6295.ts
-#EXTINF:-1,AR Al Jazeera Mubashir
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6296.ts
-#EXTINF:-1,AR Al Jazeera HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6297.ts
-#EXTINF:-1,AR Al Jazeera Documentary
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6298.ts
-#EXTINF:-1,AR Al Jazaairia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6299.ts
-#EXTINF:-1,AR Al Jamahiriya
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6300.ts
-#EXTINF:-1,AR Al Jadeed
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6301.ts
-#EXTINF:-1,AR Al Insen
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6302.ts
-#EXTINF:-1,AR Al Imarate
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6303.ts
-#EXTINF:-1,AR Al Hurra HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6304.ts
-#EXTINF:-1,AR Al Huda
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6305.ts
-#EXTINF:-1,AR Al Hiwar Ettounsi
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6306.ts
-#EXTINF:-1,AR Al Hiwar
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6307.ts
-#EXTINF:-1,AR Al Hayat Wal Nes
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6308.ts
-#EXTINF:-1,AR Al Hayat Tawazon
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6309.ts
-#EXTINF:-1,AR Al Hayat Noor
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6310.ts
-#EXTINF:-1,AR Al Hayat Mousalsalat
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6311.ts
-#EXTINF:-1,AR Al Hayat 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6312.ts
-#EXTINF:-1,AR Al hayat
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6313.ts
-#EXTINF:-1,AR Al Hadhath
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6314.ts
-#EXTINF:-1,AR Al Ghadir
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6315.ts
-#EXTINF:-1,AR Al Falastiniya
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6316.ts
-#EXTINF:-1,AR Al Fajr DZ
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6317.ts
-#EXTINF:-1,AR Al Charkia News HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6318.ts
-#EXTINF:-1,AR Al Bit Bitek
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6319.ts
-#EXTINF:-1,AR Al Bilad DZ
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6320.ts
-#EXTINF:-1,AR Al Baghdadia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6321.ts
-#EXTINF:-1,AR Al Arabiya
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6322.ts
-#EXTINF:-1,AR Al Alam
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6323.ts
-#EXTINF:-1,AR Al Aasima
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6324.ts
-#EXTINF:-1,AR Al Aan
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6325.ts
-#EXTINF:-1,AR Ajyal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6326.ts
-#EXTINF:-1,AR Ahl Al Quran
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6327.ts
-#EXTINF:-1,AR Aghanina
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6328.ts
-#EXTINF:-1,AR Aghani
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6329.ts
-#EXTINF:-1,AR Afaq
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6330.ts
-#EXTINF:-1,AR AD Sports 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6331.ts
-#EXTINF:-1,AR AD Sports 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6332.ts
-#EXTINF:-1,AR Action
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6333.ts
-#EXTINF:-1,AR Abou Dhabi HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6334.ts
-#EXTINF:-1,AR ABC Cinema
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6335.ts
-#EXTINF:-1,AR 5 Curan
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6336.ts
-#EXTINF:-1,AR 4 Shabab
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6337.ts
-#EXTINF:-1,AR 2M Monde
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6338.ts
-#EXTINF:-1,------------Romania----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5832.ts
-#EXTINF:-1,RO: Pro TV News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6713.ts
-#EXTINF:-1,RO: Moldova Sport HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6714.ts
-#EXTINF:-1,RO: Dolce Sport 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6715.ts
-#EXTINF:-1,RO: Digi Sport 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6716.ts
-#EXTINF:-1,RO Viasat Nature
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6717.ts
-#EXTINF:-1,RO Viasat History
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6718.ts
-#EXTINF:-1,RO Viasat Explore
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6719.ts
-#EXTINF:-1,RO U TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6720.ts
-#EXTINF:-1,RO TVR HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6721.ts
-#EXTINF:-1,RO TVR 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6722.ts
-#EXTINF:-1,RO TVR 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6723.ts
-#EXTINF:-1,RO TV Paprika
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6724.ts
-#EXTINF:-1,RO TV 1000
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6725.ts
-#EXTINF:-1,RO Travel Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6726.ts
-#EXTINF:-1,RO Sport.RO
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6727.ts
-#EXTINF:-1,RO Romania Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6728.ts
-#EXTINF:-1,RO Realitatea Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6729.ts
-#EXTINF:-1,RO Pro TV Chisinau
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6730.ts
-#EXTINF:-1,RO Pro TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6731.ts
-#EXTINF:-1,RO Prima TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6732.ts
-#EXTINF:-1,RO Nickelodeon
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6733.ts
-#EXTINF:-1,RO NeptunTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6734.ts
-#EXTINF:-1,RO National TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6735.ts
-#EXTINF:-1,RO National Geographic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6736.ts
-#EXTINF:-1,RO Nat Geo Wild
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6737.ts
-#EXTINF:-1,RO Music Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6738.ts
-#EXTINF:-1,RO Minimax
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6739.ts
-#EXTINF:-1,RO Megamax
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6740.ts
-#EXTINF:-1,RO M 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6741.ts
-#EXTINF:-1,RO Look TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6742.ts
-#EXTINF:-1,RO Kiss Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6743.ts
-#EXTINF:-1,RO Kanal D
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6744.ts
-#EXTINF:-1,RO Impact Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6745.ts
-#EXTINF:-1,RO History Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6746.ts
-#EXTINF:-1,RO HBO 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6747.ts
-#EXTINF:-1,RO HBO 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6748.ts
-#EXTINF:-1,RO HBO
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6749.ts
-#EXTINF:-1,RO Fine Living
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6750.ts
-#EXTINF:-1,RO Film Cafe
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6751.ts
-#EXTINF:-1,RO Eurosport 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6752.ts
-#EXTINF:-1,RO Eurosport 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6753.ts
-#EXTINF:-1,RO Diva Universal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6754.ts
-#EXTINF:-1,RO Disney Junior
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6755.ts
-#EXTINF:-1,RO Disney Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6756.ts
-#EXTINF:-1,RO Digi World
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6757.ts
-#EXTINF:-1,RO Digi Sport 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6758.ts
-#EXTINF:-1,RO Digi Sport 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6759.ts
-#EXTINF:-1,RO Digi Sport 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6760.ts
-#EXTINF:-1,RO Digi Life
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6761.ts
-#EXTINF:-1,RO DIGI FILM
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6762.ts
-#EXTINF:-1,RO Digi Animal World
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6763.ts
-#EXTINF:-1,RO Digi 24 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6764.ts
-#EXTINF:-1,RO Cinemax 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6765.ts
-#EXTINF:-1,RO Canal 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6766.ts
-#EXTINF:-1,RO B1 Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6767.ts
-#EXTINF:-1,RO Atomic Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6768.ts
-#EXTINF:-1,RO Antena 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6769.ts
-#EXTINF:-1,RO Antena 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6770.ts
-#EXTINF:-1,RO Acasa Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6771.ts
-#EXTINF:-1,RO Acasa Moldova
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6772.ts
-#EXTINF:-1,----------Portoghesi----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5786.ts
-#EXTINF:-1,PT: RTP International
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6660.ts
-#EXTINF:-1,PT: 24 Kitchen HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6661.ts
-#EXTINF:-1,PT TVI REALITY
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6662.ts
-#EXTINF:-1,PT TVI HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6663.ts
-#EXTINF:-1,PT Tvi 24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6664.ts
-#EXTINF:-1,PT TV Series
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6665.ts
-#EXTINF:-1,PT TV Lisboa
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6666.ts
-#EXTINF:-1,PT TV Cine 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6667.ts
-#EXTINF:-1,PT TV Cine 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6668.ts
-#EXTINF:-1,PT TV Cine 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6669.ts
-#EXTINF:-1,PT SyFy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6670.ts
-#EXTINF:-1,PT Sport TV 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6675.ts
-#EXTINF:-1,PT Sport TV 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6674.ts
-#EXTINF:-1,PT Sport TV 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6673.ts
-#EXTINF:-1,PT Sport TV 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6672.ts
-#EXTINF:-1,PT Sport TV 5 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6671.ts
-#EXTINF:-1,PT Sic Radical
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6676.ts
-#EXTINF:-1,PT SIC Noticias
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6677.ts
-#EXTINF:-1,PT SIC MULHER
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6678.ts
-#EXTINF:-1,PT SIC K
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6679.ts
-#EXTINF:-1,PT SIC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6680.ts
-#EXTINF:-1,PT RTP MEMORIA
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6681.ts
-#EXTINF:-1,PT RTP Madeira
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6682.ts
-#EXTINF:-1,PT RTP Acores
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6683.ts
-#EXTINF:-1,PT RTP 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6684.ts
-#EXTINF:-1,PT RTP 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6685.ts
-#EXTINF:-1,PT RTP 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6686.ts
-#EXTINF:-1,PT REAL MADRID TV HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6687.ts
-#EXTINF:-1,PT Porto Canal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6688.ts
-#EXTINF:-1,PT PANDA BIGGS
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6689.ts
-#EXTINF:-1,PT Odisseia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6690.ts
-#EXTINF:-1,PT Nickelodeon
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6691.ts
-#EXTINF:-1,PT Mtv Portugal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6692.ts
-#EXTINF:-1,PT MOTORS TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6693.ts
-#EXTINF:-1,PT JR News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6694.ts
-#EXTINF:-1,PT JIM JAM
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6695.ts
-#EXTINF:-1,PT Globo Premium
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6696.ts
-#EXTINF:-1,PT Fox Movies
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6697.ts
-#EXTINF:-1,PT EUROSPORT HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6698.ts
-#EXTINF:-1,PT Euronews
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6699.ts
-#EXTINF:-1,PT Economico TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6700.ts
-#EXTINF:-1,PT Disney Junior
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6701.ts
-#EXTINF:-1,PT Disney Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6702.ts
-#EXTINF:-1,PT Discovery Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6703.ts
-#EXTINF:-1,PT CM TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6704.ts
-#EXTINF:-1,PT Cinemundo
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6705.ts
-#EXTINF:-1,PT Canal Panda
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6706.ts
-#EXTINF:-1,PT Canal de Historia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6707.ts
-#EXTINF:-1,PT BH News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6708.ts
-#EXTINF:-1,PT BENFICA TV2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6709.ts
-#EXTINF:-1,PT BENEFICA TV1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6710.ts
-#EXTINF:-1,PT BARCA TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6711.ts
-#EXTINF:-1,PT BABY TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6712.ts
-#EXTINF:-1,------------Holanda----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6531.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6481.ts
-#EXTINF:-1,NL: TVO
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6482.ts
-#EXTINF:-1,NL: SyFy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6483.ts
-#EXTINF:-1,NL: National Geographic HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6484.ts
-#EXTINF:-1,NL: HBO HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6485.ts
-#EXTINF:-1,NL: HBO 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6486.ts
-#EXTINF:-1,NL: HBO 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6487.ts
-#EXTINF:-1,NL: Film1 sundance
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6488.ts
-#EXTINF:-1,NL: Film1 Spotlight
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6489.ts
-#EXTINF:-1,NL: Film 1 Action HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6490.ts
-#EXTINF:-1,NL: Comedy Central
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6491.ts
-#EXTINF:-1,NL: 192 TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6492.ts
-#EXTINF:-1,NL Ziggo Sport Voetbal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6493.ts
-#EXTINF:-1,NL Ziggo Sport Select HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6494.ts
-#EXTINF:-1,NL Ziggo Sport Racing
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6495.ts
-#EXTINF:-1,NL Ziggo Sport Golf
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6496.ts
-#EXTINF:-1,NL Ziggo Sport eXtra 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6497.ts
-#EXTINF:-1,NL RTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6498.ts
-#EXTINF:-1,NL RTL 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6502.ts
-#EXTINF:-1,NL RTL 5 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6501.ts
-#EXTINF:-1,NL RTL 7 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6500.ts
-#EXTINF:-1,NL RTL 8 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6499.ts
-#EXTINF:-1,NL Oost
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6503.ts
-#EXTINF:-1,NL Omroep Gold
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6504.ts
-#EXTINF:-1,NL NPO Zapp HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6505.ts
-#EXTINF:-1,NL NPO 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6506.ts
-#EXTINF:-1,NL NPO 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6507.ts
-#EXTINF:-1,NL NPO 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6508.ts
-#EXTINF:-1,NL Net 5 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6509.ts
-#EXTINF:-1,NL N
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6510.ts
-#EXTINF:-1,NL MTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6511.ts
-#EXTINF:-1,NL Fryslan HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6512.ts
-#EXTINF:-1,NL Fox Sports 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6518.ts
-#EXTINF:-1,NL Fox Sports 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6517.ts
-#EXTINF:-1,NL Fox Sports 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6516.ts
-#EXTINF:-1,NL Fox Sports 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6515.ts
-#EXTINF:-1,NL Fox Sports 5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6514.ts
-#EXTINF:-1,NL Fox Sports 6
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6513.ts
-#EXTINF:-1,NL Film 1 Premiere HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6519.ts
-#EXTINF:-1,NL Film 1 Comedy HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6520.ts
-#EXTINF:-1,NL EXTREME SPORTS
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6521.ts
-#EXTINF:-1,NL EEN HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6522.ts
-#EXTINF:-1,NL DISCOVERY CHANNEL
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6523.ts
-#EXTINF:-1,NL Dinsey Channel HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6524.ts
-#EXTINF:-1,NL CRIME INVESTIGATION NETWORK
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6525.ts
-#EXTINF:-1,NL Canvas HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6526.ts
-#EXTINF:-1,NL BVN
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6527.ts
-#EXTINF:-1,NL 8 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6528.ts
-#EXTINF:-1,NL 6 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6529.ts
-#EXTINF:-1,NL 13Th Sreet
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6530.ts
-#EXTINF:-1,----------Spagna----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5580.ts
-#EXTINF:-1,ES: Viva Nicaragua Canal 13
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6532.ts
-#EXTINF:-1,ES: TYC Sports HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6533.ts
-#EXTINF:-1,ES: TVN Cihile HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6534.ts
-#EXTINF:-1,ES: TVN Chile HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6535.ts
-#EXTINF:-1,ES: TVN Chile
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6536.ts
-#EXTINF:-1,ES: TV Mas
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6537.ts
-#EXTINF:-1,ES: TV Galicia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6538.ts
-#EXTINF:-1,ES: TNT
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6539.ts
-#EXTINF:-1,ES: Telpin Canal 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6540.ts
-#EXTINF:-1,ES: TELEVISA HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6541.ts
-#EXTINF:-1,ES: Teleticino
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6542.ts
-#EXTINF:-1,ES: Telesur (Venezuela)
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6543.ts
-#EXTINF:-1,ES: Telemundo
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6544.ts
-#EXTINF:-1,ES: Teledeporte
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6545.ts
-#EXTINF:-1,ES: Telecinco
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6546.ts
-#EXTINF:-1,ES: TCM
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6547.ts
-#EXTINF:-1,ES: SyFy HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6551.ts
-#EXTINF:-1,ES: SyFy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6552.ts
-#EXTINF:-1,ES: Sevilla FC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6553.ts
-#EXTINF:-1,ES: RTV Canarias
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6554.ts
-#EXTINF:-1,ES: RTS
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6555.ts
-#EXTINF:-1,ES: RT Espanol
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6556.ts
-#EXTINF:-1,ES: Red Advenir
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6557.ts
-#EXTINF:-1,ES: Real MadridTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6558.ts
-#EXTINF:-1,ES: Real Madrid TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6559.ts
-#EXTINF:-1,ES: Proyecto 40 - Mexico
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6560.ts
-#EXTINF:-1,ES: Proyecto 40
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6561.ts
-#EXTINF:-1,ES: PDVSA TV (Venezuela)
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6562.ts
-#EXTINF:-1,ES: Ondaluz Sierra
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6563.ts
-#EXTINF:-1,ES: Onda Azul
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6564.ts
-#EXTINF:-1,ES: Odisea
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6565.ts
-#EXTINF:-1,ES: Nova
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6566.ts
-#EXTINF:-1,ES: Nickelodeon
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6567.ts
-#EXTINF:-1,ES: Nick Jr.
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6568.ts
-#EXTINF:-1,ES: Navarra Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6569.ts
-#EXTINF:-1,ES: National Geographic Wild
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6570.ts
-#EXTINF:-1,ES: National Geographic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6571.ts
-#EXTINF:-1,ES: Mundo Max
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6572.ts
-#EXTINF:-1,ES: MTV Rocks
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6573.ts
-#EXTINF:-1,ES: Movistar Moto GP
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6574.ts
-#EXTINF:-1,ES: Movistar F1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6575.ts
-#EXTINF:-1,ES: Mirame Tv
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6576.ts
-#EXTINF:-1,ES: Mexico Travel Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6577.ts
-#EXTINF:-1,ES: Mega HD (Spain)
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6578.ts
-#EXTINF:-1,ES: Mega HD (Chile)
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6579.ts
-#EXTINF:-1,ES: La Sexta HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6580.ts
-#EXTINF:-1,ES: La 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6581.ts
-#EXTINF:-1,ES: La 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6582.ts
-#EXTINF:-1,ES: La 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6583.ts
-#EXTINF:-1,ES: Honduras
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6584.ts
-#EXTINF:-1,ES: Hollywood HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6585.ts
-#EXTINF:-1,ES: History HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6586.ts
-#EXTINF:-1,ES: Historia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6587.ts
-#EXTINF:-1,ES: Fox Life
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6588.ts
-#EXTINF:-1,ES: Fox HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6589.ts
-#EXTINF:-1,ES: FOX
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6590.ts
-#EXTINF:-1,ES: Factoria de Ficcion
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6591.ts
-#EXTINF:-1,ES: Energy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6592.ts
-#EXTINF:-1,ES: El Trece ( Argentina)
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6593.ts
-#EXTINF:-1,ES: El Pinguino HD (Chile)
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6594.ts
-#EXTINF:-1,ES: DXTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6595.ts
-#EXTINF:-1,ES: Divinity
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6596.ts
-#EXTINF:-1,ES: Distrito Comedia (Mexico)
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6597.ts
-#EXTINF:-1,ES: Disney XD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6598.ts
-#EXTINF:-1,ES: Disney Junior
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6599.ts
-#EXTINF:-1,ES: Disney Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6600.ts
-#EXTINF:-1,ES: Discovery Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6601.ts
-#EXTINF:-1,ES: Dcine Espanol
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6602.ts
-#EXTINF:-1,ES: CUATRO
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6603.ts
-#EXTINF:-1,ES: Cosmo
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6604.ts
-#EXTINF:-1,ES: Condavision
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6605.ts
-#EXTINF:-1,ES: Comedy Central
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6606.ts
-#EXTINF:-1,ES: Cinemax HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6607.ts
-#EXTINF:-1,ES: Caza y Pesca
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6608.ts
-#EXTINF:-1,ES: Cartoon Network
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6609.ts
-#EXTINF:-1,ES: Canal U (Colombia)
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6610.ts
-#EXTINF:-1,ES: Canal Once
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6611.ts
-#EXTINF:-1,ES: Canal Deporte Olampico HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6612.ts
-#EXTINF:-1,ES: Canal De Las Estrellas
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6613.ts
-#EXTINF:-1,ES: Canal Costa
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6614.ts
-#EXTINF:-1,ES: Canal Cocina
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6615.ts
-#EXTINF:-1,ES: Canal Baby
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6616.ts
-#EXTINF:-1,ES: Canal 24 Horas
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6617.ts
-#EXTINF:-1,ES: Canal  Xtra
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6618.ts
-#EXTINF:-1,ES: Canal  Toros HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6619.ts
-#EXTINF:-1,ES: Canal  Liga HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6620.ts
-#EXTINF:-1,ES: Canal  Golf
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6621.ts
-#EXTINF:-1,ES: Canal  Futbal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6622.ts
-#EXTINF:-1,ES: Canal  Estrenos
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6623.ts
-#EXTINF:-1,ES: Canal  Deportes 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6624.ts
-#EXTINF:-1,ES: Canal  Deportes
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6625.ts
-#EXTINF:-1,ES: Canal  Comedia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6626.ts
-#EXTINF:-1,ES: Canal  Ceries HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6627.ts
-#EXTINF:-1,ES: Canal  Accion
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6628.ts
-#EXTINF:-1,ES: Calle 13
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6629.ts
-#EXTINF:-1,ES: Boing
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6630.ts
-#EXTINF:-1,ES: Blica Dominicana
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6631.ts
-#EXTINF:-1,ES: BeIN Sports
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6632.ts
-#EXTINF:-1,ES: Barca TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6633.ts
-#EXTINF:-1,ES: Azteca Noticias (Mexico)
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6634.ts
-#EXTINF:-1,ES: Azteca 7 (Mexico)
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6635.ts
-#EXTINF:-1,ES: AXN White
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6636.ts
-#EXTINF:-1,ES: AXN HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6637.ts
-#EXTINF:-1,ES: AXN
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6638.ts
-#EXTINF:-1,ES: Antena 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6639.ts
-#EXTINF:-1,ES: Anime TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6640.ts
-#EXTINF:-1,ES: A3S HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6641.ts
-#EXTINF:-1,ES: A E
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6642.ts
-#EXTINF:-1,ES: 8TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6643.ts
-#EXTINF:-1,ES: #0
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6644.ts
-#EXTINF:-1,ES Teledeporte
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6645.ts
-#EXTINF:-1,ES: Taquilla 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6550.ts
-#EXTINF:-1,ES: Taquilla 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6549.ts
-#EXTINF:-1,ES: Taquilla 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6548.ts
-#EXTINF:-1,ES Taquilla 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6651.ts
-#EXTINF:-1,ES Taquilla 5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6650.ts
-#EXTINF:-1,ES Taquilla 6
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6649.ts
-#EXTINF:-1,ES Taquilla 7
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6648.ts
-#EXTINF:-1,ES Taquilla 8
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6647.ts
-#EXTINF:-1,ES Taquilla 9
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6646.ts
-#EXTINF:-1,ES Taquilla 10
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6652.ts
-#EXTINF:-1,ES NATIONAL GEOGRAPHIC CHANNEL
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6653.ts
-#EXTINF:-1,ES NAT GEO WILDE
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6654.ts
-#EXTINF:-1,ES NAT GEO WILD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6655.ts
-#EXTINF:-1,ES Canal SERIES
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6656.ts
-#EXTINF:-1,ES Canal  Series Xtra
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6657.ts
-#EXTINF:-1,ES Canal  DCine
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6658.ts
-#EXTINF:-1,ES Canal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6659.ts
-#EXTINF:-1,---------- Albania ----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6480.ts
-#EXTINF:-1,AL: Zjarr TV HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6339.ts
-#EXTINF:-1,AL: Vizion Plus
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6340.ts
-#EXTINF:-1,AL: Vali
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6341.ts
-#EXTINF:-1,AL: TVSH
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6342.ts
-#EXTINF:-1,AL: TV Skampa
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6343.ts
-#EXTINF:-1,AL: TV Rozafa
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6344.ts
-#EXTINF:-1,AL: TV Prizerni
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6345.ts
-#EXTINF:-1,AL: TV Opoja
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6346.ts
-#EXTINF:-1,AL: TV O
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6347.ts
-#EXTINF:-1,AL: TV Koha
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6348.ts
-#EXTINF:-1,AL: TV 2 Gostivar
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6349.ts
-#EXTINF:-1,AL: Turbo Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6350.ts
-#EXTINF:-1,AL: Tring World
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6351.ts
-#EXTINF:-1,AL: Tring Tring
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6352.ts
-#EXTINF:-1,AL: Tring Super
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6353.ts
-#EXTINF:-1,AL: Tring Sport News HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6354.ts
-#EXTINF:-1,AL: Tring Sport 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6358.ts
-#EXTINF:-1,AL: Tring Sport 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6357.ts
-#EXTINF:-1,AL: Tring Sport 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6356.ts
-#EXTINF:-1,AL: Tring Sport 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6355.ts
-#EXTINF:-1,AL: Tring Shqip
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6359.ts
-#EXTINF:-1,AL: Tring Planet
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6360.ts
-#EXTINF:-1,AL: Tring Max
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6361.ts
-#EXTINF:-1,AL: Tring Life
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6362.ts
-#EXTINF:-1,AL: Tring History
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6363.ts
-#EXTINF:-1,AL: Tring Fantasy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6364.ts
-#EXTINF:-1,AL: Tring Comedy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6365.ts
-#EXTINF:-1,AL: Tring 7 News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6366.ts
-#EXTINF:-1,AL: Tring 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6367.ts
-#EXTINF:-1,AL: Tribuna Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6368.ts
-#EXTINF:-1,AL: Top News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6369.ts
-#EXTINF:-1,AL: Top Channel HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6370.ts
-#EXTINF:-1,AL: Top Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6371.ts
-#EXTINF:-1,AL: Tirana TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6372.ts
-#EXTINF:-1,AL: Tip TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6373.ts
-#EXTINF:-1,AL: Teuta TV - Ulqin
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6374.ts
-#EXTINF:-1,AL: Tema TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6375.ts
-#EXTINF:-1,AL: Tele Sport
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6376.ts
-#EXTINF:-1,AL: T HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6377.ts
-#EXTINF:-1,AL: Syri Vision
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6378.ts
-#EXTINF:-1,AL: Supersonic TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6379.ts
-#EXTINF:-1,AL: Super Sport News HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6380.ts
-#EXTINF:-1,AL: Super Sport Kosova HD 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6382.ts
-#EXTINF:-1,AL: Super Sport Kosova HD 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6381.ts
-#EXTINF:-1,AL: Super Sport 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6386.ts
-#EXTINF:-1,AL: Super Sport 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6385.ts
-#EXTINF:-1,AL: Super Sport 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6384.ts
-#EXTINF:-1,AL: Super Sport 5 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6383.ts
-#EXTINF:-1,AL: Stinet
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6387.ts
-#EXTINF:-1,AL: Star Plus Shkoder
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6388.ts
-#EXTINF:-1,AL: Sofia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6389.ts
-#EXTINF:-1,AL: Smile HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6390.ts
-#EXTINF:-1,AL: Sky Shkence
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6391.ts
-#EXTINF:-1,AL: Sky Planet
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6392.ts
-#EXTINF:-1,AL: Sky Novela
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6393.ts
-#EXTINF:-1,AL: Sky Max
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6394.ts
-#EXTINF:-1,AL: Sky Komedi
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6395.ts
-#EXTINF:-1,AL: Sky Histori
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6396.ts
-#EXTINF:-1,AL: Sky Drame
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6397.ts
-#EXTINF:-1,AL: Sky Aksion
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6398.ts
-#EXTINF:-1,AL: Shenja TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6399.ts
-#EXTINF:-1,AL: RTV 21 plus HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6400.ts
-#EXTINF:-1,AL: RTV 21 Mix HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6401.ts
-#EXTINF:-1,AL: RTV 21 Macedonia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6402.ts
-#EXTINF:-1,AL: RTV 21 Junior
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6403.ts
-#EXTINF:-1,AL: RTV 21 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6404.ts
-#EXTINF:-1,AL: RTK 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6405.ts
-#EXTINF:-1,AL: RTK 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6406.ts
-#EXTINF:-1,AL: RTK 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6407.ts
-#EXTINF:-1,AL: RTK 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6408.ts
-#EXTINF:-1,AL: RRokum TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6409.ts
-#EXTINF:-1,AL: Report TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6410.ts
-#EXTINF:-1,AL: R
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6411.ts
-#EXTINF:-1,AL: Plus TV - Vitia
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6412.ts
-#EXTINF:-1,AL: Plus HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6413.ts
-#EXTINF:-1,AL: Ora News HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6414.ts
-#EXTINF:-1,AL: On TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6415.ts
-#EXTINF:-1,AL: News 24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6416.ts
-#EXTINF:-1,AL: My Music
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6417.ts
-#EXTINF:-1,AL: Muse
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6418.ts
-#EXTINF:-1,AL: MRTV 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6419.ts
-#EXTINF:-1,AL: Movies Plus HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6420.ts
-#EXTINF:-1,AL: Living HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6421.ts
-#EXTINF:-1,AL: Kutia TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6422.ts
-#EXTINF:-1,AL: KTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6423.ts
-#EXTINF:-1,AL: Klan Kosova
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6424.ts
-#EXTINF:-1,AL: Klan HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6425.ts
-#EXTINF:-1,AL: Kino Sci-Fi HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6426.ts
-#EXTINF:-1,AL: Kino Premiere 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6427.ts
-#EXTINF:-1,AL: Kino Premiere 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6428.ts
-#EXTINF:-1,AL: Kino Premiere 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6429.ts
-#EXTINF:-1,AL: K Sport 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6431.ts
-#EXTINF:-1,AL: K Sport 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6430.ts
-#EXTINF:-1,AL: Junior TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6432.ts
-#EXTINF:-1,AL: Jug TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6433.ts
-#EXTINF:-1,AL: Jolly HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6434.ts
-#EXTINF:-1,AL: Jolly
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6435.ts
-#EXTINF:-1,AL: IN TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6436.ts
-#EXTINF:-1,AL: Fox TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6437.ts
-#EXTINF:-1,AL: Fox Life
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6438.ts
-#EXTINF:-1,AL: Fox Crime
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6439.ts
-#EXTINF:-1,AL: Folklorit
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6440.ts
-#EXTINF:-1,AL: Folk Plus
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6441.ts
-#EXTINF:-1,AL: First Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6442.ts
-#EXTINF:-1,AL: Film Thriller
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6443.ts
-#EXTINF:-1,AL: Film Nje HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6444.ts
-#EXTINF:-1,AL: Film Komedi
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6445.ts
-#EXTINF:-1,AL: Film Hits
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6446.ts
-#EXTINF:-1,AL: Film Gold 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6447.ts
-#EXTINF:-1,AL: Film Gold 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6448.ts
-#EXTINF:-1,AL: Film Gold 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6449.ts
-#EXTINF:-1,AL: Film Gold 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6450.ts
-#EXTINF:-1,AL: Film Dy HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6451.ts
-#EXTINF:-1,AL: Film Drame
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6452.ts
-#EXTINF:-1,AL: Film Autor
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6453.ts
-#EXTINF:-1,AL: Film Aksion
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6454.ts
-#EXTINF:-1,AL: Explorer Shkence
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6455.ts
-#EXTINF:-1,AL: Explorer Natyra
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6456.ts
-#EXTINF:-1,AL: Explorer Histori
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6457.ts
-#EXTINF:-1,AL: Era TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6458.ts
-#EXTINF:-1,AL: Entertainment
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6459.ts
-#EXTINF:-1,AL: Disney Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6460.ts
-#EXTINF:-1,AL: Digi Gold
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6461.ts
-#EXTINF:-1,AL: Dasma TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6462.ts
-#EXTINF:-1,AL: Cufo
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6463.ts
-#EXTINF:-1,AL: Club TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6464.ts
-#EXTINF:-1,AL: Click HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6465.ts
-#EXTINF:-1,AL: Besa
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6466.ts
-#EXTINF:-1,AL: BBF Music
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6467.ts
-#EXTINF:-1,AL: Bang Bang
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6468.ts
-#EXTINF:-1,AL: Baby TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6469.ts
-#EXTINF:-1,AL: Arta HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6470.ts
-#EXTINF:-1,AL: Apollon TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6471.ts
-#EXTINF:-1,AL: Amol
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6472.ts
-#EXTINF:-1,AL: Alsat M HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6473.ts
-#EXTINF:-1,AL: ALB UK TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6474.ts
-#EXTINF:-1,AL: Alb UK Movie
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6475.ts
-#EXTINF:-1,AL: Alb Music
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6476.ts
-#EXTINF:-1,AL: ABC News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6477.ts
-#EXTINF:-1,AL: A1 Shqiptare
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6478.ts
-#EXTINF:-1,AL: 21 HD Popullore
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6479.ts
-#EXTINF:-1,---------- Russia ----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6821.ts
-#EXTINF:-1,RU: Viasat sport
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6822.ts
-#EXTINF:-1,RU: Viasat history
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6823.ts
-#EXTINF:-1,RU: U-TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6824.ts
-#EXTINF:-1,RU: TV3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6825.ts
-#EXTINF:-1,RU: TV1000 Russkoe kino
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6826.ts
-#EXTINF:-1,RU: TV1000
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6827.ts
-#EXTINF:-1,RU: TNT
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6828.ts
-#EXTINF:-1,RU: STS
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6829.ts
-#EXTINF:-1,RU: Russian Box
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6830.ts
-#EXTINF:-1,RU: Rossiya24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6831.ts
-#EXTINF:-1,RU: RBC TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6832.ts
-#EXTINF:-1,RU: Premiera NTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6833.ts
-#EXTINF:-1,RU: Planeta RTR
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6834.ts
-#EXTINF:-1,RU: Perviy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6835.ts
-#EXTINF:-1,RU: Ohota i rybalka
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6836.ts
-#EXTINF:-1,RU: NTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6837.ts
-#EXTINF:-1,RU: NTN
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6838.ts
-#EXTINF:-1,RU: Nauka 2.0
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6839.ts
-#EXTINF:-1,RU: Nashe kino
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6840.ts
-#EXTINF:-1,RU: Nash football
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6841.ts
-#EXTINF:-1,RU: Nano
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6842.ts
-#EXTINF:-1,RU: Mult
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6843.ts
-#EXTINF:-1,RU: Moya planeta
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6844.ts
-#EXTINF:-1,RU: Match planeta
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6845.ts
-#EXTINF:-1,RU: Match igra
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6846.ts
-#EXTINF:-1,RU: Match football 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6847.ts
-#EXTINF:-1,RU: Match football 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6848.ts
-#EXTINF:-1,RU: Match football 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6849.ts
-#EXTINF:-1,RU: Match boets
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6850.ts
-#EXTINF:-1,RU: Match arena
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6851.ts
-#EXTINF:-1,RU: MAT4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6852.ts
-#EXTINF:-1,RU: Life TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6853.ts
-#EXTINF:-1,RU: Komediya TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6854.ts
-#EXTINF:-1,RU: KHL
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6855.ts
-#EXTINF:-1,RU: Karusel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6856.ts
-#EXTINF:-1,RU: JimJam
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6857.ts
-#EXTINF:-1,RU: Indiya
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6858.ts
-#EXTINF:-1,RU: Eurosport 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6859.ts
-#EXTINF:-1,RU: Eurosport 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6860.ts
-#EXTINF:-1,RU: Efir24 TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6861.ts
-#EXTINF:-1,RU: Dom kino
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6862.ts
-#EXTINF:-1,RU: Disney
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6863.ts
-#EXTINF:-1,RU: Discovery Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6864.ts
-#EXTINF:-1,RU: Detskiy mir
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6865.ts
-#EXTINF:-1,RU: Detskiy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6866.ts
-#EXTINF:-1,RU: Che
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6867.ts
-#EXTINF:-1,RU: CBC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6868.ts
-#EXTINF:-1,RU: Ani
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6869.ts
-#EXTINF:-1,RU: 5 kanal
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6870.ts
-#EXTINF:-1,----------Sky UK----------
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4820.ts
-#EXTINF:-1,UK: Vintage TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6871.ts
-#EXTINF:-1,UK: VH1 Classic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6872.ts
-#EXTINF:-1,UK: UTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6873.ts
-#EXTINF:-1,UK: True Movies 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6874.ts
-#EXTINF:-1,UK: True Movies
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6875.ts
-#EXTINF:-1,UK: True Entertainment
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6876.ts
-#EXTINF:-1,UK: True Drama
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6877.ts
-#EXTINF:-1,UK: Travel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6878.ts
-#EXTINF:-1,UK: Tiny Pop
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6879.ts
-#EXTINF:-1,UK: The Vault
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6880.ts
-#EXTINF:-1,UK: Starz
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6881.ts
-#EXTINF:-1,UK: Sony TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6882.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6883.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6884.ts
-#EXTINF:-1,UK: Sky News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6885.ts
-#EXTINF:-1,UK: Sky Movies Greats
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6886.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6887.ts
-#EXTINF:-1,UK: Sky Movies Crime   Thriller
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6888.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6889.ts
-#EXTINF:-1,UK: Sky Arts
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6890.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6891.ts
-#EXTINF:-1,UK: Scuzz
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6892.ts
-#EXTINF:-1,UK: RTE 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6893.ts
-#EXTINF:-1,UK: Racing UK
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6894.ts
-#EXTINF:-1,UK: Press TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6895.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6896.ts
-#EXTINF:-1,UK: Premier Sports
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6897.ts
-#EXTINF:-1,UK: Pop
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6898.ts
-#EXTINF:-1,UK: Pick
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6899.ts
-#EXTINF:-1,UK: MTV Rocks
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6900.ts
-#EXTINF:-1,UK: MTV Music
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6901.ts
-#EXTINF:-1,UK: MTV Hits
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6902.ts
-#EXTINF:-1,UK: MTV Dance
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6903.ts
-#EXTINF:-1,UK: MTV Classic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6904.ts
-#EXTINF:-1,UK: MTV Base
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6905.ts
-#EXTINF:-1,UK: MTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6906.ts
-#EXTINF:-1,UK: Movies4men
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6907.ts
-#EXTINF:-1,UK: Motors TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6908.ts
-#EXTINF:-1,UK: More 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6909.ts
-#EXTINF:-1,UK: Kix
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6910.ts
-#EXTINF:-1,UK: ITV Encore
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6911.ts
-#EXTINF:-1,UK: ITV Be
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6912.ts
-#EXTINF:-1,UK: ITV  1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6913.ts
-#EXTINF:-1,UK: Horror Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6914.ts
-#EXTINF:-1,UK: Home  1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6915.ts
-#EXTINF:-1,UK: Home
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6916.ts
-#EXTINF:-1,UK: Good Food  1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6917.ts
-#EXTINF:-1,UK: Gold
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6918.ts
-#EXTINF:-1,UK: France 24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6919.ts
-#EXTINF:-1,UK: Food Network
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6920.ts
-#EXTINF:-1,UK: Flava
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6921.ts
-#EXTINF:-1,UK: Film 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6922.ts
-#EXTINF:-1,UK: Eurosport 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6923.ts
-#EXTINF:-1,UK: Eurosport 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6924.ts
-#EXTINF:-1,UK: E4  1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6925.ts
-#EXTINF:-1,UK: E4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6926.ts
-#EXTINF:-1,UK: Drama
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6927.ts
-#EXTINF:-1,UK: Discovery Science
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6928.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6929.ts
-#EXTINF:-1,UK: CNN
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6930.ts
-#EXTINF:-1,UK: Clubland TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6931.ts
-#EXTINF:-1,UK: CITV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6932.ts
-#EXTINF:-1,UK: Chart Show TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6933.ts
-#EXTINF:-1,UK: Channels 24
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6934.ts
-#EXTINF:-1,UK: Channel Aka
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6935.ts
-#EXTINF:-1,UK: Channel 5
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6936.ts
-#EXTINF:-1,UK: Channel 4  1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6937.ts
-#EXTINF:-1,UK: Channel 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6938.ts
-#EXTINF:-1,UK: Challenge
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6939.ts
-#EXTINF:-1,UK: CBS Reality
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6940.ts
-#EXTINF:-1,UK: CBS Drama
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6941.ts
-#EXTINF:-1,UK: CBS Action
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6942.ts
-#EXTINF:-1,UK: Cartoonito
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6943.ts
-#EXTINF:-1,UK: BT Sport Mosaic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6944.ts
-#EXTINF:-1,UK: BT Sport Extra
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6945.ts
-#EXTINF:-1,UK: BBC News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6946.ts
-#EXTINF:-1,UK: BBC 4/Cbeebies HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6947.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6948.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6949.ts
-#EXTINF:-1,UK: B4U Music
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6950.ts
-#EXTINF:-1,UK: Animal Planet
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6951.ts
-#EXTINF:-1,UK: AMC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6952.ts
-#EXTINF:-1,UK: Al Jazeera English
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6953.ts
-#EXTINF:-1,UK: ABN TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6954.ts
-#EXTINF:-1,UK: 5 USA
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6955.ts
-#EXTINF:-1,UK: 4 Seven
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6956.ts
-#EXTINF:-1,UK Yesterday
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6957.ts
-#EXTINF:-1,UK Watch
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6958.ts
-#EXTINF:-1,UK VH1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6959.ts
-#EXTINF:-1,UK TruTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6960.ts
-#EXTINF:-1,UK Travel Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6961.ts
-#EXTINF:-1,UK TLC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6962.ts
-#EXTINF:-1,UK TG4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6963.ts
-#EXTINF:-1,UK TCM
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6964.ts
-#EXTINF:-1,UK SyFy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6965.ts
-#EXTINF:-1,UK Sony Movie
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6966.ts
-#EXTINF:-1,UK Sky Sports News HQ
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6967.ts
-#EXTINF:-1,UK Sky Sports F1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6968.ts
-#EXTINF:-1,UK Sky Sports 5 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6969.ts
-#EXTINF:-1,UK Sky Sports 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6970.ts
-#EXTINF:-1,UK Sky Sports 4
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6971.ts
-#EXTINF:-1,UK Sky Sports 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6972.ts
-#EXTINF:-1,UK Sky Sports 3
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6973.ts
-#EXTINF:-1,UK Sky Sports 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6974.ts
-#EXTINF:-1,UK Sky Sports 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6975.ts
-#EXTINF:-1,UK Sky Sports 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6976.ts
-#EXTINF:-1,UK Sky Sports 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6977.ts
-#EXTINF:-1,UK Sky Movies Showcase
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6978.ts
-#EXTINF:-1,UK Sky Movies Select
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6979.ts
-#EXTINF:-1,UK Sky Movies ScFi/Horror
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6980.ts
-#EXTINF:-1,UK Sky Movies Premiere
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6981.ts
-#EXTINF:-1,UK Sky Movies Drama Romance
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6982.ts
-#EXTINF:-1,UK Sky Movies Disney
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6983.ts
-#EXTINF:-1,UK Sky Movies Comedy
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6984.ts
-#EXTINF:-1,UK Sky Movies Action Adventure
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6985.ts
-#EXTINF:-1,UK Sky Living
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6986.ts
-#EXTINF:-1,UK Sky 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6987.ts
-#EXTINF:-1,UK Sky 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6988.ts
-#EXTINF:-1,UK RTE News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6989.ts
-#EXTINF:-1,UK RTE 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6990.ts
-#EXTINF:-1,UK RT HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6991.ts
-#EXTINF:-1,UK Real Lives
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6992.ts
-#EXTINF:-1,UK Quest
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6993.ts
-#EXTINF:-1,UK OH TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6994.ts
-#EXTINF:-1,UK Nickelodeon
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6995.ts
-#EXTINF:-1,UK Nick Jr Too
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6996.ts
-#EXTINF:-1,UK Nick Jr
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6997.ts
-#EXTINF:-1,UK National Geographic
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6998.ts
-#EXTINF:-1,UK Nat Geo Wild
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/6999.ts
-#EXTINF:-1,UK MUTV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7000.ts
-#EXTINF:-1,UK MTV Live HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7001.ts
-#EXTINF:-1,UK London Live
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7002.ts
-#EXTINF:-1,UK LFC
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7003.ts
-#EXTINF:-1,UK ITV 4 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7004.ts
-#EXTINF:-1,UK ITV 3 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7005.ts
-#EXTINF:-1,UK ITV 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7006.ts
-#EXTINF:-1,UK ITV 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7007.ts
-#EXTINF:-1,UK Irish TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7008.ts
-#EXTINF:-1,UK ID
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7009.ts
-#EXTINF:-1,UK Horse   Country
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7010.ts
-#EXTINF:-1,UK Home   Health
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7011.ts
-#EXTINF:-1,UK History 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7012.ts
-#EXTINF:-1,UK History
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7013.ts
-#EXTINF:-1,UK Heart TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7014.ts
-#EXTINF:-1,UK Fox
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7015.ts
-#EXTINF:-1,UK Euronews
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7016.ts
-#EXTINF:-1,UK English Club TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7017.ts
-#EXTINF:-1,UK E!
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7018.ts
-#EXTINF:-1,UK DW
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7019.ts
-#EXTINF:-1,UK Dmax
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7020.ts
-#EXTINF:-1,UK Disney XD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7021.ts
-#EXTINF:-1,UK Disney Junior
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7022.ts
-#EXTINF:-1,UK Disney Channel
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7023.ts
-#EXTINF:-1,UK Discovery Turbo
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7024.ts
-#EXTINF:-1,UK Discovery History
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7025.ts
-#EXTINF:-1,UK Discovery
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7026.ts
-#EXTINF:-1,UK Dave
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7027.ts
-#EXTINF:-1,UK Crime   Investigation
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7028.ts
-#EXTINF:-1,UK Comedy Central
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7029.ts
-#EXTINF:-1,UK Chelsea TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7030.ts
-#EXTINF:-1,UK Cartoon Network
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7031.ts
-#EXTINF:-1,UK Capital TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7032.ts
-#EXTINF:-1,UK BT Sport Europe HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7033.ts
-#EXTINF:-1,UK BT Sport ESPN
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7034.ts
-#EXTINF:-1,UK BT Sport 2 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7035.ts
-#EXTINF:-1,UK BT Sport 2
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7036.ts
-#EXTINF:-1,UK BT Sport 1 HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7037.ts
-#EXTINF:-1,UK BT Sport 1
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7038.ts
-#EXTINF:-1,UK Box Nation
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7039.ts
-#EXTINF:-1,UK Boomerang
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7040.ts
-#EXTINF:-1,UK BBC World News
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7041.ts
-#EXTINF:-1,UK BBC 3/CBBC HD
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7042.ts
-#EXTINF:-1,UK Baby TV
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7043.ts
-#EXTINF:-1,UK At The Races
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7044.ts
-#EXTINF:-1,UK Alibi
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7045.ts
-#EXTINF:-1,UK 5 Star
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7046.ts
-#EXTINF:-1,UK 3e
-http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/7047.ts
+#EXTINF:-1,BEIN_SPORTS_1_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4614.ts
+#EXTINF:-1,BEIN_SPORTS_2_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4615.ts
+#EXTINF:-1,BEIN_SPORTS_3_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4616.ts
+#EXTINF:-1,BEIN_SPORTS_4_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4617.ts
+#EXTINF:-1,BEIN_SPORTS_5_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4618.ts
+#EXTINF:-1,BEIN_SPORTS_6_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4619.ts
+#EXTINF:-1,BEIN_SPORTS_7_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4620.ts
+#EXTINF:-1,BEIN_SPORTS_8_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4621.ts
+#EXTINF:-1,BEIN_SPORTS_9_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4622.ts
+#EXTINF:-1,BEIN_SPORTS_10_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4623.ts
+#EXTINF:-1,BEIN_SPORTS_11_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4624.ts
+#EXTINF:-1,BEIN_SPORTS_12_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4625.ts
+#EXTINF:-1,BEIN_SPORTS_13_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4626.ts
+#EXTINF:-1,BEIN_SPORTS_14_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4627.ts
+#EXTINF:-1,BEIN_SPORTS_15_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4628.ts
+#EXTINF:-1,BEIN_SPORTS_Max1_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4656.ts
+#EXTINF:-1,BEIN_SPORTS_Max2_SD
+http://xiptv.xcamhd.me:2112/live/home/home1/4657.ts
+#EXTINF:-1,BEIN_SPORTS_1_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2754.ts
+#EXTINF:-1,BEIN_SPORTS_2_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2755.ts
+#EXTINF:-1,BEIN_SPORTS_3_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2756.ts
+#EXTINF:-1,BEIN_SPORTS_4_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2757.ts
+#EXTINF:-1,BEIN_SPORTS_5_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2758.ts
+#EXTINF:-1,BEIN_SPORTS_6_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2759.ts
+#EXTINF:-1,BEIN_SPORTS_7_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2760.ts
+#EXTINF:-1,BEIN_SPORTS_8_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2761.ts
+#EXTINF:-1,BEIN_SPORTS_9_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2762.ts
+#EXTINF:-1,BEIN_SPORTS_10_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2763.ts
+#EXTINF:-1,BEIN_SPORTS_11_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2819.ts
+#EXTINF:-1,BEIN_SPORTS_12_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2818.ts
+#EXTINF:-1,BEIN_SPORTS_13_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2817.ts
+#EXTINF:-1,BEIN_SPORTS_14_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2816.ts
+#EXTINF:-1,BEIN_SPORTS_15_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/2815.ts
+#EXTINF:-1,BEIN_SPORTS_MAX_1_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4646.ts
+#EXTINF:-1,BEIN_SPORTS_MAX_2_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4647.ts
+#EXTINF:-1,BEIN_MOVIES_1HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4589.ts
+#EXTINF:-1,BEIN_MOVIES_2HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4590.ts
+#EXTINF:-1,BEIN_MOVIES_3HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4644.ts
+#EXTINF:-1,BEIN_MOVIES_4HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4645.ts
+#EXTINF:-1,SPORT_TIME_1
+http://xiptv.xcamhd.me:2112/live/home/home1/151.ts
+#EXTINF:-1,SPORT_TIME_2
+http://xiptv.xcamhd.me:2112/live/home/home1/152.ts
+#EXTINF:-1,OSN-ALYoum-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3038.ts
+#EXTINF:-1,OSN-Fann-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3053.ts
+#EXTINF:-1,OSN-YaHala-Cinema-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4631.ts
+#EXTINF:-1,OSN-Sports-4-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4643.ts
+#EXTINF:-1,OSN-Sports-3-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4642.ts
+#EXTINF:-1,OSN-Sports-2-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4641.ts
+#EXTINF:-1,OSN-Sports-1-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4640.ts
+#EXTINF:-1,OSN-Primafilla_WWE_10-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4639.ts
+#EXTINF:-1,OSN-Nat-Geo-Peopel-HD-1
+http://xiptv.xcamhd.me:2112/live/home/home1/4630.ts
+#EXTINF:-1,OSN-Nat-Geo-Peopel-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4629.ts
+#EXTINF:-1,OSN-Movies-AMC-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4635.ts
+#EXTINF:-1,OSN-Movies-2-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4633.ts
+#EXTINF:-1,OSN-First-HBO-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4637.ts
+#EXTINF:-1,OSN-Disney-Junior-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4638.ts
+#EXTINF:-1,OSN-Demand-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4634.ts
+#EXTINF:-1,OSN-Demand-Extra-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4636.ts
+#EXTINF:-1,OSN-ALSafwa-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4632.ts
+#EXTINF:-1,OSN-Cinema-1-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3039.ts
+#EXTINF:-1,OSN-Cinema-2-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3040.ts
+#EXTINF:-1,OSN_BOX-OFFICE-3-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3058.ts
+#EXTINF:-1,OSN_BOX-OFFICE-2-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3057.ts
+#EXTINF:-1,OSN_BOX-OFFICE-1-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3208.ts
+#EXTINF:-1,OSN-YaHala-Shabab-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3042.ts
+#EXTINF:-1,OSN-YaHala-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3041.ts
+#EXTINF:-1,OSN-YaHala-Drama-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3043.ts
+#EXTINF:-1,OSN-Star-World-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3044.ts
+#EXTINF:-1,OSN-Star-Movies-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3045.ts
+#EXTINF:-1,OSN-ON-Drama-1-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3050.ts
+#EXTINF:-1,OSN-Nat-Geo-Wild-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3032.ts
+#EXTINF:-1,OSN-Movies-Premiere_2-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3137.ts
+#EXTINF:-1,OSN-Movies-Premiere-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3049.ts
+#EXTINF:-1,OSN-Movies-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3046.ts
+#EXTINF:-1,OSN-Movies-Festlval-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3035.ts
+#EXTINF:-1,OSN-Movies-Drama-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3036.ts
+#EXTINF:-1,OSN-Movies-Comedy-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3052.ts
+#EXTINF:-1,OSN-Movies-Action-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3047.ts
+#EXTINF:-1,OSN-Movies-Action-2-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3048.ts
+#EXTINF:-1,OSN-Movie-Kids-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3055.ts
+#EXTINF:-1,OSN-MBC+Drama-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3033.ts
+#EXTINF:-1,OSN-First-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3054.ts
+#EXTINF:-1,OSN-First-Comedy-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3051.ts
+#EXTINF:-1,OSN-Discovery-Science-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3138.ts
+#EXTINF:-1,OSN-Discovery-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3034.ts
+#EXTINF:-1,OSN-ART-Hekayat-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3029.ts
+#EXTINF:-1,OSN-ART-Hekayat-2-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3030.ts
+#EXTINF:-1,OSN-ART-Cinema-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3031.ts
+#EXTINF:-1,OSN-ART-Aflam-2-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3028.ts
+#EXTINF:-1,OSN-ART-Aflam-1-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3027.ts
+#EXTINF:-1,OSN-Animal-Planet-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3037.ts
+#EXTINF:-1,OSN-Animal-Planet-AB-HD
+http://xiptv.xcamhd.me:2112/live/home/home1/3136.ts
+#EXTINF:-1,AR_ZITOUNA-HEDAYA
+http://xiptv.xcamhd.me:2112/live/home/home1/4576.ts
+#EXTINF:-1,AR_Zee-Alwan
+http://xiptv.xcamhd.me:2112/live/home/home1/4410.ts
+#EXTINF:-1,AR_zee-aflam
+http://xiptv.xcamhd.me:2112/live/home/home1/4411.ts
+#EXTINF:-1,AR_ZAYTOONA
+http://xiptv.xcamhd.me:2112/live/home/home1/4577.ts
+#EXTINF:-1,AR_YASMINE-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4575.ts
+#EXTINF:-1,AR_west-el-balad
+http://xiptv.xcamhd.me:2112/live/home/home1/4396.ts
+#EXTINF:-1,AR_WANASAH
+http://xiptv.xcamhd.me:2112/live/home/home1/4574.ts
+#EXTINF:-1,AR_UNRWA
+http://xiptv.xcamhd.me:2112/live/home/home1/4573.ts
+#EXTINF:-1,AR_TV-TAMAZIGHT
+http://xiptv.xcamhd.me:2112/live/home/home1/4567.ts
+#EXTINF:-1,AR_TUNISNA
+http://xiptv.xcamhd.me:2112/live/home/home1/4568.ts
+#EXTINF:-1,AR_Tunisie-Televsion-1
+http://xiptv.xcamhd.me:2112/live/home/home1/4569.ts
+#EXTINF:-1,AR_Tunisia-TVShop
+http://xiptv.xcamhd.me:2112/live/home/home1/4570.ts
+#EXTINF:-1,AR_Tunisia-Nat-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4571.ts
+#EXTINF:-1,AR_Tunisia-Nat-1
+http://xiptv.xcamhd.me:2112/live/home/home1/4572.ts
+#EXTINF:-1,AR_TOYOR-AL-JANAH
+http://xiptv.xcamhd.me:2112/live/home/home1/4405.ts
+#EXTINF:-1,AR_Top-News-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4565.ts
+#EXTINF:-1,AR_TOP-cinema
+http://xiptv.xcamhd.me:2112/live/home/home1/4401.ts
+#EXTINF:-1,AR_TokTok-Cima
+http://xiptv.xcamhd.me:2112/live/home/home1/4394.ts
+#EXTINF:-1,AR_TNN-Tunisia
+http://xiptv.xcamhd.me:2112/live/home/home1/4566.ts
+#EXTINF:-1,AR_TIME-TURKI
+http://xiptv.xcamhd.me:2112/live/home/home1/4370.ts
+#EXTINF:-1,AR_TIME-TAXI
+http://xiptv.xcamhd.me:2112/live/home/home1/4371.ts
+#EXTINF:-1,AR_TIME-SHA3BEYAT
+http://xiptv.xcamhd.me:2112/live/home/home1/4372.ts
+#EXTINF:-1,AR_TIME-QURAN
+http://xiptv.xcamhd.me:2112/live/home/home1/4373.ts
+#EXTINF:-1,AR_TIME-FILM
+http://xiptv.xcamhd.me:2112/live/home/home1/4374.ts
+#EXTINF:-1,AR_TIME-COMEDY
+http://xiptv.xcamhd.me:2112/live/home/home1/4375.ts
+#EXTINF:-1,AR_TIME-CINEMA
+http://xiptv.xcamhd.me:2112/live/home/home1/4376.ts
+#EXTINF:-1,AR_TIME-Action
+http://xiptv.xcamhd.me:2112/live/home/home1/4377.ts
+#EXTINF:-1,AR_TheWay-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4560.ts
+#EXTINF:-1,AR_testfalm2
+http://xiptv.xcamhd.me:2112/live/home/home1/4561.ts
+#EXTINF:-1,AR_TEN-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4327.ts
+#EXTINF:-1,AR_TEN-1
+http://xiptv.xcamhd.me:2112/live/home/home1/4326.ts
+#EXTINF:-1,AR_Telvza-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4562.ts
+#EXTINF:-1,AR_TAL2A-RO3B
+http://xiptv.xcamhd.me:2112/live/home/home1/4393.ts
+#EXTINF:-1,AR_TAHA
+http://xiptv.xcamhd.me:2112/live/home/home1/4563.ts
+#EXTINF:-1,AR_Tabah-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4564.ts
+#EXTINF:-1,AR_Syria-Medical-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4556.ts
+#EXTINF:-1,AR_SYRIA-DRAMA
+http://xiptv.xcamhd.me:2112/live/home/home1/4557.ts
+#EXTINF:-1,AR_Suryana
+http://xiptv.xcamhd.me:2112/live/home/home1/4558.ts
+#EXTINF:-1,AR_SUHAIL-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4559.ts
+#EXTINF:-1,AR_STAR-CINEMA-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4389.ts
+#EXTINF:-1,AR_STAR-CINEMA-1
+http://xiptv.xcamhd.me:2112/live/home/home1/4388.ts
+#EXTINF:-1,AR_Star-Academy
+http://xiptv.xcamhd.me:2112/live/home/home1/4334.ts
+#EXTINF:-1,AR_Southern-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4547.ts
+#EXTINF:-1,AR_SOUT-MASR
+http://xiptv.xcamhd.me:2112/live/home/home1/4548.ts
+#EXTINF:-1,AR_Sout-El-Shaab
+http://xiptv.xcamhd.me:2112/live/home/home1/4549.ts
+#EXTINF:-1,AR_Sky-News-Arabia
+http://xiptv.xcamhd.me:2112/live/home/home1/4550.ts
+#EXTINF:-1,AR_SHAMAL-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4395.ts
+#EXTINF:-1,AR_Shabab-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4551.ts
+#EXTINF:-1,AR_Saudia-Quran
+http://xiptv.xcamhd.me:2112/live/home/home1/4303.ts
+#EXTINF:-1,AR_Saudi.Sunna
+http://xiptv.xcamhd.me:2112/live/home/home1/4304.ts
+#EXTINF:-1,AR_Samira-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4404.ts
+#EXTINF:-1,AR_SAMARRA-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4552.ts
+#EXTINF:-1,AR_Sahara-TV-Algeria
+http://xiptv.xcamhd.me:2112/live/home/home1/4553.ts
+#EXTINF:-1,AR_sada-Misr
+http://xiptv.xcamhd.me:2112/live/home/home1/4554.ts
+#EXTINF:-1,AR_Sada-ElBalad-Drama
+http://xiptv.xcamhd.me:2112/live/home/home1/4360.ts
+#EXTINF:-1,AR_Sada-ElBalad
+http://xiptv.xcamhd.me:2112/live/home/home1/4359.ts
+#EXTINF:-1,AR_Rotana-music
+http://xiptv.xcamhd.me:2112/live/home/home1/4364.ts
+#EXTINF:-1,AR_Rotana-Masriya
+http://xiptv.xcamhd.me:2112/live/home/home1/4363.ts
+#EXTINF:-1,AR_Rotana-Khalijia
+http://xiptv.xcamhd.me:2112/live/home/home1/4365.ts
+#EXTINF:-1,AR_Rotana-Clip
+http://xiptv.xcamhd.me:2112/live/home/home1/4366.ts
+#EXTINF:-1,AR_Rotana-Classic
+http://xiptv.xcamhd.me:2112/live/home/home1/4367.ts
+#EXTINF:-1,AR_ROTANA-CINEMA-KSA
+http://xiptv.xcamhd.me:2112/live/home/home1/4362.ts
+#EXTINF:-1,AR_Rotana-Cinema
+http://xiptv.xcamhd.me:2112/live/home/home1/4361.ts
+#EXTINF:-1,AR_ROJAVA-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4555.ts
+#EXTINF:-1,AR_QURAN-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4301.ts
+#EXTINF:-1,AR_ONTV-LIVE
+http://xiptv.xcamhd.me:2112/live/home/home1/4329.ts
+#EXTINF:-1,AR_ONTV
+http://xiptv.xcamhd.me:2112/live/home/home1/4328.ts
+#EXTINF:-1,AR_October-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4532.ts
+#EXTINF:-1,AR_Numidia-News-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4538.ts
+#EXTINF:-1,AR_Noursat-Alchabab
+http://xiptv.xcamhd.me:2112/live/home/home1/4539.ts
+#EXTINF:-1,AR_Noursat
+http://xiptv.xcamhd.me:2112/live/home/home1/4540.ts
+#EXTINF:-1,AR_Nour-Koddass
+http://xiptv.xcamhd.me:2112/live/home/home1/4541.ts
+#EXTINF:-1,AR_NOUR-KIDS
+http://xiptv.xcamhd.me:2112/live/home/home1/4542.ts
+#EXTINF:-1,AR_Nour-Al-Sharq
+http://xiptv.xcamhd.me:2112/live/home/home1/4543.ts
+#EXTINF:-1,AR_Nile-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4351.ts
+#EXTINF:-1,AR_Nile-Sport
+http://xiptv.xcamhd.me:2112/live/home/home1/4352.ts
+#EXTINF:-1,AR_Nile-News
+http://xiptv.xcamhd.me:2112/live/home/home1/4353.ts
+#EXTINF:-1,AR_Nile-Life
+http://xiptv.xcamhd.me:2112/live/home/home1/4354.ts
+#EXTINF:-1,AR_Nile-Drama
+http://xiptv.xcamhd.me:2112/live/home/home1/4355.ts
+#EXTINF:-1,AR_Nile-Culture
+http://xiptv.xcamhd.me:2112/live/home/home1/4356.ts
+#EXTINF:-1,AR_Nile-Comedy
+http://xiptv.xcamhd.me:2112/live/home/home1/4357.ts
+#EXTINF:-1,AR_Nile-Cinema
+http://xiptv.xcamhd.me:2112/live/home/home1/4358.ts
+#EXTINF:-1,AR_Nessma
+http://xiptv.xcamhd.me:2112/live/home/home1/4544.ts
+#EXTINF:-1,AR_NBN
+http://xiptv.xcamhd.me:2112/live/home/home1/4545.ts
+#EXTINF:-1,AR_NABD-SYRIA-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4546.ts
+#EXTINF:-1,AR_MTV-Lebanon
+http://xiptv.xcamhd.me:2112/live/home/home1/4332.ts
+#EXTINF:-1,AR_movies-arabic-2015-1
+http://xiptv.xcamhd.me:2112/live/home/home1/4490.ts
+#EXTINF:-1,AR_Moga-Comedy-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4368.ts
+#EXTINF:-1,AR_MOGA-Cinema
+http://xiptv.xcamhd.me:2112/live/home/home1/4369.ts
+#EXTINF:-1,AR_MODY-KIDS
+http://xiptv.xcamhd.me:2112/live/home/home1/4407.ts
+#EXTINF:-1,AR_Misr-EL-Bald
+http://xiptv.xcamhd.me:2112/live/home/home1/4533.ts
+#EXTINF:-1,AR_MICKEY-CHANNEL
+http://xiptv.xcamhd.me:2112/live/home/home1/4408.ts
+#EXTINF:-1,AR_Melody_Drama
+http://xiptv.xcamhd.me:2112/live/home/home1/4402.ts
+#EXTINF:-1,AR_Mehwer
+http://xiptv.xcamhd.me:2112/live/home/home1/4331.ts
+#EXTINF:-1,AR_MEDI1-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4534.ts
+#EXTINF:-1,AR_ME-SAT
+http://xiptv.xcamhd.me:2112/live/home/home1/4535.ts
+#EXTINF:-1,AR_MBC-SPORTS3
+http://xiptv.xcamhd.me:2112/live/home/home1/4350.ts
+#EXTINF:-1,AR_MBC-SPORTS2
+http://xiptv.xcamhd.me:2112/live/home/home1/4349.ts
+#EXTINF:-1,AR_MBC-SPORTS1
+http://xiptv.xcamhd.me:2112/live/home/home1/4348.ts
+#EXTINF:-1,AR_MBC-MAX
+http://xiptv.xcamhd.me:2112/live/home/home1/4345.ts
+#EXTINF:-1,AR_MBC-Masr-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4344.ts
+#EXTINF:-1,AR_MBC-Maser
+http://xiptv.xcamhd.me:2112/live/home/home1/4343.ts
+#EXTINF:-1,AR_MBC-Drama
+http://xiptv.xcamhd.me:2112/live/home/home1/4346.ts
+#EXTINF:-1,AR_MBC-Bollywood
+http://xiptv.xcamhd.me:2112/live/home/home1/4347.ts
+#EXTINF:-1,AR_MBC-Action
+http://xiptv.xcamhd.me:2112/live/home/home1/4342.ts
+#EXTINF:-1,AR_MBC-4
+http://xiptv.xcamhd.me:2112/live/home/home1/4341.ts
+#EXTINF:-1,AR_MBC-3
+http://xiptv.xcamhd.me:2112/live/home/home1/4340.ts
+#EXTINF:-1,AR_MBC-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4339.ts
+#EXTINF:-1,AR_MBC-1
+http://xiptv.xcamhd.me:2112/live/home/home1/4338.ts
+#EXTINF:-1,AR_MASR-AL-HAYAH
+http://xiptv.xcamhd.me:2112/live/home/home1/4536.ts
+#EXTINF:-1,AR_M-Tunisia
+http://xiptv.xcamhd.me:2112/live/home/home1/4537.ts
+#EXTINF:-1,AR_LTC
+http://xiptv.xcamhd.me:2112/live/home/home1/4335.ts
+#EXTINF:-1,AR_Logos-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4526.ts
+#EXTINF:-1,AR_Libya-West-Tripoli
+http://xiptv.xcamhd.me:2112/live/home/home1/4527.ts
+#EXTINF:-1,AR_LIBYA-ALRASMEYA
+http://xiptv.xcamhd.me:2112/live/home/home1/4528.ts
+#EXTINF:-1,AR_Libya-Alhrar
+http://xiptv.xcamhd.me:2112/live/home/home1/4529.ts
+#EXTINF:-1,AR_LDC
+http://xiptv.xcamhd.me:2112/live/home/home1/4336.ts
+#EXTINF:-1,AR_LBC-SAT
+http://xiptv.xcamhd.me:2112/live/home/home1/4337.ts
+#EXTINF:-1,AR_LAYALIONS
+http://xiptv.xcamhd.me:2112/live/home/home1/4530.ts
+#EXTINF:-1,AR_Lamsat
+http://xiptv.xcamhd.me:2112/live/home/home1/4531.ts
+#EXTINF:-1,AR_KOKKY-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4406.ts
+#EXTINF:-1,AR_KIDZINIA
+http://xiptv.xcamhd.me:2112/live/home/home1/4524.ts
+#EXTINF:-1,AR_KARBALA-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4525.ts
+#EXTINF:-1,AR_karamesh
+http://xiptv.xcamhd.me:2112/live/home/home1/4409.ts
+#EXTINF:-1,AR_Jordan-Sport
+http://xiptv.xcamhd.me:2112/live/home/home1/4523.ts
+#EXTINF:-1,AR_Iraqia-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4519.ts
+#EXTINF:-1,AR_Iraqia-Sport
+http://xiptv.xcamhd.me:2112/live/home/home1/4520.ts
+#EXTINF:-1,AR_IraqFuture_TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4521.ts
+#EXTINF:-1,AR_Iraq-Now
+http://xiptv.xcamhd.me:2112/live/home/home1/4522.ts
+#EXTINF:-1,AR_Iqraa
+http://xiptv.xcamhd.me:2112/live/home/home1/4330.ts
+#EXTINF:-1,AR_Imagine-Movies
+http://xiptv.xcamhd.me:2112/live/home/home1/4412.ts
+#EXTINF:-1,AR_Hannibal
+http://xiptv.xcamhd.me:2112/live/home/home1/4517.ts
+#EXTINF:-1,AR_Halaba-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4518.ts
+#EXTINF:-1,AR_Gali-Kurdistan
+http://xiptv.xcamhd.me:2112/live/home/home1/4516.ts
+#EXTINF:-1,AR_Future-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4333.ts
+#EXTINF:-1,AR_FATAFEAT
+http://xiptv.xcamhd.me:2112/live/home/home1/4403.ts
+#EXTINF:-1,AR_Faraeen
+http://xiptv.xcamhd.me:2112/live/home/home1/4513.ts
+#EXTINF:-1,AR_FANKOSH
+http://xiptv.xcamhd.me:2112/live/home/home1/4391.ts
+#EXTINF:-1,AR_falm2
+http://xiptv.xcamhd.me:2112/live/home/home1/4514.ts
+#EXTINF:-1,AR_fadak
+http://xiptv.xcamhd.me:2112/live/home/home1/4515.ts
+#EXTINF:-1,AR_EuroNews
+http://xiptv.xcamhd.me:2112/live/home/home1/4504.ts
+#EXTINF:-1,AR_Ettounsia-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4505.ts
+#EXTINF:-1,AR_ENNAHAR-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4506.ts
+#EXTINF:-1,AR_ELKHABARKBC-Algeria
+http://xiptv.xcamhd.me:2112/live/home/home1/4507.ts
+#EXTINF:-1,AR_EL-MOLED
+http://xiptv.xcamhd.me:2112/live/home/home1/4390.ts
+#EXTINF:-1,AR_El-Fadjr-TV-DZ
+http://xiptv.xcamhd.me:2112/live/home/home1/4508.ts
+#EXTINF:-1,AR_EL-BILAD-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4509.ts
+#EXTINF:-1,AR_Egypt-Star
+http://xiptv.xcamhd.me:2112/live/home/home1/4510.ts
+#EXTINF:-1,AR_Echorouk-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4511.ts
+#EXTINF:-1,AR_Echorouk-News
+http://xiptv.xcamhd.me:2112/live/home/home1/4512.ts
+#EXTINF:-1,AR_DZair-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4497.ts
+#EXTINF:-1,AR_DZAIR-SAHTI
+http://xiptv.xcamhd.me:2112/live/home/home1/4498.ts
+#EXTINF:-1,AR_Dzair-PUB
+http://xiptv.xcamhd.me:2112/live/home/home1/4499.ts
+#EXTINF:-1,AR_Dzair-3
+http://xiptv.xcamhd.me:2112/live/home/home1/4500.ts
+#EXTINF:-1,AR_Dzair-25
+http://xiptv.xcamhd.me:2112/live/home/home1/4501.ts
+#EXTINF:-1,AR_Dzair-24
+http://xiptv.xcamhd.me:2112/live/home/home1/4502.ts
+#EXTINF:-1,AR_Dzair-21-PUB
+http://xiptv.xcamhd.me:2112/live/home/home1/4503.ts
+#EXTINF:-1,AR_DUBAI-SPORTS
+http://xiptv.xcamhd.me:2112/live/home/home1/4323.ts
+#EXTINF:-1,AR_DUBAI-ONE
+http://xiptv.xcamhd.me:2112/live/home/home1/4321.ts
+#EXTINF:-1,AR_DUBAI-DRAMA
+http://xiptv.xcamhd.me:2112/live/home/home1/4322.ts
+#EXTINF:-1,AR_DUBA-IRACING
+http://xiptv.xcamhd.me:2112/live/home/home1/4324.ts
+#EXTINF:-1,AR_Dream-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4325.ts
+#EXTINF:-1,AR_Dolly-Cinema
+http://xiptv.xcamhd.me:2112/live/home/home1/4392.ts
+#EXTINF:-1,AR_CTV
+http://xiptv.xcamhd.me:2112/live/home/home1/4493.ts
+#EXTINF:-1,AR_Coran-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4300.ts
+#EXTINF:-1,AR_CNN
+http://xiptv.xcamhd.me:2112/live/home/home1/4494.ts
+#EXTINF:-1,AR_CNE-CINEMA
+http://xiptv.xcamhd.me:2112/live/home/home1/4383.ts
+#EXTINF:-1,AR_CNA
+http://xiptv.xcamhd.me:2112/live/home/home1/4495.ts
+#EXTINF:-1,AR_Cinema-Pro
+http://xiptv.xcamhd.me:2112/live/home/home1/4384.ts
+#EXTINF:-1,AR_CINEMA-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4386.ts
+#EXTINF:-1,AR_CINEMA-1
+http://xiptv.xcamhd.me:2112/live/home/home1/4385.ts
+#EXTINF:-1,AR_CIMA-ALIBABA
+http://xiptv.xcamhd.me:2112/live/home/home1/4387.ts
+#EXTINF:-1,AR_CBC-Sofra
+http://xiptv.xcamhd.me:2112/live/home/home1/4319.ts
+#EXTINF:-1,AR_CBC-Extra
+http://xiptv.xcamhd.me:2112/live/home/home1/4318.ts
+#EXTINF:-1,AR_CBC-Drama
+http://xiptv.xcamhd.me:2112/live/home/home1/4320.ts
+#EXTINF:-1,AR_CBC_2
+http://xiptv.xcamhd.me:2112/live/home/home1/4317.ts
+#EXTINF:-1,AR_CBC
+http://xiptv.xcamhd.me:2112/live/home/home1/4316.ts
+#EXTINF:-1,AR_CANARY-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4496.ts
+#EXTINF:-1,AR_Cairo-Drama
+http://xiptv.xcamhd.me:2112/live/home/home1/4382.ts
+#EXTINF:-1,AR_Cairo-cinema
+http://xiptv.xcamhd.me:2112/live/home/home1/4380.ts
+#EXTINF:-1,AR_Cairo-Aflam
+http://xiptv.xcamhd.me:2112/live/home/home1/4381.ts
+#EXTINF:-1,AR_BZAF-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4488.ts
+#EXTINF:-1,AR_Bzaf-Life
+http://xiptv.xcamhd.me:2112/live/home/home1/4489.ts
+#EXTINF:-1,AR_BBC-Arabic
+http://xiptv.xcamhd.me:2112/live/home/home1/4491.ts
+#EXTINF:-1,AR_BAGHDAD-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4492.ts
+#EXTINF:-1,AR_B4U-Aflam
+http://xiptv.xcamhd.me:2112/live/home/home1/4586.ts
+#EXTINF:-1,AR_ATTESSIATV
+http://xiptv.xcamhd.me:2112/live/home/home1/4415.ts
+#EXTINF:-1,AR_Assadissa
+http://xiptv.xcamhd.me:2112/live/home/home1/4416.ts
+#EXTINF:-1,AR_ASIA-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4417.ts
+#EXTINF:-1,AR_Art-Hekayat2
+http://xiptv.xcamhd.me:2112/live/home/home1/4315.ts
+#EXTINF:-1,AR_Art-Hekayat
+http://xiptv.xcamhd.me:2112/live/home/home1/4314.ts
+#EXTINF:-1,AR_Art-Cinema
+http://xiptv.xcamhd.me:2112/live/home/home1/4313.ts
+#EXTINF:-1,AR_Art-Aflam-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4312.ts
+#EXTINF:-1,AR_Art-Aflam-1
+http://xiptv.xcamhd.me:2112/live/home/home1/4311.ts
+#EXTINF:-1,AR_Arriadia
+http://xiptv.xcamhd.me:2112/live/home/home1/4418.ts
+#EXTINF:-1,AR_Arrabiaa
+http://xiptv.xcamhd.me:2112/live/home/home1/4419.ts
+#EXTINF:-1,AR_Anwar-TV-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4420.ts
+#EXTINF:-1,AR_ANN-Arab-News
+http://xiptv.xcamhd.me:2112/live/home/home1/4421.ts
+#EXTINF:-1,AR_Alresala
+http://xiptv.xcamhd.me:2112/live/home/home1/4422.ts
+#EXTINF:-1,AR_ALRAHMA
+http://xiptv.xcamhd.me:2112/live/home/home1/4423.ts
+#EXTINF:-1,AR_AlQuods
+http://xiptv.xcamhd.me:2112/live/home/home1/4424.ts
+#EXTINF:-1,AR_Alnoor
+http://xiptv.xcamhd.me:2112/live/home/home1/4425.ts
+#EXTINF:-1,AR_Alnas
+http://xiptv.xcamhd.me:2112/live/home/home1/4426.ts
+#EXTINF:-1,AR_Almajd.Scientific
+http://xiptv.xcamhd.me:2112/live/home/home1/4306.ts
+#EXTINF:-1,AR_Almajd.Ahadeeth
+http://xiptv.xcamhd.me:2112/live/home/home1/4307.ts
+#EXTINF:-1,AR_Aljazeera2
+http://xiptv.xcamhd.me:2112/live/home/home1/4457.ts
+#EXTINF:-1,AR_Aljazeera-Mubasher
+http://xiptv.xcamhd.me:2112/live/home/home1/4458.ts
+#EXTINF:-1,AR_ALJAZEERA-DOC
+http://xiptv.xcamhd.me:2112/live/home/home1/4459.ts
+#EXTINF:-1,AR_aljadeed.liban
+http://xiptv.xcamhd.me:2112/live/home/home1/4427.ts
+#EXTINF:-1,AR_AlHiwar-Ettounsi-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4428.ts
+#EXTINF:-1,AR_Alhayat-Muslsalat
+http://xiptv.xcamhd.me:2112/live/home/home1/4289.ts
+#EXTINF:-1,AR_Alhayat
+http://xiptv.xcamhd.me:2112/live/home/home1/4286.ts
+#EXTINF:-1,AR_AlAhly-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4310.ts
+#EXTINF:-1,AR_ALAAN-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4429.ts
+#EXTINF:-1,AR_Al.AQSA
+http://xiptv.xcamhd.me:2112/live/home/home1/4430.ts
+#EXTINF:-1,AR_al-thawra
+http://xiptv.xcamhd.me:2112/live/home/home1/4431.ts
+#EXTINF:-1,AR_Al-thanya
+http://xiptv.xcamhd.me:2112/live/home/home1/4309.ts
+#EXTINF:-1,AR_Al-taghier
+http://xiptv.xcamhd.me:2112/live/home/home1/4432.ts
+#EXTINF:-1,AR_Al-Sumaria-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4433.ts
+#EXTINF:-1,AR_AL-SIRAT
+http://xiptv.xcamhd.me:2112/live/home/home1/4434.ts
+#EXTINF:-1,AR_AL-SHARQIYA
+http://xiptv.xcamhd.me:2112/live/home/home1/4435.ts
+#EXTINF:-1,AR_AL-SALAM
+http://xiptv.xcamhd.me:2112/live/home/home1/4436.ts
+#EXTINF:-1,AR_Al-Rasheed
+http://xiptv.xcamhd.me:2112/live/home/home1/4437.ts
+#EXTINF:-1,AR_Al-Rafiden
+http://xiptv.xcamhd.me:2112/live/home/home1/4438.ts
+#EXTINF:-1,AR_AL-Oula_Maroc
+http://xiptv.xcamhd.me:2112/live/home/home1/4439.ts
+#EXTINF:-1,AR_Al-Noujaba
+http://xiptv.xcamhd.me:2112/live/home/home1/4440.ts
+#EXTINF:-1,AR_AL-NAHAR_Cinema
+http://xiptv.xcamhd.me:2112/live/home/home1/4297.ts
+#EXTINF:-1,AR_Al-Nahar-Sport
+http://xiptv.xcamhd.me:2112/live/home/home1/4295.ts
+#EXTINF:-1,AR_Al-Nahar-Drama
+http://xiptv.xcamhd.me:2112/live/home/home1/4296.ts
+#EXTINF:-1,AR_AL-Nahar-Alyawm
+http://xiptv.xcamhd.me:2112/live/home/home1/4294.ts
+#EXTINF:-1,AR_Al-Nahar-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4293.ts
+#EXTINF:-1,AR_Al-Nahar
+http://xiptv.xcamhd.me:2112/live/home/home1/4292.ts
+#EXTINF:-1,AR_Al-Naeem-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4441.ts
+#EXTINF:-1,AR_AL-MAYADEEN-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4442.ts
+#EXTINF:-1,AR_AL-MASSAR-ALOULA
+http://xiptv.xcamhd.me:2112/live/home/home1/4443.ts
+#EXTINF:-1,AR_AL-masriya
+http://xiptv.xcamhd.me:2112/live/home/home1/4308.ts
+#EXTINF:-1,AR_AL-MANAR
+http://xiptv.xcamhd.me:2112/live/home/home1/4444.ts
+#EXTINF:-1,AR_Al-Malakoot
+http://xiptv.xcamhd.me:2112/live/home/home1/4445.ts
+#EXTINF:-1,AR_Al-Majd3
+http://xiptv.xcamhd.me:2112/live/home/home1/4305.ts
+#EXTINF:-1,AR_Al-Maghribia
+http://xiptv.xcamhd.me:2112/live/home/home1/4446.ts
+#EXTINF:-1,AR_Al-Magharibia-Two
+http://xiptv.xcamhd.me:2112/live/home/home1/4447.ts
+#EXTINF:-1,AR_AL-MADEEH
+http://xiptv.xcamhd.me:2112/live/home/home1/4448.ts
+#EXTINF:-1,AR_AL-MADA-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4449.ts
+#EXTINF:-1,AR_AL-KOFIYA
+http://xiptv.xcamhd.me:2112/live/home/home1/4450.ts
+#EXTINF:-1,AR_Al-Khabar-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4451.ts
+#EXTINF:-1,AR_AL-KAWTHAR
+http://xiptv.xcamhd.me:2112/live/home/home1/4452.ts
+#EXTINF:-1,AR_AL-Karama-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4453.ts
+#EXTINF:-1,AR_AL-Karama
+http://xiptv.xcamhd.me:2112/live/home/home1/4454.ts
+#EXTINF:-1,AR_Al-Kahera-WalNas-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4291.ts
+#EXTINF:-1,AR_Al-Kahera-WalNas
+http://xiptv.xcamhd.me:2112/live/home/home1/4290.ts
+#EXTINF:-1,AR_Al-Jazeera-English
+http://xiptv.xcamhd.me:2112/live/home/home1/4455.ts
+#EXTINF:-1,AR_AL-janoubia
+http://xiptv.xcamhd.me:2112/live/home/home1/4456.ts
+#EXTINF:-1,AR_AL-JADEED
+http://xiptv.xcamhd.me:2112/live/home/home1/4460.ts
+#EXTINF:-1,AR_Al-itejah-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4461.ts
+#EXTINF:-1,AR_Al-Insan-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4462.ts
+#EXTINF:-1,AR_AL-IMAN-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4463.ts
+#EXTINF:-1,AR_AL-Hurra-Iraq
+http://xiptv.xcamhd.me:2112/live/home/home1/4464.ts
+#EXTINF:-1,AR_Al-Horreya
+http://xiptv.xcamhd.me:2112/live/home/home1/4465.ts
+#EXTINF:-1,AR_Al-Hayat2
+http://xiptv.xcamhd.me:2112/live/home/home1/4287.ts
+#EXTINF:-1,AR_Al-hayat-We-Alnas
+http://xiptv.xcamhd.me:2112/live/home/home1/4288.ts
+#EXTINF:-1,AR_Al-Hayat-ctv
+http://xiptv.xcamhd.me:2112/live/home/home1/4466.ts
+#EXTINF:-1,AR_AL-Hadath
+http://xiptv.xcamhd.me:2112/live/home/home1/4299.ts
+#EXTINF:-1,AR_AL-GOMHOR-CINEMA
+http://xiptv.xcamhd.me:2112/live/home/home1/4397.ts
+#EXTINF:-1,AR_Al-Ghadeer
+http://xiptv.xcamhd.me:2112/live/home/home1/4467.ts
+#EXTINF:-1,AR_Al-Foratr
+http://xiptv.xcamhd.me:2112/live/home/home1/4468.ts
+#EXTINF:-1,AR_Al-Fayhaa-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4469.ts
+#EXTINF:-1,AR_Al-Fady
+http://xiptv.xcamhd.me:2112/live/home/home1/4470.ts
+#EXTINF:-1,AR_AL-Diyar
+http://xiptv.xcamhd.me:2112/live/home/home1/4471.ts
+#EXTINF:-1,AR_AL-BATAL
+http://xiptv.xcamhd.me:2112/live/home/home1/4472.ts
+#EXTINF:-1,AR_Al-baraka
+http://xiptv.xcamhd.me:2112/live/home/home1/4473.ts
+#EXTINF:-1,AR_AL-BAITBAITAK-CINEMA
+http://xiptv.xcamhd.me:2112/live/home/home1/4398.ts
+#EXTINF:-1,AR_AL-BAGHDADIA-2
+http://xiptv.xcamhd.me:2112/live/home/home1/4474.ts
+#EXTINF:-1,AR_AL-BAGHDADIA-1
+http://xiptv.xcamhd.me:2112/live/home/home1/4475.ts
+#EXTINF:-1,AR_Al-BABELYA
+http://xiptv.xcamhd.me:2112/live/home/home1/4476.ts
+#EXTINF:-1,AR_AL-ASRAR-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4477.ts
+#EXTINF:-1,AR_Al-Arrab
+http://xiptv.xcamhd.me:2112/live/home/home1/4478.ts
+#EXTINF:-1,AR_Al-ArabyTV
+http://xiptv.xcamhd.me:2112/live/home/home1/4479.ts
+#EXTINF:-1,AR_Al-Arabiya
+http://xiptv.xcamhd.me:2112/live/home/home1/4298.ts
+#EXTINF:-1,AR_Al-AqilaT
+http://xiptv.xcamhd.me:2112/live/home/home1/4480.ts
+#EXTINF:-1,AR_AL-Anwar
+http://xiptv.xcamhd.me:2112/live/home/home1/4481.ts
+#EXTINF:-1,AR_AL-Anbar
+http://xiptv.xcamhd.me:2112/live/home/home1/4482.ts
+#EXTINF:-1,AR_AL-ALAM
+http://xiptv.xcamhd.me:2112/live/home/home1/4483.ts
+#EXTINF:-1,AR_Al-Ahd
+http://xiptv.xcamhd.me:2112/live/home/home1/4484.ts
+#EXTINF:-1,AR_Ahel-Al-Quran
+http://xiptv.xcamhd.me:2112/live/home/home1/4302.ts
+#EXTINF:-1,AR_AGHAPY-TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4485.ts
+#EXTINF:-1,AR_Aghani-Aghani
+http://xiptv.xcamhd.me:2112/live/home/home1/4486.ts
+#EXTINF:-1,AR_Afak
+http://xiptv.xcamhd.me:2112/live/home/home1/4487.ts
+#EXTINF:-1,AR_ABLA-FAHEETA
+http://xiptv.xcamhd.me:2112/live/home/home1/4399.ts
+#EXTINF:-1,AR_ABC-CINEMA
+http://xiptv.xcamhd.me:2112/live/home/home1/4400.ts
+#EXTINF:-1,AR_7BESHA
+http://xiptv.xcamhd.me:2112/live/home/home1/4378.ts
+#EXTINF:-1,AR_7ALAWET-RO7
+http://xiptv.xcamhd.me:2112/live/home/home1/4379.ts
+#EXTINF:-1,AR_4-SHABAB-TV1
+http://xiptv.xcamhd.me:2112/live/home/home1/4413.ts
+#EXTINF:-1,AR_2M-Maroc
+http://xiptv.xcamhd.me:2112/live/home/home1/4414.ts
+#EXTINF:-1,UK_Sky_Sports_2_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4151.ts
+#EXTINF:-1,UK_Sky_Sports_1_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4152.ts
+#EXTINF:-1,UK_Sky_News
+http://xiptv.xcamhd.me:2112/live/home/home1/4158.ts
+#EXTINF:-1,UK_Sky_Alantic
+http://xiptv.xcamhd.me:2112/live/home/home1/4153.ts
+#EXTINF:-1,UK_Nickelodeon
+http://xiptv.xcamhd.me:2112/live/home/home1/4154.ts
+#EXTINF:-1,UK_National_Geo_WILD
+http://xiptv.xcamhd.me:2112/live/home/home1/4156.ts
+#EXTINF:-1,UK_National_Geography_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4155.ts
+#EXTINF:-1,UK_ITV_3_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4143.ts
+#EXTINF:-1,UK_Film_4
+http://xiptv.xcamhd.me:2112/live/home/home1/4145.ts
+#EXTINF:-1,UK_Dinseny_Channel_UK
+http://xiptv.xcamhd.me:2112/live/home/home1/4157.ts
+#EXTINF:-1,UK_CHANNEL_5
+http://xiptv.xcamhd.me:2112/live/home/home1/4144.ts
+#EXTINF:-1,UK_CBS_Reality
+http://xiptv.xcamhd.me:2112/live/home/home1/4160.ts
+#EXTINF:-1,UK_CBS_Drama
+http://xiptv.xcamhd.me:2112/live/home/home1/4146.ts
+#EXTINF:-1,UK_BBC_Two
+http://xiptv.xcamhd.me:2112/live/home/home1/4147.ts
+#EXTINF:-1,UK_BBC_One
+http://xiptv.xcamhd.me:2112/live/home/home1/4148.ts
+#EXTINF:-1,UK_BBC_News
+http://xiptv.xcamhd.me:2112/live/home/home1/4149.ts
+#EXTINF:-1,UK_BBC_4_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4159.ts
+#EXTINF:-1,UK_Animal_Planet
+http://xiptv.xcamhd.me:2112/live/home/home1/4150.ts
+#EXTINF:-1,UK-Sky-Movies-Premiere
+http://xiptv.xcamhd.me:2112/live/home/home1/4164.ts
+#EXTINF:-1,UK-Sky-Movies-Family
+http://xiptv.xcamhd.me:2112/live/home/home1/4162.ts
+#EXTINF:-1,UK-Sky-Movies-Comedy
+http://xiptv.xcamhd.me:2112/live/home/home1/4163.ts
+#EXTINF:-1,UK-QUEST
+http://xiptv.xcamhd.me:2112/live/home/home1/4166.ts
+#EXTINF:-1,UK-Nicktoons
+http://xiptv.xcamhd.me:2112/live/home/home1/4167.ts
+#EXTINF:-1,UK-History_Channel
+http://xiptv.xcamhd.me:2112/live/home/home1/4161.ts
+#EXTINF:-1,UK-Food_Network
+http://xiptv.xcamhd.me:2112/live/home/home1/4165.ts
+#EXTINF:-1,UK-Disney_Junior
+http://xiptv.xcamhd.me:2112/live/home/home1/4168.ts
+#EXTINF:-1,UK-Discovery
+http://xiptv.xcamhd.me:2112/live/home/home1/4169.ts
+#EXTINF:-1,TR_TV2
+http://xiptv.xcamhd.me:2112/live/home/home1/4098.ts
+#EXTINF:-1,TR_TRT_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4102.ts
+#EXTINF:-1,TR_TRT_HABER_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4103.ts
+#EXTINF:-1,TR_TRT_1
+http://xiptv.xcamhd.me:2112/live/home/home1/4100.ts
+#EXTINF:-1,TR_TGRT_Haber
+http://xiptv.xcamhd.me:2112/live/home/home1/4104.ts
+#EXTINF:-1,TR_TGRT
+http://xiptv.xcamhd.me:2112/live/home/home1/4105.ts
+#EXTINF:-1,TR_Star_TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4092.ts
+#EXTINF:-1,TR_SPORTS_TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4108.ts
+#EXTINF:-1,TR_SINEMA_TV_2
+http://xiptv.xcamhd.me:2112/live/home/home1/4082.ts
+#EXTINF:-1,TR_SINEMA_TV_1001
+http://xiptv.xcamhd.me:2112/live/home/home1/4084.ts
+#EXTINF:-1,TR_SINEMA_6
+http://xiptv.xcamhd.me:2112/live/home/home1/4091.ts
+#EXTINF:-1,TR_SINEMA_5
+http://xiptv.xcamhd.me:2112/live/home/home1/4079.ts
+#EXTINF:-1,TR_SINEMA_4
+http://xiptv.xcamhd.me:2112/live/home/home1/4080.ts
+#EXTINF:-1,TR_SINEMA_3
+http://xiptv.xcamhd.me:2112/live/home/home1/4081.ts
+#EXTINF:-1,TR_SINEMA_2
+http://xiptv.xcamhd.me:2112/live/home/home1/4117.ts
+#EXTINF:-1,TR_SINEMA_1
+http://xiptv.xcamhd.me:2112/live/home/home1/4083.ts
+#EXTINF:-1,TR_SINEMA5
+http://xiptv.xcamhd.me:2112/live/home/home1/4285.ts
+#EXTINF:-1,TR_SINEMA4
+http://xiptv.xcamhd.me:2112/live/home/home1/4284.ts
+#EXTINF:-1,TR_SINEMA3
+http://xiptv.xcamhd.me:2112/live/home/home1/4283.ts
+#EXTINF:-1,TR_SINEMA2
+http://xiptv.xcamhd.me:2112/live/home/home1/4282.ts
+#EXTINF:-1,TR_SINEMA1
+http://xiptv.xcamhd.me:2112/live/home/home1/4281.ts
+#EXTINF:-1,TR_SINEMA
+http://xiptv.xcamhd.me:2112/live/home/home1/4280.ts
+#EXTINF:-1,TR_Show_TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4106.ts
+#EXTINF:-1,TR_POWER_TURK
+http://xiptv.xcamhd.me:2112/live/home/home1/4107.ts
+#EXTINF:-1,TR_NTV
+http://xiptv.xcamhd.me:2112/live/home/home1/4109.ts
+#EXTINF:-1,TR_Loca_3
+http://xiptv.xcamhd.me:2112/live/home/home1/4085.ts
+#EXTINF:-1,TR_Loca_2
+http://xiptv.xcamhd.me:2112/live/home/home1/4086.ts
+#EXTINF:-1,TR_Loca_1
+http://xiptv.xcamhd.me:2112/live/home/home1/4087.ts
+#EXTINF:-1,TR_LIG_TV_3
+http://xiptv.xcamhd.me:2112/live/home/home1/4088.ts
+#EXTINF:-1,TR_LIG_TV_2
+http://xiptv.xcamhd.me:2112/live/home/home1/4089.ts
+#EXTINF:-1,TR_Kanal_D
+http://xiptv.xcamhd.me:2112/live/home/home1/4110.ts
+#EXTINF:-1,TR_KANAL_7
+http://xiptv.xcamhd.me:2112/live/home/home1/4112.ts
+#EXTINF:-1,TR_Kanalturk
+http://xiptv.xcamhd.me:2112/live/home/home1/4111.ts
+#EXTINF:-1,TR_HaberTurk
+http://xiptv.xcamhd.me:2112/live/home/home1/4113.ts
+#EXTINF:-1,TR_CNN_TURK
+http://xiptv.xcamhd.me:2112/live/home/home1/4097.ts
+#EXTINF:-1,TR_CINE_2
+http://xiptv.xcamhd.me:2112/live/home/home1/4090.ts
+#EXTINF:-1,TR_CINE_1
+http://xiptv.xcamhd.me:2112/live/home/home1/4093.ts
+#EXTINF:-1,TR_CINEBOX_TR
+http://xiptv.xcamhd.me:2112/live/home/home1/4094.ts
+#EXTINF:-1,TR_CINEBOX_2
+http://xiptv.xcamhd.me:2112/live/home/home1/4095.ts
+#EXTINF:-1,TR_CINEBOX_1
+http://xiptv.xcamhd.me:2112/live/home/home1/4096.ts
+#EXTINF:-1,TR_Beyaz_TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4101.ts
+#EXTINF:-1,TR_A_SPOR
+http://xiptv.xcamhd.me:2112/live/home/home1/4116.ts
+#EXTINF:-1,TR_A_Haber
+http://xiptv.xcamhd.me:2112/live/home/home1/4114.ts
+#EXTINF:-1,TR_ATV
+http://xiptv.xcamhd.me:2112/live/home/home1/4115.ts
+#EXTINF:-1,TR_24_TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4099.ts
+#EXTINF:-1,NL_RTL_7
+http://xiptv.xcamhd.me:2112/live/home/home1/4118.ts
+#EXTINF:-1,NL_RTL_5
+http://xiptv.xcamhd.me:2112/live/home/home1/4121.ts
+#EXTINF:-1,NL_RTL_4
+http://xiptv.xcamhd.me:2112/live/home/home1/4119.ts
+#EXTINF:-1,NL_NATIONAL_GEOGRAPHIC
+http://xiptv.xcamhd.me:2112/live/home/home1/4120.ts
+#EXTINF:-1,IT_SuperTennis_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4187.ts
+#EXTINF:-1,IT_Sport_Italia
+http://xiptv.xcamhd.me:2112/live/home/home1/4191.ts
+#EXTINF:-1,IT_Sky_Uno_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4176.ts
+#EXTINF:-1,IT_SKY_Sport_2_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4177.ts
+#EXTINF:-1,IT_SKY_Sport_1_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4178.ts
+#EXTINF:-1,IT_SKY_NATIONALGEO_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4044.ts
+#EXTINF:-1,IT_SKY_HISTORY_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4045.ts
+#EXTINF:-1,IT_SKY_CINEMA_PASSION_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4046.ts
+#EXTINF:-1,IT_SKY_CINEMA_MAX_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4047.ts
+#EXTINF:-1,IT_SKY_CINEMA_HITS_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4048.ts
+#EXTINF:-1,IT_SKY_CINEMA_FAMILY_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4049.ts
+#EXTINF:-1,IT_Sky_Cinema_Cult_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4180.ts
+#EXTINF:-1,IT_Sky_Cinema_Comedy_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4181.ts
+#EXTINF:-1,IT_Sky_Cinema_Classic_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4170.ts
+#EXTINF:-1,IT_SKY_CINEMA_24_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4051.ts
+#EXTINF:-1,IT_SKY_CINEMA_1_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4050.ts
+#EXTINF:-1,IT_Sky_Calcio_2_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4172.ts
+#EXTINF:-1,IT_Sky_Atlantic_1_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4182.ts
+#EXTINF:-1,IT_Sky_Arte_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4183.ts
+#EXTINF:-1,IT_Rai_3HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4184.ts
+#EXTINF:-1,IT_Rai_2HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4185.ts
+#EXTINF:-1,IT_Rai_1HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4186.ts
+#EXTINF:-1,IT_PRIMAFILA_9_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4052.ts
+#EXTINF:-1,IT_PRIMAFILA_8_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4053.ts
+#EXTINF:-1,IT_PRIMAFILA_7_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4054.ts
+#EXTINF:-1,IT_PRIMAFILA_6_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4055.ts
+#EXTINF:-1,IT_PRIMAFILA_5_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4056.ts
+#EXTINF:-1,IT_PRIMAFILA_4_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4057.ts
+#EXTINF:-1,IT_PRIMAFILA_3_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4058.ts
+#EXTINF:-1,IT_PRIMAFILA_2_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4059.ts
+#EXTINF:-1,IT_PRIMAFILA_1_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4060.ts
+#EXTINF:-1,IT_PRIMAFILA_19
+http://xiptv.xcamhd.me:2112/live/home/home1/4061.ts
+#EXTINF:-1,IT_PRIMAFILA_18
+http://xiptv.xcamhd.me:2112/live/home/home1/4062.ts
+#EXTINF:-1,IT_PRIMAFILA_17
+http://xiptv.xcamhd.me:2112/live/home/home1/4063.ts
+#EXTINF:-1,IT_PRIMAFILA_16
+http://xiptv.xcamhd.me:2112/live/home/home1/4064.ts
+#EXTINF:-1,IT_PRIMAFILA_15
+http://xiptv.xcamhd.me:2112/live/home/home1/4065.ts
+#EXTINF:-1,IT_PRIMAFILA_14
+http://xiptv.xcamhd.me:2112/live/home/home1/4066.ts
+#EXTINF:-1,IT_PRIMAFILA_13_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4067.ts
+#EXTINF:-1,IT_PRIMAFILA_12
+http://xiptv.xcamhd.me:2112/live/home/home1/4068.ts
+#EXTINF:-1,IT_PRIMAFILA_11
+http://xiptv.xcamhd.me:2112/live/home/home1/4069.ts
+#EXTINF:-1,IT_PRIMAFILA_10_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4070.ts
+#EXTINF:-1,IT_Premium_Studio_Universal
+http://xiptv.xcamhd.me:2112/live/home/home1/4189.ts
+#EXTINF:-1,IT_Premium_Sport_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4190.ts
+#EXTINF:-1,IT_Premium_Joi
+http://xiptv.xcamhd.me:2112/live/home/home1/4193.ts
+#EXTINF:-1,IT_Premium_Emotion
+http://xiptv.xcamhd.me:2112/live/home/home1/4173.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4071.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_ENERGY_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4072.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_EMOTION_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4073.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_24
+http://xiptv.xcamhd.me:2112/live/home/home1/4074.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_2
+http://xiptv.xcamhd.me:2112/live/home/home1/4075.ts
+#EXTINF:-1,IT_Premium_Calcio_5
+http://xiptv.xcamhd.me:2112/live/home/home1/4194.ts
+#EXTINF:-1,IT_Premium_BBC
+http://xiptv.xcamhd.me:2112/live/home/home1/4174.ts
+#EXTINF:-1,IT_Premium_Action_24
+http://xiptv.xcamhd.me:2112/live/home/home1/4195.ts
+#EXTINF:-1,IT_Mediaset_Extra
+http://xiptv.xcamhd.me:2112/live/home/home1/4196.ts
+#EXTINF:-1,IT_Lei
+http://xiptv.xcamhd.me:2112/live/home/home1/4197.ts
+#EXTINF:-1,IT_LA_7_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4198.ts
+#EXTINF:-1,IT_La_5
+http://xiptv.xcamhd.me:2112/live/home/home1/4199.ts
+#EXTINF:-1,IT_IT_Premium_Stories
+http://xiptv.xcamhd.me:2112/live/home/home1/4076.ts
+#EXTINF:-1,IT_Fox_Sports_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4200.ts
+#EXTINF:-1,IT_FOX_LIFE_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4077.ts
+#EXTINF:-1,IT_FOX_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4078.ts
+#EXTINF:-1,IT_Fox_Crime_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4188.ts
+#EXTINF:-1,IT_DMAX_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4202.ts
+#EXTINF:-1,IT_Disney_XD
+http://xiptv.xcamhd.me:2112/live/home/home1/4203.ts
+#EXTINF:-1,IT_Discovery_Sci_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4201.ts
+#EXTINF:-1,IT_Discovery
+http://xiptv.xcamhd.me:2112/live/home/home1/4179.ts
+#EXTINF:-1,IT_Cielo_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4171.ts
+#EXTINF:-1,IT_Cartoonito
+http://xiptv.xcamhd.me:2112/live/home/home1/4204.ts
+#EXTINF:-1,IT_Canale_5_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4205.ts
+#EXTINF:-1,IT_Boing
+http://xiptv.xcamhd.me:2112/live/home/home1/4206.ts
+#EXTINF:-1,IT_AXN_Sci-Fi
+http://xiptv.xcamhd.me:2112/live/home/home1/4175.ts
+#EXTINF:-1,IT_AXN_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4207.ts
+#EXTINF:-1,IT_Animal_Planet_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4192.ts
+#EXTINF:-1,IN_ZEE_LIVING
+http://xiptv.xcamhd.me:2112/live/home/home1/4227.ts
+#EXTINF:-1,IN_STAR_PLUS_IND
+http://xiptv.xcamhd.me:2112/live/home/home1/4223.ts
+#EXTINF:-1,IN_B4U_MUSIC
+http://xiptv.xcamhd.me:2112/live/home/home1/4224.ts
+#EXTINF:-1,IN_B4U_MOVIES
+http://xiptv.xcamhd.me:2112/live/home/home1/4225.ts
+#EXTINF:-1,IN_AND_TV_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4226.ts
+#EXTINF:-1,IN_9XM
+http://xiptv.xcamhd.me:2112/live/home/home1/4222.ts
+#EXTINF:-1,FR_Tout_LHistoire
+http://xiptv.xcamhd.me:2112/live/home/home1/4130.ts
+#EXTINF:-1,FR_PIWI
+http://xiptv.xcamhd.me:2112/live/home/home1/4131.ts
+#EXTINF:-1,FR_OCS_CITY
+http://xiptv.xcamhd.me:2112/live/home/home1/4141.ts
+#EXTINF:-1,FR_NRJ12
+http://xiptv.xcamhd.me:2112/live/home/home1/4132.ts
+#EXTINF:-1,FR_Nat_Geo
+http://xiptv.xcamhd.me:2112/live/home/home1/4142.ts
+#EXTINF:-1,FR_M6
+http://xiptv.xcamhd.me:2112/live/home/home1/4133.ts
+#EXTINF:-1,FR_Infosport
+http://xiptv.xcamhd.me:2112/live/home/home1/4134.ts
+#EXTINF:-1,FR_France_O
+http://xiptv.xcamhd.me:2112/live/home/home1/4135.ts
+#EXTINF:-1,FR_France_4
+http://xiptv.xcamhd.me:2112/live/home/home1/4137.ts
+#EXTINF:-1,FR_Disney
+http://xiptv.xcamhd.me:2112/live/home/home1/4138.ts
+#EXTINF:-1,FR_Discovery
+http://xiptv.xcamhd.me:2112/live/home/home1/4136.ts
+#EXTINF:-1,FR_CINE_POLAR
+http://xiptv.xcamhd.me:2112/live/home/home1/4126.ts
+#EXTINF:-1,FR_CANAL_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4127.ts
+#EXTINF:-1,FR_BeinSport_MAX_8
+http://xiptv.xcamhd.me:2112/live/home/home1/4139.ts
+#EXTINF:-1,FR_BeinSport_MAX_7
+http://xiptv.xcamhd.me:2112/live/home/home1/4140.ts
+#EXTINF:-1,FR_ARTE
+http://xiptv.xcamhd.me:2112/live/home/home1/4128.ts
+#EXTINF:-1,FR_Animaux_hd
+http://xiptv.xcamhd.me:2112/live/home/home1/4129.ts
+#EXTINF:-1,EX-YU_PINK_REALITY
+http://xiptv.xcamhd.me:2112/live/home/home1/4209.ts
+#EXTINF:-1,EX-YU_PINK_PREMIUM
+http://xiptv.xcamhd.me:2112/live/home/home1/4210.ts
+#EXTINF:-1,EX-YU_PINK_HORROR
+http://xiptv.xcamhd.me:2112/live/home/home1/4211.ts
+#EXTINF:-1,EX-YU_PINK_CRIME
+http://xiptv.xcamhd.me:2112/live/home/home1/4208.ts
+#EXTINF:-1,EX-YU_Nova_HR
+http://xiptv.xcamhd.me:2112/live/home/home1/4212.ts
+#EXTINF:-1,EX-YU_HRT_4
+http://xiptv.xcamhd.me:2112/live/home/home1/4213.ts
+#EXTINF:-1,EX-YU_HRT_3
+http://xiptv.xcamhd.me:2112/live/home/home1/4214.ts
+#EXTINF:-1,EX-YU_HRT_2
+http://xiptv.xcamhd.me:2112/live/home/home1/4215.ts
+#EXTINF:-1,EX-YU_HRT_1
+http://xiptv.xcamhd.me:2112/live/home/home1/4216.ts
+#EXTINF:-1,EX-YU_Arena_Sport_5_HR
+http://xiptv.xcamhd.me:2112/live/home/home1/4217.ts
+#EXTINF:-1,EX-YU_Arena_Sport_4_HR
+http://xiptv.xcamhd.me:2112/live/home/home1/4218.ts
+#EXTINF:-1,EX-YU_Arena_Sport_3_HR
+http://xiptv.xcamhd.me:2112/live/home/home1/4219.ts
+#EXTINF:-1,EX-YU_Arena_Sport_2_HR
+http://xiptv.xcamhd.me:2112/live/home/home1/4220.ts
+#EXTINF:-1,EX-YU_Arena_Sport_1_HR
+http://xiptv.xcamhd.me:2112/live/home/home1/4221.ts
+#EXTINF:-1,ES_Real_Madrid
+http://xiptv.xcamhd.me:2112/live/home/home1/4125.ts
+#EXTINF:-1,ES_FOX_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4122.ts
+#EXTINF:-1,ES_CANAL_COMIDEA
+http://xiptv.xcamhd.me:2112/live/home/home1/4124.ts
+#EXTINF:-1,ES_Barca_TV
+http://xiptv.xcamhd.me:2112/live/home/home1/4123.ts
+#EXTINF:-1,DE_VOX
+http://xiptv.xcamhd.me:2112/live/home/home1/4236.ts
+#EXTINF:-1,DE_SUPER_RTL
+http://xiptv.xcamhd.me:2112/live/home/home1/4228.ts
+#EXTINF:-1,DE_Sky_TNT_Serie
+http://xiptv.xcamhd.me:2112/live/home/home1/4237.ts
+#EXTINF:-1,DE_Sky_Sports_HD_1
+http://xiptv.xcamhd.me:2112/live/home/home1/4238.ts
+#EXTINF:-1,DE_SKY_SELECT_4_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4231.ts
+#EXTINF:-1,DE_Sky_Krimi
+http://xiptv.xcamhd.me:2112/live/home/home1/4239.ts
+#EXTINF:-1,DE_Sky_Atlantic_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4232.ts
+#EXTINF:-1,DE_Sat_1
+http://xiptv.xcamhd.me:2112/live/home/home1/4240.ts
+#EXTINF:-1,DE_RTL2
+http://xiptv.xcamhd.me:2112/live/home/home1/4241.ts
+#EXTINF:-1,DE_RTL
+http://xiptv.xcamhd.me:2112/live/home/home1/4242.ts
+#EXTINF:-1,DE_Pro7
+http://xiptv.xcamhd.me:2112/live/home/home1/4235.ts
+#EXTINF:-1,DE_National_Geo_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4229.ts
+#EXTINF:-1,DE_MGM_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4244.ts
+#EXTINF:-1,DE_KABEL1
+http://xiptv.xcamhd.me:2112/live/home/home1/4243.ts
+#EXTINF:-1,DE_History_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4230.ts
+#EXTINF:-1,DE_Fox_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4245.ts
+#EXTINF:-1,DE_Disney_Junior_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4233.ts
+#EXTINF:-1,DE_AXN_Action
+http://xiptv.xcamhd.me:2112/live/home/home1/4234.ts
+#EXTINF:-1,DE_ARD_1
+http://xiptv.xcamhd.me:2112/live/home/home1/4247.ts
+#EXTINF:-1,DE_13_Street_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4246.ts
+#EXTINF:-1,ALB_TVSH
+http://xiptv.xcamhd.me:2112/live/home/home1/4264.ts
+#EXTINF:-1,ALB_TRING_WORLD
+http://xiptv.xcamhd.me:2112/live/home/home1/4248.ts
+#EXTINF:-1,ALB_TRING_TRING
+http://xiptv.xcamhd.me:2112/live/home/home1/4265.ts
+#EXTINF:-1,ALB_Tring_Sport_News
+http://xiptv.xcamhd.me:2112/live/home/home1/4258.ts
+#EXTINF:-1,ALB_TRING_Sport_4
+http://xiptv.xcamhd.me:2112/live/home/home1/4259.ts
+#EXTINF:-1,ALB_TRING_SHQIP
+http://xiptv.xcamhd.me:2112/live/home/home1/4266.ts
+#EXTINF:-1,ALB_TRING_PLANET
+http://xiptv.xcamhd.me:2112/live/home/home1/4267.ts
+#EXTINF:-1,ALB_TRING_MAX
+http://xiptv.xcamhd.me:2112/live/home/home1/4251.ts
+#EXTINF:-1,ALB_TRING_LIFE
+http://xiptv.xcamhd.me:2112/live/home/home1/4268.ts
+#EXTINF:-1,ALB_TRING_KOMEDI
+http://xiptv.xcamhd.me:2112/live/home/home1/4249.ts
+#EXTINF:-1,ALB_TRING_HISTORI
+http://xiptv.xcamhd.me:2112/live/home/home1/4269.ts
+#EXTINF:-1,ALB_TRING_FANTASY
+http://xiptv.xcamhd.me:2112/live/home/home1/4270.ts
+#EXTINF:-1,ALB_Top_Channel
+http://xiptv.xcamhd.me:2112/live/home/home1/4252.ts
+#EXTINF:-1,ALB_Super_Sport_5
+http://xiptv.xcamhd.me:2112/live/home/home1/4271.ts
+#EXTINF:-1,ALB_Super_Sport_4
+http://xiptv.xcamhd.me:2112/live/home/home1/4272.ts
+#EXTINF:-1,ALB_National_Geographic
+http://xiptv.xcamhd.me:2112/live/home/home1/4263.ts
+#EXTINF:-1,ALB_KTV_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4273.ts
+#EXTINF:-1,ALB_Klan
+http://xiptv.xcamhd.me:2112/live/home/home1/4260.ts
+#EXTINF:-1,ALB_Kino_Romance
+http://xiptv.xcamhd.me:2112/live/home/home1/4253.ts
+#EXTINF:-1,ALB_Kino_Premiere_1
+http://xiptv.xcamhd.me:2112/live/home/home1/4254.ts
+#EXTINF:-1,ALB_Kino_Family
+http://xiptv.xcamhd.me:2112/live/home/home1/4255.ts
+#EXTINF:-1,ALB_Kino_Dark
+http://xiptv.xcamhd.me:2112/live/home/home1/4256.ts
+#EXTINF:-1,ALB_Kino_Action
+http://xiptv.xcamhd.me:2112/live/home/home1/4257.ts
+#EXTINF:-1,ALB_JOLLY_HD
+http://xiptv.xcamhd.me:2112/live/home/home1/4274.ts
+#EXTINF:-1,ALB_FILM_HITS
+http://xiptv.xcamhd.me:2112/live/home/home1/4250.ts
+#EXTINF:-1,ALB_EXP_SHKENCE
+http://xiptv.xcamhd.me:2112/live/home/home1/4275.ts
+#EXTINF:-1,ALB_EXP_NATYRE
+http://xiptv.xcamhd.me:2112/live/home/home1/4261.ts
+#EXTINF:-1,ALB_EXP_HISTORI
+http://xiptv.xcamhd.me:2112/live/home/home1/4276.ts
+#EXTINF:-1,ALB_Cufo
+http://xiptv.xcamhd.me:2112/live/home/home1/4262.ts
+#EXTINF:-1,ALB_Bang_Bang
+http://xiptv.xcamhd.me:2112/live/home/home1/4277.ts
+#EXTINF:-1,ALB_ALSAT_M
+http://xiptv.xcamhd.me:2112/live/home/home1/4278.ts
+#EXTINF:-1,ALB_ABC_NEWS
+http://xiptv.xcamhd.me:2112/live/home/home1/4279.ts
 </List>

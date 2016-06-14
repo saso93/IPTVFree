@@ -3,6 +3,8 @@
 #EXTM3U
 #EXTINF:-1,---NOVITA
 http://dummylink.com
+#EXTINF:-1,Gomorra 21.00
+http://bstream2.wondernight.net:8000/live/russo/russo/415.ts
 #EXTINF:-1, Gomorra (in fondo)
 http://dummylink.com
 #EXTINF:-1,---DEFAULT
@@ -513,7 +515,7 @@ http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
 #EXTINF:-1,--------Sky Cinema--------
 http://google.comt:8000/hdmi
-#EXTINF:-1,Sky Cinema1 HD
+#EXTINF:-1,Sky Cinema 1 HD
 http://bstream2.wondernight.net:8000/live/russo/russo/244.ts
 #EXTINF:-1,Sky Cinema1 HD Dsl Lente
 http://bstream2.wondernight.net:8000/live/russo/russo/247.ts

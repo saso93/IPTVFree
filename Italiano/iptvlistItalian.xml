@@ -5363,6 +5363,10 @@ http://tvservice.webhop.me:80/movie/GN0007/0007GN/5425.mkv
 http://tvservice.webhop.me:80/movie/GN0007/0007GN/5459.mkv
 #EXTINF:-1,Gomorra 2x10 Episodio 10
 http://tvservice.webhop.me:80/movie/GN0007/0007GN/5460.mkv
+#EXTINF:-1,Gomorra 2x11 Episodio 11
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14567.mkv
+#EXTINF:-1,Gomorra 2x12 Episodio 12
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14568.mkv
 #EXTINF:-1,---- ON DEMAND BAMBINI ----
 http://tvservice.webhop.me:80/live/GN0007/0007GN/651.ts
 #EXTINF:-1,Albert e il diamante magico

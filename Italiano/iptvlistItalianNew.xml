@@ -107,7 +107,7 @@ http://stream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
 http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/2324.ts
 #EXTINF:-1,M2o Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1,Radio capital Tiv˘
+#EXTINF:-1,Radio capital Tiv√π
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 ,ORLER CHANNEL
 http://77.92.76.135:1935/orler/livestream/playlist.m3u8
@@ -405,7 +405,7 @@ rtmp://video2.kronopress.com:1935/ctp_live/stream5
 rtmp://video2.kronopress.com:1935/ctp_live/stream6 
 #EXTINF:-1 ,FM Italia TV
 rtmp://flash5.streaming.xdevel.com:80/fmitalia/fmitalia
-#EXTINF:-1 ,Radio Tiv˘ Azzurra
+#EXTINF:-1 ,Radio Tiv√π Azzurra
 rtmp://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive
 #EXTINF:-1 ,Radio Universal TV
 rtmp://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv
@@ -477,7 +477,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18556093/streams/live/playlist.m
 http://iphone-streaming.ustream.tv/ustreamVideo/9426995/streams/live/playlist.m3u8
 #EXTINF:-1 ,TelePadova
 rtmp://stream.telepadova.com/TELEPDplaylist/playlist
-#EXTINF:-1 ,Telecitt‡ Musicissima
+#EXTINF:-1 ,Telecitt√† Musicissima
 rtmp://stream.telepadova.com/live4/live4
 #EXTINF:-1 ,Rtc Quarta Rete
 rtmp://msh0232.stream.seeweb.it:1935/live/stream011.sdp
@@ -497,7 +497,7 @@ rtmp://cafe.meway.tv:1942/cafe_live/cafe
 rtmp://fms.tvavicenza.it:1935/live/diretta_1
 #EXTINF:-1 ,Rete Veneta
 http://streaming.reteveneta.it/RVApple.isml/QualityLevels(874000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 ,Telecitt‡
+#EXTINF:-1 ,Telecitt√†
 rtmp://stream.telepadova.com/live/tv1
 #EXTINF:-1,RTTR
 rtmp://wma07.fluidstream.net:1935/RTTRlive/livestream
@@ -905,7 +905,7 @@ http://gameserver4.streamiptv.online:80/live/mariac/mariac/4493.ts
 http://gameserver4.streamiptv.online:80/live/mariac/mariac/4494.ts
 #EXTINF:-1,+++Premium
 http://dummylink.com
-#EXTINF:-1,---MEDIASET PREMIUM - - - - - -
+#EXTINF:-1,---MEDIASET PREMIUM
 http://iptv.proff.co:15003/live/vito/vito/167.ts
 #EXTINF:-1,Premium Cinema HD
 http://iptv.proff.co:15003/live/vito/vito/88.ts
@@ -951,6 +951,8 @@ http://iptv.proff.co:15003/live/vito/vito/917.ts
 http://iptv.proff.co:15003/live/vito/vito/119.ts
 #EXTINF:-1,BBC Knowledge - Premium
 http://iptv.proff.co:15003/live/vito/vito/121.ts
+#EXTINF:-1,---PREMIUM CALCIO
+http://iptv.proff.co:15003/live/vito/vito/167.ts
 #EXTINF:-1,Premium Sport HD
 http://iptv.proff.co:15003/live/vito/vito/468.ts
 #EXTINF:-1,Premium Sport Dsl Lente
@@ -1107,7 +1109,7 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/1154.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13173.mkv
 #EXTINF:-1,Nirvana
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13177.mkv
-#EXTINF:-1,Pan - Viaggio sull isola che non c Ë
+#EXTINF:-1,Pan - Viaggio sull isola che non c √®
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13961.mkv
 #EXTINF:-1,Project Almanac - Benvenuti a ieri
 http://gtatemvod.com:43100/movie/Augusto/Augusto/6266.mkv
@@ -1217,7 +1219,7 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/13831.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/2251.mkv
 #EXTINF:-1,Orgoglio e pregiudizio
 http://gtatemvod.com:43100/movie/Augusto/Augusto/11612.mkv
-#EXTINF:-1,Sar‡ il mio tipo
+#EXTINF:-1,Sar√† il mio tipo
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13837.mkv
 #EXTINF:-1,-----HORROR-----
 http://dummylink.com
@@ -1357,7 +1359,7 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/4280.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14311.mkv
 #EXTINF:-1,Tracers
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13964.mkv
-#EXTINF:-1,Safe House Nessuno Ë al sicuro
+#EXTINF:-1,Safe House Nessuno √® al sicuro
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14308.mkv
 #EXTINF:-1,Salvate il soldato Ryan
 http://gtatemvod.com:43100/movie/Augusto/Augusto/12738.mkv
@@ -1515,9 +1517,9 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/3555.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/3560.mkv
 #EXTINF:-1,Franco e Ciccio - I Nipoti Di Zorro
 http://gtatemvod.com:43100/movie/Augusto/Augusto/3558.mkv
-#EXTINF:-1,Franco e Ciccio - I Due Figli Di Trinit√ 
+#EXTINF:-1,Franco e Ciccio - I Due Figli Di Trinit√É 
 http://gtatemvod.com:43100/movie/Augusto/Augusto/3554.mkv
-#EXTINF:-1,Franco e Ciccio - I Due Della Formula Uno Alla Corsa Pi√π Pazza Del Mondo
+#EXTINF:-1,Franco e Ciccio - I Due Della Formula Uno Alla Corsa Pi√É¬π Pazza Del Mondo
 http://gtatemvod.com:43100/movie/Augusto/Augusto/3553.mkv
 #EXTINF:-1,Franco e Ciccio - Farfallon
 http://gtatemvod.com:43100/movie/Augusto/Augusto/3552.mkv
@@ -1533,7 +1535,7 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/4277.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/5682.mkv
 #EXTINF:-1,Fracchia la belva umana
 http://gtatemvod.com:43100/movie/Augusto/Augusto/12116.mkv
-#EXTINF:-1,Finalmente la felicit√  - Leonardo Pieraccioni
+#EXTINF:-1,Finalmente la felicit√É  - Leonardo Pieraccioni
 http://gtatemvod.com:43100/movie/Augusto/Augusto/12970.mkv
 #EXTINF:-1,Febbre Da Cavallo
 http://gtatemvod.com:43100/movie/Augusto/Augusto/12731.mkv
@@ -1601,9 +1603,9 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/4369.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/4220.mkv
 #EXTINF:-1,La leggenda di Al Jhon e Jack
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13178.mkv
-#EXTINF:-1,La vita Ë facile ad occhi chiusi
+#EXTINF:-1,La vita √® facile ad occhi chiusi
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13836.mkv
-#EXTINF:-1,La sedia della Felicit√ 
+#EXTINF:-1,La sedia della Felicit√É 
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13835.mkv
 #EXTINF:-1,Le Avventure Di Pinocchio
 http://gtatemvod.com:43100/movie/Augusto/Augusto/4414.mkv
@@ -1617,7 +1619,7 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/4366.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/4367.mkv
 #EXTINF:-1,Loro Chi
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13898.mkv
-#EXTINF:-1,Lui Ë peggio di me
+#EXTINF:-1,Lui √® peggio di me
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14509.avi
 #EXTINF:-1,Mediterraneo
 http://gtatemvod.com:43100/movie/Augusto/Augusto/2261.mkv
@@ -1729,7 +1731,7 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/14496.mp4
 http://gtatemvod.com:43100/movie/Augusto/Augusto/12987.mkv
 #EXTINF:-1,Steve Jobs
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14467.avi
-#EXTINF:-1,The Dressmaker - Il diavolo Ë tornato
+#EXTINF:-1,The Dressmaker - Il diavolo √® tornato
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14376.avi
 #EXTINF:-1,The end of the Tour
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13824.mkv
@@ -1853,7 +1855,7 @@ http://1speed.dyndns.tv:8000/movie/tommy2/tommy2/1356.mkv
 http://1speed.dyndns.tv:8000/movie/tommy2/tommy2/1357.mkv
 #EXTINF:-1,Emigratis.1x03-Londra
 http://1speed.dyndns.tv:8000/movie/tommy2/tommy2/1358.mkv
-#EXTINF:-1,Emigratis.1x04-New York Toronto MontrÈal
+#EXTINF:-1,Emigratis.1x04-New York Toronto Montr√©al
 http://1speed.dyndns.tv:8000/movie/tommy2/tommy2/1359.mkv
 #EXTINF:-1,Emigratis.1x05-Miami
 http://1speed.dyndns.tv:8000/movie/tommy2/tommy2/1372.mkv
@@ -1863,7 +1865,7 @@ http://1speed.dyndns.tv:8000/movie/tommy2/tommy2/1426.avi
 http://1speed.dyndns.tv:8000/movie/tommy2/tommy2/1499.avi
 #EXTINF:-1,---THE VAMPIRE DIARIES
 http://dummylink.com
-#EXTINF:-1,The.Vampire.Diaries.S07E01-Il primo di 22000 giorni... giorno pi˘ giorno meno
+#EXTINF:-1,The.Vampire.Diaries.S07E01-Il primo di 22000 giorni... giorno pi√π giorno meno
 http://1speed.dyndns.tv:8000/movie/tommy2/tommy2/1454.mkv
 #EXTINF:-1,The.Vampire.Diaries.S07E02-Non lasciarmi andare
 http://1speed.dyndns.tv:8000/movie/tommy2/tommy2/1455.mkv
@@ -2035,7 +2037,7 @@ http://gtatemvod.com:43100/movie/viper/viper/13210.mkv
 http://gtatemvod.com:43100/movie/viper/viper/13211.mkv
 #EXTINF:-1,Narcos.1x04 Il Palazzo in fiamme
 http://gtatemvod.com:43100/movie/viper/viper/13212.mkv
-#EXTINF:-1,Narcos 1x05 Ci sar√  un futuro
+#EXTINF:-1,Narcos 1x05 Ci sar√É  un futuro
 http://gtatemvod.com:43100/movie/viper/viper/13213.mkv
 #EXTINF:-1,Narcos 1x06 Esplosivi
 http://gtatemvod.com:43100/movie/viper/viper/13214.mkv
@@ -4049,11 +4051,11 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/14075.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14076.mkv
 #EXTINF:-1,Greys Anatomy 3x03 Fantasie
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14077.mkv
-#EXTINF:-1,Greys Anatomy 3x04 CiÚ che siamo
+#EXTINF:-1,Greys Anatomy 3x04 Ci√≤ che siamo
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14078.mkv
 #EXTINF:-1,Greys Anatomy 3x05 Sensi di colpa
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14079.mkv
-#EXTINF:-1,Greys Anatomy 3x06 Impegnarsi Ë complicato
+#EXTINF:-1,Greys Anatomy 3x06 Impegnarsi √® complicato
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14080.mkv
 #EXTINF:-1,Greys Anatomy 3x07 Un nuovo inizio
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14081.mkv

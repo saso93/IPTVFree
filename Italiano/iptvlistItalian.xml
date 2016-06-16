@@ -511,394 +511,332 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,- - - - - -SKY CINEMA - - - - - -
-http://iptv.proff.co:15003/live/vito/vito/159.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://iptv.proff.co:15003/live/vito/vito/1.ts
-#EXTINF:-1,Sky Cinema  1 HD (DSL Lente)
-http://iptv.proff.co:15003/live/vito/vito/1579.ts
-#EXTINF:-1,Sky Cinema 1 (DSL Lente)
-http://iptv.proff.co:15003/live/vito/vito/1588.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://iptv.proff.co:15003/live/vito/vito/2.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://iptv.proff.co:15003/live/vito/vito/3.ts
-#EXTINF:-1,Sky Cinema  24 SD
-http://iptv.proff.co:15003/live/vito/vito/1557.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://iptv.proff.co:15003/live/vito/vito/4.ts
-#EXTINF:-1,Sky Cinema HITS (DSL Lente)
-http://iptv.proff.co:15003/live/vito/vito/1587.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://iptv.proff.co:15003/live/vito/vito/5.ts
-#EXTINF:-1,Sky CinemaFamily SD
-http://iptv.proff.co:15003/live/vito/vito/1591.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://iptv.proff.co:15003/live/vito/vito/6.ts
-#EXTINF:-1,Sky Cinema Family  1 HD (DSL Lente)
-http://iptv.proff.co:15003/live/vito/vito/1578.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://iptv.proff.co:15003/live/vito/vito/7.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://iptv.proff.co:15003/live/vito/vito/10.ts
-#EXTINF:-1,Sky Cinema Max SD
-http://iptv.proff.co:15003/live/vito/vito/1592.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://iptv.proff.co:15003/live/vito/vito/11.ts
-#EXTINF:-1,Sky Cinema Max  1 HD Dsl Lente
-http://iptv.proff.co:15003/live/vito/vito/1575.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://iptv.proff.co:15003/live/vito/vito/9.ts
-#EXTINF:-1,Sky Cinema Comedy SD
-http://iptv.proff.co:15003/live/vito/vito/1593.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://iptv.proff.co:15003/live/vito/vito/12.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://iptv.proff.co:15003/live/vito/vito/13.ts
-#EXTINF:-1,Sky Paramount Channel
-http://iptv.proff.co:15003/live/vito/vito/1639.ts
-#EXTINF:-1,- - - - - -SKY INTRATTENIMENTO - - - - - -
-http://iptv.proff.co:15003/live/vito/vito/160.ts
-#EXTINF:-1,Sky 3D
-http://iptv.proff.co:15003/live/vito/vito/28.ts
-#EXTINF:-1,Sky Uno HD
-http://iptv.proff.co:15003/live/vito/vito/15.ts
-#EXTINF:-1,Sky Uno (DSL Lente)
-http://iptv.proff.co:15003/live/vito/vito/1583.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://iptv.proff.co:15003/live/vito/vito/157.ts
-#EXTINF:-1,Sky Atlantic HD
-http://iptv.proff.co:15003/live/vito/vito/16.ts
-#EXTINF:-1,Sky Atlantic (dsl Lente)
-http://iptv.proff.co:15003/live/vito/vito/1585.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://iptv.proff.co:15003/live/vito/vito/234.ts
-#EXTINF:-1,Fox HD
-http://iptv.proff.co:15003/live/vito/vito/18.ts
-#EXTINF:-1,Fox SD
-http://iptv.proff.co:15003/live/vito/vito/1589.ts
-#EXTINF:-1,Fox +1
-http://iptv.proff.co:15003/live/vito/vito/142.ts
-#EXTINF:-1,Fox Life HD
-http://iptv.proff.co:15003/live/vito/vito/19.ts
-#EXTINF:-1,Fox Life SD
-http://iptv.proff.co:15003/live/vito/vito/1590.ts
-#EXTINF:-1,Fox Life +1
-http://iptv.proff.co:15003/live/vito/vito/235.ts
-#EXTINF:-1,Fox Crime HD
-http://iptv.proff.co:15003/live/vito/vito/20.ts
-#EXTINF:-1,Fox Crime (Dsl Lente)
-http://iptv.proff.co:15003/live/vito/vito/1586.ts
-#EXTINF:-1,Fox Crime +1
-http://iptv.proff.co:15003/live/vito/vito/236.ts
-#EXTINF:-1,AXN HD
-http://iptv.proff.co:15003/live/vito/vito/23.ts
-#EXTINF:-1,ITA - AXN  HD  Dsl Lente
-http://iptv.proff.co:15003/live/vito/vito/1577.ts
-#EXTINF:-1,AXN +1
-http://iptv.proff.co:15003/live/vito/vito/620.ts
-#EXTINF:-1,Comedy Central
-http://iptv.proff.co:15003/live/vito/vito/24.ts
-#EXTINF:-1,AXN Sci-Fi
-http://iptv.proff.co:15003/live/vito/vito/27.ts
-#EXTINF:-1,Fox Animation HD
-http://iptv.proff.co:15003/live/vito/vito/25.ts
-#EXTINF:-1,Fox Comedy HD
-http://iptv.proff.co:15003/live/vito/vito/60.ts
-#EXTINF:-1,Lei
-http://iptv.proff.co:15003/live/vito/vito/26.ts
-#EXTINF:-1,Topcrime
-http://iptv.proff.co:15003/live/vito/vito/196.ts
-#EXTINF:-1,Cielo HD
-http://iptv.proff.co:15003/live/vito/vito/198.ts
-#EXTINF:-1,Real Time HD
-http://iptv.proff.co:15003/live/vito/vito/529.ts
-#EXTINF:-1,Rai 4
-http://iptv.proff.co:15003/live/vito/vito/535.ts
-#EXTINF:-1,Rai Premium
-http://iptv.proff.co:15003/live/vito/vito/532.ts
+#EXTINF:-1,----------Sky Cinema----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5112.ts
+#EXTINF:-1,Cinema 1 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5053.ts
+#EXTINF:-1,Cinema +1 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5054.ts
+#EXTINF:-1,Cinema +24 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5062.ts
+#EXTINF:-1,Cinema Hits HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5057.ts
+#EXTINF:-1,CinemaFamilyHD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5058.ts
+#EXTINF:-1,CinemaFamily+1HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5059.ts
+#EXTINF:-1,Cinema Classics HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5061.ts
+#EXTINF:-1,Cinema Passion HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5064.ts
+#EXTINF:-1,Cinema Comedy HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5060.ts
+#EXTINF:-1,Cinema Max HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5055.ts
+#EXTINF:-1,Cinema Max +1 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5056.ts
+#EXTINF:-1,Cinema Cult HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5063.ts
 #EXTINF:-1,Rai Movie
-http://iptv.proff.co:15003/live/vito/vito/534.ts
-#EXTINF:-1,La 5
-http://iptv.proff.co:15003/live/vito/vito/537.ts
-#EXTINF:-1,Italia 2
-http://iptv.proff.co:15003/live/vito/vito/536.ts
-#EXTINF:-1,IRIS
-http://iptv.proff.co:15003/live/vito/vito/540.ts
-#EXTINF:-1,Mediaset Extra
-http://iptv.proff.co:15003/live/vito/vito/543.ts
-#EXTINF:-1,FOR MUSIC
-http://iptv.proff.co:15003/live/vito/vito/542.ts
-#EXTINF:-1,Classica HD
-http://iptv.proff.co:15003/live/vito/vito/1466.ts
-#EXTINF:-1,- - - - - -SKY SPORT - - - - - -
-http://iptv.proff.co:15003/live/vito/vito/161.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://iptv.proff.co:15003/live/vito/vito/29.ts
-#EXTINF:-1,SKY Sport 24 (DSL Lente)
-http://iptv.proff.co:15003/live/vito/vito/1584.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://iptv.proff.co:15003/live/vito/vito/30.ts
-#EXTINF:-1,Sky Sport 1 Dsl Lente
-http://iptv.proff.co:15003/live/vito/vito/1559.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://iptv.proff.co:15003/live/vito/vito/31.ts
-#EXTINF:-1,ITA - Sky Sport 2 HD Dsl Lente
-http://iptv.proff.co:15003/live/vito/vito/1574.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://iptv.proff.co:15003/live/vito/vito/32.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://iptv.proff.co:15003/live/vito/vito/33.ts
-#EXTINF:-1,Sport Plus SD
-http://iptv.proff.co:15003/live/vito/vito/1560.ts
-#EXTINF:-1,Fox Sports HD
-http://iptv.proff.co:15003/live/vito/vito/35.ts
-#EXTINF:-1,FOX SPORT SD
-http://iptv.proff.co:15003/live/vito/vito/1595.ts
-#EXTINF:-1,Sky Sport  F1 HD
-http://iptv.proff.co:15003/live/vito/vito/36.ts
-#EXTINF:-1,Sport F1 SD
-http://iptv.proff.co:15003/live/vito/vito/1562.ts
-#EXTINF:-1,Sky Sport MotoGP  HD
-http://iptv.proff.co:15003/live/vito/vito/37.ts
-#EXTINF:-1,MOTOGP SD
-http://iptv.proff.co:15003/live/vito/vito/1594.ts
-#EXTINF:-1,EuroSport HD
-http://iptv.proff.co:15003/live/vito/vito/38.ts
-#EXTINF:-1,EuroSport 2 HD
-http://iptv.proff.co:15003/live/vito/vito/39.ts
-#EXTINF:-1,Super Tennis HD
-http://iptv.proff.co:15003/live/vito/vito/557.ts
-#EXTINF:-1,Bike Channel
-http://iptv.proff.co:15003/live/vito/vito/326.ts
-#EXTINF:-1,Rai Sport 1
-http://iptv.proff.co:15003/live/vito/vito/243.ts
-#EXTINF:-1,Rai Sport 2
-http://iptv.proff.co:15003/live/vito/vito/244.ts
-#EXTINF:-1,Milan Channel
-http://iptv.proff.co:15003/live/vito/vito/41.ts
-#EXTINF:-1,JUVENTUS TV
-http://iptv.proff.co:15003/live/vito/vito/42.ts
-#EXTINF:-1,Inter Channel
-http://iptv.proff.co:15003/live/vito/vito/43.ts
-#EXTINF:-1,Lazio Style Channel
-http://iptv.proff.co:15003/live/vito/vito/44.ts
-#EXTINF:-1,ROMA TV
-http://iptv.proff.co:15003/live/vito/vito/45.ts
-#EXTINF:-1,Poker Italia 24
-http://iptv.proff.co:15003/live/vito/vito/191.ts
-#EXTINF:-1,CACCIA e pesca
-http://iptv.proff.co:15003/live/vito/vito/46.ts
-#EXTINF:-1,PESCA e caccia
-http://iptv.proff.co:15003/live/vito/vito/47.ts
-#EXTINF:-1,Class Horse TV
-http://iptv.proff.co:15003/live/vito/vito/1460.ts
-#EXTINF:-1,GAZZETTA TV
-http://iptv.proff.co:15003/live/vito/vito/506.ts
-#EXTINF:-1,- - - - - -SKY CALCIO - - - - - - -
-http://iptv.proff.co:15003/live/vito/vito/246.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://iptv.proff.co:15003/live/vito/vito/34.ts
-#EXTINF:-1,sky supercalcio SD
-http://iptv.proff.co:15003/live/vito/vito/1561.ts
-#EXTINF:-1,SKY CALCIO 1 SD
-http://iptv.proff.co:15003/live/vito/vito/1482.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://iptv.proff.co:15003/live/vito/vito/48.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://iptv.proff.co:15003/live/vito/vito/49.ts
-#EXTINF:-1,Sky Calcio 2 Dsl Lente
-http://iptv.proff.co:15003/live/vito/vito/1564.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://iptv.proff.co:15003/live/vito/vito/50.ts
-#EXTINF:-1,Sky Calcio 3 Dsl Lente
-http://iptv.proff.co:15003/live/vito/vito/1565.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://iptv.proff.co:15003/live/vito/vito/51.ts
-#EXTINF:-1,CALCIO 4 SD
-http://iptv.proff.co:15003/live/vito/vito/1566.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://iptv.proff.co:15003/live/vito/vito/52.ts
-#EXTINF:-1,Canale 5 Dsl Lente
-http://iptv.proff.co:15003/live/vito/vito/1558.ts
-#EXTINF:-1,CALCIO 5 SD
-http://iptv.proff.co:15003/live/vito/vito/1567.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://iptv.proff.co:15003/live/vito/vito/53.ts
-#EXTINF:-1,Sky Calcio 6 SD
-http://iptv.proff.co:15003/live/vito/vito/1568.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://iptv.proff.co:15003/live/vito/vito/54.ts
-#EXTINF:-1,CALCIO 7 SD
-http://iptv.proff.co:15003/live/vito/vito/1569.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://iptv.proff.co:15003/live/vito/vito/55.ts
-#EXTINF:-1,Sky Calcio 9
-http://iptv.proff.co:15003/live/vito/vito/1463.ts
-#EXTINF:-1,Sky Calcio 10
-http://iptv.proff.co:15003/live/vito/vito/1462.ts
-#EXTINF:-1,Sky Calcio 11
-http://iptv.proff.co:15003/live/vito/vito/1461.ts
-#EXTINF:-1,SKY CALCIO 12
-http://iptv.proff.co:15003/live/vito/vito/1480.ts
-#EXTINF:-1,- - - - - -SKY DOCUMENTARI - - - - - -
-http://iptv.proff.co:15003/live/vito/vito/162.ts
-#EXTINF:-1,eXplora HD
-http://iptv.proff.co:15003/live/vito/vito/146.ts
-#EXTINF:-1,NationalGeo HD
-http://iptv.proff.co:15003/live/vito/vito/57.ts
-#EXTINF:-1,NatGeo People HD
-http://iptv.proff.co:15003/live/vito/vito/63.ts
-#EXTINF:-1,NatGeo Wild HD
-http://iptv.proff.co:15003/live/vito/vito/62.ts
-#EXTINF:-1,Nat Geo Wild  1
-http://iptv.proff.co:15003/live/vito/vito/1570.ts
-#EXTINF:-1,Discovery HD
-http://iptv.proff.co:15003/live/vito/vito/56.ts
-#EXTINF:-1,Sky Discovery channel  1
-http://iptv.proff.co:15003/live/vito/vito/1598.ts
-#EXTINF:-1,Discovery Sci HD
-http://iptv.proff.co:15003/live/vito/vito/58.ts
-#EXTINF:-1,Discovery T e L HD
-http://iptv.proff.co:15003/live/vito/vito/59.ts
-#EXTINF:-1,CI Crime + Investigation HD
-http://iptv.proff.co:15003/live/vito/vito/21.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4492.ts
+#EXTINF:-1,Paramount Channel HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5166.ts
+#EXTINF:-1,Dvs Cinema
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5065.ts
+#EXTINF:-1,Emotion Napoli
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5066.ts
+#EXTINF:-1,Gomorra
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5585.ts
+#EXTINF:-1,DVs Il trono di Spade
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5586.ts
+#EXTINF:-1,----------Sky Intrattenimento----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4635.ts
+#EXTINF:-1,Sky Uno HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4376.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4377.ts
+#EXTINF:-1,Fox HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4380.ts
+#EXTINF:-1,Fox +1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4385.ts
+#EXTINF:-1,Fox life HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4378.ts
+#EXTINF:-1,Fox Life +1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4379.ts
+#EXTINF:-1,Fox Crime HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4381.ts
+#EXTINF:-1,Fox Crime +1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4382.ts
+#EXTINF:-1,Fox Animation HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4384.ts
+#EXTINF:-1,Fox Comedy HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4383.ts
+#EXTINF:-1,Sky Atlantic HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4388.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4389.ts
+#EXTINF:-1,AXN HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4387.ts
+#EXTINF:-1,AXN +1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4165.ts
+#EXTINF:-1,AXN Sci-Fi
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4398.ts
+#EXTINF:-1,Comedy Central
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4386.ts
+#EXTINF:-1,Real Time HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4390.ts
+#EXTINF:-1,Cielo HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4397.ts
+#EXTINF:-1,MTV HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4089.ts
 #EXTINF:-1,Focus
-http://iptv.proff.co:15003/live/vito/vito/199.ts
-#EXTINF:-1,DMAX
-http://iptv.proff.co:15003/live/vito/vito/204.ts
-#EXTINF:-1,Animal Planet
-http://iptv.proff.co:15003/live/vito/vito/144.ts
-#EXTINF:-1,History HD
-http://iptv.proff.co:15003/live/vito/vito/61.ts
-#EXTINF:-1,Sky Arte HD
-http://iptv.proff.co:15003/live/vito/vito/22.ts
-#EXTINF:-1,Gambero Rosso HD
-http://iptv.proff.co:15003/live/vito/vito/147.ts
-#EXTINF:-1,- - - - - -SKY RAGAZZI - - - - - -
-http://iptv.proff.co:15003/live/vito/vito/163.ts
-#EXTINF:-1,Disney Channel HD
-http://iptv.proff.co:15003/live/vito/vito/64.ts
-#EXTINF:-1,Disney Channel +1
-http://iptv.proff.co:15003/live/vito/vito/197.ts
-#EXTINF:-1,Disney Channel 1
-http://iptv.proff.co:15003/live/vito/vito/1571.ts
-#EXTINF:-1,Disney Channel  2
-http://iptv.proff.co:15003/live/vito/vito/1572.ts
-#EXTINF:-1,Cartoon Network
-http://iptv.proff.co:15003/live/vito/vito/65.ts
-#EXTINF:-1,Cartoon +1
-http://iptv.proff.co:15003/live/vito/vito/419.ts
-#EXTINF:-1,Boomerang
-http://iptv.proff.co:15003/live/vito/vito/66.ts
-#EXTINF:-1,DeA Junior
-http://iptv.proff.co:15003/live/vito/vito/74.ts
-#EXTINF:-1,DeA Kids
-http://iptv.proff.co:15003/live/vito/vito/67.ts
-#EXTINF:-1,Disney in English
-http://iptv.proff.co:15003/live/vito/vito/72.ts
-#EXTINF:-1,Disney Junior
-http://iptv.proff.co:15003/live/vito/vito/70.ts
-#EXTINF:-1,Disney XD HD
-http://iptv.proff.co:15003/live/vito/vito/71.ts
-#EXTINF:-1,Nickelodeon
-http://iptv.proff.co:15003/live/vito/vito/69.ts
-#EXTINF:-1,Nick Junior
-http://iptv.proff.co:15003/live/vito/vito/424.ts
-#EXTINF:-1,SPIDERMAN CHANNEL
-http://iptv.proff.co:15003/live/vito/vito/1464.ts
-#EXTINF:-1,Super!
-http://iptv.proff.co:15003/live/vito/vito/515.ts
-#EXTINF:-1,RAI YOYO
-http://iptv.proff.co:15003/live/vito/vito/470.ts
-#EXTINF:-1,MAN-GA
-http://iptv.proff.co:15003/live/vito/vito/143.ts
-#EXTINF:-1,K2
-http://iptv.proff.co:15003/live/vito/vito/382.ts
-#EXTINF:-1,BABY TV
-http://iptv.proff.co:15003/live/vito/vito/420.ts
-#EXTINF:-1,CARTONITO
-http://iptv.proff.co:15003/live/vito/vito/516.ts
-#EXTINF:-1,BOING
-http://iptv.proff.co:15003/live/vito/vito/539.ts
-#EXTINF:-1,PEPPA PIG CHANNEL
-http://iptv.proff.co:15003/live/vito/vito/1481.ts
-#EXTINF:-1,- - - - - - NOTIZIARI - - - - - -
-http://iptv.proff.co:15003/live/vito/vito/164.ts
-#EXTINF:-1,Sky TG 24 HD
-http://iptv.proff.co:15003/live/vito/vito/75.ts
-#EXTINF:-1,TG COM 24
-http://iptv.proff.co:15003/live/vito/vito/530.ts
-#EXTINF:-1,RAI NEWS 24
-http://iptv.proff.co:15003/live/vito/vito/533.ts
-#EXTINF:-1,- - - - - -MEDIASET PREMIUM - - - - - -
-http://iptv.proff.co:15003/live/vito/vito/167.ts
-#EXTINF:-1,Premium Cinema HD
-http://iptv.proff.co:15003/live/vito/vito/88.ts
-#EXTINF:-1,Premium Cinema HD X ADSL Lente
-http://iptv.proff.co:15003/live/vito/vito/1580.ts
-#EXTINF:-1,Premium Cinema +24
-http://iptv.proff.co:15003/live/vito/vito/372.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://iptv.proff.co:15003/live/vito/vito/465.ts
-#EXTINF:-1,Premium Cinema2  HD X ADSL Lente
-http://iptv.proff.co:15003/live/vito/vito/1581.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://iptv.proff.co:15003/live/vito/vito/466.ts
-#EXTINF:-1,Premium Action HD
-http://iptv.proff.co:15003/live/vito/vito/469.ts
-#EXTINF:-1,Premium Action HD X ADSL Lente
-http://iptv.proff.co:15003/live/vito/vito/1582.ts
-#EXTINF:-1,Premium Action +24
-http://iptv.proff.co:15003/live/vito/vito/115.ts
-#EXTINF:-1,Premium Crime HD
-http://iptv.proff.co:15003/live/vito/vito/622.ts
-#EXTINF:-1,Premium Crime HD (DSL Lente)
-http://iptv.proff.co:15003/live/vito/vito/1573.ts
-#EXTINF:-1,Premium Crime +24
-http://iptv.proff.co:15003/live/vito/vito/116.ts
-#EXTINF:-1,Premium Emotion
-http://iptv.proff.co:15003/live/vito/vito/90.ts
-#EXTINF:-1,Premium Energy
-http://iptv.proff.co:15003/live/vito/vito/89.ts
-#EXTINF:-1,Premium Comedy
-http://iptv.proff.co:15003/live/vito/vito/111.ts
-#EXTINF:-1,Premium Stories
-http://iptv.proff.co:15003/live/vito/vito/918.ts
-#EXTINF:-1,Studio Universal - Premium
-http://iptv.proff.co:15003/live/vito/vito/112.ts
-#EXTINF:-1,Premium Joi
-http://iptv.proff.co:15003/live/vito/vito/113.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4558.ts
+#EXTINF:-1,GIALLO
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4394.ts
 #EXTINF:-1,ALICE
-http://iptv.proff.co:15003/live/vito/vito/916.ts
-#EXTINF:-1,MARCO POLO
-http://iptv.proff.co:15003/live/vito/vito/917.ts
-#EXTINF:-1,Discovery World - Premium
-http://iptv.proff.co:15003/live/vito/vito/119.ts
-#EXTINF:-1,BBC Knowledge - Premium
-http://iptv.proff.co:15003/live/vito/vito/121.ts
-#EXTINF:-1,Premium Sport HD
-http://iptv.proff.co:15003/live/vito/vito/468.ts
-#EXTINF:-1,Premium Sport Dsl Lente
-http://iptv.proff.co:15003/live/vito/vito/1596.ts
-#EXTINF:-1,Premium Sport 2
-http://iptv.proff.co:15003/live/vito/vito/122.ts
-#EXTINF:-1,Premium Calcio HD Dsl Lente
-http://iptv.proff.co:15003/live/vito/vito/1576.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://iptv.proff.co:15003/live/vito/vito/131.ts
-#EXTINF:-1,Premium Calcio 1
-http://iptv.proff.co:15003/live/vito/vito/124.ts
-#EXTINF:-1,Premium Calcio 2
-http://iptv.proff.co:15003/live/vito/vito/125.ts
-#EXTINF:-1,Premium Calcio 3
-http://iptv.proff.co:15003/live/vito/vito/126.ts
-#EXTINF:-1,Premium Calcio 4
-http://iptv.proff.co:15003/live/vito/vito/127.ts
-#EXTINF:-1,Premium Calcio 5
-http://iptv.proff.co:15003/live/vito/vito/128.ts
-#EXTINF:-1,Premium Calcio 6
-http://iptv.proff.co:15003/live/vito/vito/129.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4432.ts
+#EXTINF:-1,Fashion TV
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4246.ts
+#EXTINF:-1,TV2000
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4137.ts
+#EXTINF:-1,Sky 3D
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4375.ts
+#EXTINF:-1,Lei
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4392.ts
+#EXTINF:-1,Iris
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4561.ts
+#EXTINF:-1,Mediaset Italia Due
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4560.ts
+#EXTINF:-1,La 5
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4559.ts
+#EXTINF:-1,Mediaset EXTRA
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4556.ts
+#EXTINF:-1,Top Crime
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4535.ts
+#EXTINF:-1,----------Sky Sport----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5113.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4400.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5077.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5078.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4969.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5080.ts
+#EXTINF:-1,Fox Sports HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5090.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5082.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5081.ts
+#EXTINF:-1,Eurosport HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5091.ts
+#EXTINF:-1,Eurosport 2 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5092.ts
+#EXTINF:-1,Supertennis HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5079.ts
+#EXTINF:-1,Poker Italia
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5085.ts
+#EXTINF:-1,Class HorseTv
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4348.ts
+#EXTINF:-1,Sport Italia
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5083.ts
+#EXTINF:-1,ROMATV
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5084.ts
+#EXTINF:-1,Inter Channel
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5089.ts
+#EXTINF:-1,J | Juventus TV
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5088.ts
+#EXTINF:-1,Milan Channel
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5086.ts
+#EXTINF:-1,Lazio Style Ch
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5087.ts
+#EXTINF:-1,Bike Channel HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5093.ts
+#EXTINF:-1,UnireSat by Teleippica
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4125.ts
+#EXTINF:-1,----------Sky Calcio----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5114.ts
+#EXTINF:-1,Sky Calcio Info
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4334.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4438.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5096.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5097.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5098.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5099.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5100.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5101.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5102.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4446.ts
+#EXTINF:-1,Sky Calcio 9
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4447.ts
+#EXTINF:-1,Sky Calcio 10
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5095.ts
+#EXTINF:-1,Sky Calcio 11
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5043.ts
+#EXTINF:-1,Sky Calcio 12
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4163.ts
+#EXTINF:-1,----------Connessioni Lente----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4620.ts
+#EXTINF:-1,Rai 1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4486.ts
+#EXTINF:-1,Rai 2
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4487.ts
+#EXTINF:-1,Rai 3
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4489.ts
+#EXTINF:-1,Canale 5
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4071.ts
+#EXTINF:-1,Cinema 1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4069.ts
+#EXTINF:-1,Cinema +24
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4070.ts
+#EXTINF:-1,Cinema Hits
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4067.ts
+#EXTINF:-1,Cinema Comedy
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4068.ts
+#EXTINF:-1,Cinema Max
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4066.ts
+#EXTINF:-1,Cinema Family
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4065.ts
+#EXTINF:-1,Fox
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4063.ts
+#EXTINF:-1,Fox Crime
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4064.ts
+#EXTINF:-1,Fox Life
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4062.ts
+#EXTINF:-1,Sky Atlantic
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4083.ts
+#EXTINF:-1,NationalGeo
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4027.ts
+#EXTINF:-1,Sky Uno
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4076.ts
+#EXTINF:-1,Premium Sport
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4084.ts
+#EXTINF:-1,Sky Sport 1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4073.ts
+#EXTINF:-1,Sky Sport24
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4078.ts
+#EXTINF:-1,Sky Sport Plus
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4072.ts
+#EXTINF:-1,Sky Sport F1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4075.ts
+#EXTINF:-1,Sky Sport MotoGP
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4074.ts
+#EXTINF:-1,Fox Sport
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4061.ts
+#EXTINF:-1,Sky Supercalcio
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4077.ts
+#EXTINF:-1,Sky Calcio 1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4082.ts
+#EXTINF:-1,Sky Calcio 2
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4081.ts
+#EXTINF:-1,Sky Calcio 3
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4080.ts
+#EXTINF:-1,Sky Calcio 4
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4058.ts
+#EXTINF:-1,Sky Calcio 5
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4059.ts
+#EXTINF:-1,Sky Calcio 6
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4079.ts
+#EXTINF:-1,Sky Calcio 7
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4060.ts
+#EXTINF:-1,----------Sky Cultura----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4619.ts
+#EXTINF:-1,eXplora HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4473.ts
+#EXTINF:-1,NationalGeo HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4468.ts
+#EXTINF:-1,NatGeo Wild HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4469.ts
+#EXTINF:-1,NatGeo Wild +1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4086.ts
+#EXTINF:-1,NatGeo People HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4470.ts
+#EXTINF:-1,Discovery HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4476.ts
+#EXTINF:-1,Discovery +1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4085.ts
+#EXTINF:-1,Discovery Sci HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4475.ts
+#EXTINF:-1,Discovery Travel HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4474.ts
+#EXTINF:-1,CI Crime Inv HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4477.ts
+#EXTINF:-1,DMAX HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4396.ts
+#EXTINF:-1,DMAX+1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4395.ts
+#EXTINF:-1,Gambero Rosso HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4472.ts
+#EXTINF:-1,History HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4471.ts
+#EXTINF:-1,Sky Arte HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4467.ts
+#EXTINF:-1,Caccia
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4479.ts
+#EXTINF:-1,Pesca
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4391.ts
+#EXTINF:-1,DoveTv
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4087.ts
+#EXTINF:-1,Animal Planet
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4480.ts
+#EXTINF:-1,MARCOPOLO
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4337.ts
+#EXTINF:-1,Laeffe
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4346.ts
+#EXTINF:-1,----------Sky Bambini----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4618.ts
+#EXTINF:-1,Cartoon-LIVE Masha E Orso
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4498.ts
+#EXTINF:-1,Disney Ch. HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5103.ts
+#EXTINF:-1,Disney Ch. +2
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4160.ts
+#EXTINF:-1,Disney XD HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4456.ts
+#EXTINF:-1,TeenNick
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4088.ts
+#EXTINF:-1,Disney Junior
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4124.ts
+#EXTINF:-1,Cartoon Network
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4263.ts
+#EXTINF:-1,Boomerang
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4460.ts
+#EXTINF:-1,Nickelodeon
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4461.ts
+#EXTINF:-1,Nick Jr
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4452.ts
+#EXTINF:-1,Baby TV
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4463.ts
+#EXTINF:-1,DeAJunior
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4458.ts
+#EXTINF:-1,DeAKids
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5603.ts
+#EXTINF:-1,MAN-GA
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4453.ts
+#EXTINF:-1,Super!
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4448.ts
+#EXTINF:-1,Rai Yoyo
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4450.ts
+#EXTINF:-1,Rai Gulp
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4451.ts
+#EXTINF:-1,Cartonito
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4459.ts
+#EXTINF:-1,Boing
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4462.ts
+#EXTINF:-1,K2
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4454.ts
 #EXTINF:-1,----------Sky Musica----------
 http://gameserver4.streamiptv.online:80/live/mariac/mariac/4617.ts
 #EXTINF:-1,Vevo TV 1 HD
@@ -961,8 +899,24 @@ http://gameserver4.streamiptv.online:80/live/mariac/mariac/4114.ts
 http://gameserver4.streamiptv.online:80/live/mariac/mariac/4115.ts
 #EXTINF:-1,kissKiss Napoli TV
 http://gameserver4.streamiptv.online:80/live/mariac/mariac/4116.ts
+#EXTINF:-1,----------Sky Notizie-----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4616.ts
+#EXTINF:-1,TgCom24
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4483.ts
+#EXTINF:-1,Sky TG24 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4481.ts
+#EXTINF:-1,Rai News 24
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4484.ts
+#EXTINF:-1,Tele Bari
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4335.ts
+#EXTINF:-1,Videolina
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4485.ts
 #EXTINF:-1,-----------sky Primafila----------
 http://gameserver4.streamiptv.online:80/live/mariac/mariac/4615.ts
+#EXTINF:-1,Primafila Vetrina
+http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4976.mkv
+#EXTINF:-1,Vetrina live Primafila
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5425.ts
 #EXTINF:-1,Primafila 1 HD
 http://gameserver4.streamiptv.online:80/live/mariac/mariac/4500.ts
 #EXTINF:-1,Primafila 2
@@ -1003,8 +957,6 @@ http://gameserver4.streamiptv.online:80/live/mariac/mariac/4517.ts
 http://gameserver4.streamiptv.online:80/live/mariac/mariac/4518.ts
 #EXTINF:-1,----------Primafila (Vod)----------
 http://gameserver4.streamiptv.online:80/live/mariac/mariac/4519.ts
-#EXTINF:-1,Primafila Vetrina
-http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4976.mkv
 #EXTINF:-1,Primafila 1 HD (Vod)
 http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4970.mkv
 #EXTINF:-1,Primafila 3 HD (Vod)

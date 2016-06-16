@@ -511,6 +511,68 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
+#EXTINF:-1,----------Mediaset Premium----------
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4613.ts
+#EXTINF:-1,Premium Cinema HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4527.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4528.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4529.ts
+#EXTINF:-1,Premium Cinema +24
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4530.ts
+#EXTINF:-1,Premium Emotion
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4534.ts
+#EXTINF:-1,Premium Comedy
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4540.ts
+#EXTINF:-1,Premium Energy
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4533.ts
+#EXTINF:-1,Premium Stories
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4532.ts
+#EXTINF:-1,Premium Stories +24
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4544.ts
+#EXTINF:-1,Premium Action HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4537.ts
+#EXTINF:-1,Premium Action +24
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4538.ts
+#EXTINF:-1,Premium Joi
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4536.ts
+#EXTINF:-1,Premium Joi +24
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4555.ts
+#EXTINF:-1,Studio Universal - Premium
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4541.ts
+#EXTINF:-1,Disney Junior - Premium
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4542.ts
+#EXTINF:-1,Premium Crime HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4531.ts
+#EXTINF:-1,Cartoon Network - Premium
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4545.ts
+#EXTINF:-1,----PREMIUM SPORT
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4553.ts
+#EXTINF:-1,Premium Sport HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4553.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4546.ts
+#EXTINF:-1,Premium Sport 2
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5131.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4026.ts
+#EXTINF:-1,Premium Calcio 1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4548.ts
+#EXTINF:-1,Premium Calcio 2
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4549.ts
+#EXTINF:-1,Premium Calcio 5
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4550.ts
+#EXTINF:-1,Premium Calcio 6
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4551.ts
+#EXTINF:-1,Premium Calcio 7
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4552.ts
+#EXTINF:-1,Rai Sport 1
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4554.ts
+#EXTINF:-1,Rai Sport 2
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4488.ts
+#EXTINF:-1,Rai Premium
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4491.ts
 #EXTINF:-1,----------Sky Cinema----------
 http://gameserver4.streamiptv.online:80/live/mariac/mariac/5112.ts
 #EXTINF:-1,Cinema 1 HD

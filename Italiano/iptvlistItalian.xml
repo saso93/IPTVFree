@@ -8,25 +8,25 @@ http://dummylink.com
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://iptv.proff.co:15003/live/vito/vito/134.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5044.ts
 #EXTINF:-1,Rai 2 HD
-http://iptv.proff.co:15003/live/vito/vito/135.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5045.ts
 #EXTINF:-1,Rai 3 HD
-http://iptv.proff.co:15003/live/vito/vito/136.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5046.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://iptv.proff.co:15003/live/vito/vito/137.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5047.ts
 #EXTINF:-1,Canale 5 HD
-http://iptv.proff.co:15003/live/vito/vito/138.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5049.ts
 #EXTINF:-1,Italia 1 HD
-http://iptv.proff.co:15003/live/vito/vito/139.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5048.ts
 #EXTINF:-1,La 7 HD
-http://iptv.proff.co:15003/live/vito/vito/327.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4186.ts
 #EXTINF:-1 ,Rai 4
-http://iptv.proff.co:15003/live/vito/vito/535.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/4490.ts
 #EXTINF:-1,Iris
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Iris HD
@@ -80,9 +80,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://iptv.proff.co:15003/live/vito/vito/232.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5050.ts
 #EXTINF:-1,RSI LA 2 HD
-http://iptv.proff.co:15003/live/vito/vito/233.ts
+http://gameserver4.streamiptv.online:80/live/mariac/mariac/5051.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83

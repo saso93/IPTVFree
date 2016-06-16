@@ -46,6 +46,12 @@ Android API 14+
 
 ##CHANGELOG
 
+**v2.0.0 (Coming Soon!)**
+
+- Re-styling layout
+- Improved parsing xml list
+- Improved parsing icon
+
 **v1.0.3**
 
 - Improved code review

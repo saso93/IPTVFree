@@ -49,8 +49,9 @@ Android API 14+
 **v2.0.0 (Coming Soon!)**
 
 - Re-styling layout
-- Improved parsing xml list
+- Improved parsing `XML` list
 - Improved parsing icon
+- Added News `CardView`
 
 **v1.0.3**
 

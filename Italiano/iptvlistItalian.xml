@@ -5911,624 +5911,486 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,----------Mediaset Premium----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4613.ts
-#EXTINF:-1,Premium Cinema HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4527.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4528.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4529.ts
-#EXTINF:-1,Premium Cinema +24
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4530.ts
-#EXTINF:-1,Premium Emotion
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4534.ts
-#EXTINF:-1,Premium Comedy
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4540.ts
-#EXTINF:-1,Premium Energy
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4533.ts
-#EXTINF:-1,Premium Stories
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4532.ts
-#EXTINF:-1,Premium Stories +24
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4544.ts
-#EXTINF:-1,Premium Action HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4537.ts
-#EXTINF:-1,Premium Action +24
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4538.ts
-#EXTINF:-1,Premium Joi
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4536.ts
-#EXTINF:-1,Premium Joi +24
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4555.ts
-#EXTINF:-1,Studio Universal - Premium
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4541.ts
-#EXTINF:-1,Disney Junior - Premium
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4542.ts
-#EXTINF:-1,Premium Crime HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4531.ts
-#EXTINF:-1,Cartoon Network - Premium
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4545.ts
-#EXTINF:-1,----PREMIUM SPORT
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4553.ts
-#EXTINF:-1,Premium Sport HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4553.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4546.ts
-#EXTINF:-1,Premium Sport 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5131.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4026.ts
-#EXTINF:-1,Premium Calcio 1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4548.ts
-#EXTINF:-1,Premium Calcio 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4549.ts
-#EXTINF:-1,Premium Calcio 5
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4550.ts
-#EXTINF:-1,Premium Calcio 6
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4551.ts
-#EXTINF:-1,Premium Calcio 7
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4552.ts
-#EXTINF:-1,Rai Sport 1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4554.ts
-#EXTINF:-1,Rai Sport 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4488.ts
-#EXTINF:-1,Rai Premium
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4491.ts
-#EXTINF:-1,----------Sky Cinema----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5112.ts
+#EXTINF:-1,----- SKY CINEMA -----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/21.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5053.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/22.ts
 #EXTINF:-1,Sky Cinema +1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5054.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/23.ts
 #EXTINF:-1,Sky Cinema +24 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5062.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/24.ts
+#EXTINF:-1,SKY CINEMA  +24 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6502.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5057.ts
-#EXTINF:-1,Sky CinemaFamilyHD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5058.ts
-#EXTINF:-1,Sky CinemaFamily+1HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5059.ts
-#EXTINF:-1,Sky Cinema Classics HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5061.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5064.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5060.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/25.ts
+#EXTINF:-1,SKY CINEMA HITS +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6503.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/26.ts
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2695.ts
 #EXTINF:-1,Sky Cinema Max HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5055.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/29.ts
 #EXTINF:-1,Sky Cinema Max +1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5056.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/30.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/27.ts
+#EXTINF:-1,SKY CINEMA PASSION +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6506.ts
 #EXTINF:-1,Sky Cinema Cult HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5063.ts
-#EXTINF:-1,Rai Movie
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4492.ts
-#EXTINF:-1,Paramount Channel HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5166.ts
-#EXTINF:-1,Dvs Cinema
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5065.ts
-#EXTINF:-1,Emotion Napoli
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5066.ts
-#EXTINF:-1,Gomorra
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5585.ts
-#EXTINF:-1,DVs Il trono di Spade
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5586.ts
-#EXTINF:-1,----------Sky Intrattenimento----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4635.ts
-#EXTINF:-1,Sky Uno HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4376.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4377.ts
-#EXTINF:-1,Fox HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4380.ts
-#EXTINF:-1,Fox +1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4385.ts
-#EXTINF:-1,Fox life HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4378.ts
-#EXTINF:-1,Fox Life +1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4379.ts
-#EXTINF:-1,Fox Crime HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4381.ts
-#EXTINF:-1,Fox Crime +1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4382.ts
-#EXTINF:-1,Fox Animation HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4384.ts
-#EXTINF:-1,Fox Comedy HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4383.ts
-#EXTINF:-1,Sky Atlantic HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4388.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4389.ts
-#EXTINF:-1,AXN HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4387.ts
-#EXTINF:-1,AXN +1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4165.ts
-#EXTINF:-1,AXN Sci-Fi
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4398.ts
-#EXTINF:-1,Comedy Central
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4386.ts
-#EXTINF:-1,Real Time HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4390.ts
-#EXTINF:-1,Cielo HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4397.ts
-#EXTINF:-1,MTV HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4089.ts
-#EXTINF:-1,Focus
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4558.ts
-#EXTINF:-1,GIALLO
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4394.ts
-#EXTINF:-1,ALICE
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4432.ts
-#EXTINF:-1,Fashion TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4246.ts
-#EXTINF:-1,TV2000
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4137.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/31.ts
+#EXTINF:-1,SKY CINEMA CULT +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6507.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/32.ts
+#EXTINF:-1,SKY CINEMA CLASSIC +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6509.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/28.ts
+#EXTINF:-1,SKY CINEMA COMEDY +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6508.ts
+#EXTINF:-1,----- INTRATTENIMENTO -----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/47.ts
 #EXTINF:-1,Sky 3D
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4375.ts
-#EXTINF:-1,Lei
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4392.ts
-#EXTINF:-1,Iris
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4561.ts
-#EXTINF:-1,Mediaset Italia Due
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4560.ts
-#EXTINF:-1,La 5
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4559.ts
-#EXTINF:-1,Mediaset EXTRA
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4556.ts
-#EXTINF:-1,Top Crime
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4535.ts
-#EXTINF:-1,---SKY SPORT ADSL LENTA
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/4733.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11849.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11850.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11928.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11926.ts
-#EXTINF:-1,Fox Sports HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11851.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11925.ts
-#EXTINF:-1,Sky Moto GP HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11930.ts
-#EXTINF:-1,Sky Formula 1 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11937.ts
-#EXTINF:-1,EuroSport HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12035.ts
-#EXTINF:-1,EuroSport 2 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12036.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/4640.ts
-#EXTINF:-1,Rai Sport 2 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/4616.ts
-#EXTINF:-1,Bike Channel
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12063.ts
-#EXTINF:-1,Class Horse TV
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12055.ts
-#EXTINF:-1,AutoMoto TV
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12068.ts
-#EXTINF:-1,Poker Italia 24
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/9249.ts
-#EXTINF:-1,Super Tennis HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12078.ts
-#EXTINF:-1,Sport Italia
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11921.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11848.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11969.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11968.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11856.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11967.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11966.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11965.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11964.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11963.ts
-#EXTINF:-1,SKY Calcio 8 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/5506.ts
-#EXTINF:-1,SKY Calcio 9 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/5507.ts
-#EXTINF:-1,SKY Calcio 10 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/5508.ts
-#EXTINF:-1,SKY Calcio 11 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/6555.ts
-#EXTINF:-1,SKY Calcio 12 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/6556.ts
-#EXTINF:-1,SKY Calcio 13 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/6557.ts
-#EXTINF:-1,Premium Sport HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11986.ts
-#EXTINF:-1,Premium Sport
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11985.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/11987.ts
-#EXTINF:-1,Premium Calcio 1
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12005.ts
-#EXTINF:-1,Premium Calcio 2
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12004.ts
-#EXTINF:-1,Premium Calcio 3
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12003.ts
-#EXTINF:-1,Premium Calcio 4
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12002.ts
-#EXTINF:-1,Premium Calcio 5
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12001.ts
-#EXTINF:-1,Premium Calcio 6
-http://cobra-iptv.noip.me:8000/live/Pascale/Pascale/12000.ts
-#EXTINF:-1,----------Sky Sport----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5113.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4400.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5077.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5078.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4969.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5080.ts
-#EXTINF:-1,Fox Sports HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5090.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5082.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5081.ts
-#EXTINF:-1,Eurosport HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5091.ts
-#EXTINF:-1,Eurosport 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5092.ts
-#EXTINF:-1,Supertennis HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5079.ts
-#EXTINF:-1,Poker Italia
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5085.ts
-#EXTINF:-1,Class HorseTv
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4348.ts
-#EXTINF:-1,Sport Italia
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5083.ts
-#EXTINF:-1,ROMATV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5084.ts
-#EXTINF:-1,Inter Channel
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5089.ts
-#EXTINF:-1,J | Juventus TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5088.ts
-#EXTINF:-1,Milan Channel
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5086.ts
-#EXTINF:-1,Lazio Style Ch
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5087.ts
-#EXTINF:-1,Bike Channel HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5093.ts
-#EXTINF:-1,UnireSat by Teleippica
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4125.ts
-#EXTINF:-1,----------Sky Calcio----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5114.ts
-#EXTINF:-1,Sky Calcio Info
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4334.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4438.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5096.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5097.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5098.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5099.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5100.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5101.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5102.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4446.ts
-#EXTINF:-1,Sky Calcio 9
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4447.ts
-#EXTINF:-1,Sky Calcio 10
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5095.ts
-#EXTINF:-1,Sky Calcio 11
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5043.ts
-#EXTINF:-1,Sky Calcio 12
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4163.ts
-#EXTINF:-1,----------Connessioni Lente----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4620.ts
-#EXTINF:-1,Rai 1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4486.ts
-#EXTINF:-1,Rai 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4487.ts
-#EXTINF:-1,Rai 3
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4489.ts
-#EXTINF:-1,Canale 5
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4071.ts
-#EXTINF:-1,Cinema 1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4069.ts
-#EXTINF:-1,Cinema +24
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4070.ts
-#EXTINF:-1,Cinema Hits
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4067.ts
-#EXTINF:-1,Cinema Comedy
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4068.ts
-#EXTINF:-1,Cinema Max
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4066.ts
-#EXTINF:-1,Cinema Family
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4065.ts
-#EXTINF:-1,Fox
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4063.ts
-#EXTINF:-1,Fox Crime
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4064.ts
-#EXTINF:-1,Fox Life
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4062.ts
-#EXTINF:-1,Sky Atlantic
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4083.ts
-#EXTINF:-1,NationalGeo
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4027.ts
-#EXTINF:-1,Sky Uno
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4076.ts
-#EXTINF:-1,Premium Sport
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4084.ts
-#EXTINF:-1,Sky Sport 1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4073.ts
-#EXTINF:-1,Sky Sport24
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4078.ts
-#EXTINF:-1,Sky Sport Plus
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4072.ts
-#EXTINF:-1,Sky Sport F1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4075.ts
-#EXTINF:-1,Sky Sport MotoGP
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4074.ts
-#EXTINF:-1,Fox Sport
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4061.ts
-#EXTINF:-1,Sky Supercalcio
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4077.ts
-#EXTINF:-1,Sky Calcio 1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4082.ts
-#EXTINF:-1,Sky Calcio 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4081.ts
-#EXTINF:-1,Sky Calcio 3
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4080.ts
-#EXTINF:-1,Sky Calcio 4
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4058.ts
-#EXTINF:-1,Sky Calcio 5
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4059.ts
-#EXTINF:-1,Sky Calcio 6
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4079.ts
-#EXTINF:-1,Sky Calcio 7
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4060.ts
-#EXTINF:-1,----------Sky Cultura----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4619.ts
-#EXTINF:-1,eXplora HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4473.ts
-#EXTINF:-1,NationalGeo HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4468.ts
-#EXTINF:-1,NatGeo Wild HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4469.ts
-#EXTINF:-1,NatGeo Wild +1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4086.ts
-#EXTINF:-1,NatGeo People HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4470.ts
-#EXTINF:-1,Discovery HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4476.ts
-#EXTINF:-1,Discovery +1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4085.ts
-#EXTINF:-1,Discovery Sci HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4475.ts
-#EXTINF:-1,Discovery Travel HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4474.ts
-#EXTINF:-1,CI Crime Inv HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4477.ts
-#EXTINF:-1,DMAX HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4396.ts
-#EXTINF:-1,DMAX+1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4395.ts
-#EXTINF:-1,Gambero Rosso HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4472.ts
-#EXTINF:-1,History HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4471.ts
-#EXTINF:-1,Sky Arte HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4467.ts
-#EXTINF:-1,Caccia
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4479.ts
-#EXTINF:-1,Pesca
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4391.ts
-#EXTINF:-1,DoveTv
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4087.ts
-#EXTINF:-1,Animal Planet
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4480.ts
-#EXTINF:-1,MARCOPOLO
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4337.ts
-#EXTINF:-1,Laeffe
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4346.ts
-#EXTINF:-1,----------Sky Bambini----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4618.ts
-#EXTINF:-1,Cartoon-LIVE Masha E Orso
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4498.ts
-#EXTINF:-1,Disney Ch. HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5103.ts
-#EXTINF:-1,Disney Ch. +2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4160.ts
-#EXTINF:-1,Disney XD HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4456.ts
-#EXTINF:-1,TeenNick
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4088.ts
-#EXTINF:-1,Disney Junior
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4124.ts
-#EXTINF:-1,Cartoon Network
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4263.ts
-#EXTINF:-1,Boomerang
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4460.ts
-#EXTINF:-1,Nickelodeon
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4461.ts
-#EXTINF:-1,Nick Jr
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4452.ts
-#EXTINF:-1,Baby TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4463.ts
-#EXTINF:-1,DeAJunior
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4458.ts
-#EXTINF:-1,DeAKids
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5603.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/33.ts
+#EXTINF:-1,Sky Uno HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/48.ts
+#EXTINF:-1,SKY UNO +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6517.ts
+#EXTINF:-1,Sky Atlantic HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/699.ts
+#EXTINF:-1,Sky Atlantic +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6523.ts
+#EXTINF:-1,Sky Atlantic +2
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6528.ts
+#EXTINF:-1,Comedy central
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/7216.ts
+#EXTINF:-1,Sposa FHD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5157.ts
+#EXTINF:-1,Fox HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/49.ts
+#EXTINF:-1,FOX +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6519.ts
+#EXTINF:-1,Fox Life HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/50.ts
+#EXTINF:-1,FOX LIFE +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6520.ts
+#EXTINF:-1,Fox Crime HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/52.ts
+#EXTINF:-1,FOX CRIME +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6521.ts
+#EXTINF:-1,Fox Comedy HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/51.ts
+#EXTINF:-1,Fox Animation HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/53.ts
 #EXTINF:-1,MAN-GA
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4453.ts
-#EXTINF:-1,Super!
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4448.ts
-#EXTINF:-1,Rai Yoyo
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4450.ts
-#EXTINF:-1,Rai Gulp
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4451.ts
-#EXTINF:-1,Cartonito
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4459.ts
-#EXTINF:-1,Boing
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4462.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/244.ts
+#EXTINF:-1,AXN HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/54.ts
+#EXTINF:-1,AXN +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6522.ts
+#EXTINF:-1,AXN Sci-Fi
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/59.ts
+#EXTINF:-1,Paramount Channel HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3342.ts
+#EXTINF:-1,Iris
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/159.ts
+#EXTINF:-1,Giallo
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/160.ts
+#EXTINF:-1,Cielo
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/55.ts
+#EXTINF:-1,Lei
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/56.ts
+#EXTINF:-1,Real Time HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/57.ts
+#EXTINF:-1,TV 2000
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/154.ts
+#EXTINF:-1,Rai Movie
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/146.ts
+#EXTINF:-1,Rai Premium
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/145.ts
+#EXTINF:-1,Rai 4
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/147.ts
+#EXTINF:-1,Rai 5
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/148.ts
+#EXTINF:-1,Mediaset Extra
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/142.ts
+#EXTINF:-1,Italia 2
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/158.ts
+#EXTINF:-1,Teleticino HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/156.ts
+#EXTINF:-1,----- SPORT -----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/62.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/64.ts
+#EXTINF:-1,SKY SPORT 24 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6510.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/73.ts
+#EXTINF:-1,SKY SPORT PLUS +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6514.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/66.ts
+#EXTINF:-1,SKY SPORT 1 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6511.ts
+#EXTINF:-1,SKY Sport 2 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/68.ts
+#EXTINF:-1,SKY SPORT 2 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6512.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/70.ts
+#EXTINF:-1,SKY SPORT 3 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6513.ts
+#EXTINF:-1,Fox Sports HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/71.ts
+#EXTINF:-1,FOX SPORT +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6518.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/75.ts
+#EXTINF:-1,SKY SPORT F1 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6515.ts
+#EXTINF:-1,Sky Motogp HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/76.ts
+#EXTINF:-1,SKY SPORT MOTOGP +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6516.ts
+#EXTINF:-1,ClassHorse Tv
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5159.ts
+#EXTINF:-1,Eurosport HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/74.ts
+#EXTINF:-1,Eurosport 2 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/77.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3343.ts
+#EXTINF:-1,Sport Italia
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2324.ts
+#EXTINF:-1,Super tennis HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/78.ts
+#EXTINF:-1,BIKE CHANNEL
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2319.ts
+#EXTINF:-1,Poker Italia 24
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2664.ts
+#EXTINF:-1,Nuvolari
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/155.ts
+#EXTINF:-1,----- CALCIO -----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/83.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/85.ts
+#EXTINF:-1,SKY SUPERCALCIO +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6524.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/87.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/88.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/90.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/92.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/94.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/95.ts
+#EXTINF:-1,SKY Calcio 7 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/96.ts
+#EXTINF:-1,SKY Calcio 8 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/97.ts
+#EXTINF:-1,SKY Calcio 9 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/98.ts
+#EXTINF:-1,SKY Calcio 10 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/99.ts
+#EXTINF:-1,Juventus Channel
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/102.ts
+#EXTINF:-1,Roma Channel
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/101.ts
+#EXTINF:-1,Inter Channel
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/103.ts
+#EXTINF:-1,Milan channel
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/100.ts
+#EXTINF:-1,Lazio Style
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2849.ts
+#EXTINF:-1,----- MEDIASET PREMIUM -----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/162.ts
+#EXTINF:-1,Premium Cinema HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/163.ts
+#EXTINF:-1,Premium Cinema 1 HD +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6532.ts
+#EXTINF:-1,Premium Cinema +24
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/164.ts
+#EXTINF:-1,Premium Cinema 1 +24 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6531.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/165.ts
+#EXTINF:-1,Premium Cinema 2 HD +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6534.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/166.ts
+#EXTINF:-1,Premium Cinema 2 +24 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6533.ts
+#EXTINF:-1,Premium Action HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/167.ts
+#EXTINF:-1,Premium Action +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6548.ts
+#EXTINF:-1,Premium Action +24
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/168.ts
+#EXTINF:-1,Premium Action 24 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6529.ts
+#EXTINF:-1,Premium Crime HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/169.ts
+#EXTINF:-1,Premium Crime HD +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6537.ts
+#EXTINF:-1,Premium Crime +24
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/170.ts
+#EXTINF:-1,Premium Crime +24  +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6536.ts
+#EXTINF:-1,Premium Stories
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/177.ts
+#EXTINF:-1,Premium Stories +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6545.ts
+#EXTINF:-1,Premium Stories + 24
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3250.ts
+#EXTINF:-1,Premium Stories  24 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6546.ts
+#EXTINF:-1,Premium Joy
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/175.ts
+#EXTINF:-1,Premium Joy +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6541.ts
+#EXTINF:-1,Premium Joy +24
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3249.ts
+#EXTINF:-1,Premium Joy +24 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6542.ts
+#EXTINF:-1,Studio Universal
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/174.ts
+#EXTINF:-1,Top Crime
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/176.ts
+#EXTINF:-1,Premium Energy
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/171.ts
+#EXTINF:-1,Premium Energy +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6540.ts
+#EXTINF:-1,Premium Emotion
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/172.ts
+#EXTINF:-1,Premium Emotion +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6539.ts
+#EXTINF:-1,Premium Comedy
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/173.ts
+#EXTINF:-1,Premium Comedy  +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6535.ts
+#EXTINF:-1,----- PREMIUM SPORT -----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/162.ts
+#EXTINF:-1,Premium Sport 1 FHD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5161.ts
+#EXTINF:-1,Premium Sport 1 HD +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6543.ts
+#EXTINF:-1,Premium Sport 2 FHD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5162.ts
+#EXTINF:-1,Premium Sport 1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5163.ts
+#EXTINF:-1,Premium Sport 1 +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6544.ts
+#EXTINF:-1,Premium Sport 2
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4889.ts
+#EXTINF:-1,Premium Calcio HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/179.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/180.ts
+#EXTINF:-1,Premium Calcio 1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2694.ts
+#EXTINF:-1,Premium Calcio 2
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/182.ts
+#EXTINF:-1,Premium Calcio 3
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/183.ts
+#EXTINF:-1,Premium Calcio 4
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/184.ts
+#EXTINF:-1,Premium Calcio 5
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/185.ts
+#EXTINF:-1,Premium Calcio 6
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/186.ts
+#EXTINF:-1,Premium Calcio 7
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/187.ts
+#EXTINF:-1,----- CULTURA -----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/104.ts
+#EXTINF:-1,Nat Geo HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/106.ts
+#EXTINF:-1,Nat Geo People HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/110.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/111.ts
+#EXTINF:-1,Animal Planet
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/118.ts
+#EXTINF:-1,Discovery HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/109.ts
+#EXTINF:-1,Discovery Sci HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/108.ts
+#EXTINF:-1,CI Crime Investigation HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/107.ts
+#EXTINF:-1,DMAX
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/115.ts
+#EXTINF:-1,Caccia e Pesca
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/450.ts
+#EXTINF:-1,Pesca e Caccia
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/243.ts
+#EXTINF:-1,Italia Fishing
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5160.ts
+#EXTINF:-1,Focus
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/113.ts
+#EXTINF:-1,History HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/120.ts
+#EXTINF:-1,Explora HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/60.ts
+#EXTINF:-1,Sky Arte HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/121.ts
+#EXTINF:-1,Gambero Rosso HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/116.ts
+#EXTINF:-1,Alice
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/119.ts
+#EXTINF:-1,MarcoPolo
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/122.ts
+#EXTINF:-1,Fine Living
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/124.ts
+#EXTINF:-1,Rai Senato
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/144.ts
+#EXTINF:-1,Rai Scuola
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/622.ts
+#EXTINF:-1,Discovery T e L HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/1531.ts
+#EXTINF:-1,---- Canali SD (Connessioni Lente) ----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4898.ts
+#EXTINF:-1,Rai 1 SD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4891.ts
+#EXTINF:-1,Rai 2 SD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4892.ts
+#EXTINF:-1,Rai 3 SD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4893.ts
+#EXTINF:-1,Rete 4 SD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4894.ts
+#EXTINF:-1,Canale 5 SD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4895.ts
+#EXTINF:-1,Italia 1 SD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4896.ts
+#EXTINF:-1,La 7 SD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4897.ts
+#EXTINF:-1,----- BAMBINI -----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/126.ts
+#EXTINF:-1,Peppa Pig 1.Serie
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2850.ts
+#EXTINF:-1,Peppa Pig 2.Serie
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2851.ts
+#EXTINF:-1,Peppa Pig 3 .Serie
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2852.ts
+#EXTINF:-1,Peppa Pig 4.Serie
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2853.ts
+#EXTINF:-1,Mash e Orso 1.Serie
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2854.ts
+#EXTINF:-1,Cartoon Network
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/128.ts
+#EXTINF:-1,Premium Cartoon Network +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6530.ts
+#EXTINF:-1,Disney Channel HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/134.ts
+#EXTINF:-1,Disney Channel +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/700.ts
+#EXTINF:-1,Disney Junior
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/136.ts
+#EXTINF:-1,Premium Disney Junior +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6538.ts
+#EXTINF:-1,Disney XD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/127.ts
+#EXTINF:-1,NickJR
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/7217.ts
+#EXTINF:-1,Super
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/129.ts
 #EXTINF:-1,K2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4454.ts
-#EXTINF:-1,----------Sky Musica----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4617.ts
-#EXTINF:-1,Vevo TV 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5626.ts
-#EXTINF:-1,Vevo TV 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5625.ts
-#EXTINF:-1,Vevo TV 3 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5624.ts
-#EXTINF:-1,VEVO 02
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5622.ts
-#EXTINF:-1,VEVO 03
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5621.ts
-#EXTINF:-1,VEVO 04
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5620.ts
-#EXTINF:-1,VEVO 06
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5618.ts
-#EXTINF:-1,VEVO 05
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5619.ts
-#EXTINF:-1,VEVO 07
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5617.ts
-#EXTINF:-1,VEVO 08
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5616.ts
-#EXTINF:-1,VEVO 09
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5615.ts
-#EXTINF:-1,VEVO 10
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5613.ts
-#EXTINF:-1,VEVO 11
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5612.ts
-#EXTINF:-1,VEVO 12
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5611.ts
-#EXTINF:-1,VEVO 13
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5610.ts
-#EXTINF:-1,VEVO 14
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5609.ts
-#EXTINF:-1,VEVO 15
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5608.ts
-#EXTINF:-1,VEVO 16
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5607.ts
-#EXTINF:-1,VEVO 18
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5606.ts
-#EXTINF:-1,DEEJAY TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4175.ts
-#EXTINF:-1,Classica HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4347.ts
-#EXTINF:-1,Radio Italia
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4466.ts
-#EXTINF:-1,Radio Taormina
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4109.ts
-#EXTINF:-1,Radio DeeJay
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4110.ts
-#EXTINF:-1,Radio Capital Tv
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4111.ts
-#EXTINF:-1,Radio NumberOne Tv
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4118.ts
-#EXTINF:-1,Radio montecarlo
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4465.ts
-#EXTINF:-1,Onda Italiana
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4114.ts
-#EXTINF:-1,RADIONORBA TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4115.ts
-#EXTINF:-1,kissKiss Napoli TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4116.ts
-#EXTINF:-1,----------Sky Notizie-----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4616.ts
-#EXTINF:-1,TgCom24
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4483.ts
-#EXTINF:-1,Sky TG24 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4481.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/276.ts
+#EXTINF:-1,Frisbee
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/61.ts
+#EXTINF:-1,Cartonito
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/130.ts
+#EXTINF:-1,Boing
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/131.ts
+#EXTINF:-1,Rai Gulp
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/132.ts
+#EXTINF:-1,Rai Yoyo
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/133.ts
+#EXTINF:-1,----- NOTIZIE -----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/138.ts
+#EXTINF:-1,Sky Tg 24 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/139.ts
+#EXTINF:-1,Tg Com 24
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/140.ts
 #EXTINF:-1,Rai News 24
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4484.ts
-#EXTINF:-1,Tele Bari
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4335.ts
-#EXTINF:-1,Videolina
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4485.ts
-#EXTINF:-1,-----------sky Primafila----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4615.ts
-#EXTINF:-1,Primafila Vetrina
-http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4976.mkv
-#EXTINF:-1,Vetrina live Primafila
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5425.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/141.ts
+#EXTINF:-1,TG Norba 24
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/143.ts
+#EXTINF:-1,Tv Globo
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/153.ts
+#EXTINF:-1,Italia 7 gold
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/157.ts
+#EXTINF:-1,----- SKY PRIMAFILA -----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/34.ts
+#EXTINF:-1,Vetrina Primafila
+http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4063.mkv
 #EXTINF:-1,Primafila 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4500.ts
-#EXTINF:-1,Primafila 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4501.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/35.ts
+#EXTINF:-1,Primafila 2 HD
+http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4054.mkv
 #EXTINF:-1,Primafila 3 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4502.ts
-#EXTINF:-1,Primafila 4
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4503.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/37.ts
+#EXTINF:-1,Primafila 4 HD
+http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4055.mkv
 #EXTINF:-1,Primafila 5 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4504.ts
-#EXTINF:-1,Primafila 6
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4505.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/39.ts
+#EXTINF:-1,Primafila 6 HD
+http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4056.mkv
 #EXTINF:-1,Primafila 7 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4506.ts
-#EXTINF:-1,Primafila 8
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4507.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/41.ts
+#EXTINF:-1,Primafila 8 HD
+http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4057.mkv
 #EXTINF:-1,Primafila 9 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4508.ts
-#EXTINF:-1,Primafila 10
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4509.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/43.ts
+#EXTINF:-1,Primafila 10 HD
+http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4058.mkv
 #EXTINF:-1,Primafila 11 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4510.ts
-#EXTINF:-1,Primafila 12
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4511.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/521.ts
+#EXTINF:-1,Primafila 12 HD
+http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4059.mkv
 #EXTINF:-1,Primafila 13 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4512.ts
-#EXTINF:-1,Primafila 14
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4513.ts
-#EXTINF:-1,Primafila 15
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4514.ts
-#EXTINF:-1,Primafila 16
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4515.ts
-#EXTINF:-1,Primafila 17
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4516.ts
-#EXTINF:-1,Primafila 18
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4517.ts
-#EXTINF:-1,Primafila 19
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4518.ts
-#EXTINF:-1,----------Primafila (Vod)----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4519.ts
-#EXTINF:-1,Primafila 1 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4970.mkv
-#EXTINF:-1,Primafila 3 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4971.mkv
-#EXTINF:-1,Primafila 5 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4972.mkv
-#EXTINF:-1,Primafila 7 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4973.mkv
-#EXTINF:-1,Primafila 9 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4977.mkv
-#EXTINF:-1,Primafila 11 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4974.mkv
-#EXTINF:-1,Primafila 13 HD (Vod)
-http://gameserver4.streamiptv.online:80/movie/mariac/mariac/4975.mkv
-#EXTINF:-1,Film In Sala HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4495.ts
-#EXTINF:-1,Film In Sala 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4496.ts
-#EXTINF:-1,Film In Sala 3 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4497.ts
-#EXTINF:-1,Prima Visione HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4493.ts
-#EXTINF:-1,Sala Retro
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4494.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3226.ts
+#EXTINF:-1,Primafila 14 HD
+http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4060.mkv
+#EXTINF:-1,Primafila 15 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3227.ts
+#EXTINF:-1,Primafila 16 HD
+http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4061.mkv
+#EXTINF:-1,Primafila 17 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3228.ts
+#EXTINF:-1,Primafila 18 HD
+http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4062.mkv
+#EXTINF:-1,Primafila 19 HD
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3229.ts
+#EXTINF:-1,----- MUSICA -----
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/188.ts
+#EXTINF:-1,R.T.L 102.5
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/189.ts
+#EXTINF:-1,Radio 105
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/190.ts
+#EXTINF:-1,Radio Italia TV
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/191.ts
+#EXTINF:-1,M2O Music
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/554.ts
+#EXTINF:-1,Virgin TV
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2317.ts
+#EXTINF:-1,Radio 101 TV
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2318.ts
+#EXTINF:-1,Deejay TV
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2316.ts
+#EXTINF:-1,Deejay TV +1
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2326.ts
+#EXTINF:-1,MTV Music
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2325.ts
+#EXTINF:-1,MTV Rocks
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4163.ts
+#EXTINF:-1,MTV BRAND NEW
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/149.ts
+#EXTINF:-1,Mas Latina TV
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2679.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

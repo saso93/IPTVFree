@@ -8,25 +8,25 @@ http://dummylink.com
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5044.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/12.ts
 #EXTINF:-1,Rai 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5045.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/13.ts
 #EXTINF:-1,Rai 3 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5046.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/14.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5047.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/15.ts
 #EXTINF:-1,Canale 5 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5049.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/16.ts
 #EXTINF:-1,Italia 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5048.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/17.ts
 #EXTINF:-1,La 7 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4186.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/18.ts
 #EXTINF:-1 ,Rai 4
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4490.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/147.ts
 #EXTINF:-1,Iris
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Iris HD
@@ -80,9 +80,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5050.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/151.ts
 #EXTINF:-1,RSI LA 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5051.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/152.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83
@@ -102,7 +102,7 @@ http://teleradiopadrepio.it.flash.glb.ipercast.net:1935/teleradiopadrepio.it-liv
 #EXTINF:-1 ,Rai Scuola
 http://stream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
 #EXTINF:-1,SportItalia
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/5083.ts
+http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2324.ts
 #EXTINF:-1,M2o Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1,Radio capital Tivù

@@ -3,6 +3,8 @@
 #EXTM3U
 #EXTINF:-1,+++Default
 http://dummylink.com
+#EXTINF:-1,---DUMMY CATEGORY
+http://dummylink.com
 #EXTINF:-1,---NOVITA
 http://dummylink.com
 #EXTINF:-1, Gomorra Serie TV(in fondo)

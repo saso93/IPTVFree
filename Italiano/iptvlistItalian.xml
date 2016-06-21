@@ -5,28 +5,114 @@
 http://dummylink.com
 #EXTINF:-1, Gomorra Serie TV (in fondo)
 http://dummylink.com
+#EXTINF:-1,---------ON DEMAND-----------
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1646.ts
+#EXTINF:-1,Captain.America.Civil.War
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2098.mp4
+#EXTINF:-1,Zona.D.Ombra
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2062.avi
+#EXTINF:-1,Un.Estate.In.Provenza
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2061.avi
+#EXTINF:-1,Troppo.Napoletano
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2060.avi
+#EXTINF:-1,Star.Wars.Episodio.VII.Il
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1331.mkv
+#EXTINF:-1,Race.il.Colore.Della.Vittoria CD 1
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2052.avi
+#EXTINF:-1,Race.il.Colore.Della.Vittoria CD 2
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2053.avi
+#EXTINF:-1,Nonno.Scatenato
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2059.avi
+#EXTINF:-1,Il.libro.della.giungla.
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2058.avi
+#EXTINF:-1,Hardcore.Henry
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2057.avi
+#EXTINF:-1,Deadpool HD
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2056.avi
+#EXTINF:-1,Criminal
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2055.avi
+#EXTINF:-1,Codice.9.9.9
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/2054.avi
+#EXTINF:-1,Risorto
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1815.mkv
+#EXTINF:-1,Brooklyn
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1807.mkv
+#EXTINF:-1,Zootropolis
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1820.mkv
+#EXTINF:-1,Banat.2016
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1861.mkv
+#EXTINF:-1,Billy.Il.Koala
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1806.mkv
+#EXTINF:-1,La.Quinta.Onda
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1813.mkv
+#EXTINF:-1,Il.Figlio.Di.Saul
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1862.mkv
+#EXTINF:-1,Kung.Fu.Panda.3
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1812.mkv
+#EXTINF:-1,Vita.Cuore.Battito
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1819.mkv
+#EXTINF:-1,Il.Viaggio.Di.Norm
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1811.mkv
+#EXTINF:-1,Mi.Rifaccio.Il.Trullo
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1814.mkv
+#EXTINF:-1,Forever.Young.2016
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1809.mkv
+#EXTINF:-1,Attacco.Al.Potere.2
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1804.mkv
+#EXTINF:-1,Un.Paese.Quasi.Perfetto
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1818.mkv
+#EXTINF:-1,Cinquanta.Sbavature.Di.Nero
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1563.mkv
+#EXTINF:-1,The.Divergent.Series.Allegiant
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1817.mkv
+#EXTINF:-1,Sherlock.L.Abominevole.Sposa
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1556.mkv
+#EXTINF:-1,Il.Cacciatore.E.La.Regina.Di.Ghiaccio
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1873.mkv
+#EXTINF:-1,Batman.V.Superman.Dawn.Of.Justice
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1805.mkv
+#EXTINF:-1,Il.Mio.Grosso.Grasso.Matrimonio.Greco.2
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1810.mkv
+#EXTINF:-1,13.Hours.The.Secret.Soldiers.of.Benghazi
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1860.mkv
+#EXTINF:-1,Star.Wars.Episodio.VII
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1816.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/12.ts
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/160.ts
+#EXTINF:-1,Rai 1 -Dsl Lenta-
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2101.ts
 #EXTINF:-1,Rai 2 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/13.ts
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/159.ts
+#EXTINF:-1,Rai 2 -Dsl Lenta-
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2102.ts
 #EXTINF:-1,Rai 3 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/14.ts
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/158.ts
+#EXTINF:-1,Rai 3 -Dsl Lenta-
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2103.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/15.ts
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/153.ts
+#EXTINF:-1,Rete 4  -Dsl Lenta-
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2104.ts
 #EXTINF:-1,Canale 5 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/16.ts
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/205.ts
+#EXTINF:-1,Canale 5  -Dsl Lenta-
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2105.ts
 #EXTINF:-1,Italia 1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/17.ts
-#EXTINF:-1,La 7 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/18.ts
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/197.ts
+#EXTINF:-1,Italia 1 -Dsl Lenta-
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2106.ts
+#EXTINF:-1,La7
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1704.ts
+#EXTINF:-1,La5
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1797.ts
 #EXTINF:-1 ,Rai 4
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/147.ts
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1792.ts
 #EXTINF:-1,Iris
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Iris HD
@@ -80,9 +166,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/151.ts
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/152.ts
 #EXTINF:-1,RSI LA 2 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/152.ts
+http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/151.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83
@@ -511,486 +597,292 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,----- SKY CINEMA -----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/21.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/22.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/23.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/24.ts
-#EXTINF:-1,SKY CINEMA  +24 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6502.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/25.ts
-#EXTINF:-1,SKY CINEMA HITS +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6503.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/26.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2695.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/29.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/30.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/27.ts
-#EXTINF:-1,SKY CINEMA PASSION +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6506.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/31.ts
-#EXTINF:-1,SKY CINEMA CULT +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6507.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/32.ts
-#EXTINF:-1,SKY CINEMA CLASSIC +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6509.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/28.ts
-#EXTINF:-1,SKY CINEMA COMEDY +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6508.ts
-#EXTINF:-1,----- INTRATTENIMENTO -----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/47.ts
-#EXTINF:-1,Sky 3D
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/33.ts
-#EXTINF:-1,Sky Uno HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/48.ts
-#EXTINF:-1,SKY UNO +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6517.ts
-#EXTINF:-1,Sky Atlantic HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/699.ts
-#EXTINF:-1,Sky Atlantic +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6523.ts
-#EXTINF:-1,Sky Atlantic +2
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6528.ts
-#EXTINF:-1,Comedy central
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/7216.ts
-#EXTINF:-1,Sposa FHD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5157.ts
-#EXTINF:-1,Fox HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/49.ts
-#EXTINF:-1,FOX +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6519.ts
-#EXTINF:-1,Fox Life HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/50.ts
-#EXTINF:-1,FOX LIFE +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6520.ts
-#EXTINF:-1,Fox Crime HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/52.ts
-#EXTINF:-1,FOX CRIME +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6521.ts
-#EXTINF:-1,Fox Comedy HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/51.ts
-#EXTINF:-1,Fox Animation HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/53.ts
-#EXTINF:-1,MAN-GA
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/244.ts
-#EXTINF:-1,AXN HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/54.ts
-#EXTINF:-1,AXN +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6522.ts
-#EXTINF:-1,AXN Sci-Fi
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/59.ts
-#EXTINF:-1,Paramount Channel HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3342.ts
-#EXTINF:-1,Iris
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/159.ts
-#EXTINF:-1,Giallo
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/160.ts
-#EXTINF:-1,Cielo
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/55.ts
-#EXTINF:-1,Lei
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/56.ts
-#EXTINF:-1,Real Time HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/57.ts
-#EXTINF:-1,TV 2000
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/154.ts
-#EXTINF:-1,Rai Movie
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/146.ts
-#EXTINF:-1,Rai Premium
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/145.ts
-#EXTINF:-1,Rai 4
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/147.ts
-#EXTINF:-1,Rai 5
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/148.ts
-#EXTINF:-1,Mediaset Extra
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/142.ts
-#EXTINF:-1,Italia 2
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/158.ts
-#EXTINF:-1,Teleticino HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/156.ts
-#EXTINF:-1,----- SPORT -----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/62.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/64.ts
-#EXTINF:-1,SKY SPORT 24 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6510.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/73.ts
-#EXTINF:-1,SKY SPORT PLUS +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6514.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/66.ts
-#EXTINF:-1,SKY SPORT 1 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6511.ts
-#EXTINF:-1,SKY Sport 2 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/68.ts
-#EXTINF:-1,SKY SPORT 2 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6512.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/70.ts
-#EXTINF:-1,SKY SPORT 3 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6513.ts
-#EXTINF:-1,Fox Sports HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/71.ts
-#EXTINF:-1,FOX SPORT +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6518.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/75.ts
-#EXTINF:-1,SKY SPORT F1 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6515.ts
-#EXTINF:-1,Sky Motogp HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/76.ts
-#EXTINF:-1,SKY SPORT MOTOGP +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6516.ts
-#EXTINF:-1,ClassHorse Tv
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5159.ts
-#EXTINF:-1,Eurosport HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/74.ts
-#EXTINF:-1,Eurosport 2 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/77.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3343.ts
-#EXTINF:-1,Sport Italia
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2324.ts
-#EXTINF:-1,Super tennis HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/78.ts
-#EXTINF:-1,BIKE CHANNEL
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2319.ts
-#EXTINF:-1,Poker Italia 24
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2664.ts
-#EXTINF:-1,Nuvolari
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/155.ts
-#EXTINF:-1,----- CALCIO -----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/83.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/85.ts
-#EXTINF:-1,SKY SUPERCALCIO +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6524.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/87.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/88.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/90.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/92.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/94.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/95.ts
-#EXTINF:-1,SKY Calcio 7 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/96.ts
-#EXTINF:-1,SKY Calcio 8 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/97.ts
-#EXTINF:-1,SKY Calcio 9 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/98.ts
-#EXTINF:-1,SKY Calcio 10 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/99.ts
-#EXTINF:-1,Juventus Channel
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/102.ts
-#EXTINF:-1,Roma Channel
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/101.ts
-#EXTINF:-1,Inter Channel
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/103.ts
-#EXTINF:-1,Milan channel
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/100.ts
-#EXTINF:-1,Lazio Style
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2849.ts
-#EXTINF:-1,----- MEDIASET PREMIUM -----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/162.ts
+#EXTINF:-1,---------MEDIASET PREMIUM -----------
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/308.ts
 #EXTINF:-1,Premium Cinema HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/163.ts
-#EXTINF:-1,Premium Cinema 1 HD +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6532.ts
-#EXTINF:-1,Premium Cinema +24
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/164.ts
-#EXTINF:-1,Premium Cinema 1 +24 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6531.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/173.ts
 #EXTINF:-1,Premium Cinema 2 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/165.ts
-#EXTINF:-1,Premium Cinema 2 HD +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6534.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/166.ts
-#EXTINF:-1,Premium Cinema 2 +24 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6533.ts
-#EXTINF:-1,Premium Action HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/167.ts
-#EXTINF:-1,Premium Action +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6548.ts
-#EXTINF:-1,Premium Action +24
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/168.ts
-#EXTINF:-1,Premium Action 24 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6529.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/176.ts
+#EXTINF:-1,Premium Cinema  +24
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/178.ts
+#EXTINF:-1,Premium Cinema 2  +24
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/177.ts
+#EXTINF:-1,Premium Cinema Energy
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/174.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/175.ts
+#EXTINF:-1,Premium Stories +24
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/188.ts
+#EXTINF:-1,Premium joy + 24
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/161.ts
+#EXTINF:-1,Premium DIscovery World
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/170.ts
 #EXTINF:-1,Premium Crime HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/169.ts
-#EXTINF:-1,Premium Crime HD +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6537.ts
-#EXTINF:-1,Premium Crime +24
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/170.ts
-#EXTINF:-1,Premium Crime +24  +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6536.ts
-#EXTINF:-1,Premium Stories
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/177.ts
-#EXTINF:-1,Premium Stories +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6545.ts
-#EXTINF:-1,Premium Stories + 24
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3250.ts
-#EXTINF:-1,Premium Stories  24 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6546.ts
-#EXTINF:-1,Premium Joy
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/175.ts
-#EXTINF:-1,Premium Joy +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6541.ts
-#EXTINF:-1,Premium Joy +24
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3249.ts
-#EXTINF:-1,Premium Joy +24 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6542.ts
-#EXTINF:-1,Studio Universal
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/174.ts
-#EXTINF:-1,Top Crime
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/176.ts
-#EXTINF:-1,Premium Energy
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/171.ts
-#EXTINF:-1,Premium Energy +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6540.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/171.ts
+#EXTINF:-1,Premium Crime  +24
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/172.ts
+#EXTINF:-1,Premium Action HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/189.ts
+#EXTINF:-1,Premium Action  +24
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/190.ts
 #EXTINF:-1,Premium Emotion
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/172.ts
-#EXTINF:-1,Premium Emotion +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6539.ts
-#EXTINF:-1,Premium Comedy
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/173.ts
-#EXTINF:-1,Premium Comedy  +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6535.ts
-#EXTINF:-1,----- PREMIUM SPORT -----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/162.ts
-#EXTINF:-1,Premium Sport 1 FHD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5161.ts
-#EXTINF:-1,Premium Sport 1 HD +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6543.ts
-#EXTINF:-1,Premium Sport 2 FHD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5162.ts
-#EXTINF:-1,Premium Sport 1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5163.ts
-#EXTINF:-1,Premium Sport 1 +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6544.ts
-#EXTINF:-1,Premium Sport 2
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4889.ts
-#EXTINF:-1,Premium Calcio HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/179.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/166.ts
+#EXTINF:-1,Premium Disney Channel
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/168.ts
+#EXTINF:-1,Premium Disney Junior
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/167.ts
+#EXTINF:-1,Premium Joy
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/163.ts
+#EXTINF:-1,---------- PREMIUM CALCIO -----------
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/307.ts
+#EXTINF:-1,Premium Sport HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/162.ts
 #EXTINF:-1,Premium Calcio 1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/180.ts
-#EXTINF:-1,Premium Calcio 1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2694.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/185.ts
 #EXTINF:-1,Premium Calcio 2
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/182.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/184.ts
 #EXTINF:-1,Premium Calcio 3
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/183.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/183.ts
 #EXTINF:-1,Premium Calcio 4
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/184.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/182.ts
 #EXTINF:-1,Premium Calcio 5
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/185.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/181.ts
 #EXTINF:-1,Premium Calcio 6
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/186.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/180.ts
 #EXTINF:-1,Premium Calcio 7
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/187.ts
-#EXTINF:-1,----- CULTURA -----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/104.ts
-#EXTINF:-1,Nat Geo HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/106.ts
-#EXTINF:-1,Nat Geo People HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/110.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/111.ts
-#EXTINF:-1,Animal Planet
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/118.ts
-#EXTINF:-1,Discovery HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/109.ts
-#EXTINF:-1,Discovery Sci HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/108.ts
-#EXTINF:-1,CI Crime Investigation HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/107.ts
-#EXTINF:-1,DMAX
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/115.ts
-#EXTINF:-1,Caccia e Pesca
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/450.ts
-#EXTINF:-1,Pesca e Caccia
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/243.ts
-#EXTINF:-1,Italia Fishing
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/5160.ts
-#EXTINF:-1,Focus
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/113.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/179.ts
+#EXTINF:-1,---------- INTRATTENIMENTO -----------
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/306.ts
+#EXTINF:-1,Sky TG 24
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/97.ts
+#EXTINF:-1,SKY Fox Animation HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/12.ts
+#EXTINF:-1,FOX COMEDY HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/68.ts
+#EXTINF:-1,Sky Atlantic HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/149.ts
+#EXTINF:-1,FOX LIFE HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/65.ts
+#EXTINF:-1,Fox Crime HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/202.ts
+#EXTINF:-1,Sky Uno HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/126.ts
+#EXTINF:-1,AXN HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1765.ts
+#EXTINF:-1,FOX HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/67.ts
+#EXTINF:-1,---------- CULTURA -----------
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/305.ts
+#EXTINF:-1,Discovery Channel HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/118.ts
+#EXTINF:-1,Discovery Science HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/117.ts
+#EXTINF:-1,Discovery Travel e Living HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/116.ts
+#EXTINF:-1,Crime Investigation HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1654.ts
+#EXTINF:-1,NatGeo People HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/105.ts
+#EXTINF:-1,Gambero rosso HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/201.ts
+#EXTINF:-1,NatGeo Wild HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/104.ts
+#EXTINF:-1,Nat Geo  HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/191.ts
 #EXTINF:-1,History HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/120.ts
-#EXTINF:-1,Explora HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/60.ts
-#EXTINF:-1,Sky Arte HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/121.ts
-#EXTINF:-1,Gambero Rosso HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/116.ts
-#EXTINF:-1,Alice
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/119.ts
-#EXTINF:-1,MarcoPolo
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/122.ts
-#EXTINF:-1,Fine Living
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/124.ts
-#EXTINF:-1,Rai Senato
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/144.ts
-#EXTINF:-1,Rai Scuola
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/622.ts
-#EXTINF:-1,Discovery T e L HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/1531.ts
-#EXTINF:-1,---- Canali SD (Connessioni Lente) ----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4898.ts
-#EXTINF:-1,Rai 1 SD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4891.ts
-#EXTINF:-1,Rai 2 SD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4892.ts
-#EXTINF:-1,Rai 3 SD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4893.ts
-#EXTINF:-1,Rete 4 SD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4894.ts
-#EXTINF:-1,Canale 5 SD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4895.ts
-#EXTINF:-1,Italia 1 SD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4896.ts
-#EXTINF:-1,La 7 SD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4897.ts
-#EXTINF:-1,----- BAMBINI -----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/126.ts
-#EXTINF:-1,Peppa Pig 1.Serie
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2850.ts
-#EXTINF:-1,Peppa Pig 2.Serie
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2851.ts
-#EXTINF:-1,Peppa Pig 3 .Serie
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2852.ts
-#EXTINF:-1,Peppa Pig 4.Serie
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2853.ts
-#EXTINF:-1,Mash e Orso 1.Serie
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2854.ts
-#EXTINF:-1,Cartoon Network
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/128.ts
-#EXTINF:-1,Premium Cartoon Network +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6530.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/47.ts
+#EXTINF:-1,Caccia e Pesca
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/70.ts
+#EXTINF:-1,---------- BAMBINI -----------
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/303.ts
+#EXTINF:-1,Masha e Orso Channel
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2112.ts
 #EXTINF:-1,Disney Channel HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/134.ts
-#EXTINF:-1,Disney Channel +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/700.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/115.ts
+#EXTINF:-1,Peppa Pig Channel
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/114.ts
+#EXTINF:-1,Cartoon Network
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/120.ts
 #EXTINF:-1,Disney Junior
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/136.ts
-#EXTINF:-1,Premium Disney Junior +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/6538.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/113.ts
 #EXTINF:-1,Disney XD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/127.ts
-#EXTINF:-1,NickJR
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/7217.ts
-#EXTINF:-1,Super
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/129.ts
-#EXTINF:-1,K2
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/276.ts
-#EXTINF:-1,Frisbee
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/61.ts
-#EXTINF:-1,Cartonito
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/130.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/112.ts
+#EXTINF:-1,Cartoonito
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/119.ts
 #EXTINF:-1,Boing
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/131.ts
-#EXTINF:-1,Rai Gulp
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/132.ts
-#EXTINF:-1,Rai Yoyo
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/133.ts
-#EXTINF:-1,----- NOTIZIE -----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/138.ts
-#EXTINF:-1,Sky Tg 24 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/139.ts
-#EXTINF:-1,Tg Com 24
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/140.ts
-#EXTINF:-1,Rai News 24
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/141.ts
-#EXTINF:-1,TG Norba 24
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/143.ts
-#EXTINF:-1,Tv Globo
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/153.ts
-#EXTINF:-1,Italia 7 gold
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/157.ts
-#EXTINF:-1,----- SKY PRIMAFILA -----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/34.ts
-#EXTINF:-1,Vetrina Primafila
-http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4063.mkv
-#EXTINF:-1,Primafila 1 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/35.ts
-#EXTINF:-1,Primafila 2 HD
-http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4054.mkv
-#EXTINF:-1,Primafila 3 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/37.ts
-#EXTINF:-1,Primafila 4 HD
-http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4055.mkv
-#EXTINF:-1,Primafila 5 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/39.ts
-#EXTINF:-1,Primafila 6 HD
-http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4056.mkv
-#EXTINF:-1,Primafila 7 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/41.ts
-#EXTINF:-1,Primafila 8 HD
-http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4057.mkv
-#EXTINF:-1,Primafila 9 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/43.ts
-#EXTINF:-1,Primafila 10 HD
-http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4058.mkv
-#EXTINF:-1,Primafila 11 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/521.ts
-#EXTINF:-1,Primafila 12 HD
-http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4059.mkv
-#EXTINF:-1,Primafila 13 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3226.ts
-#EXTINF:-1,Primafila 14 HD
-http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4060.mkv
-#EXTINF:-1,Primafila 15 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3227.ts
-#EXTINF:-1,Primafila 16 HD
-http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4061.mkv
-#EXTINF:-1,Primafila 17 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3228.ts
-#EXTINF:-1,Primafila 18 HD
-http://iptv.iptvthebest.net:15000/movie/ipexgbzb/qC3H071kar/4062.mkv
-#EXTINF:-1,Primafila 19 HD
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/3229.ts
-#EXTINF:-1,----- MUSICA -----
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/188.ts
-#EXTINF:-1,R.T.L 102.5
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/189.ts
-#EXTINF:-1,Radio 105
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/190.ts
-#EXTINF:-1,Radio Italia TV
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/191.ts
-#EXTINF:-1,M2O Music
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/554.ts
-#EXTINF:-1,Virgin TV
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2317.ts
-#EXTINF:-1,Radio 101 TV
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2318.ts
-#EXTINF:-1,Deejay TV
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2316.ts
-#EXTINF:-1,Deejay TV +1
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2326.ts
-#EXTINF:-1,MTV Music
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2325.ts
-#EXTINF:-1,MTV Rocks
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/4163.ts
-#EXTINF:-1,MTV BRAND NEW
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/149.ts
-#EXTINF:-1,Mas Latina TV
-http://iptv.iptvthebest.net:15000/live/ipexgbzb/qC3H071kar/2679.ts
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/121.ts
+#EXTINF:-1,FrisBee
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/124.ts
+#EXTINF:-1,K2
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/111.ts
+#EXTINF:-1,---------- SKY CINEMA -----------
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/302.ts
+#EXTINF:-1,Sky Cinema   1 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/140.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/139.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/137.ts
+#EXTINF:-1,Sky Cinema Max  HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/134.ts
+#EXTINF:-1,Sky Cinema +1
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2089.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/141.ts
+#EXTINF:-1,SKY Cinema Family HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/136.ts
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/135.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/59.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/133.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/138.ts
+#EXTINF:-1,---------- PRIMAFILA -----------
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/475.ts
+#EXTINF:-1,PRIMAFILA 1 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2072.ts
+#EXTINF:-1,PRIMAFILA 2 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2073.ts
+#EXTINF:-1,PRIMAFILA 3 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2074.ts
+#EXTINF:-1,PRIMAFILA 4 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2075.ts
+#EXTINF:-1,PRIMAFILA 5 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2076.ts
+#EXTINF:-1,PRIMAFILA 6 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2077.ts
+#EXTINF:-1,PRIMAFILA 7 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2078.ts
+#EXTINF:-1,PRIMAFILA 8 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2079.ts
+#EXTINF:-1,PRIMAFILA 9 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2080.ts
+#EXTINF:-1,PRIMAFILA 10 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2081.ts
+#EXTINF:-1,PRIMAFILA 11 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2082.ts
+#EXTINF:-1,PRIMAFILA 12 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2083.ts
+#EXTINF:-1,PRIMAFILA 13 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2084.ts
+#EXTINF:-1,PRIMAFILA 14 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2085.ts
+#EXTINF:-1,PRIMAFILA 15 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2086.ts
+#EXTINF:-1,PRIMAFILA 16 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2087.ts
+#EXTINF:-1,PRIMAFILA 17 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2153.ts
+#EXTINF:-1,PRIMAFILA 18 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2154.ts
+#EXTINF:-1,PRIMAFILA 19 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2155.ts
+#EXTINF:-1,SKY PRIMAFILA 01 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1713.mkv
+#EXTINF:-1,SKY PRIMAFILA 02 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1714.mkv
+#EXTINF:-1,SKY PRIMAFILA 03 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1715.mkv
+#EXTINF:-1,SKY PRIMAFILA 04 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1716.mkv
+#EXTINF:-1,SKY PRIMAFILA 05 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1717.mkv
+#EXTINF:-1,SKY PRIMAFILA 06 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1718.mkv
+#EXTINF:-1,SKY PRIMAFILA 07 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1719.mkv
+#EXTINF:-1,SKY PRIMAFILA 08 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1720.mkv
+#EXTINF:-1,SKY PRIMAFILA 09 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1721.mkv
+#EXTINF:-1,SKY PRIMAFILA 10 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1722.mkv
+#EXTINF:-1,SKY PRIMAFILA 11 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1725.mkv
+#EXTINF:-1,SKY PRIMAFILA 12 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1726.mkv
+#EXTINF:-1,SKY PRIMAFILA 13 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1727.mkv
+#EXTINF:-1,SKY PRIMAFILA 14 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1723.mkv
+#EXTINF:-1,SKY PRIMAFILA 15 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1728.mkv
+#EXTINF:-1,SKY PRIMAFILA 16 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1729.mkv
+#EXTINF:-1,SKY PRIMAFILA 17 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1730.mkv
+#EXTINF:-1,SKY PRIMAFILA 18 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1731.mkv
+#EXTINF:-1,SKY PRIMAFILA 19 HD Ondemand
+http://-.dyndns.org:34555/movie/pierangelo/pierangelo/1724.mkv
+#EXTINF:-1,SKY PRIMAFILA 20 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1775.ts
+#EXTINF:-1,SKY PRIMAFILA 21 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1774.ts
+#EXTINF:-1,SKY PRIMAFILA 22 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1773.ts
+#EXTINF:-1,SKY PRIMAFILA 23 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1770.ts
+#EXTINF:-1,SKY PRIMAFILA 24 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1769.ts
+#EXTINF:-1,SKY PRIMAFILA 25 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1768.ts
+#EXTINF:-1,SKY PRIMAFILA 26 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1767.ts
+#EXTINF:-1,SKY PRIMAFILA 27 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2037.ts
+#EXTINF:-1,SKY PRIMAFILA 28 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2038.ts
+#EXTINF:-1,---------- SKY SPORT ----------
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/301.ts
+#EXTINF:-1,Sky Fox Sports HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/132.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/131.ts
+#EXTINF:-1,SKY Sport 2 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/130.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/128.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/99.ts
+#EXTINF:-1,Sky Moto GP HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/96.ts
+#EXTINF:-1,SKY Sport 24 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/129.ts
+#EXTINF:-1,Roma channel
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1312.ts
+#EXTINF:-1,Milan channel
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1311.ts
+#EXTINF:-1,Juventus TV
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1309.ts
+#EXTINF:-1,Inter Channel
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/1310.ts
+#EXTINF:-1,---------- SKY CALCIO -----------
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/300.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/98.ts
+#EXTINF:-1,Sky Supercalcio SD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/2026.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/148.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/147.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/146.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/145.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/144.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/143.ts
+#EXTINF:-1,SKY Calcio 7 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/142.ts
+#EXTINF:-1,SKY Calcio 8 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/61.ts
+#EXTINF:-1,SKY Calcio 9 HD
+http://-.dyndns.org:34555/live/pierangelo/pierangelo/60.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

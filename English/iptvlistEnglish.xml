@@ -1,360 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <List>
 #EXTM3U
-#EXTINF:-1,----------Sky UK----------
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/4820.ts
-#EXTINF:-1,Vintage TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6871.ts
-#EXTINF:-1,VH1 Classic
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6872.ts
-#EXTINF:-1,UTV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6873.ts
-#EXTINF:-1,True Movies 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6874.ts
-#EXTINF:-1,True Movies
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6875.ts
-#EXTINF:-1,True Entertainment
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6876.ts
-#EXTINF:-1,True Drama
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6877.ts
-#EXTINF:-1,Travel
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6878.ts
-#EXTINF:-1,Tiny Pop
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6879.ts
-#EXTINF:-1,The Vault
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6880.ts
-#EXTINF:-1,Starz
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6881.ts
-#EXTINF:-1,Sony TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6882.ts
-#EXTINF:-1,Sky Sports F1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6883.ts
-#EXTINF:-1,Sky Sports 5
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6884.ts
-#EXTINF:-1,Sky News
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6885.ts
-#EXTINF:-1,Sky Movies Greats
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6886.ts
-#EXTINF:-1,Sky Movies Family
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6887.ts
-#EXTINF:-1,Sky Movies Crime   Thriller
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6888.ts
-#EXTINF:-1,Sky Atlantic
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6889.ts
-#EXTINF:-1,Sky Arts
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6890.ts
-#EXTINF:-1,Setanta Ireland
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6891.ts
-#EXTINF:-1,Scuzz
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6892.ts
-#EXTINF:-1,RTE 1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6893.ts
-#EXTINF:-1,Racing UK
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6894.ts
-#EXTINF:-1,Press TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6895.ts
-#EXTINF:-1,Premier Sports HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6896.ts
-#EXTINF:-1,Premier Sports
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6897.ts
-#EXTINF:-1,Pop
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6898.ts
-#EXTINF:-1,Pick
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6899.ts
-#EXTINF:-1,MTV Rocks
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6900.ts
-#EXTINF:-1,MTV Music
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6901.ts
-#EXTINF:-1,MTV Hits
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6902.ts
-#EXTINF:-1,MTV Dance
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6903.ts
-#EXTINF:-1,MTV Classic
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6904.ts
-#EXTINF:-1,MTV Base
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6905.ts
-#EXTINF:-1,MTV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6906.ts
-#EXTINF:-1,Movies4men
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6907.ts
-#EXTINF:-1,Motors TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6908.ts
-#EXTINF:-1,More 4
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6909.ts
-#EXTINF:-1,Kix
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6910.ts
-#EXTINF:-1,ITV Encore
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6911.ts
-#EXTINF:-1,ITV Be
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6912.ts
-#EXTINF:-1,ITV  1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6913.ts
-#EXTINF:-1,Horror Channel
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6914.ts
-#EXTINF:-1,Home  1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6915.ts
-#EXTINF:-1,Home
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6916.ts
-#EXTINF:-1,Good Food  1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6917.ts
-#EXTINF:-1,Gold
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6918.ts
-#EXTINF:-1,France 24
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6919.ts
-#EXTINF:-1,Food Network
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6920.ts
-#EXTINF:-1,Flava
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6921.ts
-#EXTINF:-1,Film 4
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6922.ts
-#EXTINF:-1,Eurosport 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6923.ts
-#EXTINF:-1,Eurosport 1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6924.ts
-#EXTINF:-1,E4  1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6925.ts
-#EXTINF:-1,E4
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6926.ts
-#EXTINF:-1,Drama
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6927.ts
-#EXTINF:-1,Discovery Science
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6928.ts
-#EXTINF:-1,Comedy Central Extra
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6929.ts
-#EXTINF:-1,CNN
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6930.ts
-#EXTINF:-1,Clubland TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6931.ts
-#EXTINF:-1,CITV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6932.ts
-#EXTINF:-1,Chart Show TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6933.ts
-#EXTINF:-1,Channels 24
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6934.ts
-#EXTINF:-1,Channel Aka
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6935.ts
-#EXTINF:-1,Channel 5
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6936.ts
-#EXTINF:-1,Channel 4  1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6937.ts
-#EXTINF:-1,Channel 4
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6938.ts
-#EXTINF:-1,Challenge
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6939.ts
-#EXTINF:-1,CBS Reality
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6940.ts
-#EXTINF:-1,CBS Drama
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6941.ts
-#EXTINF:-1,CBS Action
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6942.ts
-#EXTINF:-1,Cartoonito
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6943.ts
-#EXTINF:-1,BT Sport Mosaic
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6944.ts
-#EXTINF:-1,BT Sport Extra
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6945.ts
-#EXTINF:-1,BBC News
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6946.ts
-#EXTINF:-1,BBC 4/Cbeebies HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6947.ts
-#EXTINF:-1,BBC 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6948.ts
-#EXTINF:-1,BBC 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6949.ts
-#EXTINF:-1,B4U Music
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6950.ts
-#EXTINF:-1,Animal Planet
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6951.ts
-#EXTINF:-1,AMC
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6952.ts
-#EXTINF:-1,Al Jazeera English
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6953.ts
-#EXTINF:-1,ABN TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6954.ts
-#EXTINF:-1,5 USA
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6955.ts
-#EXTINF:-1,4 Seven
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6956.ts
-#EXTINF:-1,UK Yesterday
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6957.ts
-#EXTINF:-1,UK Watch
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6958.ts
-#EXTINF:-1,UK VH1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6959.ts
-#EXTINF:-1,UK TruTV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6960.ts
-#EXTINF:-1,UK Travel Channel
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6961.ts
-#EXTINF:-1,UK TLC
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6962.ts
-#EXTINF:-1,UK TG4
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6963.ts
-#EXTINF:-1,UK TCM
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6964.ts
-#EXTINF:-1,UK SyFy
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6965.ts
-#EXTINF:-1,UK Sony Movie
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6966.ts
-#EXTINF:-1,UK Sky Sports News HQ
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6967.ts
-#EXTINF:-1,UK Sky Sports F1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6968.ts
-#EXTINF:-1,UK Sky Sports 5 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6969.ts
-#EXTINF:-1,UK Sky Sports 4 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6970.ts
-#EXTINF:-1,UK Sky Sports 4
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6971.ts
-#EXTINF:-1,UK Sky Sports 3 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6972.ts
-#EXTINF:-1,UK Sky Sports 3
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6973.ts
-#EXTINF:-1,UK Sky Sports 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6974.ts
-#EXTINF:-1,UK Sky Sports 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6975.ts
-#EXTINF:-1,UK Sky Sports 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6976.ts
-#EXTINF:-1,UK Sky Sports 1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6977.ts
-#EXTINF:-1,UK Sky Movies Showcase
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6978.ts
-#EXTINF:-1,UK Sky Movies Select
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6979.ts
-#EXTINF:-1,UK Sky Movies ScFi/Horror
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6980.ts
-#EXTINF:-1,UK Sky Movies Premiere
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6981.ts
-#EXTINF:-1,UK Sky Movies Drama Romance
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6982.ts
-#EXTINF:-1,UK Sky Movies Disney
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6983.ts
-#EXTINF:-1,UK Sky Movies Comedy
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6984.ts
-#EXTINF:-1,UK Sky Movies Action Adventure
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6985.ts
-#EXTINF:-1,UK Sky Living
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6986.ts
-#EXTINF:-1,UK Sky 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6987.ts
-#EXTINF:-1,UK Sky 1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6988.ts
-#EXTINF:-1,UK RTE News
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6989.ts
-#EXTINF:-1,UK RTE 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6990.ts
-#EXTINF:-1,UK RT HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6991.ts
-#EXTINF:-1,UK Real Lives
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6992.ts
-#EXTINF:-1,UK Quest
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6993.ts
-#EXTINF:-1,UK OH TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6994.ts
-#EXTINF:-1,UK Nickelodeon
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6995.ts
-#EXTINF:-1,UK Nick Jr Too
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6996.ts
-#EXTINF:-1,UK Nick Jr
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6997.ts
-#EXTINF:-1,UK National Geographic
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6998.ts
-#EXTINF:-1,UK Nat Geo Wild
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/6999.ts
-#EXTINF:-1,UK MUTV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7000.ts
-#EXTINF:-1,UK MTV Live HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7001.ts
-#EXTINF:-1,UK London Live
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7002.ts
-#EXTINF:-1,UK LFC
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7003.ts
-#EXTINF:-1,UK ITV 4 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7004.ts
-#EXTINF:-1,UK ITV 3 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7005.ts
-#EXTINF:-1,UK ITV 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7006.ts
-#EXTINF:-1,UK ITV 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7007.ts
-#EXTINF:-1,UK Irish TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7008.ts
-#EXTINF:-1,UK ID
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7009.ts
-#EXTINF:-1,UK Horse   Country
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7010.ts
-#EXTINF:-1,UK Home   Health
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7011.ts
-#EXTINF:-1,UK History 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7012.ts
-#EXTINF:-1,UK History
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7013.ts
-#EXTINF:-1,UK Heart TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7014.ts
-#EXTINF:-1,UK Fox
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7015.ts
-#EXTINF:-1,UK Euronews
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7016.ts
-#EXTINF:-1,UK English Club TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7017.ts
-#EXTINF:-1,UK E!
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7018.ts
-#EXTINF:-1,UK DW
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7019.ts
-#EXTINF:-1,UK Dmax
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7020.ts
-#EXTINF:-1,UK Disney XD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7021.ts
-#EXTINF:-1,UK Disney Junior
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7022.ts
-#EXTINF:-1,UK Disney Channel
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7023.ts
-#EXTINF:-1,UK Discovery Turbo
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7024.ts
-#EXTINF:-1,UK Discovery History
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7025.ts
-#EXTINF:-1,UK Discovery
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7026.ts
-#EXTINF:-1,UK Dave
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7027.ts
-#EXTINF:-1,UK Crime   Investigation
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7028.ts
-#EXTINF:-1,UK Comedy Central
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7029.ts
-#EXTINF:-1,UK Chelsea TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7030.ts
-#EXTINF:-1,UK Cartoon Network
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7031.ts
-#EXTINF:-1,UK Capital TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7032.ts
-#EXTINF:-1,UK BT Sport Europe HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7033.ts
-#EXTINF:-1,UK BT Sport ESPN
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7034.ts
-#EXTINF:-1,UK BT Sport 2 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7035.ts
-#EXTINF:-1,UK BT Sport 2
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7036.ts
-#EXTINF:-1,UK BT Sport 1 HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7037.ts
-#EXTINF:-1,UK BT Sport 1
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7038.ts
-#EXTINF:-1,UK Box Nation
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7039.ts
-#EXTINF:-1,UK Boomerang
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7040.ts
-#EXTINF:-1,UK BBC World News
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7041.ts
-#EXTINF:-1,UK BBC 3/CBBC HD
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7042.ts
-#EXTINF:-1,UK Baby TV
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7043.ts
-#EXTINF:-1,UK At The Races
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7044.ts
-#EXTINF:-1,UK Alibi
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7045.ts
-#EXTINF:-1,UK 5 Star
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7046.ts
-#EXTINF:-1,UK 3e
-http://gameserver4.streamiptv.online:80/live/mariac/mariac/7047.ts
+#EXTINF:-1,----------- SKY UK -----------
+http://ipsatpro.com:8000/live/bozil/bozil/551.ts
+#EXTINF:-1,UK: Sky News HD
+http://ipsatpro.com:8000/live/bozil/bozil/550.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://ipsatpro.com:8000/live/bozil/bozil/549.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://ipsatpro.com:8000/live/bozil/bozil/548.ts
+#EXTINF:-1,UK: Sky Sport 1 SD
+http://ipsatpro.com:8000/live/bozil/bozil/533.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://ipsatpro.com:8000/live/bozil/bozil/547.ts
+#EXTINF:-1,UK: Sky Sport 2 SD
+http://ipsatpro.com:8000/live/bozil/bozil/532.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://ipsatpro.com:8000/live/bozil/bozil/546.ts
+#EXTINF:-1,UK: Sky Sport 3 SD
+http://ipsatpro.com:8000/live/bozil/bozil/531.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://ipsatpro.com:8000/live/bozil/bozil/545.ts
+#EXTINF:-1,UK: Sky Sport 4 SD
+http://ipsatpro.com:8000/live/bozil/bozil/530.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://ipsatpro.com:8000/live/bozil/bozil/544.ts
+#EXTINF:-1,UK: Sky Sport 5 SD
+http://ipsatpro.com:8000/live/bozil/bozil/529.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://ipsatpro.com:8000/live/bozil/bozil/539.ts
+#EXTINF:-1,UK: Sky Premier Sports HD
+http://ipsatpro.com:8000/live/bozil/bozil/513.ts
+#EXTINF:-1,UK: Sky Setanta Sports
+http://ipsatpro.com:8000/live/bozil/bozil/484.ts
+#EXTINF:-1,UK: Sky Eurosport 1 HD
+http://ipsatpro.com:8000/live/bozil/bozil/541.ts
+#EXTINF:-1,UK: Sky Eurosport 2 HD
+http://ipsatpro.com:8000/live/bozil/bozil/540.ts
+#EXTINF:-1,UK: Sky BT Sport 1
+http://ipsatpro.com:8000/live/bozil/bozil/543.ts
+#EXTINF:-1,UK: Sky BT Sport 2
+http://ipsatpro.com:8000/live/bozil/bozil/542.ts
+#EXTINF:-1,UK: Sky BT Sport 1 HD
+http://ipsatpro.com:8000/live/bozil/bozil/528.ts
+#EXTINF:-1,UK: Sky BT Sport 2 HD
+http://ipsatpro.com:8000/live/bozil/bozil/527.ts
+#EXTINF:-1,UK: Sky BT Sport Europe
+http://ipsatpro.com:8000/live/bozil/bozil/453.ts
+#EXTINF:-1,UK: Sky Liverpool FC TV HD
+http://ipsatpro.com:8000/live/bozil/bozil/536.ts
+#EXTINF:-1,UK: Sky Chelsea TV HD
+http://ipsatpro.com:8000/live/bozil/bozil/537.ts
+#EXTINF:-1,UK: Sky MUTV
+http://ipsatpro.com:8000/live/bozil/bozil/535.ts
+#EXTINF:-1,Uk: Sky LFC TV
+http://ipsatpro.com:8000/live/bozil/bozil/461.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://ipsatpro.com:8000/live/bozil/bozil/519.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://ipsatpro.com:8000/live/bozil/bozil/516.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://ipsatpro.com:8000/live/bozil/bozil/517.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://ipsatpro.com:8000/live/bozil/bozil/511.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://ipsatpro.com:8000/live/bozil/bozil/518.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://ipsatpro.com:8000/live/bozil/bozil/520.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://ipsatpro.com:8000/live/bozil/bozil/521.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://ipsatpro.com:8000/live/bozil/bozil/524.ts
+#EXTINF:-1,UK: Sky Movies Crime
+http://ipsatpro.com:8000/live/bozil/bozil/512.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi+
+http://ipsatpro.com:8000/live/bozil/bozil/515.ts
+#EXTINF:-1,UK: Sky Movies 24
+http://ipsatpro.com:8000/live/bozil/bozil/523.ts
+#EXTINF:-1,UK: Sky True Movies1
+http://ipsatpro.com:8000/live/bozil/bozil/472.ts
+#EXTINF:-1,UK: Sky True Movies 2
+http://ipsatpro.com:8000/live/bozil/bozil/534.ts
+#EXTINF:-1,UK: Sky More 4 HD
+http://ipsatpro.com:8000/live/bozil/bozil/504.ts
+#EXTINF:-1,UK: Sky Film 4 HD
+http://ipsatpro.com:8000/live/bozil/bozil/505.ts
+#EXTINF:-1,UK: Sky ITV 1
+http://ipsatpro.com:8000/live/bozil/bozil/471.ts
+#EXTINF:-1,UK: Sky ITV 2
+http://ipsatpro.com:8000/live/bozil/bozil/470.ts
+#EXTINF:-1,UK: Sky ITV 3
+http://ipsatpro.com:8000/live/bozil/bozil/469.ts
+#EXTINF:-1,UK: Sky ITV 4
+http://ipsatpro.com:8000/live/bozil/bozil/468.ts
+#EXTINF:-1,UK: Sky ITV Encore
+http://ipsatpro.com:8000/live/bozil/bozil/467.ts
+#EXTINF:-1,UK: Sky Cbs Drama
+http://ipsatpro.com:8000/live/bozil/bozil/482.ts
+#EXTINF:-1,UK: Sky Cbs Action
+http://ipsatpro.com:8000/live/bozil/bozil/481.ts
+#EXTINF:-1,UK: Sky CBS Reality
+http://ipsatpro.com:8000/live/bozil/bozil/510.ts
+#EXTINF:-1,UK: Sky BBC One HD
+http://ipsatpro.com:8000/live/bozil/bozil/488.ts
+#EXTINF:-1,UK: Sky BBC Two HD
+http://ipsatpro.com:8000/live/bozil/bozil/487.ts
+#EXTINF:-1,UK: Sky BBC Three HD
+http://ipsatpro.com:8000/live/bozil/bozil/486.ts
+#EXTINF:-1,UK: Sky BBC Four HD
+http://ipsatpro.com:8000/live/bozil/bozil/485.ts
+#EXTINF:-1,UK: Sky BT Sport Extra
+http://ipsatpro.com:8000/live/bozil/bozil/479.ts
+#EXTINF:-1,UK: Sky Comedy Central
+http://ipsatpro.com:8000/live/bozil/bozil/463.ts
+#EXTINF:-1,UK: Sky Comedy Central Ex
+http://ipsatpro.com:8000/live/bozil/bozil/462.ts
+#EXTINF:-1,UK: Sky History 2
+http://ipsatpro.com:8000/live/bozil/bozil/452.ts
+#EXTINF:-1,UK: Sky Nickelodeon
+http://ipsatpro.com:8000/live/bozil/bozil/503.ts
+#EXTINF:-1,UK: Sky Disney XD HD
+http://ipsatpro.com:8000/live/bozil/bozil/493.ts
+#EXTINF:-1,UK: Sky Disney Junior HD
+http://ipsatpro.com:8000/live/bozil/bozil/494.ts
+#EXTINF:-1,UK: Sky Food Network
+http://ipsatpro.com:8000/live/bozil/bozil/495.ts
+#EXTINF:-1,UK: Sky Discovery
+http://ipsatpro.com:8000/live/bozil/bozil/464.ts
+#EXTINF:-1,UK: Sky Disney Chaneel HD
+http://ipsatpro.com:8000/live/bozil/bozil/492.ts
+#EXTINF:-1,UK: Sky Cartoon Network
+http://ipsatpro.com:8000/live/bozil/bozil/522.ts
+#EXTINF:-1,UK: Sky Discovery Science
+http://ipsatpro.com:8000/live/bozil/bozil/526.ts
+#EXTINF:-1,UK: Sky Discovery History
+http://ipsatpro.com:8000/live/bozil/bozil/491.ts
+#EXTINF:-1,UK: Sky Discovery Turbo
+http://ipsatpro.com:8000/live/bozil/bozil/465.ts
+#EXTINF:-1,UK: Sky Ci
+http://ipsatpro.com:8000/live/bozil/bozil/514.ts
+#EXTINF:-1,UK: Sky Animal Planet HD
+http://ipsatpro.com:8000/live/bozil/bozil/497.ts
+#EXTINF:-1,UK: Sky National Geographic HD
+http://ipsatpro.com:8000/live/bozil/bozil/499.ts
+#EXTINF:-1,UK: Sky Nat Geo Wild HD
+http://ipsatpro.com:8000/live/bozil/bozil/498.ts
+#EXTINF:-1,UK: Sky History HD
+http://ipsatpro.com:8000/live/bozil/bozil/496.ts
+#EXTINF:-1,UK: Sky 1
+http://ipsatpro.com:8000/live/bozil/bozil/475.ts
+#EXTINF:-1,UK: Sky 2
+http://ipsatpro.com:8000/live/bozil/bozil/507.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://ipsatpro.com:8000/live/bozil/bozil/483.ts
+#EXTINF:-1,UK: Sky VH1
+http://ipsatpro.com:8000/live/bozil/bozil/449.ts
+#EXTINF:-1,UK: Sky E4
+http://ipsatpro.com:8000/live/bozil/bozil/451.ts
+#EXTINF:-1,UK: Sky Syfy
+http://ipsatpro.com:8000/live/bozil/bozil/538.ts
+#EXTINF:-1,UK: Sky MTV Classic
+http://ipsatpro.com:8000/live/bozil/bozil/500.ts
+#EXTINF:-1,UK: Sky CNBC
+http://ipsatpro.com:8000/live/bozil/bozil/466.ts
+#EXTINF:-1,UK: Sky Dave HD
+http://ipsatpro.com:8000/live/bozil/bozil/506.ts
+#EXTINF:-1,UK: Sky RTE One
+http://ipsatpro.com:8000/live/bozil/bozil/474.ts
+#EXTINF:-1,UK: Sky RTE Two
+http://ipsatpro.com:8000/live/bozil/bozil/478.ts
+#EXTINF:-1,UK: SKY Fox
+http://ipsatpro.com:8000/live/bozil/bozil/460.ts
+#EXTINF:-1,UK: Sky Five
+http://ipsatpro.com:8000/live/bozil/bozil/473.ts
+#EXTINF:-1,UK: Sky Arts 1 HD
+http://ipsatpro.com:8000/live/bozil/bozil/489.ts
+#EXTINF:-1,UK: Sky Alibi
+http://ipsatpro.com:8000/live/bozil/bozil/509.ts
+#EXTINF:-1,UK: Sky Living HD
+http://ipsatpro.com:8000/live/bozil/bozil/502.ts
+#EXTINF:-1,UK: Sky BoxNation
+http://ipsatpro.com:8000/live/bozil/bozil/490.ts
+#EXTINF:-1,UK: Sky Racing
+http://ipsatpro.com:8000/live/bozil/bozil/458.ts
+#EXTINF:-1,UK: Sky Gold
+http://ipsatpro.com:8000/live/bozil/bozil/508.ts
+#EXTINF:-1,UK: Sky 5 USA
+http://ipsatpro.com:8000/live/bozil/bozil/480.ts
+#EXTINF:-1,UK: Sky 5 star
+http://ipsatpro.com:8000/live/bozil/bozil/477.ts
+#EXTINF:-1,UK: Sky life Time
+http://ipsatpro.com:8000/live/bozil/bozil/476.ts
+#EXTINF:-1,UK: Sky E4+1
+http://ipsatpro.com:8000/live/bozil/bozil/525.ts
+#EXTINF:-1,UK: Sky Good Food HD
+http://ipsatpro.com:8000/live/bozil/bozil/501.ts
+#EXTINF:-1,UK: Sky TCM
+http://ipsatpro.com:8000/live/bozil/bozil/459.ts
+#EXTINF:-1,UK: Mtv Rocks
+http://ipsatpro.com:8000/live/bozil/bozil/450.ts
+#EXTINF:-1,UK: CNN
+http://ipsatpro.com:8000/live/bozil/bozil/454.ts
+#EXTINF:-1,UK: Dmax
+http://ipsatpro.com:8000/live/bozil/bozil/456.ts
+#EXTINF:-1,UK: Sky Bloomberg HD
+http://ipsatpro.com:8000/live/bozil/bozil/457.ts
+#EXTINF:-1,UK: Sky TLC
+http://ipsatpro.com:8000/live/bozil/bozil/455.ts
+#EXTINF:-1,UK: Sky Magic
+http://ipsatpro.com:8000/live/bozil/bozil/448.ts
 </List>

@@ -1,4 +1,4 @@
-![alt tag](http://s32.postimg.org/lcrg2kfph/Progetto_Icona_Copia.png) 
+![alt tag](https://s31.postimg.org/nk8td88dn/Progetto_Icona_Copia.png) 
 
 <h2 align="center">Watch all your favorite channels!!</h1>
 
@@ -49,6 +49,7 @@ Android API 14+
 **v2.0.0 (Coming Soon!)**
 
 - Re-styling layout
+- `Firebase` integration
 - Improved parsing `XML` list
 - Improved parsing icon
 - Added News `CardView`

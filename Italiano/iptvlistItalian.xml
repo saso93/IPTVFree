@@ -718,27 +718,29 @@ http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/111.ts
 #EXTINF:-1,-------- SKY CINEMA ---------
 http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/302.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/140.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/139.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/137.ts
-#EXTINF:-1,Sky Cinema Max  HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/134.ts
-#EXTINF:-1,Sky Cinema +1
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2089.ts
+http://ipsatpro.com:8000/live/170216/170216/681.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://ipsatpro.com:8000/live/170216/170216/680.ts
 #EXTINF:-1,Sky Cinema +24 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/141.ts
-#EXTINF:-1,SKY Cinema Family HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/136.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/135.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/59.ts
+http://ipsatpro.com:8000/live/170216/170216/679.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://ipsatpro.com:8000/live/170216/170216/675.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://ipsatpro.com:8000/live/170216/170216/672.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://ipsatpro.com:8000/live/170216/170216/677.ts
+#EXTINF:-1,Sky Cinema +Max HD
+http://ipsatpro.com:8000/live/170216/170216/673.ts
 #EXTINF:-1,Sky Cinema Passion HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/133.ts
+http://ipsatpro.com:8000/live/170216/170216/678.ts
 #EXTINF:-1,Sky Cinema Comedy HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/138.ts
+http://ipsatpro.com:8000/live/170216/170216/671.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://ipsatpro.com:8000/live/170216/170216/670.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://ipsatpro.com:8000/live/170216/170216/674.ts
+#EXTINF:-1,Sky Cinema 3D
+http://ipsatpro.com:8000/live/170216/170216/562.ts
 #EXTINF:-1,-------- PRIMAFILA ------
 http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/475.ts
 #EXTINF:-1,PRIMAFILA 1 HD

@@ -597,448 +597,216 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,--------MEDIASET PREMIUM ----------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/308.ts
-#EXTINF:-1,Premium Cinema
-http://speedy.momy.mooo.com:8000/live/massino/massino/3848.ts
-#EXTINF:-1,Premium Cinema HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/185.ts
-#EXTINF:-1,Premium Cinema +24
-http://speedy.momy.mooo.com:8000/live/massino/massino/186.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/187.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://speedy.momy.mooo.com:8000/live/massino/massino/188.ts
-#EXTINF:-1,Premium Cinema Energy
-http://speedy.momy.mooo.com:8000/live/massino/massino/193.ts
-#EXTINF:-1,Premium Cinema Emotion
-http://speedy.momy.mooo.com:8000/live/massino/massino/194.ts
-#EXTINF:-1,Premium Cinema Comedy
-http://speedy.momy.mooo.com:8000/live/massino/massino/195.ts
-#EXTINF:-1,Studio Universal - Premium
-http://speedy.momy.mooo.com:8000/live/massino/massino/196.ts
-#EXTINF:-1,Premium Action
-http://speedy.momy.mooo.com:8000/live/massino/massino/3850.ts
-#EXTINF:-1,Premium Action HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/189.ts
-#EXTINF:-1,Premium Action +24
-http://speedy.momy.mooo.com:8000/live/massino/massino/190.ts
-#EXTINF:-1,Premium Crime HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/191.ts
-#EXTINF:-1,Premium Crime
-http://speedy.momy.mooo.com:8000/live/massino/massino/3847.ts
-#EXTINF:-1,Premium Crime +24
-http://speedy.momy.mooo.com:8000/live/massino/massino/192.ts
-#EXTINF:-1,Premium Joy
-http://speedy.momy.mooo.com:8000/live/massino/massino/197.ts
-#EXTINF:-1,Premium Stories
-http://speedy.momy.mooo.com:8000/live/massino/massino/199.ts
-#EXTINF:-1,--------- PREMIUM CALCIO ---------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/307.ts
-#EXTINF:-1,Premium Sport
-http://speedy.momy.mooo.com:8000/live/massino/massino/3276.ts
-#EXTINF:-1,Premium Sport HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/50.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/5029.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/202.ts
-#EXTINF:-1,Premium Calcio 1
-http://speedy.momy.mooo.com:8000/live/massino/massino/203.ts
-#EXTINF:-1,Premium Calcio 2
-http://speedy.momy.mooo.com:8000/live/massino/massino/204.ts
-#EXTINF:-1,Premium Calcio 3
-http://speedy.momy.mooo.com:8000/live/massino/massino/205.ts
-#EXTINF:-1,Premium Calcio 4
-http://speedy.momy.mooo.com:8000/live/massino/massino/206.ts
-#EXTINF:-1,Premium Calcio 5
-http://speedy.momy.mooo.com:8000/live/massino/massino/207.ts
-#EXTINF:-1,Premium Calcio 6
-http://speedy.momy.mooo.com:8000/live/massino/massino/208.ts
-#EXTINF:-1,--------- INTRATTENIMENTO ----------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/306.ts
-#EXTINF:-1,Sky Arte HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/143.ts
-#EXTINF:-1,Sky Uno HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/86.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/8081.ts
-#EXTINF:-1,Sky Atlantic HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2082.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2083.ts
-#EXTINF:-1,Fox HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/87.ts
-#EXTINF:-1,Fox +1
-http://speedy.momy.mooo.com:8000/live/massino/massino/10263.ts
-#EXTINF:-1,Fox Life HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/88.ts
-#EXTINF:-1,Fox Crime HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/90.ts
-#EXTINF:-1,Fox Crime +1 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/10261.ts
-#EXTINF:-1,Fox Comedy HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/89.ts
-#EXTINF:-1,Fox Animation HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/91.ts
-#EXTINF:-1,CI Crime Investigation HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/48.ts
-#EXTINF:-1,AXN HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/92.ts
-#EXTINF:-1,AXN +1
-http://speedy.momy.mooo.com:8000/live/massino/massino/46.ts
-#EXTINF:-1,AXN Sci-Fi
-http://speedy.momy.mooo.com:8000/live/massino/massino/45.ts
-#EXTINF:-1,Lei
-http://speedy.momy.mooo.com:8000/live/massino/massino/94.ts
-#EXTINF:-1,Real Time HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/95.ts
-#EXTINF:-1,Comedy Central
-http://speedy.momy.mooo.com:8000/live/massino/massino/11200.ts
-#EXTINF:-1,DMAX
-http://speedy.momy.mooo.com:8000/live/massino/massino/137.ts
-#EXTINF:-1,CLASSICA HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2817.ts
-#EXTINF:-1,LaEffe
-http://speedy.momy.mooo.com:8000/live/massino/massino/2086.ts
-#EXTINF:-1,-------- CULTURA ---------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/305.ts
-#EXTINF:-1,Discovery Sci HD 
-http://speedy.momy.mooo.com:8000/live/massino/massino/130.ts
-#EXTINF:-1,Premium Discovery World
-http://speedy.momy.mooo.com:8000/live/massino/massino/145.ts
-#EXTINF:-1,BBC Knowledge
-http://speedy.momy.mooo.com:8000/live/massino/massino/200.ts
-#EXTINF:-1,Discovery Channel HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/131.ts
-#EXTINF:-1,Discovery Sci HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/128.ts
-#EXTINF:-1,Discovery Travel e Living HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2199.ts
-#EXTINF:-1,National Geo HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/129.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/133.ts
-#EXTINF:-1,Nat Geo People HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/132.ts
-#EXTINF:-1,Sky History HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/142.ts
-#EXTINF:-1,Explora HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/96.ts
-#EXTINF:-1,Gambero Rosso HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/138.ts
-#EXTINF:-1,Animal Planet
-http://speedy.momy.mooo.com:8000/live/massino/massino/140.ts
-#EXTINF:-1,MarcoPolo
-http://speedy.momy.mooo.com:8000/live/massino/massino/144.ts
-#EXTINF:-1,Leonardo
-http://speedy.momy.mooo.com:8000/live/massino/massino/8162.ts
-#EXTINF:-1,Alice
-http://speedy.momy.mooo.com:8000/live/massino/massino/2198.ts
-#EXTINF:-1,Focus
-http://speedy.momy.mooo.com:8000/live/massino/massino/135.ts
-#EXTINF:-1,Dove
-http://speedy.momy.mooo.com:8000/live/massino/massino/2822.ts
-#EXTINF:-1,-------- BAMBINI -------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/303.ts
-#EXTINF:-1,Boing
-http://speedy.momy.mooo.com:8000/live/massino/massino/153.ts
-#EXTINF:-1,Rai Yoyo
-http://speedy.momy.mooo.com:8000/live/massino/massino/155.ts
-#EXTINF:-1,Rai Gulp
-http://speedy.momy.mooo.com:8000/live/massino/massino/154.ts
-#EXTINF:-1,Cartoonito
-http://speedy.momy.mooo.com:8000/live/massino/massino/152.ts
-#EXTINF:-1,MANGA
-http://speedy.momy.mooo.com:8000/live/massino/massino/1958.ts
-#EXTINF:-1,TeenNick
-http://speedy.momy.mooo.com:8000/live/massino/massino/2841.ts
-#EXTINF:-1,Baby Tv
-http://speedy.momy.mooo.com:8000/live/massino/massino/2829.ts
-#EXTINF:-1,Frisbee
-http://speedy.momy.mooo.com:8000/live/massino/massino/97.ts
-#EXTINF:-1,Dea Junior
-http://speedy.momy.mooo.com:8000/live/massino/massino/2820.ts
-#EXTINF:-1,Super
-http://speedy.momy.mooo.com:8000/live/massino/massino/151.ts
-#EXTINF:-1,Disney XD HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/149.ts
-#EXTINF:-1,Cartoon Network
-http://speedy.momy.mooo.com:8000/live/massino/massino/150.ts
-#EXTINF:-1,Premium Disney Junior
-http://speedy.momy.mooo.com:8000/live/massino/massino/158.ts
-#EXTINF:-1,Premium Cartoon Network
-http://speedy.momy.mooo.com:8000/live/massino/massino/1220.ts
-#EXTINF:-1,Holly e Benjy Channel
-http://speedy.momy.mooo.com:8000/live/massino/massino/8083.ts
-#EXTINF:-1,Masha e Orso Channel
-http://speedy.momy.mooo.com:8000/live/massino/massino/7916.ts
-#EXTINF:-1,Heidy Channel
-http://speedy.momy.mooo.com:8000/live/massino/massino/8079.ts
-#EXTINF:-1,Peppa Pig Channel
-http://speedy.momy.mooo.com:8000/live/massino/massino/8002.ts
-#EXTINF:-1,Premium Disney Channel
-http://speedy.momy.mooo.com:8000/live/massino/massino/156.ts
-#EXTINF:-1,Premium Disney Channel  1
-http://speedy.momy.mooo.com:8000/live/massino/massino/157.ts
-#EXTINF:-1,Peppa Pig TV
-http://speedy.momy.mooo.com:8000/live/massino/massino/2824.ts
-#EXTINF:-1,-------- SKY CINEMA ---------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/302.ts
+#EXTINF:-1,---------- Sky Cinema ----------
+http://ipsatpro.com:8000/live/170216/170216/682.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2805.ts
+http://ipsatpro.com:8000/live/170216/170216/681.ts
 #EXTINF:-1,Sky Cinema +1 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2802.ts
+http://ipsatpro.com:8000/live/170216/170216/680.ts
 #EXTINF:-1,Sky Cinema +24 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2803.ts
+http://ipsatpro.com:8000/live/170216/170216/679.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2808.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2809.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/8080.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2811.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2806.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2804.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2807.ts
+http://ipsatpro.com:8000/live/170216/170216/675.ts
 #EXTINF:-1,Sky Cinema Cult HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2810.ts
+http://ipsatpro.com:8000/live/170216/170216/672.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://ipsatpro.com:8000/live/170216/170216/677.ts
+#EXTINF:-1,Sky Cinema +Max HD
+http://ipsatpro.com:8000/live/170216/170216/673.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://ipsatpro.com:8000/live/170216/170216/678.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://ipsatpro.com:8000/live/170216/170216/671.ts
 #EXTINF:-1,Sky Cinema Classic HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2812.ts
-#EXTINF:-1,Sky 3D
-http://speedy.momy.mooo.com:8000/live/massino/massino/84.ts
-#EXTINF:-1,-------- PRIMAFILA ------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/475.ts
-#EXTINF:-1,Vetrina Primafila Live
-http://speedy.momy.mooo.com:8000/live/massino/massino/10199.ts
-#EXTINF:-1,Prima Fila 1 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/10200.ts
-#EXTINF:-1,Prima Fila 2 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/10201.ts
-#EXTINF:-1,Prima Fila 3 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/10202.ts
-#EXTINF:-1,Prima Fila 4 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/10203.ts
-#EXTINF:-1,Prima Fila 5 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/10204.ts
-#EXTINF:-1,Prima Fila 6 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/10205.ts
-#EXTINF:-1,Prima Fila 7 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/10206.ts
-#EXTINF:-1,Prima Fila 8 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/10207.ts
-#EXTINF:-1,Prima Fila 9 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/10208.ts
-#EXTINF:-1,Prima Fila 10 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/10209.ts
-#EXTINF:-1,Prima Fila 11 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/11151.ts
-#EXTINF:-1,Prima Fila 12 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/11152.ts
-#EXTINF:-1,Prima Fila 13 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/11153.ts
-#EXTINF:-1,Prima Fila 14 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/11154.ts
-#EXTINF:-1,Prima Fila 15 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/11155.ts
-#EXTINF:-1,Prima Fila 16 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/11156.ts
-#EXTINF:-1,Prima Fila 17 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/11157.ts
-#EXTINF:-1,Prima Fila 18 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/11158.ts
-#EXTINF:-1,Prima Fila 19 LIVE
-http://speedy.momy.mooo.com:8000/live/massino/massino/11159.ts
-#EXTINF:-1,--------- SKY SPORT --------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/301.ts
-#EXTINF:-1,Fox Sports HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/49.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/51.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/99.ts
+http://ipsatpro.com:8000/live/170216/170216/670.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://ipsatpro.com:8000/live/170216/170216/674.ts
+#EXTINF:-1,Sky Cinema 3D
+http://ipsatpro.com:8000/live/170216/170216/562.ts
+#EXTINF:-1,------ Intrattenimento ----
+http://ipsatpro.com:8000/live/170216/170216/669.ts
+#EXTINF:-1,Mtv Music
+http://ipsatpro.com:8000/live/170216/170216/668.ts
+#EXTINF:-1,Cielo
+http://ipsatpro.com:8000/live/170216/170216/658.ts
+#EXTINF:-1,Boing
+http://ipsatpro.com:8000/live/170216/170216/659.ts
+#EXTINF:-1,Fox HD
+http://ipsatpro.com:8000/live/170216/170216/664.ts
+#EXTINF:-1,Fox Life HD
+http://ipsatpro.com:8000/live/170216/170216/665.ts
+#EXTINF:-1,Fox Crime HD
+http://ipsatpro.com:8000/live/170216/170216/663.ts
+#EXTINF:-1,Fox Comedy HD
+http://ipsatpro.com:8000/live/170216/170216/662.ts
+#EXTINF:-1,Sky Atlantic HD
+http://ipsatpro.com:8000/live/170216/170216/666.ts
+#EXTINF:-1,Sky Uno HD
+http://ipsatpro.com:8000/live/170216/170216/667.ts
+#EXTINF:-1,Sky Focus
+http://ipsatpro.com:8000/live/170216/170216/660.ts
+#EXTINF:-1,Sky Mediaset Extra
+http://ipsatpro.com:8000/live/170216/170216/603.ts
+#EXTINF:-1,Sky Mediaset Italia 2
+http://ipsatpro.com:8000/live/170216/170216/661.ts
+#EXTINF:-1,---------- sky sport ----------
+http://ipsatpro.com:8000/live/170216/170216/656.ts
+#EXTINF:-1,Fox Sports 1 HD
+http://ipsatpro.com:8000/live/170216/170216/650.ts
 #EXTINF:-1,Sky Sport 1 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/100.ts
-#EXTINF:-1,SKY EURO2016
-http://speedy.momy.mooo.com:8000/live/massino/massino/11496.ts
-#EXTINF:-1,SKY Sport 2 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/101.ts
+http://ipsatpro.com:8000/live/170216/170216/655.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://ipsatpro.com:8000/live/170216/170216/654.ts
 #EXTINF:-1,Sky Sport 3 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/102.ts
+http://ipsatpro.com:8000/live/170216/170216/653.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://ipsatpro.com:8000/live/170216/170216/652.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/104.ts
-#EXTINF:-1,Sky Sport MotoGP HD.
-http://speedy.momy.mooo.com:8000/live/massino/massino/105.ts
-#EXTINF:-1,Eurosport HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/103.ts
-#EXTINF:-1,Eurosport 2 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/106.ts
-#EXTINF:-1,Juventus Tv
-http://speedy.momy.mooo.com:8000/live/massino/massino/125.ts
-#EXTINF:-1,Milan channel
-http://speedy.momy.mooo.com:8000/live/massino/massino/123.ts
-#EXTINF:-1,Inter Channel
-http://speedy.momy.mooo.com:8000/live/massino/massino/126.ts
-#EXTINF:-1,Roma Channel
-http://speedy.momy.mooo.com:8000/live/massino/massino/124.ts
-#EXTINF:-1,Lazio Style Channel
-http://speedy.momy.mooo.com:8000/live/massino/massino/2826.ts
-#EXTINF:-1,BIKE HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2828.ts
-#EXTINF:-1,Uniresat
-http://speedy.momy.mooo.com:8000/live/massino/massino/2843.ts
-#EXTINF:-1,Class Horse Tv HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2818.ts
-#EXTINF:-1,CACCIA
-http://speedy.momy.mooo.com:8000/live/massino/massino/882.ts
-#EXTINF:-1,PESCA
-http://speedy.momy.mooo.com:8000/live/massino/massino/3951.ts
-#EXTINF:-1,Poker Italia 24
-http://speedy.momy.mooo.com:8000/live/massino/massino/2833.ts
+http://ipsatpro.com:8000/live/170216/170216/651.ts
+#EXTINF:-1,Sky Moto GP HD
+http://ipsatpro.com:8000/live/170216/170216/646.ts
 #EXTINF:-1,Super Tennis HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/107.ts
-#EXTINF:-1,Auto Moto TV
-http://speedy.momy.mooo.com:8000/live/massino/massino/177.ts
-#EXTINF:-1,Sport Italia
-http://speedy.momy.mooo.com:8000/live/massino/massino/3266.ts
-#EXTINF:-1,Rai Sport 1
-http://speedy.momy.mooo.com:8000/live/massino/massino/108.ts
-#EXTINF:-1,Rai Sport 2
-http://speedy.momy.mooo.com:8000/live/massino/massino/109.ts
-#EXTINF:-1,--------- SKY CALCIO ----------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/300.ts
+http://ipsatpro.com:8000/live/170216/170216/645.ts
+#EXTINF:-1,---------- Sky Calcio -----------
+http://ipsatpro.com:8000/live/170216/170216/644.ts
 #EXTINF:-1,Sky Supercalcio HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/113.ts
+http://ipsatpro.com:8000/live/170216/170216/643.ts
 #EXTINF:-1,Sky Calcio 1 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/114.ts
+http://ipsatpro.com:8000/live/170216/170216/642.ts
 #EXTINF:-1,Sky Calcio 2 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2850.ts
+http://ipsatpro.com:8000/live/170216/170216/641.ts
 #EXTINF:-1,Sky Calcio 3 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/115.ts
-#EXTINF:-1,Sky Calcio  4 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/116.ts
-#EXTINF:-1,Sky Calcio  5 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/117.ts
-#EXTINF:-1,Sky Calcio  6 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/118.ts
-#EXTINF:-1,Sky Calcio  7 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/119.ts
-#EXTINF:-1,Sky Calcio  8 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/120.ts
-#EXTINF:-1,Sky Calcio 9 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2849.ts
-#EXTINF:-1,Sky Calcio 10 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2848.ts
-#EXTINF:-1,Sky Calcio 11 HD
-http://speedy.momy.mooo.com:8000/live/massino/massino/2847.ts
-#EXTINF:-1,---NOTIZIE
-http://speedy.momy.mooo.com:8000/live/massino/massino/160.ts
-#EXTINF:-1,SKY TG24
-http://speedy.momy.mooo.com:8000/live/massino/massino/6579.ts
-#EXTINF:-1,Tg Com 24
-http://speedy.momy.mooo.com:8000/live/massino/massino/162.ts
-#EXTINF:-1,TG Norba24
-http://speedy.momy.mooo.com:8000/live/massino/massino/5188.ts
-#EXTINF:-1,Rai News 24
-http://speedy.momy.mooo.com:8000/live/massino/massino/163.ts
-#EXTINF:-1,Il Meteo.It Oggi
-http://speedy.momy.mooo.com:8000/live/massino/massino/7894.ts
-#EXTINF:-1,Rai Senato
-http://speedy.momy.mooo.com:8000/live/massino/massino/166.ts
-#EXTINF:-1,---MUSICA
-http://speedy.momy.mooo.com:8000/live/massino/massino/210.ts
-#EXTINF:-1,Studio 90 Italia
-http://speedy.momy.mooo.com:8000/live/massino/massino/2838.ts
-#EXTINF:-1,Ondalatina
-http://speedy.momy.mooo.com:8000/live/massino/massino/2825.ts
-#EXTINF:-1,M2Otv
-http://speedy.momy.mooo.com:8000/live/massino/massino/2823.ts
-#EXTINF:-1,ROCK TV
-http://speedy.momy.mooo.com:8000/live/massino/massino/9545.ts
-#EXTINF:-1,Hip Pop Music
-http://speedy.momy.mooo.com:8000/live/massino/massino/12196.ts
-#EXTINF:-1,R.T.L. 102.5
-http://speedy.momy.mooo.com:8000/live/massino/massino/2095.ts
-#EXTINF:-1,RD 105
-http://speedy.momy.mooo.com:8000/live/massino/massino/2206.ts
-#EXTINF:-1,RTP
-http://speedy.momy.mooo.com:8000/live/massino/massino/175.ts
-#EXTINF:-1,Radio Italia
-http://speedy.momy.mooo.com:8000/live/massino/massino/2836.ts
-#EXTINF:-1,Radio Taormina
-http://speedy.momy.mooo.com:8000/live/massino/massino/2834.ts
-#EXTINF:-1,Radio Montecarlo
-http://speedy.momy.mooo.com:8000/live/massino/massino/2835.ts
-#EXTINF:-1,--ADSL LENTA
-http://speedy.momy.mooo.com:8000/live/massino/massino/11166.ts
-#EXTINF:-1,RAI 1
-http://speedy.momy.mooo.com:8000/live/massino/massino/9316.ts
-#EXTINF:-1,RAI 2
-http://speedy.momy.mooo.com:8000/live/massino/massino/9317.ts
-#EXTINF:-1,RAI 3
-http://speedy.momy.mooo.com:8000/live/massino/massino/9318.ts
-#EXTINF:-1,Rete 4
-http://speedy.momy.mooo.com:8000/live/massino/massino/11167.ts
-#EXTINF:-1,Canale 5
-http://speedy.momy.mooo.com:8000/live/massino/massino/9315.ts
-#EXTINF:-1,Italia 1
-http://speedy.momy.mooo.com:8000/live/massino/massino/11168.ts
-#EXTINF:-1,Sky Cinema 1
-http://speedy.momy.mooo.com:8000/live/massino/massino/9323.ts
-#EXTINF:-1,Sky Cinema +1
-http://speedy.momy.mooo.com:8000/live/massino/massino/9322.ts
-#EXTINF:-1,Sky Cinema  +24
-http://speedy.momy.mooo.com:8000/live/massino/massino/9324.ts
-#EXTINF:-1,Sky Cinema Hits
-http://speedy.momy.mooo.com:8000/live/massino/massino/9325.ts
-#EXTINF:-1,Sky Cinema Family
-http://speedy.momy.mooo.com:8000/live/massino/massino/9326.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://speedy.momy.mooo.com:8000/live/massino/massino/9329.ts
-#EXTINF:-1,Sky Cinema Max
-http://speedy.momy.mooo.com:8000/live/massino/massino/9327.ts
-#EXTINF:-1,Sky Uno
-http://speedy.momy.mooo.com:8000/live/massino/massino/10228.ts
-#EXTINF:-1,Sky Atlantic
-http://speedy.momy.mooo.com:8000/live/massino/massino/10223.ts
-#EXTINF:-1,Fox
-http://speedy.momy.mooo.com:8000/live/massino/massino/10258.ts
-#EXTINF:-1,Fox Life
-http://speedy.momy.mooo.com:8000/live/massino/massino/10259.ts
-#EXTINF:-1,Fox Crime
-http://speedy.momy.mooo.com:8000/live/massino/massino/10262.ts
-#EXTINF:-1,AXN
-http://speedy.momy.mooo.com:8000/live/massino/massino/10264.ts
-#EXTINF:-1,Fox Sports
-http://speedy.momy.mooo.com:8000/live/massino/massino/10260.ts
-#EXTINF:-1,Sky Sport 24
-http://speedy.momy.mooo.com:8000/live/massino/massino/3843.ts
-#EXTINF:-1,Sky Sport 2
-http://speedy.momy.mooo.com:8000/live/massino/massino/3844.ts
-#EXTINF:-1,Sky Sport F1
-http://speedy.momy.mooo.com:8000/live/massino/massino/7899.ts
-#EXTINF:-1,Sky Sport MotoGP
-http://speedy.momy.mooo.com:8000/live/massino/massino/3851.ts
-#EXTINF:-1,Sky SuperCalcio
-http://speedy.momy.mooo.com:8000/live/massino/massino/3842.ts
-#EXTINF:-1,Sky Calcio 1
-http://speedy.momy.mooo.com:8000/live/massino/massino/1762.ts
-#EXTINF:-1,Sky Calcio 2
-http://speedy.momy.mooo.com:8000/live/massino/massino/1763.ts
-#EXTINF:-1,Sky Calcio 3
-http://speedy.momy.mooo.com:8000/live/massino/massino/1764.ts
-#EXTINF:-1,Sky Calcio 4
-http://speedy.momy.mooo.com:8000/live/massino/massino/1765.ts
-#EXTINF:-1,Sky Calcio 5
-http://speedy.momy.mooo.com:8000/live/massino/massino/1766.ts
-#EXTINF:-1,Sky Calcio 6
-http://speedy.momy.mooo.com:8000/live/massino/massino/1767.ts
-#EXTINF:-1,Sky Calcio 7
-http://speedy.momy.mooo.com:8000/live/massino/massino/1768.ts
+http://ipsatpro.com:8000/live/170216/170216/640.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://ipsatpro.com:8000/live/170216/170216/568.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://ipsatpro.com:8000/live/170216/170216/567.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://ipsatpro.com:8000/live/170216/170216/566.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://ipsatpro.com:8000/live/170216/170216/565.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://ipsatpro.com:8000/live/170216/170216/564.ts
+#EXTINF:-1,Rai Sport 1
+http://ipsatpro.com:8000/live/170216/170216/639.ts
+#EXTINF:-1,Rai Sport 2
+http://ipsatpro.com:8000/live/170216/170216/560.ts
+#EXTINF:-1,SportTitalia
+http://ipsatpro.com:8000/live/170216/170216/638.ts
+#EXTINF:-1,Rete Sport
+http://ipsatpro.com:8000/live/170216/170216/1840.ts
+#EXTINF:-1,Sky Eurosport
+http://ipsatpro.com:8000/live/170216/170216/637.ts
+#EXTINF:-1,Sky Eurosport 2
+http://ipsatpro.com:8000/live/170216/170216/636.ts
+#EXTINF:-1,Inter Channel
+http://ipsatpro.com:8000/live/170216/170216/559.ts
+#EXTINF:-1,Milan channel
+http://ipsatpro.com:8000/live/170216/170216/676.ts
+#EXTINF:-1,Roma channel
+http://ipsatpro.com:8000/live/170216/170216/558.ts
+#EXTINF:-1,Juventus TV
+http://ipsatpro.com:8000/live/170216/170216/557.ts
+#EXTINF:-1,--------- Cultura ----------
+http://ipsatpro.com:8000/live/170216/170216/635.ts
+#EXTINF:-1,Sky TG 24
+http://ipsatpro.com:8000/live/170216/170216/629.ts
+#EXTINF:-1,Discovery HD
+http://ipsatpro.com:8000/live/170216/170216/630.ts
+#EXTINF:-1,Sky History HD
+http://ipsatpro.com:8000/live/170216/170216/634.ts
+#EXTINF:-1,National Geo HD
+http://ipsatpro.com:8000/live/170216/170216/633.ts
+#EXTINF:-1,NatGeo Wild HD
+http://ipsatpro.com:8000/live/170216/170216/632.ts
+#EXTINF:-1,NatGeo People HD
+http://ipsatpro.com:8000/live/170216/170216/631.ts
+#EXTINF:-1,Sky Animal Planet
+http://ipsatpro.com:8000/live/170216/170216/604.ts
+#EXTINF:-1,----PREMIUM CINEMA ----
+http://ipsatpro.com:8000/live/170216/170216/628.ts
+#EXTINF:-1,Premium Cinema HD
+http://ipsatpro.com:8000/live/170216/170216/627.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://ipsatpro.com:8000/live/170216/170216/609.ts
+#EXTINF:-1,Premium Cinema +24
+http://ipsatpro.com:8000/live/170216/170216/612.ts
+#EXTINF:-1,Premium Crime
+http://ipsatpro.com:8000/live/170216/170216/621.ts
+#EXTINF:-1,Premium Crime +24
+http://ipsatpro.com:8000/live/170216/170216/611.ts
+#EXTINF:-1,Premium Action HD
+http://ipsatpro.com:8000/live/170216/170216/626.ts
+#EXTINF:-1,Premium Comedy
+http://ipsatpro.com:8000/live/170216/170216/620.ts
+#EXTINF:-1,Premium Action +24 HD
+http://ipsatpro.com:8000/live/170216/170216/618.ts
+#EXTINF:-1,Premium Stories
+http://ipsatpro.com:8000/live/170216/170216/625.ts
+#EXTINF:-1,Premium Joy
+http://ipsatpro.com:8000/live/170216/170216/624.ts
+#EXTINF:-1,Premium Energy
+http://ipsatpro.com:8000/live/170216/170216/623.ts
+#EXTINF:-1,Premium Emotion
+http://ipsatpro.com:8000/live/170216/170216/622.ts
+#EXTINF:-1,Premium Studio Universal
+http://ipsatpro.com:8000/live/170216/170216/619.ts
+#EXTINF:-1,Premium Disney Junior
+http://ipsatpro.com:8000/live/170216/170216/617.ts
+#EXTINF:-1,Premium Disney Channel
+http://ipsatpro.com:8000/live/170216/170216/616.ts
+#EXTINF:-1,Premium Discovery World
+http://ipsatpro.com:8000/live/170216/170216/614.ts
+#EXTINF:-1,Premium Cartoon Network
+http://ipsatpro.com:8000/live/170216/170216/613.ts
+#EXTINF:-1,--PREMIUM SPORT
+http://ipsatpro.com:8000/live/170216/170216/613.ts
+#EXTINF:-1,Premium Sport
+http://ipsatpro.com:8000/live/170216/170216/615.ts
+#EXTINF:-1,Premium EuroSport 1 HD
+http://ipsatpro.com:8000/live/170216/170216/608.ts
+#EXTINF:-1,Premium EuroSport 2 HD
+http://ipsatpro.com:8000/live/170216/170216/610.ts
+#EXTINF:-1,Premium Calcio HD
+http://ipsatpro.com:8000/live/170216/170216/607.ts
+#EXTINF:-1,Premium Calcio 1
+http://ipsatpro.com:8000/live/170216/170216/606.ts
+#EXTINF:-1,Premium Calcio 2
+http://ipsatpro.com:8000/live/170216/170216/605.ts
+#EXTINF:-1,---------- Primrafila ---------
+http://ipsatpro.com:8000/live/170216/170216/602.ts
+#EXTINF:-1,Sky Prima fila 1 HD
+http://ipsatpro.com:8000/live/170216/170216/601.ts
+#EXTINF:-1,Sky Prima fila 2 HD
+http://ipsatpro.com:8000/live/170216/170216/600.ts
+#EXTINF:-1,Sky Prima fila 3 HD
+http://ipsatpro.com:8000/live/170216/170216/599.ts
+#EXTINF:-1,Sky Prima fila 4 HD
+http://ipsatpro.com:8000/live/170216/170216/598.ts
+#EXTINF:-1,Sky Prima fila 5 HD
+http://ipsatpro.com:8000/live/170216/170216/597.ts
+#EXTINF:-1,Sky Prima fila 6 HD
+http://ipsatpro.com:8000/live/170216/170216/596.ts
+#EXTINF:-1,Sky Prima fila 7 HD
+http://ipsatpro.com:8000/live/170216/170216/595.ts
+#EXTINF:-1,Sky Prima fila 8 HD
+http://ipsatpro.com:8000/live/170216/170216/594.ts
+#EXTINF:-1,Sky Prima fila 9 HD
+http://ipsatpro.com:8000/live/170216/170216/593.ts
+#EXTINF:-1,Sky Prima fila 10 HD
+http://ipsatpro.com:8000/live/170216/170216/592.ts
+#EXTINF:-1,Sky Prima fila 11 HD
+http://ipsatpro.com:8000/live/170216/170216/591.ts
+#EXTINF:-1,Sky Prima fila 12 HD
+http://ipsatpro.com:8000/live/170216/170216/590.ts
+#EXTINF:-1,Sky Prima fila 13 HD
+http://ipsatpro.com:8000/live/170216/170216/589.ts
+#EXTINF:-1,Sky Prima fila 14 HD
+http://ipsatpro.com:8000/live/170216/170216/588.ts
+#EXTINF:-1,Sky Prima fila 15 HD
+http://ipsatpro.com:8000/live/170216/170216/587.ts
+#EXTINF:-1,Sky Prima Fila WWE HD
+http://ipsatpro.com:8000/live/170216/170216/586.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

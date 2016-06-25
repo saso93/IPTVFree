@@ -599,292 +599,446 @@ http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
 #EXTINF:-1,--------MEDIASET PREMIUM ----------
 http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/308.ts
+#EXTINF:-1,Premium Cinema
+http://speedy.momy.mooo.com:8000/live/massino/massino/3848.ts
 #EXTINF:-1,Premium Cinema HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/173.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/185.ts
+#EXTINF:-1,Premium Cinema +24
+http://speedy.momy.mooo.com:8000/live/massino/massino/186.ts
 #EXTINF:-1,Premium Cinema 2 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/176.ts
-#EXTINF:-1,Premium Cinema  +24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/178.ts
-#EXTINF:-1,Premium Cinema 2  +24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/177.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/187.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://speedy.momy.mooo.com:8000/live/massino/massino/188.ts
 #EXTINF:-1,Premium Cinema Energy
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/174.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/193.ts
+#EXTINF:-1,Premium Cinema Emotion
+http://speedy.momy.mooo.com:8000/live/massino/massino/194.ts
 #EXTINF:-1,Premium Cinema Comedy
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/175.ts
-#EXTINF:-1,Premium Stories +24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/188.ts
-#EXTINF:-1,Premium joy + 24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/161.ts
-#EXTINF:-1,Premium DIscovery World
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/170.ts
-#EXTINF:-1,Premium Crime HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/171.ts
-#EXTINF:-1,Premium Crime  +24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/172.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/195.ts
+#EXTINF:-1,Studio Universal - Premium
+http://speedy.momy.mooo.com:8000/live/massino/massino/196.ts
+#EXTINF:-1,Premium Action
+http://speedy.momy.mooo.com:8000/live/massino/massino/3850.ts
 #EXTINF:-1,Premium Action HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/189.ts
-#EXTINF:-1,Premium Action  +24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/190.ts
-#EXTINF:-1,Premium Emotion
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/166.ts
-#EXTINF:-1,Premium Disney Channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/168.ts
-#EXTINF:-1,Premium Disney Junior
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/167.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/189.ts
+#EXTINF:-1,Premium Action +24
+http://speedy.momy.mooo.com:8000/live/massino/massino/190.ts
+#EXTINF:-1,Premium Crime HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/191.ts
+#EXTINF:-1,Premium Crime
+http://speedy.momy.mooo.com:8000/live/massino/massino/3847.ts
+#EXTINF:-1,Premium Crime +24
+http://speedy.momy.mooo.com:8000/live/massino/massino/192.ts
 #EXTINF:-1,Premium Joy
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/163.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/197.ts
+#EXTINF:-1,Premium Stories
+http://speedy.momy.mooo.com:8000/live/massino/massino/199.ts
 #EXTINF:-1,--------- PREMIUM CALCIO ---------
 http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/307.ts
+#EXTINF:-1,Premium Sport
+http://speedy.momy.mooo.com:8000/live/massino/massino/3276.ts
 #EXTINF:-1,Premium Sport HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/162.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/50.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/5029.ts
 #EXTINF:-1,Premium Calcio 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/185.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/202.ts
+#EXTINF:-1,Premium Calcio 1
+http://speedy.momy.mooo.com:8000/live/massino/massino/203.ts
 #EXTINF:-1,Premium Calcio 2
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/184.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/204.ts
 #EXTINF:-1,Premium Calcio 3
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/183.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/205.ts
 #EXTINF:-1,Premium Calcio 4
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/182.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/206.ts
 #EXTINF:-1,Premium Calcio 5
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/181.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/207.ts
 #EXTINF:-1,Premium Calcio 6
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/180.ts
-#EXTINF:-1,Premium Calcio 7
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/179.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/208.ts
 #EXTINF:-1,--------- INTRATTENIMENTO ----------
 http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/306.ts
-#EXTINF:-1,Sky TG 24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/97.ts
-#EXTINF:-1,SKY Fox Animation HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/12.ts
-#EXTINF:-1,FOX COMEDY HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/68.ts
-#EXTINF:-1,Sky Atlantic HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/149.ts
-#EXTINF:-1,FOX LIFE HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/65.ts
-#EXTINF:-1,Fox Crime HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/202.ts
+#EXTINF:-1,Sky Arte HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/143.ts
 #EXTINF:-1,Sky Uno HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/126.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/86.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/8081.ts
+#EXTINF:-1,Sky Atlantic HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2082.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2083.ts
+#EXTINF:-1,Fox HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/87.ts
+#EXTINF:-1,Fox +1
+http://speedy.momy.mooo.com:8000/live/massino/massino/10263.ts
+#EXTINF:-1,Fox Life HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/88.ts
+#EXTINF:-1,Fox Crime HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/90.ts
+#EXTINF:-1,Fox Crime +1 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/10261.ts
+#EXTINF:-1,Fox Comedy HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/89.ts
+#EXTINF:-1,Fox Animation HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/91.ts
+#EXTINF:-1,CI Crime Investigation HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/48.ts
 #EXTINF:-1,AXN HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1765.ts
-#EXTINF:-1,FOX HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/67.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/92.ts
+#EXTINF:-1,AXN +1
+http://speedy.momy.mooo.com:8000/live/massino/massino/46.ts
+#EXTINF:-1,AXN Sci-Fi
+http://speedy.momy.mooo.com:8000/live/massino/massino/45.ts
+#EXTINF:-1,Lei
+http://speedy.momy.mooo.com:8000/live/massino/massino/94.ts
+#EXTINF:-1,Real Time HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/95.ts
+#EXTINF:-1,Comedy Central
+http://speedy.momy.mooo.com:8000/live/massino/massino/11200.ts
+#EXTINF:-1,DMAX
+http://speedy.momy.mooo.com:8000/live/massino/massino/137.ts
+#EXTINF:-1,CLASSICA HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2817.ts
+#EXTINF:-1,LaEffe
+http://speedy.momy.mooo.com:8000/live/massino/massino/2086.ts
 #EXTINF:-1,-------- CULTURA ---------
 http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/305.ts
+#EXTINF:-1,Discovery Sci HD 
+http://speedy.momy.mooo.com:8000/live/massino/massino/130.ts
+#EXTINF:-1,Premium Discovery World
+http://speedy.momy.mooo.com:8000/live/massino/massino/145.ts
+#EXTINF:-1,BBC Knowledge
+http://speedy.momy.mooo.com:8000/live/massino/massino/200.ts
 #EXTINF:-1,Discovery Channel HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/118.ts
-#EXTINF:-1,Discovery Science HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/117.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/131.ts
+#EXTINF:-1,Discovery Sci HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/128.ts
 #EXTINF:-1,Discovery Travel e Living HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/116.ts
-#EXTINF:-1,Crime Investigation HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1654.ts
-#EXTINF:-1,NatGeo People HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/105.ts
-#EXTINF:-1,Gambero rosso HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/201.ts
-#EXTINF:-1,NatGeo Wild HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/104.ts
-#EXTINF:-1,Nat Geo  HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/191.ts
-#EXTINF:-1,History HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/47.ts
-#EXTINF:-1,Caccia e Pesca
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/70.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/2199.ts
+#EXTINF:-1,National Geo HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/129.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/133.ts
+#EXTINF:-1,Nat Geo People HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/132.ts
+#EXTINF:-1,Sky History HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/142.ts
+#EXTINF:-1,Explora HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/96.ts
+#EXTINF:-1,Gambero Rosso HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/138.ts
+#EXTINF:-1,Animal Planet
+http://speedy.momy.mooo.com:8000/live/massino/massino/140.ts
+#EXTINF:-1,MarcoPolo
+http://speedy.momy.mooo.com:8000/live/massino/massino/144.ts
+#EXTINF:-1,Leonardo
+http://speedy.momy.mooo.com:8000/live/massino/massino/8162.ts
+#EXTINF:-1,Alice
+http://speedy.momy.mooo.com:8000/live/massino/massino/2198.ts
+#EXTINF:-1,Focus
+http://speedy.momy.mooo.com:8000/live/massino/massino/135.ts
+#EXTINF:-1,Dove
+http://speedy.momy.mooo.com:8000/live/massino/massino/2822.ts
 #EXTINF:-1,-------- BAMBINI -------
 http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/303.ts
-#EXTINF:-1,Masha e Orso Channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2112.ts
-#EXTINF:-1,Disney Channel HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/115.ts
-#EXTINF:-1,Peppa Pig Channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/114.ts
-#EXTINF:-1,Cartoon Network
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/120.ts
-#EXTINF:-1,Disney Junior
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/113.ts
-#EXTINF:-1,Disney XD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/112.ts
-#EXTINF:-1,Cartoonito
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/119.ts
 #EXTINF:-1,Boing
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/121.ts
-#EXTINF:-1,FrisBee
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/124.ts
-#EXTINF:-1,K2
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/111.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/153.ts
+#EXTINF:-1,Rai Yoyo
+http://speedy.momy.mooo.com:8000/live/massino/massino/155.ts
+#EXTINF:-1,Rai Gulp
+http://speedy.momy.mooo.com:8000/live/massino/massino/154.ts
+#EXTINF:-1,Cartoonito
+http://speedy.momy.mooo.com:8000/live/massino/massino/152.ts
+#EXTINF:-1,MANGA
+http://speedy.momy.mooo.com:8000/live/massino/massino/1958.ts
+#EXTINF:-1,TeenNick
+http://speedy.momy.mooo.com:8000/live/massino/massino/2841.ts
+#EXTINF:-1,Baby Tv
+http://speedy.momy.mooo.com:8000/live/massino/massino/2829.ts
+#EXTINF:-1,Frisbee
+http://speedy.momy.mooo.com:8000/live/massino/massino/97.ts
+#EXTINF:-1,Dea Junior
+http://speedy.momy.mooo.com:8000/live/massino/massino/2820.ts
+#EXTINF:-1,Super
+http://speedy.momy.mooo.com:8000/live/massino/massino/151.ts
+#EXTINF:-1,Disney XD HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/149.ts
+#EXTINF:-1,Cartoon Network
+http://speedy.momy.mooo.com:8000/live/massino/massino/150.ts
+#EXTINF:-1,Premium Disney Junior
+http://speedy.momy.mooo.com:8000/live/massino/massino/158.ts
+#EXTINF:-1,Premium Cartoon Network
+http://speedy.momy.mooo.com:8000/live/massino/massino/1220.ts
+#EXTINF:-1,Holly e Benjy Channel
+http://speedy.momy.mooo.com:8000/live/massino/massino/8083.ts
+#EXTINF:-1,Masha e Orso Channel
+http://speedy.momy.mooo.com:8000/live/massino/massino/7916.ts
+#EXTINF:-1,Heidy Channel
+http://speedy.momy.mooo.com:8000/live/massino/massino/8079.ts
+#EXTINF:-1,Peppa Pig Channel
+http://speedy.momy.mooo.com:8000/live/massino/massino/8002.ts
+#EXTINF:-1,Premium Disney Channel
+http://speedy.momy.mooo.com:8000/live/massino/massino/156.ts
+#EXTINF:-1,Premium Disney Channel  1
+http://speedy.momy.mooo.com:8000/live/massino/massino/157.ts
+#EXTINF:-1,Peppa Pig TV
+http://speedy.momy.mooo.com:8000/live/massino/massino/2824.ts
 #EXTINF:-1,-------- SKY CINEMA ---------
 http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/302.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://ipsatpro.com:8000/live/170216/170216/681.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/2805.ts
 #EXTINF:-1,Sky Cinema +1 HD
-http://ipsatpro.com:8000/live/170216/170216/680.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/2802.ts
 #EXTINF:-1,Sky Cinema +24 HD
-http://ipsatpro.com:8000/live/170216/170216/679.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/2803.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://ipsatpro.com:8000/live/170216/170216/675.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://ipsatpro.com:8000/live/170216/170216/672.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://ipsatpro.com:8000/live/170216/170216/677.ts
-#EXTINF:-1,Sky Cinema +Max HD
-http://ipsatpro.com:8000/live/170216/170216/673.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://ipsatpro.com:8000/live/170216/170216/678.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://ipsatpro.com:8000/live/170216/170216/671.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://ipsatpro.com:8000/live/170216/170216/670.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/2808.ts
 #EXTINF:-1,Sky Cinema Family HD
-http://ipsatpro.com:8000/live/170216/170216/674.ts
-#EXTINF:-1,Sky Cinema 3D
-http://ipsatpro.com:8000/live/170216/170216/562.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/2809.ts
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/8080.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2811.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2806.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2804.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2807.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2810.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2812.ts
+#EXTINF:-1,Sky 3D
+http://speedy.momy.mooo.com:8000/live/massino/massino/84.ts
 #EXTINF:-1,-------- PRIMAFILA ------
 http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/475.ts
-#EXTINF:-1,PRIMAFILA 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2072.ts
-#EXTINF:-1,PRIMAFILA 2 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2073.ts
-#EXTINF:-1,PRIMAFILA 3 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2074.ts
-#EXTINF:-1,PRIMAFILA 4 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2075.ts
-#EXTINF:-1,PRIMAFILA 5 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2076.ts
-#EXTINF:-1,PRIMAFILA 6 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2077.ts
-#EXTINF:-1,PRIMAFILA 7 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2078.ts
-#EXTINF:-1,PRIMAFILA 8 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2079.ts
-#EXTINF:-1,PRIMAFILA 9 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2080.ts
-#EXTINF:-1,PRIMAFILA 10 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2081.ts
-#EXTINF:-1,PRIMAFILA 11 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2082.ts
-#EXTINF:-1,PRIMAFILA 12 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2083.ts
-#EXTINF:-1,PRIMAFILA 13 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2084.ts
-#EXTINF:-1,PRIMAFILA 14 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2085.ts
-#EXTINF:-1,PRIMAFILA 15 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2086.ts
-#EXTINF:-1,PRIMAFILA 16 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2087.ts
-#EXTINF:-1,PRIMAFILA 17 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2153.ts
-#EXTINF:-1,PRIMAFILA 18 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2154.ts
-#EXTINF:-1,PRIMAFILA 19 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2155.ts
-#EXTINF:-1,SKY PRIMAFILA 01 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1713.mkv
-#EXTINF:-1,SKY PRIMAFILA 02 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1714.mkv
-#EXTINF:-1,SKY PRIMAFILA 03 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1715.mkv
-#EXTINF:-1,SKY PRIMAFILA 04 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1716.mkv
-#EXTINF:-1,SKY PRIMAFILA 05 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1717.mkv
-#EXTINF:-1,SKY PRIMAFILA 06 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1718.mkv
-#EXTINF:-1,SKY PRIMAFILA 07 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1719.mkv
-#EXTINF:-1,SKY PRIMAFILA 08 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1720.mkv
-#EXTINF:-1,SKY PRIMAFILA 09 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1721.mkv
-#EXTINF:-1,SKY PRIMAFILA 10 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1722.mkv
-#EXTINF:-1,SKY PRIMAFILA 11 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1725.mkv
-#EXTINF:-1,SKY PRIMAFILA 12 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1726.mkv
-#EXTINF:-1,SKY PRIMAFILA 13 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1727.mkv
-#EXTINF:-1,SKY PRIMAFILA 14 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1723.mkv
-#EXTINF:-1,SKY PRIMAFILA 15 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1728.mkv
-#EXTINF:-1,SKY PRIMAFILA 16 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1729.mkv
-#EXTINF:-1,SKY PRIMAFILA 17 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1730.mkv
-#EXTINF:-1,SKY PRIMAFILA 18 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1731.mkv
-#EXTINF:-1,SKY PRIMAFILA 19 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1724.mkv
-#EXTINF:-1,SKY PRIMAFILA 20 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1775.ts
-#EXTINF:-1,SKY PRIMAFILA 21 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1774.ts
-#EXTINF:-1,SKY PRIMAFILA 22 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1773.ts
-#EXTINF:-1,SKY PRIMAFILA 23 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1770.ts
-#EXTINF:-1,SKY PRIMAFILA 24 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1769.ts
-#EXTINF:-1,SKY PRIMAFILA 25 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1768.ts
-#EXTINF:-1,SKY PRIMAFILA 26 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1767.ts
-#EXTINF:-1,SKY PRIMAFILA 27 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2037.ts
-#EXTINF:-1,SKY PRIMAFILA 28 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2038.ts
+#EXTINF:-1,Vetrina Primafila Live
+http://speedy.momy.mooo.com:8000/live/massino/massino/10199.ts
+#EXTINF:-1,Prima Fila 1 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/10200.ts
+#EXTINF:-1,Prima Fila 2 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/10201.ts
+#EXTINF:-1,Prima Fila 3 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/10202.ts
+#EXTINF:-1,Prima Fila 4 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/10203.ts
+#EXTINF:-1,Prima Fila 5 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/10204.ts
+#EXTINF:-1,Prima Fila 6 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/10205.ts
+#EXTINF:-1,Prima Fila 7 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/10206.ts
+#EXTINF:-1,Prima Fila 8 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/10207.ts
+#EXTINF:-1,Prima Fila 9 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/10208.ts
+#EXTINF:-1,Prima Fila 10 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/10209.ts
+#EXTINF:-1,Prima Fila 11 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/11151.ts
+#EXTINF:-1,Prima Fila 12 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/11152.ts
+#EXTINF:-1,Prima Fila 13 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/11153.ts
+#EXTINF:-1,Prima Fila 14 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/11154.ts
+#EXTINF:-1,Prima Fila 15 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/11155.ts
+#EXTINF:-1,Prima Fila 16 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/11156.ts
+#EXTINF:-1,Prima Fila 17 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/11157.ts
+#EXTINF:-1,Prima Fila 18 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/11158.ts
+#EXTINF:-1,Prima Fila 19 LIVE
+http://speedy.momy.mooo.com:8000/live/massino/massino/11159.ts
 #EXTINF:-1,--------- SKY SPORT --------
 http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/301.ts
-#EXTINF:-1,Sky Fox Sports HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/132.ts
+#EXTINF:-1,Fox Sports HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/49.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/51.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/99.ts
 #EXTINF:-1,Sky Sport 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/131.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/100.ts
+#EXTINF:-1,SKY EURO2016
+http://speedy.momy.mooo.com:8000/live/massino/massino/11496.ts
 #EXTINF:-1,SKY Sport 2 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/130.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/101.ts
 #EXTINF:-1,Sky Sport 3 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/128.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/102.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/99.ts
-#EXTINF:-1,Sky Moto GP HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/96.ts
-#EXTINF:-1,SKY Sport 24 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/129.ts
-#EXTINF:-1,Roma channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1312.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/104.ts
+#EXTINF:-1,Sky Sport MotoGP HD.
+http://speedy.momy.mooo.com:8000/live/massino/massino/105.ts
+#EXTINF:-1,Eurosport HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/103.ts
+#EXTINF:-1,Eurosport 2 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/106.ts
+#EXTINF:-1,Juventus Tv
+http://speedy.momy.mooo.com:8000/live/massino/massino/125.ts
 #EXTINF:-1,Milan channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1311.ts
-#EXTINF:-1,Juventus TV
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1309.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/123.ts
 #EXTINF:-1,Inter Channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1310.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/126.ts
+#EXTINF:-1,Roma Channel
+http://speedy.momy.mooo.com:8000/live/massino/massino/124.ts
+#EXTINF:-1,Lazio Style Channel
+http://speedy.momy.mooo.com:8000/live/massino/massino/2826.ts
+#EXTINF:-1,BIKE HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2828.ts
+#EXTINF:-1,Uniresat
+http://speedy.momy.mooo.com:8000/live/massino/massino/2843.ts
+#EXTINF:-1,Class Horse Tv HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2818.ts
+#EXTINF:-1,CACCIA
+http://speedy.momy.mooo.com:8000/live/massino/massino/882.ts
+#EXTINF:-1,PESCA
+http://speedy.momy.mooo.com:8000/live/massino/massino/3951.ts
+#EXTINF:-1,Poker Italia 24
+http://speedy.momy.mooo.com:8000/live/massino/massino/2833.ts
+#EXTINF:-1,Super Tennis HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/107.ts
+#EXTINF:-1,Auto Moto TV
+http://speedy.momy.mooo.com:8000/live/massino/massino/177.ts
+#EXTINF:-1,Sport Italia
+http://speedy.momy.mooo.com:8000/live/massino/massino/3266.ts
+#EXTINF:-1,Rai Sport 1
+http://speedy.momy.mooo.com:8000/live/massino/massino/108.ts
+#EXTINF:-1,Rai Sport 2
+http://speedy.momy.mooo.com:8000/live/massino/massino/109.ts
 #EXTINF:-1,--------- SKY CALCIO ----------
 http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/300.ts
 #EXTINF:-1,Sky Supercalcio HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/98.ts
-#EXTINF:-1,Sky Supercalcio SD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2026.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/113.ts
 #EXTINF:-1,Sky Calcio 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/148.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/114.ts
 #EXTINF:-1,Sky Calcio 2 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/147.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/2850.ts
 #EXTINF:-1,Sky Calcio 3 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/146.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/145.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/144.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/143.ts
-#EXTINF:-1,SKY Calcio 7 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/142.ts
-#EXTINF:-1,SKY Calcio 8 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/61.ts
-#EXTINF:-1,SKY Calcio 9 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/60.ts
+http://speedy.momy.mooo.com:8000/live/massino/massino/115.ts
+#EXTINF:-1,Sky Calcio  4 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/116.ts
+#EXTINF:-1,Sky Calcio  5 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/117.ts
+#EXTINF:-1,Sky Calcio  6 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/118.ts
+#EXTINF:-1,Sky Calcio  7 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/119.ts
+#EXTINF:-1,Sky Calcio  8 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/120.ts
+#EXTINF:-1,Sky Calcio 9 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2849.ts
+#EXTINF:-1,Sky Calcio 10 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2848.ts
+#EXTINF:-1,Sky Calcio 11 HD
+http://speedy.momy.mooo.com:8000/live/massino/massino/2847.ts
+#EXTINF:-1,---NOTIZIE
+http://speedy.momy.mooo.com:8000/live/massino/massino/160.ts
+#EXTINF:-1,SKY TG24
+http://speedy.momy.mooo.com:8000/live/massino/massino/6579.ts
+#EXTINF:-1,Tg Com 24
+http://speedy.momy.mooo.com:8000/live/massino/massino/162.ts
+#EXTINF:-1,TG Norba24
+http://speedy.momy.mooo.com:8000/live/massino/massino/5188.ts
+#EXTINF:-1,Rai News 24
+http://speedy.momy.mooo.com:8000/live/massino/massino/163.ts
+#EXTINF:-1,Il Meteo.It Oggi
+http://speedy.momy.mooo.com:8000/live/massino/massino/7894.ts
+#EXTINF:-1,Rai Senato
+http://speedy.momy.mooo.com:8000/live/massino/massino/166.ts
+#EXTINF:-1,---MUSICA
+http://speedy.momy.mooo.com:8000/live/massino/massino/210.ts
+#EXTINF:-1,Studio 90 Italia
+http://speedy.momy.mooo.com:8000/live/massino/massino/2838.ts
+#EXTINF:-1,Ondalatina
+http://speedy.momy.mooo.com:8000/live/massino/massino/2825.ts
+#EXTINF:-1,M2Otv
+http://speedy.momy.mooo.com:8000/live/massino/massino/2823.ts
+#EXTINF:-1,ROCK TV
+http://speedy.momy.mooo.com:8000/live/massino/massino/9545.ts
+#EXTINF:-1,Hip Pop Music
+http://speedy.momy.mooo.com:8000/live/massino/massino/12196.ts
+#EXTINF:-1,R.T.L. 102.5
+http://speedy.momy.mooo.com:8000/live/massino/massino/2095.ts
+#EXTINF:-1,RD 105
+http://speedy.momy.mooo.com:8000/live/massino/massino/2206.ts
+#EXTINF:-1,RTP
+http://speedy.momy.mooo.com:8000/live/massino/massino/175.ts
+#EXTINF:-1,Radio Italia
+http://speedy.momy.mooo.com:8000/live/massino/massino/2836.ts
+#EXTINF:-1,Radio Taormina
+http://speedy.momy.mooo.com:8000/live/massino/massino/2834.ts
+#EXTINF:-1,Radio Montecarlo
+http://speedy.momy.mooo.com:8000/live/massino/massino/2835.ts
+#EXTINF:-1,--ADSL LENTA
+http://speedy.momy.mooo.com:8000/live/massino/massino/11166.ts
+#EXTINF:-1,RAI 1
+http://speedy.momy.mooo.com:8000/live/massino/massino/9316.ts
+#EXTINF:-1,RAI 2
+http://speedy.momy.mooo.com:8000/live/massino/massino/9317.ts
+#EXTINF:-1,RAI 3
+http://speedy.momy.mooo.com:8000/live/massino/massino/9318.ts
+#EXTINF:-1,Rete 4
+http://speedy.momy.mooo.com:8000/live/massino/massino/11167.ts
+#EXTINF:-1,Canale 5
+http://speedy.momy.mooo.com:8000/live/massino/massino/9315.ts
+#EXTINF:-1,Italia 1
+http://speedy.momy.mooo.com:8000/live/massino/massino/11168.ts
+#EXTINF:-1,Sky Cinema 1
+http://speedy.momy.mooo.com:8000/live/massino/massino/9323.ts
+#EXTINF:-1,Sky Cinema +1
+http://speedy.momy.mooo.com:8000/live/massino/massino/9322.ts
+#EXTINF:-1,Sky Cinema  +24
+http://speedy.momy.mooo.com:8000/live/massino/massino/9324.ts
+#EXTINF:-1,Sky Cinema Hits
+http://speedy.momy.mooo.com:8000/live/massino/massino/9325.ts
+#EXTINF:-1,Sky Cinema Family
+http://speedy.momy.mooo.com:8000/live/massino/massino/9326.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://speedy.momy.mooo.com:8000/live/massino/massino/9329.ts
+#EXTINF:-1,Sky Cinema Max
+http://speedy.momy.mooo.com:8000/live/massino/massino/9327.ts
+#EXTINF:-1,Sky Uno
+http://speedy.momy.mooo.com:8000/live/massino/massino/10228.ts
+#EXTINF:-1,Sky Atlantic
+http://speedy.momy.mooo.com:8000/live/massino/massino/10223.ts
+#EXTINF:-1,Fox
+http://speedy.momy.mooo.com:8000/live/massino/massino/10258.ts
+#EXTINF:-1,Fox Life
+http://speedy.momy.mooo.com:8000/live/massino/massino/10259.ts
+#EXTINF:-1,Fox Crime
+http://speedy.momy.mooo.com:8000/live/massino/massino/10262.ts
+#EXTINF:-1,AXN
+http://speedy.momy.mooo.com:8000/live/massino/massino/10264.ts
+#EXTINF:-1,Fox Sports
+http://speedy.momy.mooo.com:8000/live/massino/massino/10260.ts
+#EXTINF:-1,Sky Sport 24
+http://speedy.momy.mooo.com:8000/live/massino/massino/3843.ts
+#EXTINF:-1,Sky Sport 2
+http://speedy.momy.mooo.com:8000/live/massino/massino/3844.ts
+#EXTINF:-1,Sky Sport F1
+http://speedy.momy.mooo.com:8000/live/massino/massino/7899.ts
+#EXTINF:-1,Sky Sport MotoGP
+http://speedy.momy.mooo.com:8000/live/massino/massino/3851.ts
+#EXTINF:-1,Sky SuperCalcio
+http://speedy.momy.mooo.com:8000/live/massino/massino/3842.ts
+#EXTINF:-1,Sky Calcio 1
+http://speedy.momy.mooo.com:8000/live/massino/massino/1762.ts
+#EXTINF:-1,Sky Calcio 2
+http://speedy.momy.mooo.com:8000/live/massino/massino/1763.ts
+#EXTINF:-1,Sky Calcio 3
+http://speedy.momy.mooo.com:8000/live/massino/massino/1764.ts
+#EXTINF:-1,Sky Calcio 4
+http://speedy.momy.mooo.com:8000/live/massino/massino/1765.ts
+#EXTINF:-1,Sky Calcio 5
+http://speedy.momy.mooo.com:8000/live/massino/massino/1766.ts
+#EXTINF:-1,Sky Calcio 6
+http://speedy.momy.mooo.com:8000/live/massino/massino/1767.ts
+#EXTINF:-1,Sky Calcio 7
+http://speedy.momy.mooo.com:8000/live/massino/massino/1768.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

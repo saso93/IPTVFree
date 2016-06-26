@@ -19,6 +19,8 @@ http://cdn02.selling-team.net:8000/live/raim3/raim3/1698.ts
 http://ksportiptv.com:1557/live/26/06/2016/RZuBWZCqJl/1121.ts
 #EXTINF:-1, Moto GP Movistar HD 2 14.00
 http://ipsatpro.com:8000/live/170216/170216/646.ts
+#EXTINF:-1, Moto GP Movistar SD 14.00
+http://ipsatpro.com:8000/live/rach/rach/646.ts
 #EXTINF:-1,---------ON DEMAND-----------
 http://-.dyndns.org:34555/live/pierangelo/pierangelo/1646.ts
 #EXTINF:-1,Captain.America.Civil.War

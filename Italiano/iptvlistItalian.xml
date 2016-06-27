@@ -7,50 +7,28 @@ http://dummylink.com
 http://dummylink.com
 #EXTINF:-1,---EUROPEI
 http://dummylink.com
-#EXTINF:-1,Italia Spagna 4K 18.00
-http://cdn02.selling-team.net:8000/live/raim3/raim3/23509.ts
-#EXTINF:-1,Italia Spagna UHD 18.00
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22131.ts
 #EXTINF:-1,Italia Spagna HD 18.00
-http://cdn02.selling-team.net:8000/live/raim3/raim3/876.ts
-#EXTINF:-1,Italia Spagna SD 18.00
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2548.ts
+http://ipsatpro.com:8000/live/170216/170216/693.ts
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
-#EXTINF:-1,Rai 1 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22131.ts
-#EXTINF:-1,Rai 4K
-http://cdn02.selling-team.net:8000/live/raim3/raim3/23509.ts
 #EXTINF:-1,Rai 1 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/876.ts
-#EXTINF:-1,Rai 1 -Dsl Lenta-
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2548.ts
-#EXTINF:-1,Rai 2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/877.ts
-#EXTINF:-1,Rai 2 -Dsl Lenta-
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2549.ts
-#EXTINF:-1,Rai 2 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22132.ts
-#EXTINF:-1,Rai 3 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/878.ts
-#EXTINF:-1,Rai 3 -Dsl Lenta-
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2550.ts
+http://ipsatpro.com:8000/live/170216/170216/693.ts
+#EXTINF:-1, Rai 2 HD
+http://ipsatpro.com:8000/live/170216/170216/692.ts
+#EXTINF:-1, Rai 3 HD
+http://ipsatpro.com:8000/live/170216/170216/691.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/879.ts
-#EXTINF:-1,Rete 4  -Dsl Lenta-
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2551.ts
-#EXTINF:-1,Canale 5 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/880.ts
-#EXTINF:-1,Canale 5  -Dsl Lenta-
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2552.ts
-#EXTINF:-1,Italia 1 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/881.ts
-#EXTINF:-1,Italia 1 -Dsl Lenta-
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2553.ts
+http://ipsatpro.com:8000/live/170216/170216/690.ts
+#EXTINF:-1, Canale 5 HD
+http://ipsatpro.com:8000/live/170216/170216/686.ts
+#EXTINF:-1, Italia 1 HD
+http://ipsatpro.com:8000/live/170216/170216/685.ts
+#EXTINF:-1, La 5
+http://ipsatpro.com:8000/live/170216/170216/556.ts
 #EXTINF:-1,La7
 http://cdn02.selling-team.net:8000/live/raim3/raim3/4127.ts
 #EXTINF:-1 ,Rai 4
@@ -108,9 +86,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2554.ts
+http://ipsatpro.com:8000/live/170216/170216/688.ts
 #EXTINF:-1,RSI LA 2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2555.ts
+http://ipsatpro.com:8000/live/170216/170216/687.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83
@@ -539,790 +517,216 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,----- MEDIASET PREMIUM -------
-http://cdn02.selling-team.net:8000/live/raim3/raim3/866.ts
-#EXTINF:-1,Premium Cinema HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/946.ts
-#EXTINF:-1,Premium Cinema
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6585.ts
-#EXTINF:-1,Premium Cinema +24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2989.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2990.ts
-#EXTINF:-1,Premium Cinema 2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6586.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/3128.ts
-#EXTINF:-1,Premium Emotion
-http://cdn02.selling-team.net:8000/live/raim3/raim3/947.ts
-#EXTINF:-1,Premium Energy
-http://cdn02.selling-team.net:8000/live/raim3/raim3/948.ts
-#EXTINF:-1,Premium Comedy
-http://cdn02.selling-team.net:8000/live/raim3/raim3/949.ts
-#EXTINF:-1,Premium Stories
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2988.ts
-#EXTINF:-1,Premium Studio Universal
-http://cdn02.selling-team.net:8000/live/raim3/raim3/950.ts
-#EXTINF:-1,Premium Joy
-http://cdn02.selling-team.net:8000/live/raim3/raim3/951.ts
-#EXTINF:-1,Premium Mya
-http://cdn02.selling-team.net:8000/live/raim3/raim3/952.ts
-#EXTINF:-1,Premium Crime HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/953.ts
-#EXTINF:-1,Premium Crime
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6584.ts
-#EXTINF:-1,Premium Crime +24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2987.ts
-#EXTINF:-1,Premium Action HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/954.ts
-#EXTINF:-1,Premium Action
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6583.ts
-#EXTINF:-1,Premium Action +24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2986.ts
-#EXTINF:-1,Premium Stories +24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/955.ts
-#EXTINF:-1,Premium Joy +24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/956.ts
-#EXTINF:-1,Premium Disney Channel HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/968.ts
-#EXTINF:-1,Premium Disney Channel +2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/969.ts
-#EXTINF:-1,Premium Disney Junior
-http://cdn02.selling-team.net:8000/live/raim3/raim3/970.ts
-#EXTINF:-1,Premium Cartoon Network
-http://cdn02.selling-team.net:8000/live/raim3/raim3/971.ts
-#EXTINF:-1,----- PREMIUM SPORT -------
-http://cdn02.selling-team.net:8000/live/raim3/raim3/866.ts
-#EXTINF:-1,Premium Sport UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/21561.ts
-#EXTINF:-1,Premium Sport HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/3684.ts
-#EXTINF:-1,Premium Sport
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6582.ts
-#EXTINF:-1,Premium Sport +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/11009.ts
-#EXTINF:-1,Premium Sport 2 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/21562.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/14003.ts
-#EXTINF:-1,Premium Sport 2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/14062.ts
-#EXTINF:-1,Premium Sport 2 +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/14004.ts
-#EXTINF:-1,Premium Sport 2 +2HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/14005.ts
-#EXTINF:-1,Premium Calcio 1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/957.ts
-#EXTINF:-1,Premium Calcio +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/11008.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1120.ts
-#EXTINF:-1,Premium Calcio 2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1121.ts
-#EXTINF:-1,Premium Calcio 3
-http://cdn02.selling-team.net:8000/live/raim3/raim3/960.ts
-#EXTINF:-1,Premium Calcio 4
-http://cdn02.selling-team.net:8000/live/raim3/raim3/961.ts
-#EXTINF:-1,Premium Calcio 5
-http://cdn02.selling-team.net:8000/live/raim3/raim3/962.ts
-#EXTINF:-1,Premium Calcio 6
-http://cdn02.selling-team.net:8000/live/raim3/raim3/963.ts
-#EXTINF:-1,Premium Fox Sports
-http://cdn02.selling-team.net:8000/live/raim3/raim3/965.ts
-#EXTINF:-1,Premium EuroSport 1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/966.ts
-#EXTINF:-1,Premium EuroSport 2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/967.ts
-#EXTINF:-1,---- REVIEW ----
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6229.ts
-#EXTINF:-1,Europei Italia (Francia 2016) TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/23187.ts
-#EXTINF:-1,Quarto Grado TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/11178.ts
-#EXTINF:-1,Gomorra TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/11179.ts
-#EXTINF:-1,Pomeriggio 5 TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6338.ts
-#EXTINF:-1,Masters Of Magic (J.Scotti)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6231.ts
-#EXTINF:-1,Fuoco Amico Tv (Fiction R.Bova)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/7585.ts
-#EXTINF:-1,Matrimoni E Altre Follie
-http://cdn02.selling-team.net:8000/live/raim3/raim3/11180.ts
-#EXTINF:-1,Le Iene TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6230.ts
-#EXTINF:-1,Emigratis
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6350.ts
-#EXTINF:-1,L Isola Dei Famosi Tv
-http://cdn02.selling-team.net:8000/live/raim3/raim3/20188.ts
-#EXTINF:-1,TOP Dj
-http://cdn02.selling-team.net:8000/live/raim3/raim3/11287.ts
-#EXTINF:-1,---- RSI SWISS ----
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2612.ts
-#EXTINF:-1,RSI La1 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2554.ts
-#EXTINF:-1,RSI La1 +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/11010.ts
-#EXTINF:-1,RSI La2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2555.ts
-#EXTINF:-1,RSI La2 +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/11011.ts
-#EXTINF:-1,Teleticino HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2486.ts
-#EXTINF:-1,-----SKY CINEMA -------
-http://cdn02.selling-team.net:8000/live/raim3/raim3/865.ts
-#EXTINF:-1,Sky Cinema 3D
-http://cdn02.selling-team.net:8000/live/raim3/raim3/8021.ts
-#EXTINF:-1,Sky Cinema 3D +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/11012.ts
-#EXTINF:-1,Sky Cinema 1 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6305.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/886.ts
-#EXTINF:-1,Sky Cinema 1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1702.ts
-#EXTINF:-1,Sky Cinema +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4159.ts
-#EXTINF:-1,Sky Cinema +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1708.ts
-#EXTINF:-1,Sky Cinema +24 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6306.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/888.ts
-#EXTINF:-1,Sky Cinema +24 +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/10377.ts
-#EXTINF:-1,Sky Cinema +24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1704.ts
-#EXTINF:-1,Sky Cinema Hits UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6307.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/889.ts
-#EXTINF:-1,Sky Cinema Hits
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1223.ts
-#EXTINF:-1,Sky Cinema Hits +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4160.ts
-#EXTINF:-1,Sky Cinema Family UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6309.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/890.ts
-#EXTINF:-1,Sky Cinema Family
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1703.ts
-#EXTINF:-1,Sky Cinema Family +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4161.ts
-#EXTINF:-1,Sky Cinema Passion UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6308.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/892.ts
-#EXTINF:-1,Sky Cinema Passion
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1216.ts
-#EXTINF:-1,Sky Cinema Passion +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4162.ts
-#EXTINF:-1,Sky Cinema Comedy UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6310.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/893.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1709.ts
-#EXTINF:-1,Sky Cinema Comedy +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4163.ts
-#EXTINF:-1,Sky Cinema Max UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6311.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/894.ts
-#EXTINF:-1,Sky Cinema Max
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1213.ts
-#EXTINF:-1,Sky Cinema Max +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4164.ts
-#EXTINF:-1,Sky Cinema Max +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1221.ts
-#EXTINF:-1,Sky Cinema Cult UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22419.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/896.ts
-#EXTINF:-1,Sky Cinema Cult
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2681.ts
-#EXTINF:-1,Sky Cinema Cult +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4165.ts
-#EXTINF:-1,Sky Cinema Classic UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22420.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/897.ts
-#EXTINF:-1,Sky Cinema Classics
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1705.ts
-#EXTINF:-1,Sky Cinema Classic +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4245.ts
-#EXTINF:-1,---- INTRATTENIMENTO ----
-http://cdn02.selling-team.net:8000/live/raim3/raim3/898.ts
-#EXTINF:-1,Sky Uno HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/900.ts
-#EXTINF:-1,Sky Uno
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2458.ts
-#EXTINF:-1,Sky Uno UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22088.ts
-#EXTINF:-1,Sky Uno +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4166.ts
-#EXTINF:-1,Sky Uno +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1695.ts
-#EXTINF:-1,Sky Atlantic HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/901.ts
-#EXTINF:-1,Sky Atlantic +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4167.ts
-#EXTINF:-1,Sky Atlantic UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6404.ts
-#EXTINF:-1,Fox HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/902.ts
-#EXTINF:-1,Fox
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2679.ts
-#EXTINF:-1,Fox UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22089.ts
-#EXTINF:-1,Fox +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4168.ts
-#EXTINF:-1,Fox +2HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/11014.ts
-#EXTINF:-1,Fox Italia +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2465.ts
-#EXTINF:-1,Fox Life HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/903.ts
-#EXTINF:-1,Fox Life
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2684.ts
-#EXTINF:-1,Fox Life UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22130.ts
-#EXTINF:-1,Fox Life +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4169.ts
-#EXTINF:-1,Fox Life +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2468.ts
-#EXTINF:-1,Fox Crime HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/904.ts
-#EXTINF:-1,Fox Crime
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2682.ts
-#EXTINF:-1,Fox Crime UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22090.ts
-#EXTINF:-1,Fox Crime +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4170.ts
-#EXTINF:-1,Fox Crime +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2467.ts
-#EXTINF:-1,Fox Crime +2HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4246.ts
-#EXTINF:-1,Fox Crime +2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2472.ts
-#EXTINF:-1,Fox Comedy HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/905.ts
-#EXTINF:-1,Fox Comedy
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2471.ts
-#EXTINF:-1,Fox Comedy +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4171.ts
-#EXTINF:-1,Fox Animation HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/906.ts
-#EXTINF:-1,Fox Animation
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2470.ts
-#EXTINF:-1,Fox Animation +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4172.ts
-#EXTINF:-1,Paramount Channel HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/17027.ts
-#EXTINF:-1,CI Crime Investigation HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/907.ts
-#EXTINF:-1,CI Crime Investigation +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4174.ts
-#EXTINF:-1,Comedy Central
-http://cdn02.selling-team.net:8000/live/raim3/raim3/15679.ts
-#EXTINF:-1,Comedy Central +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/16424.ts
-#EXTINF:-1,AXN HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/908.ts
-#EXTINF:-1,AXN +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1694.ts
-#EXTINF:-1,E!
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1267.ts
-#EXTINF:-1,Fine Living
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1274.ts
-#EXTINF:-1,Giallo
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4133.ts
-#EXTINF:-1,Espansione TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4129.ts
-#EXTINF:-1,La 5
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1623.ts
-#EXTINF:-1,Lei
-http://cdn02.selling-team.net:8000/live/raim3/raim3/3677.ts
-#EXTINF:-1,TV 2000
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2791.ts
-#EXTINF:-1,---- SPORT ----
-http://cdn02.selling-team.net:8000/live/raim3/raim3/912.ts
-#EXTINF:-1,Sky Sport 24 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6287.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/913.ts
-#EXTINF:-1,Sky Sport 24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1701.ts
-#EXTINF:-1,Sky Sport 24 +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4175.ts
-#EXTINF:-1,Sky Sport 1 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6288.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/914.ts
-#EXTINF:-1,Sky Sport 1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1696.ts
-#EXTINF:-1,Sky Sport 1 +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4176.ts
-#EXTINF:-1,Sky Sport 2 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6289.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/915.ts
-#EXTINF:-1,Sky Sport 2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1697.ts
-#EXTINF:-1,Sky Sport 2 +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4177.ts
-#EXTINF:-1,Sky Sport 3 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6290.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/916.ts
-#EXTINF:-1,Sky Sport 3
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2050.ts
-#EXTINF:-1,Sky Sport 3 +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4178.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/917.ts
-#EXTINF:-1,Sky Sport F1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6125.ts
-#EXTINF:-1,Sky Sport F1 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22086.ts
-#EXTINF:-1,Sky Sport F1 +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4179.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2113.ts
-#EXTINF:-1,Sky Sport Plus
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6126.ts
-#EXTINF:-1,Sky Sport Plus UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22128.ts
-#EXTINF:-1,Sky Sport Plus +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4180.ts
-#EXTINF:-1,Sky Moto GP HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/918.ts
-#EXTINF:-1,Sky Moto GP
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1698.ts
-#EXTINF:-1,Sky Moto GP UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22087.ts
-#EXTINF:-1,Sky Moto GP +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4181.ts
-#EXTINF:-1,Sky Fox Sport HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1225.ts
-#EXTINF:-1,Fox Sport
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6127.ts
-#EXTINF:-1,Sky Fox Sport UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22129.ts
-#EXTINF:-1,Sky Fox Sport 1 +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4182.ts
-#EXTINF:-1,Sky Eurosport HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1218.ts
-#EXTINF:-1,Eurosport UHD / Sky Calcio 2 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6300.ts
-#EXTINF:-1,Sky Eurosport 2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2477.ts
-#EXTINF:-1,Super Tennis HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/919.ts
-#EXTINF:-1,Lega Pro Channel
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6228.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1231.ts
-#EXTINF:-1,Rai Sport 2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1232.ts
-#EXTINF:-1,Sport Italia
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2523.ts
-#EXTINF:-1,Class Horse TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/8050.ts
-#EXTINF:-1,Poker Italia 24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/8049.ts
-#EXTINF:-1,Bike Channel
-http://cdn02.selling-team.net:8000/live/raim3/raim3/8032.ts
-#EXTINF:-1,Juventus Channel
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2224.ts
-#EXTINF:-1,Roma Channel
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2602.ts
-#EXTINF:-1,Milan Channel
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1624.ts
-#EXTINF:-1,Lazio Channel
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4238.ts
-#EXTINF:-1,Inter Channel
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2601.ts
-#EXTINF:-1,WWE Sport HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/991.ts
-#EXTINF:-1,---- CALCIO ----
-http://cdn02.selling-team.net:8000/live/raim3/raim3/920.ts
-#EXTINF:-1,Sky Supercalcio UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6291.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/921.ts
-#EXTINF:-1,Sky Supercalcio
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1699.ts
-#EXTINF:-1,Sky Calcio 1 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6292.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/922.ts
-#EXTINF:-1,Sky Calcio 1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1700.ts
-#EXTINF:-1,Sky Calcio 2 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6293.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/923.ts
-#EXTINF:-1,Sky Calcio 2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6135.ts
-#EXTINF:-1,Sky Calcio 3 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6294.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/924.ts
-#EXTINF:-1,Sky Calcio 3
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6134.ts
-#EXTINF:-1,Sky Calcio 4 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6295.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/925.ts
-#EXTINF:-1,Sky Calcio 4
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6133.ts
-#EXTINF:-1,Sky Calcio 5 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6296.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/926.ts
-#EXTINF:-1,Sky Calcio 5
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6132.ts
-#EXTINF:-1,Sky Calcio 6 UHD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6403.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/927.ts
-#EXTINF:-1,Sky Calcio 6
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6131.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/928.ts
-#EXTINF:-1,Sky Calcio 7
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6130.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/16669.ts
-#EXTINF:-1,Sky Calcio 9 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/16670.ts
-#EXTINF:-1,Sky Calcio 10 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/16671.ts
-#EXTINF:-1,---- CARTONI ----
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1031.ts
-#EXTINF:-1,Sky Disney Channel HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1024.ts
-#EXTINF:-1,Sky Disney Channel +2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2604.ts
-#EXTINF:-1,Sky Disney XD HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1026.ts
-#EXTINF:-1,Nick Junior
-http://cdn02.selling-team.net:8000/live/raim3/raim3/15779.ts
-#EXTINF:-1,Disney XD +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6146.ts
-#EXTINF:-1,Sky Cartoon Network
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1027.ts
-#EXTINF:-1,Rai Yoyo
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1028.ts
-#EXTINF:-1,Cartonito
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1030.ts
-#EXTINF:-1,Super
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1272.ts
-#EXTINF:-1,K2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1271.ts
-#EXTINF:-1,Frisbee
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1270.ts
-#EXTINF:-1,Boing
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1268.ts
-#EXTINF:-1,Rai Gulp
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1236.ts
-#EXTINF:-1,Rai Scuola
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2518.ts
-#EXTINF:-1,Masha Orso TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2117.ts
-#EXTINF:-1,Peppa Pig TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2120.ts
-#EXTINF:-1,Peppa Pig TV 2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2121.ts
-#EXTINF:-1,Peppa Pig English TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2122.ts
-#EXTINF:-1,---- CULTURA ----
-http://cdn02.selling-team.net:8000/live/raim3/raim3/929.ts
-#EXTINF:-1,NationalGeo HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/930.ts
-#EXTINF:-1,NationalGeo +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4247.ts
-#EXTINF:-1,NationalGeo +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2456.ts
-#EXTINF:-1,NatGeo People HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/931.ts
-#EXTINF:-1,NatGeo Wild HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/932.ts
-#EXTINF:-1,NatGeo Wild
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2680.ts
-#EXTINF:-1,Axn Sci-Fi
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2519.ts
-#EXTINF:-1,Sky Discovery Science HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1018.ts
-#EXTINF:-1,Discovery HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/933.ts
-#EXTINF:-1,Discovery Channel
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1215.ts
-#EXTINF:-1,Discovery Travel e Living HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2524.ts
-#EXTINF:-1,Classica HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/8024.ts
-#EXTINF:-1,Cielo HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12289.ts
-#EXTINF:-1,Focus
-http://cdn02.selling-team.net:8000/live/raim3/raim3/934.ts
-#EXTINF:-1,DMAX HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/935.ts
-#EXTINF:-1,Dmax
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12291.ts
-#EXTINF:-1,Dmax +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12290.ts
-#EXTINF:-1,K-TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4240.ts
-#EXTINF:-1,Sky Arte HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1020.ts
-#EXTINF:-1,Explora Hd
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1621.ts
-#EXTINF:-1,History HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/936.ts
-#EXTINF:-1,History
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2685.ts
-#EXTINF:-1,History +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2455.ts
-#EXTINF:-1,Nuvolari
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1023.ts
-#EXTINF:-1,Marcopolo
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1022.ts
-#EXTINF:-1,Animal Planet
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1275.ts
-#EXTINF:-1,Gambero Rosso HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2115.ts
-#EXTINF:-1,Gambero Rosso
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2683.ts
-#EXTINF:-1,Gambero Rosso +1HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4184.ts
-#EXTINF:-1,Real Time HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/910.ts
-#EXTINF:-1,Real Time +1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4957.ts
-#EXTINF:-1,Caccia e Pesca
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1285.ts
-#EXTINF:-1,Pesca e Caccia
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1620.ts
-#EXTINF:-1,Italian Fishing TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12494.ts
-#EXTINF:-1,---- PRIMAFILA ----
-http://cdn02.selling-team.net:8000/live/raim3/raim3/972.ts
-#EXTINF:-1,Primafila 1e2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/21724.ts
-#EXTINF:-1,Primafila 3 e 4 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/21725.ts
-#EXTINF:-1,Primafila 5e6 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/21726.ts
-#EXTINF:-1,Primafila 7 e 8 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/21727.ts
-#EXTINF:-1,-- PRIMAFILA ON DEMAND --
-http://cdn02.selling-team.net:8000/live/raim3/raim3/8804.ts
-#EXTINF:-1,Primafila 1e2HD [ROOM] (VOD)
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/13267.avi
-#EXTINF:-1,Primafila 3e4 HD [Zootropolis](VOD)
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/13272.mkv
-#EXTINF:-1,Primafila 5e6HD [IO CHE AMO SOLO TE] (VOD)
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/13268.avi
-#EXTINF:-1,Primafila 7e8 HD [Deadpool] (VOD)
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/13271.avi
-#EXTINF:-1,Primafila 9e10 HD [PREMONITIONS](VOD)
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/14161.avi
-#EXTINF:-1,Primafila 11e12HD [Zoolander.2] (VOD)
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/14162.avi
-#EXTINF:-1,Primafila 13HD [DANISH GIRL] (VOD)
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/14163.avi
-#EXTINF:-1,Primafila 14e15 HD [Belle.E.Sebastien] (VOD)
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/14164.avi
-#EXTINF:-1,Primafila 15 HD [ALBERT E IL DIAMANTE MAGICO] (VOD)DUAL LANG
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/14165.mkv
-#EXTINF:-1,Primafila 16e17 HD [Reversal.La.Fuga.E.Solo.L.Iinizio] (VOD)DUAL LANG
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/14166.avi
-#EXTINF:-1,Primafila 18HD [FANTASTIC 4] (VOD)
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/14167.mkv
-#EXTINF:-1,Primafila 19 HD [TORNO INDIETRO CAMBIO VITA] (VOD)
-http://cdn02.selling-team.net:8000/movie/raim3/raim3/14168.mkv
-#EXTINF:-1,---- NOTIZIE ----
-http://cdn02.selling-team.net:8000/live/raim3/raim3/937.ts
-#EXTINF:-1,Sky TG 24 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/938.ts
-#EXTINF:-1,Sky Tg 24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2464.ts
-#EXTINF:-1,Tg Com 24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/939.ts
-#EXTINF:-1,Rai Senato
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1235.ts
-#EXTINF:-1,Rai News 24
-http://cdn02.selling-team.net:8000/live/raim3/raim3/940.ts
-#EXTINF:-1,Videolina
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1283.ts
-#EXTINF:-1,Euronews
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2116.ts
-#EXTINF:-1,Sardegna 1 Sat
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1381.ts
-#EXTINF:-1,---- MUSICA ---
-http://cdn02.selling-team.net:8000/live/raim3/raim3/941.ts
-#EXTINF:-1,Mtv Italia
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1269.ts
-#EXTINF:-1,MTV Rocks
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22725.ts
-#EXTINF:-1,MTV Music
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22726.ts
-#EXTINF:-1,MTV Hits
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22727.ts
-#EXTINF:-1,MTV Dance
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22728.ts
-#EXTINF:-1,MTV Brand New
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4135.ts
-#EXTINF:-1,Radio 105 TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/944.ts
-#EXTINF:-1,Radio MonteCarlo TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/942.ts
-#EXTINF:-1,Virgin Radio Tv
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1284.ts
-#EXTINF:-1,Radio Company TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/943.ts
-#EXTINF:-1,Radio Capital TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4128.ts
-#EXTINF:-1,Radio Bruno TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2521.ts
-#EXTINF:-1,Radio Number1 TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/8432.ts
-#EXTINF:-1,MTV Music Italia
-http://cdn02.selling-team.net:8000/live/raim3/raim3/1276.ts
-#EXTINF:-1,M2O TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/6371.ts
-#EXTINF:-1,---- WORLD MUSIC ---
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22773.ts
-#EXTINF:-1,WORLD MUSIC: Djing 1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22758.ts
-#EXTINF:-1,WORLD MUSIC: Djing 2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22759.ts
-#EXTINF:-1,WORLD MUSIC: Djing 3
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22760.ts
-#EXTINF:-1,WORLD MUSIC: Djing 4
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22761.ts
-#EXTINF:-1,WORLD MUSIC: Djing 5
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22762.ts
-#EXTINF:-1,WORLD MUSIC: ESKA TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22743.ts
-#EXTINF:-1,WORLD MUSIC: Electrosound TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22770.ts
-#EXTINF:-1,WORLD MUSIC: Elektrika TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22771.ts
-#EXTINF:-1,WORLD MUSIC: FIRST MUSIC CHANNEL HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22757.ts
-#EXTINF:-1,WORLD MUSIC: KISS TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22769.ts
-#EXTINF:-1,WORLD MUSIC: KRONE HIT TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22730.ts
-#EXTINF:-1,WORLD MUSIC: MFM TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22766.ts
-#EXTINF:-1,WORLD MUSIC: Power HD Türk
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22741.ts
-#EXTINF:-1,WORLD MUSIC: Slam TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22768.ts
-#EXTINF:-1,WORLD MUSIC: Super Sonic TV
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22763.ts
-#EXTINF:-1,WORLD MUSIC: VEVO DE
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22737.ts
-#EXTINF:-1,WORLD MUSIC: VEVO DE HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22738.ts
-#EXTINF:-1,WORLD MUSIC: VEVO US/CA 1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22731.ts
-#EXTINF:-1,WORLD MUSIC: VEVO US/CA 1 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22732.ts
-#EXTINF:-1,WORLD MUSIC: VEVO US/CA 2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22733.ts
-#EXTINF:-1,WORLD MUSIC: VEVO US/CA 2 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22734.ts
-#EXTINF:-1,WORLD MUSIC: VEVO US/CA 3
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22735.ts
-#EXTINF:-1,WORLD MUSIC: VEVO US/CA 3 HD
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22736.ts
-#EXTINF:-1,WORLD MUSIC: VOX
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22756.ts
-#EXTINF:-1,---- RADIO ----
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2941.ts
-#EXTINF:-1,Radio 1
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22509.ts
-#EXTINF:-1,Radio 2
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22510.ts
-#EXTINF:-1,Radio 3
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22511.ts
-#EXTINF:-1,Radio Italia (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12057.ts
-#EXTINF:-1,Radio Latte Miele
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22513.ts
-#EXTINF:-1,Radio Kiss Kiss
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22512.ts
-#EXTINF:-1,Radio Italia Anni 60
-http://cdn02.selling-team.net:8000/live/raim3/raim3/22515.ts
-#EXTINF:-1,105 Classic (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2896.ts
-#EXTINF:-1,105 Zoo Radio (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2927.ts
-#EXTINF:-1,105 Rock (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2902.ts
-#EXTINF:-1,105 Competition (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2900.ts
-#EXTINF:-1,105 Electro House (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2899.ts
-#EXTINF:-1,105 Hits (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2898.ts
-#EXTINF:-1,105 Story (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12052.ts
-#EXTINF:-1,105 Rap Italia (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12048.ts
-#EXTINF:-1,105 Radio Festival Sanremo (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12049.ts
-#EXTINF:-1,105 Radio Bau Bau (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12053.ts
-#EXTINF:-1,105 Miami (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12054.ts
-#EXTINF:-1,105 Indaklub (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12051.ts
-#EXTINF:-1,105 2k e More (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12050.ts
-#EXTINF:-1,105 Hip Hop/R e B (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2897.ts
-#EXTINF:-1,105 Dance 90 (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2894.ts
-#EXTINF:-1,105 Music Star Zucchero (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12046.ts
-#EXTINF:-1,105 Music Star Vasco Rossi (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12043.ts
-#EXTINF:-1,105 Music Star Tiziano Ferro (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12041.ts
-#EXTINF:-1,105 Music Star Pino Daniele (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12042.ts
-#EXTINF:-1,105 Music Star Jovanotti (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12044.ts
-#EXTINF:-1,105 Music Star Cold Play (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12045.ts
-#EXTINF:-1,Rtl 102.5 Groove (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2526.ts
-#EXTINF:-1,Virgin Radio (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2922.ts
-#EXTINF:-1,Radio Subasio Plus (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2925.ts
-#EXTINF:-1,Radio Gamma (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2924.ts
-#EXTINF:-1,Radio Subasio (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2926.ts
-#EXTINF:-1,RTL (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2928.ts
-#EXTINF:-1,RMC (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2909.ts
-#EXTINF:-1,RMC 2 (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2921.ts
-#EXTINF:-1,Radio Deejay (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2930.ts
-#EXTINF:-1,Radio 101 (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2931.ts
-#EXTINF:-1,RDS (Radio Sky)
-http://cdn02.selling-team.net:8000/live/raim3/raim3/2527.ts
+#EXTINF:-1,----MEDIASET PREMIUM ----
+http://ipsatpro.com:8000/live/170216/170216/628.ts
+#EXTINF:-1, Premium Cinema HD
+http://ipsatpro.com:8000/live/170216/170216/627.ts
+#EXTINF:-1, Premium Cinema 2 HD
+http://ipsatpro.com:8000/live/170216/170216/609.ts
+#EXTINF:-1, Premium Cinema +24
+http://ipsatpro.com:8000/live/170216/170216/612.ts
+#EXTINF:-1, Premium Crime
+http://ipsatpro.com:8000/live/170216/170216/621.ts
+#EXTINF:-1, Premium Crime +24
+http://ipsatpro.com:8000/live/170216/170216/611.ts
+#EXTINF:-1, Premium Action HD
+http://ipsatpro.com:8000/live/170216/170216/626.ts
+#EXTINF:-1, Premium Comedy
+http://ipsatpro.com:8000/live/170216/170216/620.ts
+#EXTINF:-1, Premium Action +24 HD
+http://ipsatpro.com:8000/live/170216/170216/618.ts
+#EXTINF:-1, Premium Stories
+http://ipsatpro.com:8000/live/170216/170216/625.ts
+#EXTINF:-1, Premium Joy
+http://ipsatpro.com:8000/live/170216/170216/624.ts
+#EXTINF:-1, Premium Energy
+http://ipsatpro.com:8000/live/170216/170216/623.ts
+#EXTINF:-1, Premium Emotion
+http://ipsatpro.com:8000/live/170216/170216/622.ts
+#EXTINF:-1, Premium Studio Universal
+http://ipsatpro.com:8000/live/170216/170216/619.ts
+#EXTINF:-1, Premium Disney Junior
+http://ipsatpro.com:8000/live/170216/170216/617.ts
+#EXTINF:-1, Premium Disney Channel
+http://ipsatpro.com:8000/live/170216/170216/616.ts
+#EXTINF:-1, Premium Discovery World
+http://ipsatpro.com:8000/live/170216/170216/614.ts
+#EXTINF:-1, Premium Cartoon Network
+http://ipsatpro.com:8000/live/170216/170216/613.ts
+#EXTINF:-1,----PREMIUM SPORT----
+http://ipsatpro.com:8000/live/170216/170216/628.ts
+#EXTINF:-1, Premium Sport
+http://ipsatpro.com:8000/live/170216/170216/615.ts
+#EXTINF:-1, Premium EuroSport 1 HD
+http://ipsatpro.com:8000/live/170216/170216/608.ts
+#EXTINF:-1, Premium EuroSport 2 HD
+http://ipsatpro.com:8000/live/170216/170216/610.ts
+#EXTINF:-1, Premium Calcio HD
+http://ipsatpro.com:8000/live/170216/170216/607.ts
+#EXTINF:-1, Premium Calcio 1
+http://ipsatpro.com:8000/live/170216/170216/606.ts
+#EXTINF:-1, Premium Calcio 2
+http://ipsatpro.com:8000/live/170216/170216/605.ts
+#EXTINF:-1,---------- SKY CINEMA ----------
+http://ipsatpro.com:8000/live/170216/170216/682.ts
+#EXTINF:-1, Sky Cinema 1 HD
+http://ipsatpro.com:8000/live/170216/170216/681.ts
+#EXTINF:-1, Sky Cinema +1 HD
+http://ipsatpro.com:8000/live/170216/170216/680.ts
+#EXTINF:-1, Sky Cinema +24 HD
+http://ipsatpro.com:8000/live/170216/170216/679.ts
+#EXTINF:-1, Sky Cinema Hits HD
+http://ipsatpro.com:8000/live/170216/170216/675.ts
+#EXTINF:-1, Sky Cinema Cult HD
+http://ipsatpro.com:8000/live/170216/170216/672.ts
+#EXTINF:-1, Sky Cinema Max HD
+http://ipsatpro.com:8000/live/170216/170216/677.ts
+#EXTINF:-1, Sky Cinema +Max HD
+http://ipsatpro.com:8000/live/170216/170216/673.ts
+#EXTINF:-1, Sky Cinema Passion HD
+http://ipsatpro.com:8000/live/170216/170216/678.ts
+#EXTINF:-1, Sky Cinema Comedy HD
+http://ipsatpro.com:8000/live/170216/170216/671.ts
+#EXTINF:-1, Sky Cinema Classic HD
+http://ipsatpro.com:8000/live/170216/170216/670.ts
+#EXTINF:-1, Sky Cinema Family HD
+http://ipsatpro.com:8000/live/170216/170216/674.ts
+#EXTINF:-1, Sky Cinema 3D
+http://ipsatpro.com:8000/live/170216/170216/562.ts
+#EXTINF:-1,------ Intrattenimento ----
+http://ipsatpro.com:8000/live/170216/170216/669.ts
+#EXTINF:-1, Mtv Music
+http://ipsatpro.com:8000/live/170216/170216/668.ts
+#EXTINF:-1, Cielo
+http://ipsatpro.com:8000/live/170216/170216/658.ts
+#EXTINF:-1, Boing
+http://ipsatpro.com:8000/live/170216/170216/659.ts
+#EXTINF:-1, Fox HD
+http://ipsatpro.com:8000/live/170216/170216/664.ts
+#EXTINF:-1, Fox Life HD
+http://ipsatpro.com:8000/live/170216/170216/665.ts
+#EXTINF:-1, Fox Crime HD
+http://ipsatpro.com:8000/live/170216/170216/663.ts
+#EXTINF:-1, Fox Comedy HD
+http://ipsatpro.com:8000/live/170216/170216/662.ts
+#EXTINF:-1, Sky Atlantic HD
+http://ipsatpro.com:8000/live/170216/170216/666.ts
+#EXTINF:-1, Sky Uno HD
+http://ipsatpro.com:8000/live/170216/170216/667.ts
+#EXTINF:-1, Sky Focus
+http://ipsatpro.com:8000/live/170216/170216/660.ts
+#EXTINF:-1, Sky Mediaset Extra
+http://ipsatpro.com:8000/live/170216/170216/603.ts
+#EXTINF:-1, Sky Mediaset Italia 2
+http://ipsatpro.com:8000/live/170216/170216/661.ts
+#EXTINF:-1,---------- sport ----------
+http://ipsatpro.com:8000/live/170216/170216/656.ts
+#EXTINF:-1, Fox Sports 1 HD
+http://ipsatpro.com:8000/live/170216/170216/650.ts
+#EXTINF:-1, Sky Sport 1 HD
+http://ipsatpro.com:8000/live/170216/170216/655.ts
+#EXTINF:-1, Sky Sport 2 HD
+http://ipsatpro.com:8000/live/170216/170216/654.ts
+#EXTINF:-1, Sky Sport 3 HD
+http://ipsatpro.com:8000/live/170216/170216/653.ts
+#EXTINF:-1, Sky Sport 24 HD
+http://ipsatpro.com:8000/live/170216/170216/652.ts
+#EXTINF:-1, Sky Sport F1 HD
+http://ipsatpro.com:8000/live/170216/170216/651.ts
+#EXTINF:-1, Sky Moto GP HD
+http://ipsatpro.com:8000/live/170216/170216/646.ts
+#EXTINF:-1, Super Tennis HD
+http://ipsatpro.com:8000/live/170216/170216/645.ts
+#EXTINF:-1,---------- Calcio -----------
+http://ipsatpro.com:8000/live/170216/170216/644.ts
+#EXTINF:-1, Sky Supercalcio HD
+http://ipsatpro.com:8000/live/170216/170216/643.ts
+#EXTINF:-1, Sky Calcio 1 HD
+http://ipsatpro.com:8000/live/170216/170216/642.ts
+#EXTINF:-1, Sky Calcio 2 HD
+http://ipsatpro.com:8000/live/170216/170216/641.ts
+#EXTINF:-1, Sky Calcio 3 HD
+http://ipsatpro.com:8000/live/170216/170216/640.ts
+#EXTINF:-1, Sky Calcio 4 HD
+http://ipsatpro.com:8000/live/170216/170216/568.ts
+#EXTINF:-1, Sky Calcio 5 HD
+http://ipsatpro.com:8000/live/170216/170216/567.ts
+#EXTINF:-1, Sky Calcio 6 HD
+http://ipsatpro.com:8000/live/170216/170216/566.ts
+#EXTINF:-1, Sky Calcio 7 HD
+http://ipsatpro.com:8000/live/170216/170216/565.ts
+#EXTINF:-1, Sky Calcio 8 HD
+http://ipsatpro.com:8000/live/170216/170216/564.ts
+#EXTINF:-1, Rai Sport 1
+http://ipsatpro.com:8000/live/170216/170216/639.ts
+#EXTINF:-1, Rai Sport 2
+http://ipsatpro.com:8000/live/170216/170216/560.ts
+#EXTINF:-1, SportTitalia
+http://ipsatpro.com:8000/live/170216/170216/638.ts
+#EXTINF:-1, Rete Sport
+http://ipsatpro.com:8000/live/170216/170216/1840.ts
+#EXTINF:-1, Sky Eurosport
+http://ipsatpro.com:8000/live/170216/170216/637.ts
+#EXTINF:-1, Sky Eurosport 2
+http://ipsatpro.com:8000/live/170216/170216/636.ts
+#EXTINF:-1, Inter Channel
+http://ipsatpro.com:8000/live/170216/170216/559.ts
+#EXTINF:-1, Milan channel
+http://ipsatpro.com:8000/live/170216/170216/676.ts
+#EXTINF:-1, Roma channel
+http://ipsatpro.com:8000/live/170216/170216/558.ts
+#EXTINF:-1, Juventus TV
+http://ipsatpro.com:8000/live/170216/170216/557.ts
+#EXTINF:-1,--------- Cultura ----------
+http://ipsatpro.com:8000/live/170216/170216/635.ts
+#EXTINF:-1, Sky TG 24
+http://ipsatpro.com:8000/live/170216/170216/629.ts
+#EXTINF:-1, Discovery HD
+http://ipsatpro.com:8000/live/170216/170216/630.ts
+#EXTINF:-1, Sky History HD
+http://ipsatpro.com:8000/live/170216/170216/634.ts
+#EXTINF:-1, National Geo HD
+http://ipsatpro.com:8000/live/170216/170216/633.ts
+#EXTINF:-1, NatGeo Wild HD
+http://ipsatpro.com:8000/live/170216/170216/632.ts
+#EXTINF:-1, NatGeo People HD
+http://ipsatpro.com:8000/live/170216/170216/631.ts
+#EXTINF:-1, Sky Animal Planet
+http://ipsatpro.com:8000/live/170216/170216/604.ts
+#EXTINF:-1,---------- PRIMAFILA ---------
+http://ipsatpro.com:8000/live/170216/170216/602.ts
+#EXTINF:-1, Sky Prima fila 1 HD
+http://ipsatpro.com:8000/live/170216/170216/601.ts
+#EXTINF:-1, Sky Prima fila 2 HD
+http://ipsatpro.com:8000/live/170216/170216/600.ts
+#EXTINF:-1, Sky Prima fila 3 HD
+http://ipsatpro.com:8000/live/170216/170216/599.ts
+#EXTINF:-1, Sky Prima fila 4 HD
+http://ipsatpro.com:8000/live/170216/170216/598.ts
+#EXTINF:-1, Sky Prima fila 5 HD
+http://ipsatpro.com:8000/live/170216/170216/597.ts
+#EXTINF:-1, Sky Prima fila 6 HD
+http://ipsatpro.com:8000/live/170216/170216/596.ts
+#EXTINF:-1, Sky Prima fila 7 HD
+http://ipsatpro.com:8000/live/170216/170216/595.ts
+#EXTINF:-1, Sky Prima fila 8 HD
+http://ipsatpro.com:8000/live/170216/170216/594.ts
+#EXTINF:-1, Sky Prima fila 9 HD
+http://ipsatpro.com:8000/live/170216/170216/593.ts
+#EXTINF:-1, Sky Prima fila 10 HD
+http://ipsatpro.com:8000/live/170216/170216/592.ts
+#EXTINF:-1, Sky Prima fila 11 HD
+http://ipsatpro.com:8000/live/170216/170216/591.ts
+#EXTINF:-1, Sky Prima fila 12 HD
+http://ipsatpro.com:8000/live/170216/170216/590.ts
+#EXTINF:-1, Sky Prima fila 13 HD
+http://ipsatpro.com:8000/live/170216/170216/589.ts
+#EXTINF:-1, Sky Prima fila 14 HD
+http://ipsatpro.com:8000/live/170216/170216/588.ts
+#EXTINF:-1, Sky Prima fila 15 HD
+http://ipsatpro.com:8000/live/170216/170216/587.ts
+#EXTINF:-1, Sky Prima Fila WWE HD
+http://ipsatpro.com:8000/live/170216/170216/586.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

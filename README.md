@@ -50,6 +50,8 @@ Android API 14+
 
 - Re-styling layout
 - `Firebase` integration
+- Possibility to download `Films` and `Series`
+- Now on air `EPG`
 - Improved parsing `XML` list
 - Improved parsing icon
 - Added News `CardView`

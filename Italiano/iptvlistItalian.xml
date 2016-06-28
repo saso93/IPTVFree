@@ -1111,216 +1111,268 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,----MEDIASET PREMIUM ----
-http://ipsatpro.com:8000/live/170216/170216/628.ts
-#EXTINF:-1, Premium Cinema HD
-http://ipsatpro.com:8000/live/170216/170216/627.ts
-#EXTINF:-1, Premium Cinema 2 HD
-http://ipsatpro.com:8000/live/170216/170216/609.ts
-#EXTINF:-1, Premium Cinema +24
-http://ipsatpro.com:8000/live/170216/170216/612.ts
-#EXTINF:-1, Premium Crime
-http://ipsatpro.com:8000/live/170216/170216/621.ts
-#EXTINF:-1, Premium Crime +24
-http://ipsatpro.com:8000/live/170216/170216/611.ts
-#EXTINF:-1, Premium Action HD
-http://ipsatpro.com:8000/live/170216/170216/626.ts
-#EXTINF:-1, Premium Comedy
-http://ipsatpro.com:8000/live/170216/170216/620.ts
-#EXTINF:-1, Premium Action +24 HD
-http://ipsatpro.com:8000/live/170216/170216/618.ts
-#EXTINF:-1, Premium Stories
-http://ipsatpro.com:8000/live/170216/170216/625.ts
-#EXTINF:-1, Premium Joy
-http://ipsatpro.com:8000/live/170216/170216/624.ts
-#EXTINF:-1, Premium Energy
-http://ipsatpro.com:8000/live/170216/170216/623.ts
-#EXTINF:-1, Premium Emotion
-http://ipsatpro.com:8000/live/170216/170216/622.ts
-#EXTINF:-1, Premium Studio Universal
-http://ipsatpro.com:8000/live/170216/170216/619.ts
-#EXTINF:-1, Premium Disney Junior
-http://ipsatpro.com:8000/live/170216/170216/617.ts
-#EXTINF:-1, Premium Disney Channel
-http://ipsatpro.com:8000/live/170216/170216/616.ts
-#EXTINF:-1, Premium Discovery World
-http://ipsatpro.com:8000/live/170216/170216/614.ts
-#EXTINF:-1, Premium Cartoon Network
-http://ipsatpro.com:8000/live/170216/170216/613.ts
-#EXTINF:-1,----PREMIUM SPORT----
-http://ipsatpro.com:8000/live/170216/170216/628.ts
-#EXTINF:-1, Premium Sport
-http://ipsatpro.com:8000/live/170216/170216/615.ts
-#EXTINF:-1, Premium EuroSport 1 HD
-http://ipsatpro.com:8000/live/170216/170216/608.ts
-#EXTINF:-1, Premium EuroSport 2 HD
-http://ipsatpro.com:8000/live/170216/170216/610.ts
-#EXTINF:-1, Premium Calcio HD
-http://ipsatpro.com:8000/live/170216/170216/607.ts
-#EXTINF:-1, Premium Calcio 1
-http://ipsatpro.com:8000/live/170216/170216/606.ts
-#EXTINF:-1, Premium Calcio 2
-http://ipsatpro.com:8000/live/170216/170216/605.ts
-#EXTINF:-1,---------- SKY CINEMA ----------
-http://ipsatpro.com:8000/live/170216/170216/682.ts
-#EXTINF:-1, Sky Cinema 1 HD
-http://ipsatpro.com:8000/live/170216/170216/681.ts
-#EXTINF:-1, Sky Cinema +1 HD
-http://ipsatpro.com:8000/live/170216/170216/680.ts
-#EXTINF:-1, Sky Cinema +24 HD
-http://ipsatpro.com:8000/live/170216/170216/679.ts
-#EXTINF:-1, Sky Cinema Hits HD
-http://ipsatpro.com:8000/live/170216/170216/675.ts
-#EXTINF:-1, Sky Cinema Cult HD
-http://ipsatpro.com:8000/live/170216/170216/672.ts
-#EXTINF:-1, Sky Cinema Max HD
-http://ipsatpro.com:8000/live/170216/170216/677.ts
-#EXTINF:-1, Sky Cinema +Max HD
-http://ipsatpro.com:8000/live/170216/170216/673.ts
-#EXTINF:-1, Sky Cinema Passion HD
-http://ipsatpro.com:8000/live/170216/170216/678.ts
-#EXTINF:-1, Sky Cinema Comedy HD
-http://ipsatpro.com:8000/live/170216/170216/671.ts
-#EXTINF:-1, Sky Cinema Classic HD
-http://ipsatpro.com:8000/live/170216/170216/670.ts
-#EXTINF:-1, Sky Cinema Family HD
-http://ipsatpro.com:8000/live/170216/170216/674.ts
-#EXTINF:-1, Sky Cinema 3D
-http://ipsatpro.com:8000/live/170216/170216/562.ts
-#EXTINF:-1,------ Intrattenimento ----
-http://ipsatpro.com:8000/live/170216/170216/669.ts
-#EXTINF:-1, Mtv Music
-http://ipsatpro.com:8000/live/170216/170216/668.ts
-#EXTINF:-1, Cielo
-http://ipsatpro.com:8000/live/170216/170216/658.ts
-#EXTINF:-1, Boing
-http://ipsatpro.com:8000/live/170216/170216/659.ts
-#EXTINF:-1, Fox HD
-http://ipsatpro.com:8000/live/170216/170216/664.ts
-#EXTINF:-1, Fox Life HD
-http://ipsatpro.com:8000/live/170216/170216/665.ts
-#EXTINF:-1, Fox Crime HD
-http://ipsatpro.com:8000/live/170216/170216/663.ts
-#EXTINF:-1, Fox Comedy HD
-http://ipsatpro.com:8000/live/170216/170216/662.ts
-#EXTINF:-1, Sky Atlantic HD
-http://ipsatpro.com:8000/live/170216/170216/666.ts
-#EXTINF:-1, Sky Uno HD
-http://ipsatpro.com:8000/live/170216/170216/667.ts
-#EXTINF:-1, Sky Focus
-http://ipsatpro.com:8000/live/170216/170216/660.ts
-#EXTINF:-1, Sky Mediaset Extra
-http://ipsatpro.com:8000/live/170216/170216/603.ts
-#EXTINF:-1, Sky Mediaset Italia 2
-http://ipsatpro.com:8000/live/170216/170216/661.ts
-#EXTINF:-1,---------- sport ----------
-http://ipsatpro.com:8000/live/170216/170216/656.ts
-#EXTINF:-1, Fox Sports 1 HD
-http://ipsatpro.com:8000/live/170216/170216/650.ts
-#EXTINF:-1, Sky Sport 1 HD
-http://ipsatpro.com:8000/live/170216/170216/655.ts
-#EXTINF:-1, Sky Sport 2 HD
-http://ipsatpro.com:8000/live/170216/170216/654.ts
-#EXTINF:-1, Sky Sport 3 HD
-http://ipsatpro.com:8000/live/170216/170216/653.ts
-#EXTINF:-1, Sky Sport 24 HD
-http://ipsatpro.com:8000/live/170216/170216/652.ts
-#EXTINF:-1, Sky Sport F1 HD
-http://ipsatpro.com:8000/live/170216/170216/651.ts
-#EXTINF:-1, Sky Moto GP HD
-http://ipsatpro.com:8000/live/170216/170216/646.ts
-#EXTINF:-1, Super Tennis HD
-http://ipsatpro.com:8000/live/170216/170216/645.ts
-#EXTINF:-1,---------- Calcio -----------
-http://ipsatpro.com:8000/live/170216/170216/644.ts
-#EXTINF:-1, Sky Supercalcio HD
-http://ipsatpro.com:8000/live/170216/170216/643.ts
-#EXTINF:-1, Sky Calcio 1 HD
-http://ipsatpro.com:8000/live/170216/170216/642.ts
-#EXTINF:-1, Sky Calcio 2 HD
-http://ipsatpro.com:8000/live/170216/170216/641.ts
-#EXTINF:-1, Sky Calcio 3 HD
-http://ipsatpro.com:8000/live/170216/170216/640.ts
-#EXTINF:-1, Sky Calcio 4 HD
-http://ipsatpro.com:8000/live/170216/170216/568.ts
-#EXTINF:-1, Sky Calcio 5 HD
-http://ipsatpro.com:8000/live/170216/170216/567.ts
-#EXTINF:-1, Sky Calcio 6 HD
-http://ipsatpro.com:8000/live/170216/170216/566.ts
-#EXTINF:-1, Sky Calcio 7 HD
-http://ipsatpro.com:8000/live/170216/170216/565.ts
-#EXTINF:-1, Sky Calcio 8 HD
-http://ipsatpro.com:8000/live/170216/170216/564.ts
-#EXTINF:-1, Rai Sport 1
-http://ipsatpro.com:8000/live/170216/170216/639.ts
-#EXTINF:-1, Rai Sport 2
-http://ipsatpro.com:8000/live/170216/170216/560.ts
-#EXTINF:-1, SportTitalia
-http://ipsatpro.com:8000/live/170216/170216/638.ts
-#EXTINF:-1, Rete Sport
-http://ipsatpro.com:8000/live/170216/170216/1840.ts
-#EXTINF:-1, Sky Eurosport
-http://ipsatpro.com:8000/live/170216/170216/637.ts
-#EXTINF:-1, Sky Eurosport 2
-http://ipsatpro.com:8000/live/170216/170216/636.ts
-#EXTINF:-1, Inter Channel
-http://ipsatpro.com:8000/live/170216/170216/559.ts
-#EXTINF:-1, Milan channel
-http://ipsatpro.com:8000/live/170216/170216/676.ts
-#EXTINF:-1, Roma channel
-http://ipsatpro.com:8000/live/170216/170216/558.ts
-#EXTINF:-1, Juventus TV
-http://ipsatpro.com:8000/live/170216/170216/557.ts
-#EXTINF:-1,--------- Cultura ----------
-http://ipsatpro.com:8000/live/170216/170216/635.ts
-#EXTINF:-1, Sky TG 24
-http://ipsatpro.com:8000/live/170216/170216/629.ts
-#EXTINF:-1, Discovery HD
-http://ipsatpro.com:8000/live/170216/170216/630.ts
-#EXTINF:-1, Sky History HD
-http://ipsatpro.com:8000/live/170216/170216/634.ts
-#EXTINF:-1, National Geo HD
-http://ipsatpro.com:8000/live/170216/170216/633.ts
-#EXTINF:-1, NatGeo Wild HD
-http://ipsatpro.com:8000/live/170216/170216/632.ts
-#EXTINF:-1, NatGeo People HD
-http://ipsatpro.com:8000/live/170216/170216/631.ts
-#EXTINF:-1, Sky Animal Planet
-http://ipsatpro.com:8000/live/170216/170216/604.ts
-#EXTINF:-1,---------- PRIMAFILA ---------
-http://ipsatpro.com:8000/live/170216/170216/602.ts
-#EXTINF:-1, Sky Prima fila 1 HD
-http://ipsatpro.com:8000/live/170216/170216/601.ts
-#EXTINF:-1, Sky Prima fila 2 HD
-http://ipsatpro.com:8000/live/170216/170216/600.ts
-#EXTINF:-1, Sky Prima fila 3 HD
-http://ipsatpro.com:8000/live/170216/170216/599.ts
-#EXTINF:-1, Sky Prima fila 4 HD
-http://ipsatpro.com:8000/live/170216/170216/598.ts
-#EXTINF:-1, Sky Prima fila 5 HD
-http://ipsatpro.com:8000/live/170216/170216/597.ts
-#EXTINF:-1, Sky Prima fila 6 HD
-http://ipsatpro.com:8000/live/170216/170216/596.ts
-#EXTINF:-1, Sky Prima fila 7 HD
-http://ipsatpro.com:8000/live/170216/170216/595.ts
-#EXTINF:-1, Sky Prima fila 8 HD
-http://ipsatpro.com:8000/live/170216/170216/594.ts
-#EXTINF:-1, Sky Prima fila 9 HD
-http://ipsatpro.com:8000/live/170216/170216/593.ts
-#EXTINF:-1, Sky Prima fila 10 HD
-http://ipsatpro.com:8000/live/170216/170216/592.ts
-#EXTINF:-1, Sky Prima fila 11 HD
-http://ipsatpro.com:8000/live/170216/170216/591.ts
-#EXTINF:-1, Sky Prima fila 12 HD
-http://ipsatpro.com:8000/live/170216/170216/590.ts
-#EXTINF:-1, Sky Prima fila 13 HD
-http://ipsatpro.com:8000/live/170216/170216/589.ts
-#EXTINF:-1, Sky Prima fila 14 HD
-http://ipsatpro.com:8000/live/170216/170216/588.ts
-#EXTINF:-1, Sky Prima fila 15 HD
-http://ipsatpro.com:8000/live/170216/170216/587.ts
-#EXTINF:-1, Sky Prima Fila WWE HD
-http://ipsatpro.com:8000/live/170216/170216/586.ts
+#EXTINF:-1,-----Mediaset Premium-----
+http://151.80.99.212:35997/live/baruckiere/lecce/1574.ts
+#EXTINF:-1,Premium Cinema HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1575.ts
+#EXTINF:-1,Premium Cinema +24
+http://151.80.99.212:35997/live/baruckiere/lecce/1576.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1577.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://151.80.99.212:35997/live/baruckiere/lecce/1578.ts
+#EXTINF:-1,Premium Comedy
+http://151.80.99.212:35997/live/baruckiere/lecce/1581.ts
+#EXTINF:-1,Premium Energy
+http://151.80.99.212:35997/live/baruckiere/lecce/1582.ts
+#EXTINF:-1,Premium Emotion
+http://151.80.99.212:35997/live/baruckiere/lecce/1583.ts
+#EXTINF:-1,Premium Universal
+http://151.80.99.212:35997/live/baruckiere/lecce/1584.ts
+#EXTINF:-1,Premium Joy
+http://151.80.99.212:35997/live/baruckiere/lecce/1585.ts
+#EXTINF:-1,Premium Stories
+http://151.80.99.212:35997/live/baruckiere/lecce/1586.ts
+#EXTINF:-1,Premium Crime HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1587.ts
+#EXTINF:-1,Premium Crime +24
+http://151.80.99.212:35997/live/baruckiere/lecce/1588.ts
+#EXTINF:-1,Premium Action HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1579.ts
+#EXTINF:-1,Premium Action +24
+http://151.80.99.212:35997/live/baruckiere/lecce/1580.ts
+#EXTINF:-1,-----Premium Sport-----
+http://151.80.99.212:35997/live/baruckiere/lecce/1574.ts
+#EXTINF:-1,Premium Sport hd
+http://151.80.99.212:35997/live/baruckiere/lecce/1591.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1593.ts
+#EXTINF:-1,Premium Sport 2
+http://151.80.99.212:35997/live/baruckiere/lecce/1592.ts
+#EXTINF:-1,Premium Calcio1
+http://151.80.99.212:35997/live/baruckiere/lecce/1594.ts
+#EXTINF:-1,Premium Calcio2
+http://151.80.99.212:35997/live/baruckiere/lecce/1595.ts
+#EXTINF:-1,Premium Calcio3
+http://151.80.99.212:35997/live/baruckiere/lecce/1596.ts
+#EXTINF:-1,Premium Calcio4
+http://151.80.99.212:35997/live/baruckiere/lecce/1597.ts
+#EXTINF:-1,Premium Calcio5
+http://151.80.99.212:35997/live/baruckiere/lecce/1598.ts
+#EXTINF:-1,Premium Calcio6
+http://151.80.99.212:35997/live/baruckiere/lecce/1599.ts
+#EXTINF:-1,Premium Calcio7
+http://151.80.99.212:35997/live/baruckiere/lecce/1600.ts
+#EXTINF:-1,-------Sky Cinema-------
+http://151.80.99.212:35997/live/baruckiere/lecce/1460.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1461.ts
+#EXTINF:-1,Sky Cinema 1 HD per DSL lento
+http://151.80.99.212:35997/live/baruckiere/lecce/1462.ts
+#EXTINF:-1,Sky Cinema + 1 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1463.ts
+#EXTINF:-1,Sky Cinema + 24 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1464.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1465.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1467.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1466.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1468.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1469.ts
+#EXTINF:-1,Sky Cinema Max + 1 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1470.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1471.ts
+#EXTINF:-1,Sky Cinema Classics HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1472.ts
+#EXTINF:-1,------Intrattenimento-------
+http://151.80.99.212:35997/live/baruckiere/lecce/1473.ts
+#EXTINF:-1,Sky Atlantic HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1474.ts
+#EXTINF:-1,Sky Uno HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1475.ts
+#EXTINF:-1,Sky Fox Life HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1477.ts
+#EXTINF:-1,Sky Fox HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1476.ts
+#EXTINF:-1,Fox Crime HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1478.ts
+#EXTINF:-1,Axn HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1479.ts
+#EXTINF:-1,Axn Sci-Fi
+http://151.80.99.212:35997/live/baruckiere/lecce/1481.ts
+#EXTINF:-1,Comedy Central
+http://151.80.99.212:35997/live/baruckiere/lecce/1482.ts
+#EXTINF:-1,La7d
+http://151.80.99.212:35997/live/baruckiere/lecce/1480.ts
+#EXTINF:-1,DMAX
+http://151.80.99.212:35997/live/baruckiere/lecce/1483.ts
+#EXTINF:-1,Cielo
+http://151.80.99.212:35997/live/baruckiere/lecce/1484.ts
+#EXTINF:-1,Real Time
+http://151.80.99.212:35997/live/baruckiere/lecce/1485.ts
+#EXTINF:-1,DeeJay
+http://151.80.99.212:35997/live/baruckiere/lecce/1486.ts
+#EXTINF:-1,Alice
+http://151.80.99.212:35997/live/baruckiere/lecce/1487.ts
+#EXTINF:-1,------Sport-------
+http://151.80.99.212:35997/live/baruckiere/lecce/1644.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1489.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1490.ts
+#EXTINF:-1,Sky Sport 1 HD per DSL lente
+http://151.80.99.212:35997/live/baruckiere/lecce/1491.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1492.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1493.ts
+#EXTINF:-1,Sky Sport PLUS
+http://151.80.99.212:35997/live/baruckiere/lecce/1494.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1495.ts
+#EXTINF:-1,Sky Supercalcio HD per dsl lente
+http://151.80.99.212:35997/live/baruckiere/lecce/1496.ts
+#EXTINF:-1,Sky Foxsports HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1497.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1498.ts
+#EXTINF:-1,Sky Moto GP HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1499.ts
+#EXTINF:-1,BIKE CHANNEL
+http://151.80.99.212:35997/live/baruckiere/lecce/2164.ts
+#EXTINF:-1,EuroSport HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1500.ts
+#EXTINF:-1,Rai Sport 1
+http://151.80.99.212:35997/live/baruckiere/lecce/1503.ts
+#EXTINF:-1,Top Calcio
+http://151.80.99.212:35997/live/baruckiere/lecce/1989.ts
+#EXTINF:-1,Sport Italia
+http://151.80.99.212:35997/live/baruckiere/lecce/1502.ts
+#EXTINF:-1,-----Cultura-----
+http://151.80.99.212:35997/live/baruckiere/lecce/1505.ts
+#EXTINF:-1,Explora HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1506.ts
+#EXTINF:-1,Natgeo HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1507.ts
+#EXTINF:-1,Discovery HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1510.ts
+#EXTINF:-1,Natgeo Wild HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1509.ts
+#EXTINF:-1,Discovery SCI HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1511.ts
+#EXTINF:-1,History-HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1512.ts
+#EXTINF:-1,Discovery Travel HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1513.ts
+#EXTINF:-1,CI Crime+Inv HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1514.ts
+#EXTINF:-1,Gambero Rosso HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1516.ts
+#EXTINF:-1,Caccia e Pesca
+http://151.80.99.212:35997/live/baruckiere/lecce/1517.ts
+#EXTINF:-1,NatGeo People HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1508.ts
+#EXTINF:-1,Animal Planet
+http://151.80.99.212:35997/live/baruckiere/lecce/1519.ts
+#EXTINF:-1,Fine living
+http://151.80.99.212:35997/live/baruckiere/lecce/1520.ts
+#EXTINF:-1,Focus
+http://151.80.99.212:35997/live/baruckiere/lecce/1521.ts
+#EXTINF:-1,Marcopolo
+http://151.80.99.212:35997/live/baruckiere/lecce/2128.ts
+#EXTINF:-1,Rai Storia
+http://151.80.99.212:35997/live/baruckiere/lecce/2129.ts
+#EXTINF:-1,Top Crime
+http://151.80.99.212:35997/live/baruckiere/lecce/1522.ts
+#EXTINF:-1,-----Musica-----
+http://151.80.99.212:35997/live/baruckiere/lecce/1537.ts
+#EXTINF:-1,Mtv 8
+http://151.80.99.212:35997/live/baruckiere/lecce/1538.ts
+#EXTINF:-1,Mtv Music
+http://151.80.99.212:35997/live/baruckiere/lecce/1539.ts
+#EXTINF:-1,Rtl 102 5
+http://151.80.99.212:35997/live/baruckiere/lecce/1542.ts
+#EXTINF:-1,Radio Monte Carlo
+http://151.80.99.212:35997/live/baruckiere/lecce/1543.ts
+#EXTINF:-1,FM Italia
+http://151.80.99.212:35997/live/baruckiere/lecce/1541.ts
+#EXTINF:-1,One.by UHD
+http://151.80.99.212:35997/live/baruckiere/lecce/1548.ts
+#EXTINF:-1,Radio 105 TV
+http://151.80.99.212:35997/live/baruckiere/lecce/1544.ts
+#EXTINF:-1,ForMusic TV
+http://151.80.99.212:35997/live/baruckiere/lecce/1549.ts
+#EXTINF:-1,Ibiza TV
+http://151.80.99.212:35997/live/baruckiere/lecce/1550.ts
+#EXTINF:-1,Vevo1 Music
+http://151.80.99.212:35997/live/baruckiere/lecce/1545.ts
+#EXTINF:-1,Vevo2 Music
+http://151.80.99.212:35997/live/baruckiere/lecce/1546.ts
+#EXTINF:-1,Vevo3 Music
+http://151.80.99.212:35997/live/baruckiere/lecce/1547.ts
+#EXTINF:-1,KissKiss Napoli TV
+http://151.80.99.212:35997/live/baruckiere/lecce/1552.ts
+#EXTINF:-1,KissKiss Italia TV
+http://151.80.99.212:35997/live/baruckiere/lecce/1553.ts
+#EXTINF:-1,Kiss Kiss TV
+http://151.80.99.212:35997/live/baruckiere/lecce/1551.ts
+#EXTINF:-1,Radio Taormina TV
+http://151.80.99.212:35997/live/baruckiere/lecce/1554.ts
+#EXTINF:-1,----Bambini----
+http://151.80.99.212:35997/live/baruckiere/lecce/1524.ts
+#EXTINF:-1,Disney Channel HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1525.ts
+#EXTINF:-1,Disney Channel +1
+http://151.80.99.212:35997/live/baruckiere/lecce/1526.ts
+#EXTINF:-1,Disney XD HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1527.ts
+#EXTINF:-1,Disney Junior
+http://151.80.99.212:35997/live/baruckiere/lecce/1528.ts
+#EXTINF:-1,Cartoonito
+http://151.80.99.212:35997/live/baruckiere/lecce/1531.ts
+#EXTINF:-1,Boing
+http://151.80.99.212:35997/live/baruckiere/lecce/1532.ts
+#EXTINF:-1,Super
+http://151.80.99.212:35997/live/baruckiere/lecce/1535.ts
+#EXTINF:-1,DeAJunior
+http://151.80.99.212:35997/live/baruckiere/lecce/1534.ts
+#EXTINF:-1,RaiGulp
+http://151.80.99.212:35997/live/baruckiere/lecce/1536.ts
+#EXTINF:-1,Rai YoYo
+http://151.80.99.212:35997/live/baruckiere/lecce/1533.ts
+#EXTINF:-1,Frisbee
+http://151.80.99.212:35997/live/baruckiere/lecce/1530.ts
+#EXTINF:-1,-----Calcio------
+http://151.80.99.212:35997/live/baruckiere/lecce/1555.ts
+#EXTINF:-1,Milan Channell
+http://151.80.99.212:35997/live/baruckiere/lecce/1823.ts
+#EXTINF:-1,Juventus TV
+http://151.80.99.212:35997/live/baruckiere/lecce/1558.ts
+#EXTINF:-1,Inter Channell
+http://151.80.99.212:35997/live/baruckiere/lecce/1557.ts
+#EXTINF:-1,Roma Channell
+http://151.80.99.212:35997/live/baruckiere/lecce/1559.ts
+#EXTINF:-1,Lazio Channell
+http://151.80.99.212:35997/live/baruckiere/lecce/2063.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1560.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1561.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1562.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1563.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1564.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1565.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://151.80.99.212:35997/live/baruckiere/lecce/1566.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

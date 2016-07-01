@@ -1111,488 +1111,216 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,---ADSL LENTE
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1254.ts
-#EXTINF:-1,Rai 1 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/3397.ts
-#EXTINF:-1,Rai 2 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/3538.ts
-#EXTINF:-1,Rai 3 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/3539.ts
-#EXTINF:-1,Canale 5 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2698.ts
-#EXTINF:-1,SKY TG 24 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1289.ts
-#EXTINF:-1,Sky Cinema 1 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2279.ts
-#EXTINF:-1,Sky Cinema +1 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7236.ts
-#EXTINF:-1,Sky Cinema +24 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7221.ts
-#EXTINF:-1,Sky Cinema HITS (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2365.ts
-#EXTINF:-1,Sky CinemaFamily +1 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7235.ts
-#EXTINF:-1,Sky CinemaFamily (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7214.ts
-#EXTINF:-1,Sky Cinema Max (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7215.ts
-#EXTINF:-1,Sky Cinema Max +1 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7231.ts
-#EXTINF:-1,NationalGeo HD (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7410.ts
-#EXTINF:-1,NatGeo Wild HD (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7411.ts
-#EXTINF:-1,NatGeo People HD (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7412.ts
-#EXTINF:-1,History HD (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7413.ts
-#EXTINF:-1,Discovery Sci HD (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7414.ts
-#EXTINF:-1,Sky Uno (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2278.ts
-#EXTINF:-1,Sky Atlantic (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7209.ts
-#EXTINF:-1,AXN (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7234.ts
-#EXTINF:-1,Fox (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7212.ts
-#EXTINF:-1,Fox Sport (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7225.ts
-#EXTINF:-1,Fox Life (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7213.ts
-#EXTINF:-1,Fox Crime (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7210.ts
-#EXTINF:-1,Premium Crime (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7229.ts
-#EXTINF:-1,Premium Cinema 2 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7223.ts
-#EXTINF:-1,Premium Cinema (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7224.ts
-#EXTINF:-1,Premium Calcio (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7233.ts
-#EXTINF:-1,Premium Action (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7222.ts
-#EXTINF:-1,Premium Sport  (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2697.ts
-#EXTINF:-1,Sky Sport 1 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2699.ts
-#EXTINF:-1,Sky Sport 2 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7230.ts
-#EXTINF:-1,Sky Sport 3 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7237.ts
-#EXTINF:-1,SKY Sport 24 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2281.ts
-#EXTINF:-1,SKY Sport Plus (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7220.ts
-#EXTINF:-1,SKY Sport F1 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2368.ts
-#EXTINF:-1,SKY Sport MotoGP (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7211.ts
-#EXTINF:-1,SKY SuperCalcio (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2280.ts
-#EXTINF:-1,Sky Calcio 1 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2700.ts
-#EXTINF:-1,Sky Calcio 2 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2701.ts
-#EXTINF:-1,Sky Calcio 3 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2702.ts
-#EXTINF:-1,Sky Calcio 4 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7216.ts
-#EXTINF:-1,Sky Calcio 5 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7217.ts
-#EXTINF:-1,Sky Calcio 6 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7218.ts
-#EXTINF:-1,Sky Calcio 7 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7219.ts
-#EXTINF:-1,SKY Calcio 8 (ADSL LENTE)
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7232.ts
-#EXTINF:-1,----- Premium cinema -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/946.ts
-#EXTINF:-1,Premium Cinema HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1554.ts
-#EXTINF:-1,Premium Cinema +24
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1557.ts
-#EXTINF:-1,Premium Cinema2 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1555.ts
-#EXTINF:-1,Premium Cinema2 +24
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1556.ts
-#EXTINF:-1,Premium Emotion
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1562.ts
-#EXTINF:-1,Premium Energy
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1558.ts
-#EXTINF:-1,Premium Studio Universal
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1563.ts
-#EXTINF:-1,Premium Comedy
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1560.ts
-#EXTINF:-1,----- Premium Intrattenimento -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/951.ts
-#EXTINF:-1,Premium Action HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1583.ts
-#EXTINF:-1,Premium Action +24
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1559.ts
-#EXTINF:-1,Premium Crime HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1581.ts
-#EXTINF:-1,Premium Crime +24
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1561.ts
-#EXTINF:-1,Premium Joi
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1565.ts
-#EXTINF:-1,Premium Stories
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1564.ts
-#EXTINF:-1,Premium Joy+24
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1570.ts
-#EXTINF:-1,Premium Stories+24
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1569.ts
-#EXTINF:-1,----- Pemium Bambini -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1272.ts
-#EXTINF:-1,Premium Disney Junior
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1566.ts
-#EXTINF:-1,Premium Disney Channel +1
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1567.ts
-#EXTINF:-1,Premium Cartoon Network
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1571.ts
-#EXTINF:-1,----- Premium Sport -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/956.ts
-#EXTINF:-1,Premium Sport HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1582.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7606.ts
-#EXTINF:-1,Premium Sport  SD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7580.ts
-#EXTINF:-1,Premium Sport 2
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7579.ts
-#EXTINF:-1,----- Premiun Calcio -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/977.ts
-#EXTINF:-1,Premium Calcio HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1572.ts
-#EXTINF:-1,Premium Calcio
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1574.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7416.ts
-#EXTINF:-1,Premium Calcio 1
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1575.ts
-#EXTINF:-1,Premium Calcio 2
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1576.ts
-#EXTINF:-1,Premium Calcio 3
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1577.ts
-#EXTINF:-1,Premium Calcio 4
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1578.ts
-#EXTINF:-1,Premium Calcio 5
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1579.ts
-#EXTINF:-1,Premium calcio 6
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1580.ts
-#EXTINF:-1,Premium Calcio 7
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2274.ts
-#EXTINF:-1,----- SKY CINEMA -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/18.ts
+#EXTINF:-1,---------- SKY CINEMA ----------
+http://ipsatpro.com:8000/live/170216/170216/682.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/521.ts
+http://ipsatpro.com:8000/live/170216/170216/681.ts
 #EXTINF:-1,Sky Cinema +1 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/473.ts
+http://ipsatpro.com:8000/live/170216/170216/680.ts
 #EXTINF:-1,Sky Cinema +24 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/42.ts
+http://ipsatpro.com:8000/live/170216/170216/679.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/477.ts
-#EXTINF:-1,Sky CinemaFamilyHD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/478.ts
-#EXTINF:-1,Sky CinemaFamily+1HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/682.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/475.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/476.ts
-#EXTINF:-1,Sky Cinema Classics HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/35.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/479.ts
+http://ipsatpro.com:8000/live/170216/170216/675.ts
 #EXTINF:-1,Sky Cinema Cult HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/481.ts
+http://ipsatpro.com:8000/live/170216/170216/672.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://ipsatpro.com:8000/live/170216/170216/677.ts
+#EXTINF:-1,Sky Cinema +Max HD
+http://ipsatpro.com:8000/live/170216/170216/673.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://ipsatpro.com:8000/live/170216/170216/678.ts
 #EXTINF:-1,Sky Cinema Comedy HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/90.ts
-#EXTINF:-1,Sky 3D
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/97.ts
-#EXTINF:-1,----- SKY BAMBINI -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/650.ts
-#EXTINF:-1,Cartoon Network
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/652.ts
-#EXTINF:-1,Disney Channel HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/940.ts
-#EXTINF:-1,Disney Ch. +1 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/925.ts
-#EXTINF:-1,Disney XD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/651.ts
+http://ipsatpro.com:8000/live/170216/170216/671.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://ipsatpro.com:8000/live/170216/170216/670.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://ipsatpro.com:8000/live/170216/170216/674.ts
+#EXTINF:-1,Sky Cinema 3D
+http://ipsatpro.com:8000/live/170216/170216/562.ts
+#EXTINF:-1,------ Intrattenimento ----
+http://ipsatpro.com:8000/live/170216/170216/669.ts
+#EXTINF:-1,Mtv Music
+http://ipsatpro.com:8000/live/170216/170216/668.ts
+#EXTINF:-1,Cielo
+http://ipsatpro.com:8000/live/170216/170216/658.ts
 #EXTINF:-1,Boing
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/681.ts
-#EXTINF:-1,DeaKids
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1466.ts
-#EXTINF:-1,Boomerang
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1091.ts
-#EXTINF:-1,DeAJunior
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/929.ts
-#EXTINF:-1,-frisbee-
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/868.ts
-#EXTINF:-1,Disney Junior
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1150.ts
+http://ipsatpro.com:8000/live/170216/170216/659.ts
 #EXTINF:-1,Super!
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1286.ts
-#EXTINF:-1,Rai Gulp
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1287.ts
-#EXTINF:-1,Rai Yoyo
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1285.ts
-#EXTINF:-1,TeenNick
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/5602.ts
-#EXTINF:-1,Cartoonito
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1288.ts
-#EXTINF:-1,Baby TV
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1391.ts
-#EXTINF:-1,nickelodeon
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/909.ts
-#EXTINF:-1,Nick Junior
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/4564.ts
-#EXTINF:-1,Man-ga
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/913.ts
-#EXTINF:-1,K2
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/653.ts
-#EXTINF:-1,----- SKY INTRATTENIMENTO -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/91.ts
-#EXTINF:-1,Sky Uno HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/482.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1105.ts
-#EXTINF:-1,Sky Atlantic HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/118.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/983.ts
-#EXTINF:-1,SKY Arte HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/905.ts
-#EXTINF:-1,AXN HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/483.ts
-#EXTINF:-1,AXN +1
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1400.ts
-#EXTINF:-1,AXN Sci-Fi
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/886.ts
-#EXTINF:-1,Fox
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/449.ts
-#EXTINF:-1,Fox +1
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/980.ts
+http://ipsatpro.com:8000/live/170216/170216/558.ts
+#EXTINF:-1,k2
+http://ipsatpro.com:8000/live/170216/170216/557.ts
+#EXTINF:-1,Iris
+http://ipsatpro.com:8000/live/170216/170216/676.ts
+#EXTINF:-1,Fox HD
+http://ipsatpro.com:8000/live/170216/170216/664.ts
 #EXTINF:-1,Fox Life HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/975.ts
-#EXTINF:-1,Fox Life +1
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/978.ts
-#EXTINF:-1,Fox Crime
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/451.ts
-#EXTINF:-1,Fox Crime +1
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/979.ts
-#EXTINF:-1,Fox Comedy
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/611.ts
-#EXTINF:-1,Fox Animation
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/894.ts
-#EXTINF:-1,Classica HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/3052.ts
-#EXTINF:-1,Gambero Rosso HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/811.ts
-#EXTINF:-1,DMAX HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/44.ts
-#EXTINF:-1,cielo HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/4.ts
-#EXTINF:-1,Class HorseTv
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/3054.ts
-#EXTINF:-1,Real Time HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/663.ts
-#EXTINF:-1,Dove TV
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7101.ts
-#EXTINF:-1,CI Crime+Inv.HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/613.ts
-#EXTINF:-1,Comedy Central
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/941.ts
-#EXTINF:-1,Automoto
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1948.ts
-#EXTINF:-1,Giallo
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1949.ts
-#EXTINF:-1,DeeJayTV
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1936.ts
-#EXTINF:-1,Lei
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1090.ts
-#EXTINF:-1,----- SKY DOCUMENTARI -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/468.ts
-#EXTINF:-1,NationalGeo HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/593.ts
-#EXTINF:-1,NatGeo People HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/590.ts
-#EXTINF:-1,NatGeo Wild HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/657.ts
+http://ipsatpro.com:8000/live/170216/170216/665.ts
+#EXTINF:-1,Fox Crime HD
+http://ipsatpro.com:8000/live/170216/170216/663.ts
+#EXTINF:-1,Fox Comedy HD
+http://ipsatpro.com:8000/live/170216/170216/662.ts
+#EXTINF:-1,Sky Top Crime
+http://ipsatpro.com:8000/live/170216/170216/559.ts
+#EXTINF:-1,Sky Atlantic HD
+http://ipsatpro.com:8000/live/170216/170216/666.ts
+#EXTINF:-1,Sky Uno HD
+http://ipsatpro.com:8000/live/170216/170216/667.ts
+#EXTINF:-1,Sky Focus
+http://ipsatpro.com:8000/live/170216/170216/660.ts
+#EXTINF:-1,Sky Mediaset Extra
+http://ipsatpro.com:8000/live/170216/170216/603.ts
+#EXTINF:-1,Sky Mediaset Italia 2
+http://ipsatpro.com:8000/live/170216/170216/661.ts
+#EXTINF:-1,---------- sport ----------
+http://ipsatpro.com:8000/live/170216/170216/656.ts
+#EXTINF:-1,Fox Sports 1 HD
+http://ipsatpro.com:8000/live/170216/170216/650.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://ipsatpro.com:8000/live/170216/170216/655.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://ipsatpro.com:8000/live/170216/170216/654.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://ipsatpro.com:8000/live/170216/170216/653.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://ipsatpro.com:8000/live/170216/170216/652.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://ipsatpro.com:8000/live/170216/170216/651.ts
+#EXTINF:-1,Sky Moto GP HD
+http://ipsatpro.com:8000/live/170216/170216/646.ts
+#EXTINF:-1,Super Tennis HD
+http://ipsatpro.com:8000/live/170216/170216/645.ts
+#EXTINF:-1,---------- Calcio -----------
+http://ipsatpro.com:8000/live/170216/170216/644.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://ipsatpro.com:8000/live/170216/170216/643.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://ipsatpro.com:8000/live/170216/170216/642.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://ipsatpro.com:8000/live/170216/170216/641.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://ipsatpro.com:8000/live/170216/170216/640.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://ipsatpro.com:8000/live/170216/170216/568.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://ipsatpro.com:8000/live/170216/170216/567.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://ipsatpro.com:8000/live/170216/170216/566.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://ipsatpro.com:8000/live/170216/170216/565.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://ipsatpro.com:8000/live/170216/170216/564.ts
+#EXTINF:-1,Rai Sport 1
+http://ipsatpro.com:8000/live/170216/170216/639.ts
+#EXTINF:-1,Rai Sport 2
+http://ipsatpro.com:8000/live/170216/170216/560.ts
+#EXTINF:-1,SportTitalia
+http://ipsatpro.com:8000/live/170216/170216/638.ts
+#EXTINF:-1,Rete Sport
+http://ipsatpro.com:8000/live/170216/170216/1840.ts
+#EXTINF:-1,Sky Eurosport
+http://ipsatpro.com:8000/live/170216/170216/637.ts
+#EXTINF:-1,Sky Eurosport 2
+http://ipsatpro.com:8000/live/170216/170216/636.ts
+#EXTINF:-1,--------- Cultura ----------
+http://ipsatpro.com:8000/live/170216/170216/635.ts
+#EXTINF:-1,Sky TG 24
+http://ipsatpro.com:8000/live/170216/170216/629.ts
 #EXTINF:-1,Discovery HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/612.ts
-#EXTINF:-1,Discovery Sci HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/485.ts
-#EXTINF:-1,Discovery TeL HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/888.ts
-#EXTINF:-1,History HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/457.ts
-#EXTINF:-1,Animal Planet
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/871.ts
-#EXTINF:-1,Focus
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/614.ts
-#EXTINF:-1,eXplora HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/867.ts
-#EXTINF:-1,CACCIA e Pesca
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/487.ts
-#EXTINF:-1,PESCA e Caccia.
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/668.ts
-#EXTINF:-1,----- SKY SPORT -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/19.ts
-#EXTINF:-1,SKY Sport 24 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/490.ts
-#EXTINF:-1,SKY Sport 1 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/491.ts
-#EXTINF:-1,SKY Sport 2 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/492.ts
-#EXTINF:-1,SKY Sport 3 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/493.ts
-#EXTINF:-1,SKY Sport Plus HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/887.ts
-#EXTINF:-1,Fox Sport HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/494.ts
-#EXTINF:-1,SKY Sport F1 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/100.ts
-#EXTINF:-1,SKY Sport MotoGP HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/13.ts
-#EXTINF:-1,Supertennis HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/89.ts
-#EXTINF:-1,RAI Sport 1
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/488.ts
-#EXTINF:-1,RAI Sport 2
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/489.ts
-#EXTINF:-1,Sport Italia
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1098.ts
-#EXTINF:-1,Eurosport 1 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/942.ts
-#EXTINF:-1,Eurosport 2 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/943.ts
-#EXTINF:-1,POKER Italia24
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/944.ts
-#EXTINF:-1,----- SKY CALCIO -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/662.ts
-#EXTINF:-1,SKY SuperCalcio HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/496.ts
-#EXTINF:-1,SKY Calcio Info
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/4565.ts
-#EXTINF:-1,SKY Calcio 1 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/497.ts
-#EXTINF:-1,SKY Calcio 2 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/498.ts
-#EXTINF:-1,SKY Calcio 3 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/499.ts
-#EXTINF:-1,SKY Calcio 4 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/500.ts
-#EXTINF:-1,SKY Calcio 5 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/501.ts
-#EXTINF:-1,SKY Calcio 6 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/502.ts
-#EXTINF:-1,SKY Calcio 7 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/503.ts
-#EXTINF:-1,SKY Calcio 8 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/976.ts
-#EXTINF:-1,SKY Calcio 9 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2047.ts
-#EXTINF:-1,SKY Calcio 10 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/2577.ts
-#EXTINF:-1,SKY Calcio 11 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/3053.ts
-#EXTINF:-1,SKY Calcio 12 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/3699.ts
-#EXTINF:-1,BIKE CHANNEL
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/932.ts
-#EXTINF:-1,ROMA TV
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/906.ts
-#EXTINF:-1,MILAN CHANNEL
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/912.ts
-#EXTINF:-1,Lazio Style Ch
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/915.ts
-#EXTINF:-1,J | Juventus TV
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/917.ts
-#EXTINF:-1,INTER CHANNEL
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/918.ts
-#EXTINF:-1,----- SKY PRIMAFILA -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/92.ts
-#EXTINF:-1,[PF] 1 Room.
-http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/8508.mkv
-#EXTINF:-1,[PF]live 2 Room.
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/66.ts
-#EXTINF:-1,[PF] 2 Il.Segretto.dei.suoi.Occhi.
-http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/9387.mkv
-#EXTINF:-1,[PF]live 4 Il.Segretto.dei.suoi.Occhi.
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/65.ts
-#EXTINF:-1,[PF] 5 Premonitions.
-http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/4558.mkv
-#EXTINF:-1,[PF]live 6 Premonitions.
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/56.ts
-#EXTINF:-1,[PF] 7 Zootropolis
-http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/9340.mkv
-#EXTINF:-1,[PF]live 8 Zootropolis
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/52.ts
-#EXTINF:-1,[PF] 9 Onda.su.Onda.
-http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/9388.mkv
-#EXTINF:-1,[PF]live 10 Onda.su.Onda.
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/51.ts
-#EXTINF:-1,[PF] 11 Elio.e.le.Storie.Tese.Piccoli.Ernergumeni.
-http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/9389.mkv
-#EXTINF:-1,[PF]live 12 Elio.e.le.Storie.Tese.Piccoli.Ernergumeni.
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/7402.ts
-#EXTINF:-1,[PF] 13 Zoolander.2.
-http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/7587.mkv
-#EXTINF:-1,[PF]live 14 Zoolander.2.
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/62.ts
-#EXTINF:-1,[PF] 15 Ghosthunters.e.Gli.acchiappafantasmi.
-http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/5458.mkv
-#EXTINF:-1,[PF]live 16 Ghosthunters.e.Gli.acchiappafantasmi.
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1963.ts
-#EXTINF:-1,[PF] 17 Io.Che.Amo.Solo.Te.
-http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/7599.mkv
-#EXTINF:-1,[PF]live 18 Io.Che.Amo.Solo.Te.
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1701.ts
-#EXTINF:-1,[PF] 19 Reversal.La.fuga.e.solo.l.inizio.
-http://v-iptv.dyndns.org:8000/movie/vp0126688BNNN7/M183W3XC/7529.mkv
-#EXTINF:-1,[PF]live 20 Reversal.La.fuga.e.solo.l.inizio.
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/58.ts
-#EXTINF:-1,----- TG NOTIZIE -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1095.ts
-#EXTINF:-1,RAI News 24
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/897.ts
-#EXTINF:-1,TG COM 24
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1092.ts
-#EXTINF:-1,Sky TG24 HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1198.ts
-#EXTINF:-1,Class CNBC
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/8341.ts
-#EXTINF:-1,----- MUSICA -----
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/1095.ts
-#EXTINF:-1,Vevo 2
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/469.ts
-#EXTINF:-1,Vevo 3
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/470.ts
-#EXTINF:-1,Vevo HD1
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/471.ts
-#EXTINF:-1,Vevo HD3
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/472.ts
-#EXTINF:-1,Radio 105
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/9.ts
-#EXTINF:-1,RTL 102.5
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/4566.ts
-#EXTINF:-1,Radio montecarlo
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/907.ts
-#EXTINF:-1,MTV Live HD
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/911.ts
-#EXTINF:-1,M2Otv
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/5014.ts
-#EXTINF:-1,Radio Italia
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/908.ts
-#EXTINF:-1,Studio 90 Italia
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/4569.ts
-#EXTINF:-1,Onda latina
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/4568.ts
-#EXTINF:-1,Radio Taormina
-http://v-iptv.dyndns.org:8000/live/vp0126688BNNN7/M183W3XC/4573.ts
+http://ipsatpro.com:8000/live/170216/170216/630.ts
+#EXTINF:-1,Sky History HD
+http://ipsatpro.com:8000/live/170216/170216/634.ts
+#EXTINF:-1,National Geo HD
+http://ipsatpro.com:8000/live/170216/170216/633.ts
+#EXTINF:-1,NatGeo Wild HD
+http://ipsatpro.com:8000/live/170216/170216/632.ts
+#EXTINF:-1,NatGeo People HD
+http://ipsatpro.com:8000/live/170216/170216/631.ts
+#EXTINF:-1,Sky Animal Planet
+http://ipsatpro.com:8000/live/170216/170216/604.ts
+#EXTINF:-1,----PREMIUM CINEMA ----
+http://ipsatpro.com:8000/live/170216/170216/628.ts
+#EXTINF:-1,Premium Cinema HD
+http://ipsatpro.com:8000/live/170216/170216/627.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://ipsatpro.com:8000/live/170216/170216/609.ts
+#EXTINF:-1,Premium Cinema +24
+http://ipsatpro.com:8000/live/170216/170216/612.ts
+#EXTINF:-1,Premium Crime
+http://ipsatpro.com:8000/live/170216/170216/621.ts
+#EXTINF:-1,Premium Crime +24
+http://ipsatpro.com:8000/live/170216/170216/611.ts
+#EXTINF:-1,Premium Action HD
+http://ipsatpro.com:8000/live/170216/170216/626.ts
+#EXTINF:-1,Premium Comedy
+http://ipsatpro.com:8000/live/170216/170216/620.ts
+#EXTINF:-1,Premium Action +24 HD
+http://ipsatpro.com:8000/live/170216/170216/618.ts
+#EXTINF:-1,Premium Stories
+http://ipsatpro.com:8000/live/170216/170216/625.ts
+#EXTINF:-1,Premium Joy
+http://ipsatpro.com:8000/live/170216/170216/624.ts
+#EXTINF:-1,Premium Energy
+http://ipsatpro.com:8000/live/170216/170216/623.ts
+#EXTINF:-1,Premium Emotion
+http://ipsatpro.com:8000/live/170216/170216/622.ts
+#EXTINF:-1,Premium Studio Universal
+http://ipsatpro.com:8000/live/170216/170216/619.ts
+#EXTINF:-1,Premium Disney Junior
+http://ipsatpro.com:8000/live/170216/170216/617.ts
+#EXTINF:-1,Premium Disney Channel
+http://ipsatpro.com:8000/live/170216/170216/616.ts
+#EXTINF:-1,Premium Stories +24
+http://ipsatpro.com:8000/live/170216/170216/614.ts
+#EXTINF:-1,Premium Cartoon Network
+http://ipsatpro.com:8000/live/170216/170216/613.ts
+#EXTINF:-1,----PREMIUM SPORT ----
+http://ipsatpro.com:8000/live/170216/170216/628.ts
+#EXTINF:-1,Premium Sport
+http://ipsatpro.com:8000/live/170216/170216/615.ts
+#EXTINF:-1,Premium EuroSport 1 HD
+http://ipsatpro.com:8000/live/170216/170216/608.ts
+#EXTINF:-1,Premium EuroSport 2 HD
+http://ipsatpro.com:8000/live/170216/170216/610.ts
+#EXTINF:-1,Premium Calcio HD
+http://ipsatpro.com:8000/live/170216/170216/607.ts
+#EXTINF:-1,Premium Calcio 1
+http://ipsatpro.com:8000/live/170216/170216/606.ts
+#EXTINF:-1,Premium Calcio 2
+http://ipsatpro.com:8000/live/170216/170216/605.ts
+#EXTINF:-1,----------PRIMAFILA---------
+http://ipsatpro.com:8000/live/170216/170216/602.ts
+#EXTINF:-1,Sky Prima fila 1 HD
+http://ipsatpro.com:8000/live/170216/170216/601.ts
+#EXTINF:-1,Sky Prima fila 2 HD
+http://ipsatpro.com:8000/live/170216/170216/600.ts
+#EXTINF:-1,Sky Prima fila 3 HD
+http://ipsatpro.com:8000/live/170216/170216/599.ts
+#EXTINF:-1,Sky Prima fila 4 HD
+http://ipsatpro.com:8000/live/170216/170216/598.ts
+#EXTINF:-1,Sky Prima fila 5 HD
+http://ipsatpro.com:8000/live/170216/170216/597.ts
+#EXTINF:-1,Sky Prima fila 6 HD
+http://ipsatpro.com:8000/live/170216/170216/596.ts
+#EXTINF:-1,Sky Prima fila 7 HD
+http://ipsatpro.com:8000/live/170216/170216/595.ts
+#EXTINF:-1,Sky Prima fila 8 HD
+http://ipsatpro.com:8000/live/170216/170216/594.ts
+#EXTINF:-1,Sky Prima fila 9 HD
+http://ipsatpro.com:8000/live/170216/170216/593.ts
+#EXTINF:-1,Sky Prima fila 10 HD
+http://ipsatpro.com:8000/live/170216/170216/592.ts
+#EXTINF:-1,Sky Prima fila 11 HD
+http://ipsatpro.com:8000/live/170216/170216/591.ts
+#EXTINF:-1,Sky Prima fila 12 HD
+http://ipsatpro.com:8000/live/170216/170216/590.ts
+#EXTINF:-1,Sky Prima fila 13 HD
+http://ipsatpro.com:8000/live/170216/170216/589.ts
+#EXTINF:-1,Sky Prima fila 14 HD
+http://ipsatpro.com:8000/live/170216/170216/588.ts
+#EXTINF:-1,Sky Prima fila 15 HD
+http://ipsatpro.com:8000/live/170216/170216/587.ts
+#EXTINF:-1,Sky Prima Fila WWE HD
+http://ipsatpro.com:8000/live/170216/170216/586.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

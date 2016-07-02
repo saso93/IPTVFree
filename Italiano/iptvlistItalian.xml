@@ -1135,216 +1135,518 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,---------- SKY CINEMA ----------
-http://ipsatpro.com:8000/live/170216/170216/682.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://ipsatpro.com:8000/live/170216/170216/681.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://ipsatpro.com:8000/live/170216/170216/680.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://ipsatpro.com:8000/live/170216/170216/679.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://ipsatpro.com:8000/live/170216/170216/675.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://ipsatpro.com:8000/live/170216/170216/672.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://ipsatpro.com:8000/live/170216/170216/677.ts
-#EXTINF:-1,Sky Cinema +Max HD
-http://ipsatpro.com:8000/live/170216/170216/673.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://ipsatpro.com:8000/live/170216/170216/678.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://ipsatpro.com:8000/live/170216/170216/671.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://ipsatpro.com:8000/live/170216/170216/670.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://ipsatpro.com:8000/live/170216/170216/674.ts
-#EXTINF:-1,Sky Cinema 3D
-http://ipsatpro.com:8000/live/170216/170216/562.ts
-#EXTINF:-1,------ Intrattenimento ----
-http://ipsatpro.com:8000/live/170216/170216/669.ts
-#EXTINF:-1,Mtv Music
-http://ipsatpro.com:8000/live/170216/170216/668.ts
-#EXTINF:-1,Cielo
-http://ipsatpro.com:8000/live/170216/170216/658.ts
-#EXTINF:-1,Boing
-http://ipsatpro.com:8000/live/170216/170216/659.ts
-#EXTINF:-1,Super!
-http://ipsatpro.com:8000/live/170216/170216/558.ts
-#EXTINF:-1,k2
-http://ipsatpro.com:8000/live/170216/170216/557.ts
-#EXTINF:-1,Iris
-http://ipsatpro.com:8000/live/170216/170216/676.ts
-#EXTINF:-1,Fox HD
-http://ipsatpro.com:8000/live/170216/170216/664.ts
-#EXTINF:-1,Fox Life HD
-http://ipsatpro.com:8000/live/170216/170216/665.ts
-#EXTINF:-1,Fox Crime HD
-http://ipsatpro.com:8000/live/170216/170216/663.ts
-#EXTINF:-1,Fox Comedy HD
-http://ipsatpro.com:8000/live/170216/170216/662.ts
-#EXTINF:-1,Sky Top Crime
-http://ipsatpro.com:8000/live/170216/170216/559.ts
-#EXTINF:-1,Sky Atlantic HD
-http://ipsatpro.com:8000/live/170216/170216/666.ts
-#EXTINF:-1,Sky Uno HD
-http://ipsatpro.com:8000/live/170216/170216/667.ts
-#EXTINF:-1,Sky Focus
-http://ipsatpro.com:8000/live/170216/170216/660.ts
-#EXTINF:-1,Sky Mediaset Extra
-http://ipsatpro.com:8000/live/170216/170216/603.ts
-#EXTINF:-1,Sky Mediaset Italia 2
-http://ipsatpro.com:8000/live/170216/170216/661.ts
-#EXTINF:-1,---------- sport ----------
-http://ipsatpro.com:8000/live/170216/170216/656.ts
-#EXTINF:-1,Fox Sports 1 HD
-http://ipsatpro.com:8000/live/170216/170216/650.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://ipsatpro.com:8000/live/170216/170216/655.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://ipsatpro.com:8000/live/170216/170216/654.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://ipsatpro.com:8000/live/170216/170216/653.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://ipsatpro.com:8000/live/170216/170216/652.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://ipsatpro.com:8000/live/170216/170216/651.ts
-#EXTINF:-1,Sky Moto GP HD
-http://ipsatpro.com:8000/live/170216/170216/646.ts
-#EXTINF:-1,Super Tennis HD
-http://ipsatpro.com:8000/live/170216/170216/645.ts
-#EXTINF:-1,---------- Calcio -----------
-http://ipsatpro.com:8000/live/170216/170216/644.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://ipsatpro.com:8000/live/170216/170216/643.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://ipsatpro.com:8000/live/170216/170216/642.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://ipsatpro.com:8000/live/170216/170216/641.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://ipsatpro.com:8000/live/170216/170216/640.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://ipsatpro.com:8000/live/170216/170216/568.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://ipsatpro.com:8000/live/170216/170216/567.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://ipsatpro.com:8000/live/170216/170216/566.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://ipsatpro.com:8000/live/170216/170216/565.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://ipsatpro.com:8000/live/170216/170216/564.ts
-#EXTINF:-1,Rai Sport 1
-http://ipsatpro.com:8000/live/170216/170216/639.ts
-#EXTINF:-1,Rai Sport 2
-http://ipsatpro.com:8000/live/170216/170216/560.ts
-#EXTINF:-1,SportTitalia
-http://ipsatpro.com:8000/live/170216/170216/638.ts
-#EXTINF:-1,Rete Sport
-http://ipsatpro.com:8000/live/170216/170216/1840.ts
-#EXTINF:-1,Sky Eurosport
-http://ipsatpro.com:8000/live/170216/170216/637.ts
-#EXTINF:-1,Sky Eurosport 2
-http://ipsatpro.com:8000/live/170216/170216/636.ts
-#EXTINF:-1,--------- Cultura ----------
-http://ipsatpro.com:8000/live/170216/170216/635.ts
-#EXTINF:-1,Sky TG 24
-http://ipsatpro.com:8000/live/170216/170216/629.ts
-#EXTINF:-1,Discovery HD
-http://ipsatpro.com:8000/live/170216/170216/630.ts
-#EXTINF:-1,Sky History HD
-http://ipsatpro.com:8000/live/170216/170216/634.ts
-#EXTINF:-1,National Geo HD
-http://ipsatpro.com:8000/live/170216/170216/633.ts
-#EXTINF:-1,NatGeo Wild HD
-http://ipsatpro.com:8000/live/170216/170216/632.ts
-#EXTINF:-1,NatGeo People HD
-http://ipsatpro.com:8000/live/170216/170216/631.ts
-#EXTINF:-1,Sky Animal Planet
-http://ipsatpro.com:8000/live/170216/170216/604.ts
-#EXTINF:-1,----PREMIUM CINEMA ----
-http://ipsatpro.com:8000/live/170216/170216/628.ts
+#EXTINF:-1,---------- PREMIUM CINEMA ----------
+http://ultra.super-iptv.space:13884/live/chris/chris/120.ts
 #EXTINF:-1,Premium Cinema HD
-http://ipsatpro.com:8000/live/170216/170216/627.ts
+http://ultra.super-iptv.space:13884/live/chris/chris/121.ts
+#EXTINF:-1,Premium Cinema SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1534.ts
 #EXTINF:-1,Premium Cinema 2 HD
-http://ipsatpro.com:8000/live/170216/170216/609.ts
-#EXTINF:-1,Premium Cinema +24
-http://ipsatpro.com:8000/live/170216/170216/612.ts
-#EXTINF:-1,Premium Crime
-http://ipsatpro.com:8000/live/170216/170216/621.ts
-#EXTINF:-1,Premium Crime +24
-http://ipsatpro.com:8000/live/170216/170216/611.ts
-#EXTINF:-1,Premium Action HD
-http://ipsatpro.com:8000/live/170216/170216/626.ts
-#EXTINF:-1,Premium Comedy
-http://ipsatpro.com:8000/live/170216/170216/620.ts
-#EXTINF:-1,Premium Action +24 HD
-http://ipsatpro.com:8000/live/170216/170216/618.ts
-#EXTINF:-1,Premium Stories
-http://ipsatpro.com:8000/live/170216/170216/625.ts
-#EXTINF:-1,Premium Joy
-http://ipsatpro.com:8000/live/170216/170216/624.ts
+http://ultra.super-iptv.space:13884/live/chris/chris/123.ts
+#EXTINF:-1,Premium Cinema 2 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1535.ts
+#EXTINF:-1,Premium Cinema  24
+http://ultra.super-iptv.space:13884/live/chris/chris/122.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://ultra.super-iptv.space:13884/live/chris/chris/124.ts
 #EXTINF:-1,Premium Energy
-http://ipsatpro.com:8000/live/170216/170216/623.ts
+http://ultra.super-iptv.space:13884/live/chris/chris/129.ts
 #EXTINF:-1,Premium Emotion
-http://ipsatpro.com:8000/live/170216/170216/622.ts
-#EXTINF:-1,Premium Studio Universal
-http://ipsatpro.com:8000/live/170216/170216/619.ts
-#EXTINF:-1,Premium Disney Junior
-http://ipsatpro.com:8000/live/170216/170216/617.ts
-#EXTINF:-1,Premium Disney Channel
-http://ipsatpro.com:8000/live/170216/170216/616.ts
-#EXTINF:-1,Premium Stories +24
-http://ipsatpro.com:8000/live/170216/170216/614.ts
-#EXTINF:-1,Premium Cartoon Network
-http://ipsatpro.com:8000/live/170216/170216/613.ts
-#EXTINF:-1,----PREMIUM SPORT ----
-http://ipsatpro.com:8000/live/170216/170216/628.ts
-#EXTINF:-1,Premium Sport
-http://ipsatpro.com:8000/live/170216/170216/615.ts
-#EXTINF:-1,Premium EuroSport 1 HD
-http://ipsatpro.com:8000/live/170216/170216/608.ts
-#EXTINF:-1,Premium EuroSport 2 HD
-http://ipsatpro.com:8000/live/170216/170216/610.ts
+http://ultra.super-iptv.space:13884/live/chris/chris/130.ts
+#EXTINF:-1,Premium Comedy
+http://ultra.super-iptv.space:13884/live/chris/chris/131.ts
+#EXTINF:-1,Studio Universal
+http://ultra.super-iptv.space:13884/live/chris/chris/132.ts
+#EXTINF:-1,Premium Crime HD
+http://ultra.super-iptv.space:13884/live/chris/chris/127.ts
+#EXTINF:-1,Premium Crime SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1533.ts
+#EXTINF:-1,Premium Crime +24
+http://ultra.super-iptv.space:13884/live/chris/chris/128.ts
+#EXTINF:-1,Premium Action HD
+http://ultra.super-iptv.space:13884/live/chris/chris/125.ts
+#EXTINF:-1,Premium Action SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1537.ts
+#EXTINF:-1,Premium Action  24
+http://ultra.super-iptv.space:13884/live/chris/chris/126.ts
+#EXTINF:-1,Premium Stories
+http://ultra.super-iptv.space:13884/live/chris/chris/134.ts
+#EXTINF:-1,Premium Joi
+http://ultra.super-iptv.space:13884/live/chris/chris/133.ts
+#EXTINF:-1,BBC Knowledge
+http://ultra.super-iptv.space:13884/live/chris/chris/136.ts
+#EXTINF:-1,---------- PREMIUM SPORT----------
+http://ultra.super-iptv.space:13884/live/chris/chris/120.ts
+#EXTINF:-1,Premium Sport HD
+http://ultra.super-iptv.space:13884/live/chris/chris/139.ts
+#EXTINF:-1,Premium Sport SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1532.ts
 #EXTINF:-1,Premium Calcio HD
-http://ipsatpro.com:8000/live/170216/170216/607.ts
+http://ultra.super-iptv.space:13884/live/chris/chris/140.ts
+#EXTINF:-1,Premium Calcio SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1536.ts
+#EXTINF:-1,Premium Calcio
+http://ultra.super-iptv.space:13884/live/chris/chris/141.ts
 #EXTINF:-1,Premium Calcio 1
-http://ipsatpro.com:8000/live/170216/170216/606.ts
+http://ultra.super-iptv.space:13884/live/chris/chris/142.ts
 #EXTINF:-1,Premium Calcio 2
-http://ipsatpro.com:8000/live/170216/170216/605.ts
-#EXTINF:-1,----------PRIMAFILA---------
-http://ipsatpro.com:8000/live/170216/170216/602.ts
-#EXTINF:-1,Sky Prima fila 1 HD
-http://ipsatpro.com:8000/live/170216/170216/601.ts
-#EXTINF:-1,Sky Prima fila 2 HD
-http://ipsatpro.com:8000/live/170216/170216/600.ts
-#EXTINF:-1,Sky Prima fila 3 HD
-http://ipsatpro.com:8000/live/170216/170216/599.ts
-#EXTINF:-1,Sky Prima fila 4 HD
-http://ipsatpro.com:8000/live/170216/170216/598.ts
-#EXTINF:-1,Sky Prima fila 5 HD
-http://ipsatpro.com:8000/live/170216/170216/597.ts
-#EXTINF:-1,Sky Prima fila 6 HD
-http://ipsatpro.com:8000/live/170216/170216/596.ts
-#EXTINF:-1,Sky Prima fila 7 HD
-http://ipsatpro.com:8000/live/170216/170216/595.ts
-#EXTINF:-1,Sky Prima fila 8 HD
-http://ipsatpro.com:8000/live/170216/170216/594.ts
-#EXTINF:-1,Sky Prima fila 9 HD
-http://ipsatpro.com:8000/live/170216/170216/593.ts
-#EXTINF:-1,Sky Prima fila 10 HD
-http://ipsatpro.com:8000/live/170216/170216/592.ts
-#EXTINF:-1,Sky Prima fila 11 HD
-http://ipsatpro.com:8000/live/170216/170216/591.ts
-#EXTINF:-1,Sky Prima fila 12 HD
-http://ipsatpro.com:8000/live/170216/170216/590.ts
-#EXTINF:-1,Sky Prima fila 13 HD
-http://ipsatpro.com:8000/live/170216/170216/589.ts
-#EXTINF:-1,Sky Prima fila 14 HD
-http://ipsatpro.com:8000/live/170216/170216/588.ts
-#EXTINF:-1,Sky Prima fila 15 HD
-http://ipsatpro.com:8000/live/170216/170216/587.ts
-#EXTINF:-1,Sky Prima Fila WWE HD
-http://ipsatpro.com:8000/live/170216/170216/586.ts
+http://ultra.super-iptv.space:13884/live/chris/chris/143.ts
+#EXTINF:-1,Premium Calcio 3
+http://ultra.super-iptv.space:13884/live/chris/chris/144.ts
+#EXTINF:-1,Premium Calcio 4
+http://ultra.super-iptv.space:13884/live/chris/chris/145.ts
+#EXTINF:-1,Premium Calcio 5
+http://ultra.super-iptv.space:13884/live/chris/chris/146.ts
+#EXTINF:-1,Premium Calcio 6
+http://ultra.super-iptv.space:13884/live/chris/chris/147.ts
+#EXTINF:-1,----------Sky Cinema ----------
+http://ultra.super-iptv.space:13884/live/chris/chris/12.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/13.ts
+#EXTINF:-1,Sky Cinema 1 +1 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/14.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/15.ts
+#EXTINF:-1,Sky Cinema +24 HD +1
+http://ultra.super-iptv.space:13884/live/chris/chris/2527.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://ultra.super-iptv.space:13884/live/chris/chris/20.ts
+#EXTINF:-1,Sky Cinema Max  +1 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/21.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://ultra.super-iptv.space:13884/live/chris/chris/17.ts
+#EXTINF:-1,Sky Cinema Family  +1 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/18.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://ultra.super-iptv.space:13884/live/chris/chris/16.ts
+#EXTINF:-1,Sky Cinema Hits HD +1
+http://ultra.super-iptv.space:13884/live/chris/chris/2525.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://ultra.super-iptv.space:13884/live/chris/chris/24.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://ultra.super-iptv.space:13884/live/chris/chris/22.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://ultra.super-iptv.space:13884/live/chris/chris/23.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://ultra.super-iptv.space:13884/live/chris/chris/19.ts
+#EXTINF:-1,Sky Cinema Passion HD +1
+http://ultra.super-iptv.space:13884/live/chris/chris/2526.ts
+#EXTINF:-1,-------Sky Cinema SD-------
+http://ultra.super-iptv.space:13884/live/chris/chris/2530.ts
+#EXTINF:-1,Sky Cinema 1 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1549.ts
+#EXTINF:-1,Sky Cinema +1 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1550.ts
+#EXTINF:-1,Sky Cinema +24 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1476.ts
+#EXTINF:-1,Sky Cinema Max SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1544.ts
+#EXTINF:-1,Sky Cinema Max  +1 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1530.ts
+#EXTINF:-1,Sky Cinema Family SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1546.ts
+#EXTINF:-1,Sky Cinema Family +1 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1547.ts
+#EXTINF:-1,Sky Cinema Hits SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1545.ts
+#EXTINF:-1,Sky Cinema Comedy SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1548.ts
+#EXTINF:-1,---------- Intrattenimento ----------
+http://ultra.super-iptv.space:13884/live/chris/chris/26.ts
+#EXTINF:-1,Sky 3D
+http://ultra.super-iptv.space:13884/live/chris/chris/25.ts
+#EXTINF:-1,Sky Uno HD
+http://ultra.super-iptv.space:13884/live/chris/chris/27.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/28.ts
+#EXTINF:-1,Sky Atlantic HD
+http://ultra.super-iptv.space:13884/live/chris/chris/29.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/30.ts
+#EXTINF:-1,Fox HD
+http://ultra.super-iptv.space:13884/live/chris/chris/31.ts
+#EXTINF:-1,Fox +1
+http://ultra.super-iptv.space:13884/live/chris/chris/32.ts
+#EXTINF:-1,Fox Life HD
+http://ultra.super-iptv.space:13884/live/chris/chris/33.ts
+#EXTINF:-1,Fox life +1
+http://ultra.super-iptv.space:13884/live/chris/chris/34.ts
+#EXTINF:-1,Fox Crime HD
+http://ultra.super-iptv.space:13884/live/chris/chris/36.ts
+#EXTINF:-1,Fox Crime +1
+http://ultra.super-iptv.space:13884/live/chris/chris/37.ts
+#EXTINF:-1,Fox Comedy HD
+http://ultra.super-iptv.space:13884/live/chris/chris/35.ts
+#EXTINF:-1,Fox Comedy HD +1
+http://ultra.super-iptv.space:13884/live/chris/chris/2528.ts
+#EXTINF:-1,Fox Animation HD
+http://ultra.super-iptv.space:13884/live/chris/chris/38.ts
+#EXTINF:-1,Fox Animation HD +1
+http://ultra.super-iptv.space:13884/live/chris/chris/2529.ts
+#EXTINF:-1,AXN Sci-FI
+http://ultra.super-iptv.space:13884/live/chris/chris/41.ts
+#EXTINF:-1,AXN HD
+http://ultra.super-iptv.space:13884/live/chris/chris/39.ts
+#EXTINF:-1,AXN  SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1552.ts
+#EXTINF:-1,AXN +1
+http://ultra.super-iptv.space:13884/live/chris/chris/40.ts
+#EXTINF:-1,Videolina
+http://ultra.super-iptv.space:13884/live/chris/chris/152.ts
+#EXTINF:-1,Top crime
+http://ultra.super-iptv.space:13884/live/chris/chris/155.ts
+#EXTINF:-1,Real Time HD
+http://ultra.super-iptv.space:13884/live/chris/chris/45.ts
+#EXTINF:-1,Rai Premium
+http://ultra.super-iptv.space:13884/live/chris/chris/153.ts
+#EXTINF:-1,Rai Movie
+http://ultra.super-iptv.space:13884/live/chris/chris/154.ts
+#EXTINF:-1,Rai 4
+http://ultra.super-iptv.space:13884/live/chris/chris/158.ts
+#EXTINF:-1,Lei
+http://ultra.super-iptv.space:13884/live/chris/chris/44.ts
+#EXTINF:-1,Dove TV
+http://ultra.super-iptv.space:13884/live/chris/chris/1543.ts
+#EXTINF:-1,La 7
+http://ultra.super-iptv.space:13884/live/chris/chris/7.ts
+#EXTINF:-1,LA 5
+http://ultra.super-iptv.space:13884/live/chris/chris/157.ts
+#EXTINF:-1,Italia 2
+http://ultra.super-iptv.space:13884/live/chris/chris/159.ts
+#EXTINF:-1,Iris
+http://ultra.super-iptv.space:13884/live/chris/chris/156.ts
+#EXTINF:-1,Comedy Central
+http://ultra.super-iptv.space:13884/live/chris/chris/42.ts
+#EXTINF:-1,Cielo HD
+http://ultra.super-iptv.space:13884/live/chris/chris/43.ts
+#EXTINF:-1,Uniresat
+http://ultra.super-iptv.space:13884/live/chris/chris/1488.ts
+#EXTINF:-1,TV2000
+http://ultra.super-iptv.space:13884/live/chris/chris/1489.ts
+#EXTINF:-1,Tremedia
+http://ultra.super-iptv.space:13884/live/chris/chris/1490.ts
+#EXTINF:-1,Telenorba
+http://ultra.super-iptv.space:13884/live/chris/chris/1491.ts
+#EXTINF:-1,Telecolor
+http://ultra.super-iptv.space:13884/live/chris/chris/1492.ts
+#EXTINF:-1,Sicilia Channel
+http://ultra.super-iptv.space:13884/live/chris/chris/1494.ts
+#EXTINF:-1,RTP
+http://ultra.super-iptv.space:13884/live/chris/chris/1495.ts
+#EXTINF:-1,laeffe
+http://ultra.super-iptv.space:13884/live/chris/chris/1503.ts
+#EXTINF:-1,La3
+http://ultra.super-iptv.space:13884/live/chris/chris/1504.ts
+#EXTINF:-1,Fashion TV
+http://ultra.super-iptv.space:13884/live/chris/chris/1505.ts
+#EXTINF:-1,Antenna Sicilia
+http://ultra.super-iptv.space:13884/live/chris/chris/1507.ts
+#EXTINF:-1,7Gold C77
+http://ultra.super-iptv.space:13884/live/chris/chris/1508.ts
+#EXTINF:-1,-------Intrattenimento SD-------
+http://ultra.super-iptv.space:13884/live/chris/chris/2531.ts
+#EXTINF:-1,Sky Uno SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1527.ts
+#EXTINF:-1,Sky Atlantic SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1531.ts
+#EXTINF:-1,Fox SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1540.ts
+#EXTINF:-1,Fox Life SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1541.ts
+#EXTINF:-1,Fox Crime SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1542.ts
+#EXTINF:-1,---------- Notizie ----------
+http://ultra.super-iptv.space:13884/live/chris/chris/116.ts
+#EXTINF:-1,TGCom24
+http://ultra.super-iptv.space:13884/live/chris/chris/118.ts
+#EXTINF:-1,Sky TG 24 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/117.ts
+#EXTINF:-1,Rai News 24
+http://ultra.super-iptv.space:13884/live/chris/chris/119.ts
+#EXTINF:-1,Gazzetta TV
+http://ultra.super-iptv.space:13884/live/chris/chris/151.ts
+#EXTINF:-1,---------- Sport ----------
+http://ultra.super-iptv.space:13884/live/chris/chris/46.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/47.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/48.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/49.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/50.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/57.ts
+#EXTINF:-1,Fox Sports HD
+http://ultra.super-iptv.space:13884/live/chris/chris/60.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://ultra.super-iptv.space:13884/live/chris/chris/51.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://ultra.super-iptv.space:13884/live/chris/chris/58.ts
+#EXTINF:-1,Rai Sport 1
+http://ultra.super-iptv.space:13884/live/chris/chris/148.ts
+#EXTINF:-1,Rai Sport 2
+http://ultra.super-iptv.space:13884/live/chris/chris/149.ts
+#EXTINF:-1,Sport Italia
+http://ultra.super-iptv.space:13884/live/chris/chris/150.ts
+#EXTINF:-1,Super Tennis HD
+http://ultra.super-iptv.space:13884/live/chris/chris/56.ts
+#EXTINF:-1,EuroSport HD
+http://ultra.super-iptv.space:13884/live/chris/chris/52.ts
+#EXTINF:-1,EuroSport 2 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/53.ts
+#EXTINF:-1,Poker Italia 24
+http://ultra.super-iptv.space:13884/live/chris/chris/55.ts
+#EXTINF:-1,Bike Channel
+http://ultra.super-iptv.space:13884/live/chris/chris/54.ts
+#EXTINF:-1,Roma Channel
+http://ultra.super-iptv.space:13884/live/chris/chris/76.ts
+#EXTINF:-1,Milan channel
+http://ultra.super-iptv.space:13884/live/chris/chris/72.ts
+#EXTINF:-1,Lazio Channel
+http://ultra.super-iptv.space:13884/live/chris/chris/75.ts
+#EXTINF:-1,Juventus Channel
+http://ultra.super-iptv.space:13884/live/chris/chris/74.ts
+#EXTINF:-1,Inter Channel
+http://ultra.super-iptv.space:13884/live/chris/chris/73.ts
+#EXTINF:-1,-------Sport SD-------
+http://ultra.super-iptv.space:13884/live/chris/chris/2532.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1528.ts
+#EXTINF:-1,Sky Sport 1 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1515.ts
+#EXTINF:-1,Sky Sport 2 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1529.ts
+#EXTINF:-1,Sport F1 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1518.ts
+#EXTINF:-1,FOX SPORT SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1539.ts
+#EXTINF:-1,Sport Plus SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1516.ts
+#EXTINF:-1,MOTOGP SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1538.ts
+#EXTINF:-1,---------- Calcio ----------
+http://ultra.super-iptv.space:13884/live/chris/chris/59.ts
+#EXTINF:-1,Calcio Info
+http://ultra.super-iptv.space:13884/live/chris/chris/1506.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://ultra.super-iptv.space:13884/live/chris/chris/61.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/62.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/63.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/64.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/65.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/66.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/67.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/68.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/69.ts
+#EXTINF:-1,SKY CALCIO 9 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/70.ts
+#EXTINF:-1,SKY CALCIO 10 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/71.ts
+#EXTINF:-1,Sky Calcio 11 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/368.ts
+#EXTINF:-1,------Calcio SD-------
+http://ultra.super-iptv.space:13884/live/chris/chris/2533.ts
+#EXTINF:-1,sky supercalcio SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1517.ts
+#EXTINF:-1,SKY CALCIO 1 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1513.ts
+#EXTINF:-1,Sky Calcio 2 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1520.ts
+#EXTINF:-1,Sky Calcio 3 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1521.ts
+#EXTINF:-1,CALCIO 4 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1522.ts
+#EXTINF:-1,CALCIO 5 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1523.ts
+#EXTINF:-1,Sky Calcio 6 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1524.ts
+#EXTINF:-1,CALCIO 7 SD
+http://ultra.super-iptv.space:13884/live/chris/chris/1525.ts
+#EXTINF:-1,---------- Cultura ----------
+http://ultra.super-iptv.space:13884/live/chris/chris/77.ts
+#EXTINF:-1,Sky Arte HD
+http://ultra.super-iptv.space:13884/live/chris/chris/90.ts
+#EXTINF:-1,Discovery HD
+http://ultra.super-iptv.space:13884/live/chris/chris/80.ts
+#EXTINF:-1,Discovery Sci HD
+http://ultra.super-iptv.space:13884/live/chris/chris/81.ts
+#EXTINF:-1,National Geo HD
+http://ultra.super-iptv.space:13884/live/chris/chris/79.ts
+#EXTINF:-1,NatGeo People HD
+http://ultra.super-iptv.space:13884/live/chris/chris/84.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://ultra.super-iptv.space:13884/live/chris/chris/85.ts
+#EXTINF:-1,Nat Geo Wild  1
+http://ultra.super-iptv.space:13884/live/chris/chris/1526.ts
+#EXTINF:-1,Discovery World
+http://ultra.super-iptv.space:13884/live/chris/chris/135.ts
+#EXTINF:-1,Class Horse
+http://ultra.super-iptv.space:13884/live/chris/chris/369.ts
+#EXTINF:-1,discovery travel
+http://ultra.super-iptv.space:13884/live/chris/chris/82.ts
+#EXTINF:-1,History HD
+http://ultra.super-iptv.space:13884/live/chris/chris/89.ts
+#EXTINF:-1,PESCA e caccia
+http://ultra.super-iptv.space:13884/live/chris/chris/93.ts
+#EXTINF:-1,Caccia e Pesca
+http://ultra.super-iptv.space:13884/live/chris/chris/92.ts
+#EXTINF:-1,Gambero rosso
+http://ultra.super-iptv.space:13884/live/chris/chris/91.ts
+#EXTINF:-1,Focus
+http://ultra.super-iptv.space:13884/live/chris/chris/86.ts
+#EXTINF:-1,eXplora HD
+http://ultra.super-iptv.space:13884/live/chris/chris/78.ts
+#EXTINF:-1,DMAX
+http://ultra.super-iptv.space:13884/live/chris/chris/87.ts
+#EXTINF:-1,CI Crime   Inv HD
+http://ultra.super-iptv.space:13884/live/chris/chris/83.ts
+#EXTINF:-1,Animal planet
+http://ultra.super-iptv.space:13884/live/chris/chris/88.ts
+#EXTINF:-1,---------- Bambini ----------
+http://ultra.super-iptv.space:13884/live/chris/chris/94.ts
+#EXTINF:-1,Spiderman-Channell
+http://ultra.super-iptv.space:13884/live/chris/chris/367.ts
+#EXTINF:-1,Disney Channel HD
+http://ultra.super-iptv.space:13884/live/chris/chris/95.ts
+#EXTINF:-1,Disney Channel 1
+http://ultra.super-iptv.space:13884/live/chris/chris/96.ts
+#EXTINF:-1,Disney Channell +2
+http://ultra.super-iptv.space:13884/live/chris/chris/1477.ts
+#EXTINF:-1,Disney-Junior
+http://ultra.super-iptv.space:13884/live/chris/chris/102.ts
+#EXTINF:-1,Disney junior +1
+http://ultra.super-iptv.space:13884/live/chris/chris/1474.ts
+#EXTINF:-1,Disney XD
+http://ultra.super-iptv.space:13884/live/chris/chris/97.ts
+#EXTINF:-1,Super
+http://ultra.super-iptv.space:13884/live/chris/chris/105.ts
+#EXTINF:-1,Rai Yoyo
+http://ultra.super-iptv.space:13884/live/chris/chris/1475.ts
+#EXTINF:-1,Rai Gulp
+http://ultra.super-iptv.space:13884/live/chris/chris/109.ts
+#EXTINF:-1,Nikodeon
+http://ultra.super-iptv.space:13884/live/chris/chris/115.ts
+#EXTINF:-1,Nickelodeon
+http://ultra.super-iptv.space:13884/live/chris/chris/100.ts
+#EXTINF:-1,Nick Junior
+http://ultra.super-iptv.space:13884/live/chris/chris/106.ts
+#EXTINF:-1,TeenNick
+http://ultra.super-iptv.space:13884/live/chris/chris/1485.ts
+#EXTINF:-1,Manga
+http://ultra.super-iptv.space:13884/live/chris/chris/99.ts
+#EXTINF:-1,K2
+http://ultra.super-iptv.space:13884/live/chris/chris/101.ts
+#EXTINF:-1,Easy Baby
+http://ultra.super-iptv.space:13884/live/chris/chris/113.ts
+#EXTINF:-1,Dea kids
+http://ultra.super-iptv.space:13884/live/chris/chris/110.ts
+#EXTINF:-1,Dea Junior
+http://ultra.super-iptv.space:13884/live/chris/chris/114.ts
+#EXTINF:-1,Fresbee
+http://ultra.super-iptv.space:13884/live/chris/chris/112.ts
+#EXTINF:-1,Cartoon-Network
+http://ultra.super-iptv.space:13884/live/chris/chris/103.ts
+#EXTINF:-1,Cartoon +1
+http://ultra.super-iptv.space:13884/live/chris/chris/104.ts
+#EXTINF:-1,Cartonito
+http://ultra.super-iptv.space:13884/live/chris/chris/107.ts
+#EXTINF:-1,Boomerang
+http://ultra.super-iptv.space:13884/live/chris/chris/98.ts
+#EXTINF:-1,Boing
+http://ultra.super-iptv.space:13884/live/chris/chris/108.ts
+#EXTINF:-1,Baby Tv
+http://ultra.super-iptv.space:13884/live/chris/chris/111.ts
+#EXTINF:-1,---PRIMAFILA
+http://ultra.super-iptv.space:13884/live/chris/chris/325.ts
+#EXTINF:-1,Vetrina Primafila
+http://ultra.super-iptv.space:13884/movie/chris/chris/358.mkv
+#EXTINF:-1,Primafila 1 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/326.ts
+#EXTINF:-1,Primafila 2
+http://ultra.super-iptv.space:13884/movie/chris/chris/1244.mkv
+#EXTINF:-1,Primafila.3 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/328.ts
+#EXTINF:-1,Primafila 4
+http://ultra.super-iptv.space:13884/movie/chris/chris/1245.mkv
+#EXTINF:-1,Primafila 5 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/330.ts
+#EXTINF:-1,Primafila 6
+http://ultra.super-iptv.space:13884/movie/chris/chris/1246.mkv
+#EXTINF:-1,Primafila 7 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/332.ts
+#EXTINF:-1,Primafila 8
+http://ultra.super-iptv.space:13884/movie/chris/chris/1247.mkv
+#EXTINF:-1,Primafila 9 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/334.ts
+#EXTINF:-1,Primafila 10
+http://ultra.super-iptv.space:13884/movie/chris/chris/1248.mkv
+#EXTINF:-1,Primafila 11 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/336.ts
+#EXTINF:-1,Primafila 12
+http://ultra.super-iptv.space:13884/movie/chris/chris/1249.mkv
+#EXTINF:-1,Primafila 13 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/338.ts
+#EXTINF:-1,Primafila 14
+http://ultra.super-iptv.space:13884/movie/chris/chris/1250.mkv
+#EXTINF:-1,Primafila.15 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/340.ts
+#EXTINF:-1,Primafila 16
+http://ultra.super-iptv.space:13884/movie/chris/chris/1251.mkv
+#EXTINF:-1,Primafila.17 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/342.ts
+#EXTINF:-1,Primafila 18
+http://ultra.super-iptv.space:13884/movie/chris/chris/1252.mkv
+#EXTINF:-1,Primafila.19 HD
+http://ultra.super-iptv.space:13884/live/chris/chris/344.ts
+#EXTINF:-1,Primafila 20
+http://ultra.super-iptv.space:13884/movie/chris/chris/1253.mkv
+#EXTINF:-1,---MUSICA
+http://ultra.super-iptv.space:13884/live/chris/chris/570.ts
+#EXTINF:-1,Studio 90 Italia
+http://ultra.super-iptv.space:13884/live/chris/chris/1493.ts
+#EXTINF:-1,RTL 102.5
+http://ultra.super-iptv.space:13884/live/chris/chris/1496.ts
+#EXTINF:-1,Radio Taormina
+http://ultra.super-iptv.space:13884/live/chris/chris/1497.ts
+#EXTINF:-1,Radio Montecarlo
+http://ultra.super-iptv.space:13884/live/chris/chris/1498.ts
+#EXTINF:-1,Radio Italia
+http://ultra.super-iptv.space:13884/live/chris/chris/1499.ts
+#EXTINF:-1,Radio 105
+http://ultra.super-iptv.space:13884/live/chris/chris/1500.ts
+#EXTINF:-1,Ondalatina
+http://ultra.super-iptv.space:13884/live/chris/chris/1501.ts
+#EXTINF:-1,M2Otv
+http://ultra.super-iptv.space:13884/live/chris/chris/1502.ts
+#EXTINF:-1,VEVO MUSIC 3
+http://ultra.super-iptv.space:13884/live/chris/chris/573.ts
+#EXTINF:-1,VEVO MUSIC 2
+http://ultra.super-iptv.space:13884/live/chris/chris/572.ts
+#EXTINF:-1,VEVO MUSIC
+http://ultra.super-iptv.space:13884/live/chris/chris/571.ts
+#EXTINF:-1,MUSIC ITALY
+http://ultra.super-iptv.space:13884/live/chris/chris/574.ts
+#EXTINF:-1,MTV ROCKS
+http://ultra.super-iptv.space:13884/live/chris/chris/575.ts
+#EXTINF:-1,MTV HITS
+http://ultra.super-iptv.space:13884/live/chris/chris/576.ts
+#EXTINF:-1,MTV DANCE
+http://ultra.super-iptv.space:13884/live/chris/chris/577.ts
+#EXTINF:-1,H TV
+http://ultra.super-iptv.space:13884/live/chris/chris/160.ts
+#EXTINF:-1,For Music
+http://ultra.super-iptv.space:13884/live/chris/chris/161.ts
+#EXTINF:-1,CLASSIC HD
+http://ultra.super-iptv.space:13884/live/chris/chris/578.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

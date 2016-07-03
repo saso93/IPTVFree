@@ -55,6 +55,7 @@ Android API 14+
 - Improved parsing `XML` list
 - Improved parsing icon
 - Added News `CardView`
+- Support `Android N`
 
 **v1.0.3**
 

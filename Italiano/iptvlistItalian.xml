@@ -1696,6 +1696,8 @@ http://pstv.net.ru:2086/live/santi/santi/281.ts
 http://pstv.net.ru:2086/live/santi/santi/99.ts
 #EXTINF:-1,--- - BAMBINI - ---
 http://pstv.net.ru:2086/live/santi/santi/100.ts
+#EXTINF:-1,Nickelodeon
+http://pstv.net.ru:2086/live/santi/santi/107.ts
 #EXTINF:-1,Disney Channel HD
 http://pstv.net.ru:2086/live/santi/santi/101.ts
 #EXTINF:-1,Disney Channel +1

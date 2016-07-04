@@ -630,27 +630,27 @@ http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8629.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://ipsatpro.com:8000/live/170216/170216/693.ts
+http://ipsatpro.com:8000/live/kamal/kamal/693.ts
 #EXTINF:-1, Rai 2 HD
-http://ipsatpro.com:8000/live/170216/170216/692.ts
+http://ipsatpro.com:8000/live/kamal/kamal/692.ts
 #EXTINF:-1, Rai 3 HD
-http://ipsatpro.com:8000/live/170216/170216/691.ts
+http://ipsatpro.com:8000/live/kamal/kamal/691.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://ipsatpro.com:8000/live/170216/170216/690.ts
+http://ipsatpro.com:8000/live/kamal/kamal/690.ts
 #EXTINF:-1, Canale 5 HD
-http://ipsatpro.com:8000/live/170216/170216/686.ts
+http://ipsatpro.com:8000/live/kamal/kamal/686.ts
 #EXTINF:-1, Italia 1 HD
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1, La 5
-http://ipsatpro.com:8000/live/170216/170216/556.ts
+http://ipsatpro.com:8000/live/kamal/kamal/556.ts
 #EXTINF:-1,La7
-http://cdn02.selling-team.net:8000/live/raim3/raim3/4127.ts
+http://ipsatpro.com:8000/live/kamal/kamal/683.ts
 #EXTINF:-1 ,Rai 4
-http://cdn02.selling-team.net:8000/live/raim3/raim3/12288.ts
+http://ipsatpro.com:8000/live/kamal/kamal/690.ts
 #EXTINF:-1,Iris
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Iris HD
@@ -704,9 +704,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://ipsatpro.com:8000/live/170216/170216/688.ts
+http://ipsatpro.com:8000/live/kamal/kamal/688.ts
 #EXTINF:-1,RSI LA 2 HD
-http://ipsatpro.com:8000/live/170216/170216/687.ts
+http://ipsatpro.com:8000/live/kamal/kamal/687.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83
@@ -1135,631 +1135,216 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,--- - PREMIUM CINEMA - ---
-http://pstv.net.ru:2086/live/santi/santi/120.ts
-#EXTINF:-1,Premium Cinema HD
-http://pstv.net.ru:2086/live/santi/santi/121.ts
-#EXTINF:-1,Premium Cinema
-http://pstv.net.ru:2086/live/santi/santi/1774.ts
-#EXTINF:-1,Premium Cinema +24
-http://pstv.net.ru:2086/live/santi/santi/122.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://pstv.net.ru:2086/live/santi/santi/123.ts
-#EXTINF:-1,Premium Cinema 2
-http://pstv.net.ru:2086/live/santi/santi/1775.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://pstv.net.ru:2086/live/santi/santi/124.ts
-#EXTINF:-1,Premium Cinema Emotion
-http://pstv.net.ru:2086/live/santi/santi/126.ts
-#EXTINF:-1,Premium Cinema Energy
-http://pstv.net.ru:2086/live/santi/santi/125.ts
-#EXTINF:-1,Premium Cinema Comedy
-http://pstv.net.ru:2086/live/santi/santi/127.ts
-#EXTINF:-1,--- - PREMIUM INTRATTENIMENTO - ---
-http://pstv.net.ru:2086/live/santi/santi/128.ts
-#EXTINF:-1,Premium Action HD
-http://pstv.net.ru:2086/live/santi/santi/129.ts
-#EXTINF:-1,Premium Action
-http://pstv.net.ru:2086/live/santi/santi/1776.ts
-#EXTINF:-1,Premium Action +24
-http://pstv.net.ru:2086/live/santi/santi/130.ts
-#EXTINF:-1,Premium Crime HD
-http://pstv.net.ru:2086/live/santi/santi/131.ts
-#EXTINF:-1,Premium Crime
-http://pstv.net.ru:2086/live/santi/santi/1777.ts
-#EXTINF:-1,Premium Crime +24
-http://pstv.net.ru:2086/live/santi/santi/132.ts
-#EXTINF:-1,Premium Joi
-http://pstv.net.ru:2086/live/santi/santi/133.ts
-#EXTINF:-1,Premium Joi +24
-http://pstv.net.ru:2086/live/santi/santi/149.ts
-#EXTINF:-1,Premium Stories
-http://pstv.net.ru:2086/live/santi/santi/134.ts
-#EXTINF:-1,Premium Stories +24
-http://pstv.net.ru:2086/live/santi/santi/147.ts
-#EXTINF:-1,--- - PREMIUM CALCIO - ---
-http://pstv.net.ru:2086/live/santi/santi/135.ts
-#EXTINF:-1,Premium Sport HD
-http://pstv.net.ru:2086/live/santi/santi/136.ts
-#EXTINF:-1,Premium Sport
-http://pstv.net.ru:2086/live/santi/santi/1778.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://pstv.net.ru:2086/live/santi/santi/1930.ts
-#EXTINF:-1,Premium Sport 2
-http://pstv.net.ru:2086/live/santi/santi/1931.ts
-#EXTINF:-1,Premium Calcio HD
-http://pstv.net.ru:2086/live/santi/santi/137.ts
-#EXTINF:-1,Premium Calcio
-http://pstv.net.ru:2086/live/santi/santi/138.ts
-#EXTINF:-1,Premium Calcio 1
-http://pstv.net.ru:2086/live/santi/santi/139.ts
-#EXTINF:-1,Premium Calcio 2
-http://pstv.net.ru:2086/live/santi/santi/140.ts
-#EXTINF:-1,Premium Calcio 3
-http://pstv.net.ru:2086/live/santi/santi/141.ts
-#EXTINF:-1,Premium Calcio 4
-http://pstv.net.ru:2086/live/santi/santi/142.ts
-#EXTINF:-1,Premium Calcio 5
-http://pstv.net.ru:2086/live/santi/santi/143.ts
-#EXTINF:-1,Premium Calcio 6
-http://pstv.net.ru:2086/live/santi/santi/144.ts
-#EXTINF:-1,Premium Calcio 7
-http://pstv.net.ru:2086/live/santi/santi/145.ts
-#EXTINF:-1,--- - PREMIUM CULTURA - ---
-http://pstv.net.ru:2086/live/santi/santi/146.ts
-#EXTINF:-1,Premium Studio Universal
-http://pstv.net.ru:2086/live/santi/santi/148.ts
-#EXTINF:-1,--- - PREMIUM BAMBINI - ---
-http://pstv.net.ru:2086/live/santi/santi/150.ts
-#EXTINF:-1,Premium Disney Channel
-http://pstv.net.ru:2086/live/santi/santi/151.ts
-#EXTINF:-1,Premium Disney Channel +1
-http://pstv.net.ru:2086/live/santi/santi/152.ts
-#EXTINF:-1,Premium Disney Junior
-http://pstv.net.ru:2086/live/santi/santi/153.ts
-#EXTINF:-1,--- Sky CINEMA 
-http://pstv.net.ru:2086/live/santi/santi/14.ts
+#EXTINF:-1,---------- SKY CINEMA ----------
+http://ipsatpro.com:8000/live/kamal/kamal/682.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://pstv.net.ru:2086/live/santi/santi/15.ts
+http://ipsatpro.com:8000/live/kamal/kamal/681.ts
 #EXTINF:-1,Sky Cinema +1 HD
-http://pstv.net.ru:2086/live/santi/santi/16.ts
+http://ipsatpro.com:8000/live/kamal/kamal/680.ts
 #EXTINF:-1,Sky Cinema +24 HD
-http://pstv.net.ru:2086/live/santi/santi/17.ts
+http://ipsatpro.com:8000/live/kamal/kamal/679.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://pstv.net.ru:2086/live/santi/santi/18.ts
-#EXTINF:-1,Sky Cinema Hits +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4755.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://pstv.net.ru:2086/live/santi/santi/19.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://pstv.net.ru:2086/live/santi/santi/417.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://pstv.net.ru:2086/live/santi/santi/20.ts
-#EXTINF:-1,Sky Cinema Passion +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4757.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://pstv.net.ru:2086/live/santi/santi/21.ts
-#EXTINF:-1,Sky Cinema Comedy +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4756.ts
+http://ipsatpro.com:8000/live/kamal/kamal/675.ts
 #EXTINF:-1,Sky Cinema Cult HD
-http://pstv.net.ru:2086/live/santi/santi/22.ts
-#EXTINF:-1,Sky Cinema Cult +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4758.ts
+http://ipsatpro.com:8000/live/kamal/kamal/672.ts
 #EXTINF:-1,Sky Cinema Max HD
-http://pstv.net.ru:2086/live/santi/santi/23.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://pstv.net.ru:2086/live/santi/santi/421.ts
-#EXTINF:-1,Sky Cinema Classics HD
-http://pstv.net.ru:2086/live/santi/santi/274.ts
-#EXTINF:-1,Sky Cinema Classics +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4759.ts
-#EXTINF:-1,Bud Spencer Channel
-http://pstv.net.ru:2086/live/santi/santi/4849.ts
-#EXTINF:-1,Sky 3D
-http://pstv.net.ru:2086/live/santi/santi/289.ts
-#EXTINF:-1,--- Sky Cinema SD
-http://pstv.net.ru:2086/live/santi/santi/3810.ts
-#EXTINF:-1,Sky Cinema 1
-http://pstv.net.ru:2086/live/santi/santi/1642.ts
-#EXTINF:-1,Sky Cinema +1
-http://pstv.net.ru:2086/live/santi/santi/1643.ts
-#EXTINF:-1,Sky Cinema +24
-http://pstv.net.ru:2086/live/santi/santi/1644.ts
-#EXTINF:-1,Sky Cinema Hits
-http://pstv.net.ru:2086/live/santi/santi/1645.ts
-#EXTINF:-1,Sky Cinema Family
-http://pstv.net.ru:2086/live/santi/santi/1646.ts
-#EXTINF:-1,Sky Cinema Family +1
-http://pstv.net.ru:2086/live/santi/santi/1652.ts
-#EXTINF:-1,Sky Cinema Passion
-http://pstv.net.ru:2086/live/santi/santi/1647.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://pstv.net.ru:2086/live/santi/santi/1648.ts
-#EXTINF:-1,Sky Cinema Cult
-http://pstv.net.ru:2086/live/santi/santi/1649.ts
-#EXTINF:-1,Sky Cinema Max
-http://pstv.net.ru:2086/live/santi/santi/1650.ts
-#EXTINF:-1,Sky Cinema Max +1
-http://pstv.net.ru:2086/live/santi/santi/1653.ts
-#EXTINF:-1,Sky Cinema Classics
-http://pstv.net.ru:2086/live/santi/santi/1651.ts
-#EXTINF:-1,--- - INTRATTENIMENTO - ---
-http://pstv.net.ru:2086/live/santi/santi/24.ts
-#EXTINF:-1,Sky Uno HD
-http://pstv.net.ru:2086/live/santi/santi/25.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://pstv.net.ru:2086/live/santi/santi/1655.ts
-#EXTINF:-1,Sky Atlantic HD
-http://pstv.net.ru:2086/live/santi/santi/26.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://pstv.net.ru:2086/live/santi/santi/1099.ts
-#EXTINF:-1,Fox HD
-http://ipsatpro.com:8000/live/170216/170216/664.ts
-#EXTINF:-1,Fox +1
-http://pstv.net.ru:2086/live/santi/santi/418.ts
-#EXTINF:-1,Fox Life HD
-http://pstv.net.ru:2086/live/santi/santi/28.ts
-#EXTINF:-1,Fox Life +1
-http://pstv.net.ru:2086/live/santi/santi/1786.ts
-#EXTINF:-1,Fox Crime HD
-http://pstv.net.ru:2086/live/santi/santi/29.ts
-#EXTINF:-1,Fox Crime +1
-http://pstv.net.ru:2086/live/santi/santi/419.ts
-#EXTINF:-1,Fox Comedy HD
-http://pstv.net.ru:2086/live/santi/santi/30.ts
-#EXTINF:-1,Fox Comedy +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4547.ts
-#EXTINF:-1,Fox Animation HD
-http://pstv.net.ru:2086/live/santi/santi/31.ts
-#EXTINF:-1,Fox Animation +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4553.ts
-#EXTINF:-1,AXN HD
-http://pstv.net.ru:2086/live/santi/santi/32.ts
-#EXTINF:-1,AXN +1
-http://pstv.net.ru:2086/live/santi/santi/420.ts
-#EXTINF:-1,AXN Sci Fi
-http://pstv.net.ru:2086/live/santi/santi/33.ts
-#EXTINF:-1,AXN Sci Fi +1
-http://pstv.net.ru:2086/live/santi/santi/4760.ts
-#EXTINF:-1,Comedy Central
-http://pstv.net.ru:2086/live/santi/santi/34.ts
-#EXTINF:-1,Comedy Central +1
-http://pstv.net.ru:2086/live/santi/santi/4615.ts
-#EXTINF:-1,E! Entertainment
-http://pstv.net.ru:2086/live/santi/santi/35.ts
-#EXTINF:-1,Paramount Channel HD
-http://pstv.net.ru:2086/live/santi/santi/2354.ts
-#EXTINF:-1,cielo HD
-http://pstv.net.ru:2086/live/santi/santi/36.ts
-#EXTINF:-1,MANGA
-http://pstv.net.ru:2086/live/santi/santi/109.ts
-#EXTINF:-1,MANGA +1
-http://pstv.net.ru:2086/live/santi/santi/4761.ts
-#EXTINF:-1,GIALLO
-http://pstv.net.ru:2086/live/santi/santi/37.ts
-#EXTINF:-1,LEI
-http://pstv.net.ru:2086/live/santi/santi/38.ts
-#EXTINF:-1,LEI +1
-http://pstv.net.ru:2086/live/santi/santi/39.ts
-#EXTINF:-1,Real Time
-http://pstv.net.ru:2086/live/santi/santi/40.ts
-#EXTINF:-1,Real Time +1
-http://pstv.net.ru:2086/live/santi/santi/1713.ts
-#EXTINF:-1,laeffe
-http://pstv.net.ru:2086/live/santi/santi/41.ts
-#EXTINF:-1,TV2000
-http://pstv.net.ru:2086/live/santi/santi/42.ts
-#EXTINF:-1,La3
-http://pstv.net.ru:2086/live/santi/santi/2366.ts
-#EXTINF:-1,La5
-http://pstv.net.ru:2086/live/santi/santi/11.ts
-#EXTINF:-1,--- - INTRATTENIMENTO SD - ---
-http://pstv.net.ru:2086/live/santi/santi/3811.ts
-#EXTINF:-1,Sky Uno
-http://pstv.net.ru:2086/live/santi/santi/1751.ts
-#EXTINF:-1,Sky Uno +1
-http://pstv.net.ru:2086/live/santi/santi/1750.ts
-#EXTINF:-1,Sky Atlantic
-http://pstv.net.ru:2086/live/santi/santi/1753.ts
-#EXTINF:-1,Sky Atlantic +1
-http://pstv.net.ru:2086/live/santi/santi/1752.ts
-#EXTINF:-1,Fox
-http://pstv.net.ru:2086/live/santi/santi/1759.ts
-#EXTINF:-1,Fox Life
-http://pstv.net.ru:2086/live/santi/santi/1754.ts
-#EXTINF:-1,Fox Crime
-http://pstv.net.ru:2086/live/santi/santi/1756.ts
-#EXTINF:-1,Fox Comedy
-http://pstv.net.ru:2086/live/santi/santi/1757.ts
-#EXTINF:-1,Fox Comedy +1
-http://pstv.net.ru:2086/live/santi/santi/4548.ts
-#EXTINF:-1,Fox Animation
-http://pstv.net.ru:2086/live/santi/santi/1758.ts
-#EXTINF:-1,Fox Animation +1
-http://pstv.net.ru:2086/live/santi/santi/4554.ts
-#EXTINF:-1,AXN
-http://pstv.net.ru:2086/live/santi/santi/1761.ts
-#EXTINF:-1,Paramount Channel
-http://pstv.net.ru:2086/live/santi/santi/4436.ts
-#EXTINF:-1,cielo
-http://pstv.net.ru:2086/live/santi/santi/1760.ts
-#EXTINF:-1,--- - SPORT - ---
-http://pstv.net.ru:2086/live/santi/santi/43.ts
-#EXTINF:-1,Sky Sport24 HD
-http://pstv.net.ru:2086/live/santi/santi/44.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://pstv.net.ru:2086/live/santi/santi/45.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://pstv.net.ru:2086/live/santi/santi/46.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://pstv.net.ru:2086/live/santi/santi/47.ts
-#EXTINF:-1,Fox Sports HD
-http://pstv.net.ru:2086/live/santi/santi/51.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://pstv.net.ru:2086/live/santi/santi/48.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://pstv.net.ru:2086/live/santi/santi/49.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://pstv.net.ru:2086/live/santi/santi/50.ts
-#EXTINF:-1,Sportitalia
-http://pstv.net.ru:2086/live/santi/santi/52.ts
-#EXTINF:-1,Eurosport
-http://pstv.net.ru:2086/live/santi/santi/53.ts
-#EXTINF:-1,Eurosport 2
-http://pstv.net.ru:2086/live/santi/santi/54.ts
-#EXTINF:-1,Bike Channel HD
-http://pstv.net.ru:2086/live/santi/santi/55.ts
-#EXTINF:-1,POKERItalia24
-http://pstv.net.ru:2086/live/santi/santi/1703.ts
-#EXTINF:-1,SuperTennis HD
-http://pstv.net.ru:2086/live/santi/santi/56.ts
-#EXTINF:-1,--- - SPORT SD - ---
-http://pstv.net.ru:2086/live/santi/santi/3812.ts
-#EXTINF:-1,Sky Sport24
-http://pstv.net.ru:2086/live/santi/santi/1736.ts
-#EXTINF:-1,Sky Sport 1
-http://pstv.net.ru:2086/live/santi/santi/1737.ts
-#EXTINF:-1,Sky Sport 2
-http://pstv.net.ru:2086/live/santi/santi/1738.ts
-#EXTINF:-1,Sky Sport 3
-http://pstv.net.ru:2086/live/santi/santi/1739.ts
-#EXTINF:-1,Fox Sports
-http://pstv.net.ru:2086/live/santi/santi/1742.ts
-#EXTINF:-1,Sky Sport Plus
-http://pstv.net.ru:2086/live/santi/santi/1743.ts
-#EXTINF:-1,Sky Sport F1
-http://pstv.net.ru:2086/live/santi/santi/1740.ts
-#EXTINF:-1,Sky Sport MotoGP
-http://pstv.net.ru:2086/live/santi/santi/1741.ts
-#EXTINF:-1,SuperTennis
-http://pstv.net.ru:2086/live/santi/santi/1744.ts
-#EXTINF:-1,--- - CALCIO - ---
-http://pstv.net.ru:2086/live/santi/santi/57.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://pstv.net.ru:2086/live/santi/santi/58.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://pstv.net.ru:2086/live/santi/santi/59.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://pstv.net.ru:2086/live/santi/santi/60.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://pstv.net.ru:2086/live/santi/santi/61.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://pstv.net.ru:2086/live/santi/santi/62.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://pstv.net.ru:2086/live/santi/santi/63.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://pstv.net.ru:2086/live/santi/santi/64.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://pstv.net.ru:2086/live/santi/santi/1450.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://pstv.net.ru:2086/live/santi/santi/1451.ts
-#EXTINF:-1,J | Juventus TV
-http://pstv.net.ru:2086/live/santi/santi/272.ts
-#EXTINF:-1,Inter Channel
-http://pstv.net.ru:2086/live/santi/santi/65.ts
-#EXTINF:-1,Milan Channel
-http://pstv.net.ru:2086/live/santi/santi/66.ts
-#EXTINF:-1,Roma TV
-http://pstv.net.ru:2086/live/santi/santi/67.ts
-#EXTINF:-1,--- - CALCIO SD - ---
-http://pstv.net.ru:2086/live/santi/santi/3813.ts
-#EXTINF:-1,Sky Supercalcio
-http://pstv.net.ru:2086/live/santi/santi/1772.ts
-#EXTINF:-1,Sky Calcio 1
-http://pstv.net.ru:2086/live/santi/santi/2101.ts
-#EXTINF:-1,Sky Calcio 2
-http://pstv.net.ru:2086/live/santi/santi/2102.ts
-#EXTINF:-1,Sky Calcio 3
-http://pstv.net.ru:2086/live/santi/santi/2103.ts
-#EXTINF:-1,Sky Calcio 4
-http://pstv.net.ru:2086/live/santi/santi/2104.ts
-#EXTINF:-1,Sky Calcio 5
-http://pstv.net.ru:2086/live/santi/santi/2105.ts
-#EXTINF:-1,Sky Calcio 6
-http://pstv.net.ru:2086/live/santi/santi/2106.ts
-#EXTINF:-1,Sky Calcio 7
-http://pstv.net.ru:2086/live/santi/santi/2107.ts
-#EXTINF:-1,Sky Calcio 8
-http://pstv.net.ru:2086/live/santi/santi/2108.ts
-#EXTINF:-1,Sky Calcio 9
-http://pstv.net.ru:2086/live/santi/santi/1452.ts
-#EXTINF:-1,Sky Calcio 10
-http://pstv.net.ru:2086/live/santi/santi/1453.ts
-#EXTINF:-1,Sky Calcio 11
-http://pstv.net.ru:2086/live/santi/santi/1454.ts
-#EXTINF:-1,Sky Calcio 12
-http://pstv.net.ru:2086/live/santi/santi/1455.ts
-#EXTINF:-1,--- - CULTURA - ---
-http://pstv.net.ru:2086/live/santi/santi/68.ts
-#EXTINF:-1,eXplora HD
-http://pstv.net.ru:2086/live/santi/santi/69.ts
-#EXTINF:-1,eXplora +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4803.ts
-#EXTINF:-1,NationalGeo HD
-http://pstv.net.ru:2086/live/santi/santi/70.ts
-#EXTINF:-1,NationalGeo +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4797.ts
-#EXTINF:-1,NatGeo People HD
-http://pstv.net.ru:2086/live/santi/santi/71.ts
-#EXTINF:-1,NatGeo People +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4799.ts
-#EXTINF:-1,NatGeo Wild HD
-http://pstv.net.ru:2086/live/santi/santi/72.ts
-#EXTINF:-1,NatGeo Wild +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4798.ts
-#EXTINF:-1,Discovery HD
-http://pstv.net.ru:2086/live/santi/santi/73.ts
-#EXTINF:-1,Discovery +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4804.ts
-#EXTINF:-1,Discovery Sci HD
-http://pstv.net.ru:2086/live/santi/santi/74.ts
-#EXTINF:-1,Discovery Sci +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4806.ts
-#EXTINF:-1,Discovery TeL HD
-http://pstv.net.ru:2086/live/santi/santi/75.ts
-#EXTINF:-1,Discovery TeL +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4805.ts
-#EXTINF:-1,CI Crime+Inv.HD
-http://pstv.net.ru:2086/live/santi/santi/76.ts
-#EXTINF:-1,CI Crime+Inv +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4809.ts
-#EXTINF:-1,Focus
-http://pstv.net.ru:2086/live/santi/santi/77.ts
-#EXTINF:-1,Focus +1
-http://pstv.net.ru:2086/live/santi/santi/4802.ts
-#EXTINF:-1,DMAX HD
-http://pstv.net.ru:2086/live/santi/santi/78.ts
-#EXTINF:-1,DMAX +1
-http://pstv.net.ru:2086/live/santi/santi/1704.ts
-#EXTINF:-1,Animal Planet
-http://pstv.net.ru:2086/live/santi/santi/79.ts
-#EXTINF:-1,Animal Planet +1
-http://pstv.net.ru:2086/live/santi/santi/4807.ts
-#EXTINF:-1,History HD
-http://pstv.net.ru:2086/live/santi/santi/80.ts
-#EXTINF:-1,History +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4800.ts
-#EXTINF:-1,Sky Arte HD
-http://pstv.net.ru:2086/live/santi/santi/82.ts
-#EXTINF:-1,Sky Arte +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4796.ts
-#EXTINF:-1,Gambero Rosso HD
-http://pstv.net.ru:2086/live/santi/santi/81.ts
-#EXTINF:-1,Gambero Rosso +1 HD
-http://pstv.net.ru:2086/live/santi/santi/4801.ts
-#EXTINF:-1,CACCIA e Pesca
-http://pstv.net.ru:2086/live/santi/santi/83.ts
-#EXTINF:-1,CACCIA e Pesca +1
-http://pstv.net.ru:2086/live/santi/santi/4810.ts
-#EXTINF:-1,Caccia e PESCA
-http://pstv.net.ru:2086/live/santi/santi/416.ts
-#EXTINF:-1,Caccia e PESCA +1
-http://pstv.net.ru:2086/live/santi/santi/4808.ts
-#EXTINF:-1,ALICE
-http://pstv.net.ru:2086/live/santi/santi/84.ts
-#EXTINF:-1,MARCOPOLO
-http://pstv.net.ru:2086/live/santi/santi/86.ts
-#EXTINF:-1,NUVOLARI
-http://pstv.net.ru:2086/live/santi/santi/87.ts
-#EXTINF:-1,--- - CULTURA SD - ---
-http://pstv.net.ru:2086/live/santi/santi/3814.ts
-#EXTINF:-1,eXplora
-http://pstv.net.ru:2086/live/santi/santi/1762.ts
-#EXTINF:-1,NationalGeo
-http://pstv.net.ru:2086/live/santi/santi/1763.ts
-#EXTINF:-1,NatGeo People
-http://pstv.net.ru:2086/live/santi/santi/1764.ts
-#EXTINF:-1,NatGeo Wild
-http://pstv.net.ru:2086/live/santi/santi/1765.ts
-#EXTINF:-1,Discovery
-http://pstv.net.ru:2086/live/santi/santi/1766.ts
-#EXTINF:-1,Discovery Sci
-http://pstv.net.ru:2086/live/santi/santi/1767.ts
-#EXTINF:-1,Discovery TeL
-http://pstv.net.ru:2086/live/santi/santi/1768.ts
-#EXTINF:-1,CI Crime+Inv.
-http://pstv.net.ru:2086/live/santi/santi/1769.ts
-#EXTINF:-1,Sky Arte
-http://pstv.net.ru:2086/live/santi/santi/1771.ts
-#EXTINF:-1,Gambero Rosso
-http://pstv.net.ru:2086/live/santi/santi/1770.ts
-#EXTINF:-1,--- - PRIMAFILA - ---
-http://pstv.net.ru:2086/live/santi/santi/171.ts
-#EXTINF:-1,Primafila 1 HD Deadpool (2016)
-http://pstv.net.ru:2086/movie/santi/santi/308.mkv
-#EXTINF:-1,Primafila 2 HD Zootropolis (2016)
-http://pstv.net.ru:2086/movie/santi/santi/309.mkv
-#EXTINF:-1,Primafila 3 HD Io che amo solo te (2015)
-http://pstv.net.ru:2086/movie/santi/santi/310.mkv
-#EXTINF:-1,Primafila 4 HD Premonitions (2015)
-http://pstv.net.ru:2086/movie/santi/santi/311.mkv
-#EXTINF:-1,Primafila 5 HD Zoolander 2 (2016)
-http://pstv.net.ru:2086/movie/santi/santi/312.mkv
-#EXTINF:-1,Primafila 6 HD Reversal La fuga e  solo l inizio (2016)
-http://pstv.net.ru:2086/movie/santi/santi/313.mkv
-#EXTINF:-1,--PRIMAFILA LIVE
-#EXTINF:-1,Sky Prima fila 1 HD
-http://ipsatpro.com:8000/live/170216/170216/601.ts
-#EXTINF:-1,Sky Prima fila 2 HD
-http://ipsatpro.com:8000/live/170216/170216/600.ts
-#EXTINF:-1,Sky Prima fila 3 HD
-http://ipsatpro.com:8000/live/170216/170216/599.ts
-#EXTINF:-1,Sky Prima fila 4 HD
-http://ipsatpro.com:8000/live/170216/170216/598.ts
-#EXTINF:-1,Sky Prima fila 5 HD
-http://ipsatpro.com:8000/live/170216/170216/597.ts
-#EXTINF:-1,Sky Prima fila 6 HD
-http://ipsatpro.com:8000/live/170216/170216/596.ts
-#EXTINF:-1,Sky Prima fila 7 HD
-http://ipsatpro.com:8000/live/170216/170216/595.ts
-#EXTINF:-1,Sky Prima fila 8 HD
-http://ipsatpro.com:8000/live/170216/170216/594.ts
-#EXTINF:-1,Sky Prima fila 9 HD
-http://ipsatpro.com:8000/live/170216/170216/593.ts
-#EXTINF:-1,Sky Prima fila 10 HD
-http://ipsatpro.com:8000/live/170216/170216/592.ts
-#EXTINF:-1,Sky Prima fila 11 HD
-http://ipsatpro.com:8000/live/170216/170216/591.ts
-#EXTINF:-1,Sky Prima fila 12 HD
-http://ipsatpro.com:8000/live/170216/170216/590.ts
-#EXTINF:-1,Sky Prima fila 13 HD
-http://ipsatpro.com:8000/live/170216/170216/589.ts
-#EXTINF:-1,Sky Prima fila 14 HD
-http://ipsatpro.com:8000/live/170216/170216/588.ts
-#EXTINF:-1,Sky Prima fila 15 HD
-http://ipsatpro.com:8000/live/170216/170216/587.ts
-#EXTINF:-1,Sky Prima Fila WWE HD
-http://ipsatpro.com:8000/live/170216/170216/586.ts
-#EXTINF:-1,--- - MUSICA - ---
-http://pstv.net.ru:2086/live/santi/santi/88.ts
-#EXTINF:-1,MTV8
-http://pstv.net.ru:2086/live/santi/santi/89.ts
-#EXTINF:-1,MTV Live HD
-http://pstv.net.ru:2086/live/santi/santi/280.ts
-#EXTINF:-1,MTV Music
-http://pstv.net.ru:2086/live/santi/santi/90.ts
-#EXTINF:-1,MTV Hits
-http://pstv.net.ru:2086/live/santi/santi/275.ts
-#EXTINF:-1,MTV Rocks
-http://pstv.net.ru:2086/live/santi/santi/279.ts
-#EXTINF:-1,MTV Dance
-http://pstv.net.ru:2086/live/santi/santi/276.ts
-#EXTINF:-1,MTV Brand New
-http://pstv.net.ru:2086/live/santi/santi/91.ts
-#EXTINF:-1,M2O TV
-http://pstv.net.ru:2086/live/santi/santi/92.ts
-#EXTINF:-1,Deejay TV | NOVE
-http://pstv.net.ru:2086/live/santi/santi/93.ts
-#EXTINF:-1,Deejay TV +1 | NOVE
-http://pstv.net.ru:2086/live/santi/santi/94.ts
-#EXTINF:-1,Radio Italia TV
-http://pstv.net.ru:2086/live/santi/santi/95.ts
-#EXTINF:-1,Radio 101
-http://pstv.net.ru:2086/live/santi/santi/96.ts
-#EXTINF:-1,Vevo TV 1 HD
-http://pstv.net.ru:2086/live/santi/santi/2280.ts
-#EXTINF:-1,Vevo TV 2 HD
-http://pstv.net.ru:2086/live/santi/santi/2281.ts
-#EXTINF:-1,Vevo TV 3 HD
-http://pstv.net.ru:2086/live/santi/santi/2282.ts
-#EXTINF:-1,RTL 102.5 TV
-http://pstv.net.ru:2086/live/santi/santi/290.ts
-#EXTINF:-1,Radio 105 TV
-http://pstv.net.ru:2086/live/santi/santi/294.ts
-#EXTINF:-1,Radio Norba TV
-http://pstv.net.ru:2086/live/santi/santi/296.ts
-#EXTINF:-1,Virgin Radio TV
-http://pstv.net.ru:2086/live/santi/santi/286.ts
-#EXTINF:-1,Radio Capital TV
-http://pstv.net.ru:2086/live/santi/santi/293.ts
-#EXTINF:-1,UTV
-http://pstv.net.ru:2086/live/santi/santi/277.ts
-#EXTINF:-1,Onda Italiana
-http://pstv.net.ru:2086/live/santi/santi/97.ts
-#EXTINF:-1,Trace Urban
-http://pstv.net.ru:2086/live/santi/santi/288.ts
-#EXTINF:-1,VH1 Europe HD
-http://pstv.net.ru:2086/live/santi/santi/287.ts
-#EXTINF:-1,Rock TV
-http://pstv.net.ru:2086/live/santi/santi/291.ts
-#EXTINF:-1,K-TV
-http://pstv.net.ru:2086/live/santi/santi/297.ts
-#EXTINF:-1,Heart TV
-http://pstv.net.ru:2086/live/santi/santi/301.ts
-#EXTINF:-1,Electro Sound
-http://pstv.net.ru:2086/live/santi/santi/303.ts
-#EXTINF:-1,Music Vox TV
-http://pstv.net.ru:2086/live/santi/santi/98.ts
-#EXTINF:-1,Ibiza on TV
-http://pstv.net.ru:2086/live/santi/santi/281.ts
-#EXTINF:-1,Best Music HD
-http://pstv.net.ru:2086/live/santi/santi/99.ts
-#EXTINF:-1,--- - BAMBINI - ---
-http://pstv.net.ru:2086/live/santi/santi/100.ts
-#EXTINF:-1,Nickelodeon
-http://pstv.net.ru:2086/live/santi/santi/107.ts
-#EXTINF:-1,Disney Channel HD
-http://pstv.net.ru:2086/live/santi/santi/101.ts
-#EXTINF:-1,Disney Channel +1
-http://pstv.net.ru:2086/live/santi/santi/102.ts
-#EXTINF:-1,Disney XD HD
-http://pstv.net.ru:2086/live/santi/santi/103.ts
-#EXTINF:-1,Disney Junior
-http://pstv.net.ru:2086/live/santi/santi/104.ts
-#EXTINF:-1,Cartoon Network
-http://pstv.net.ru:2086/live/santi/santi/154.ts
-#EXTINF:-1,Baby TV
-http://pstv.net.ru:2086/live/santi/santi/105.ts
-#EXTINF:-1,Cartoonito
-http://pstv.net.ru:2086/live/santi/santi/106.ts
+http://ipsatpro.com:8000/live/kamal/kamal/677.ts
+#EXTINF:-1,Sky Cinema +Max HD
+http://ipsatpro.com:8000/live/kamal/kamal/673.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://ipsatpro.com:8000/live/kamal/kamal/678.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://ipsatpro.com:8000/live/kamal/kamal/671.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://ipsatpro.com:8000/live/kamal/kamal/670.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://ipsatpro.com:8000/live/kamal/kamal/674.ts
+#EXTINF:-1,Sky Cinema 3D
+http://ipsatpro.com:8000/live/kamal/kamal/562.ts
+#EXTINF:-1,------ Intrattenimento ----
+http://ipsatpro.com:8000/live/kamal/kamal/669.ts
+#EXTINF:-1,Mtv Music
+http://ipsatpro.com:8000/live/kamal/kamal/668.ts
+#EXTINF:-1,Cielo
+http://ipsatpro.com:8000/live/kamal/kamal/658.ts
 #EXTINF:-1,Boing
-http://pstv.net.ru:2086/live/santi/santi/108.ts
+http://ipsatpro.com:8000/live/kamal/kamal/659.ts
 #EXTINF:-1,Super!
-http://pstv.net.ru:2086/live/santi/santi/110.ts
-#EXTINF:-1,K2
-http://pstv.net.ru:2086/live/santi/santi/111.ts
-#EXTINF:-1,-frisbee-
-http://pstv.net.ru:2086/live/santi/santi/112.ts
-#EXTINF:-1,Peppa Pig Channel
-http://pstv.net.ru:2086/live/santi/santi/4616.ts
-#EXTINF:-1,--- - NOTIZIE - ---
-http://pstv.net.ru:2086/live/santi/santi/113.ts
-#EXTINF:-1,Sky TG24 HD
-http://pstv.net.ru:2086/live/santi/santi/114.ts
-#EXTINF:-1,TgCom24
-http://pstv.net.ru:2086/live/santi/santi/115.ts
-#EXTINF:-1,Rai News24
-http://pstv.net.ru:2086/live/santi/santi/116.ts
-#EXTINF:-1,BBC News
-http://pstv.net.ru:2086/live/santi/santi/117.ts
-#EXTINF:-1,BBC World News
-http://pstv.net.ru:2086/live/santi/santi/304.ts
-#EXTINF:-1,BBC Four
-http://pstv.net.ru:2086/live/santi/santi/118.ts
-#EXTINF:-1,BBC Entertainment
-http://pstv.net.ru:2086/live/santi/santi/119.ts
-#EXTINF:-1,Class CNBC
-http://pstv.net.ru:2086/live/santi/santi/305.ts
-#EXTINF:-1,CNN International
-http://pstv.net.ru:2086/live/santi/santi/278.ts
-#EXTINF:-1,ABC News
-http://pstv.net.ru:2086/live/santi/santi/282.ts
-#EXTINF:-1,Euronews
-http://pstv.net.ru:2086/live/santi/santi/292.ts
-#EXTINF:-1,WeatherNation
-http://pstv.net.ru:2086/live/santi/santi/285.ts
-#EXTINF:-1,Senato TV
-http://pstv.net.ru:2086/live/santi/santi/306.ts
-#EXTINF:-1,Camera dei Deputati
-http://pstv.net.ru:2086/live/santi/santi/307.ts
-#EXTINF:-1,France 24
-http://pstv.net.ru:2086/live/santi/santi/302.ts
-#EXTINF:-1,iTÃ©lÃ©
-http://pstv.net.ru:2086/live/santi/santi/300.ts
-#EXTINF:-1,Russia Today
-http://pstv.net.ru:2086/live/santi/santi/283.ts
-#EXTINF:-1,Rossiya 24
-http://pstv.net.ru:2086/live/santi/santi/284.ts
+http://ipsatpro.com:8000/live/kamal/kamal/558.ts
+#EXTINF:-1,k2
+http://ipsatpro.com:8000/live/kamal/kamal/557.ts
+#EXTINF:-1,Iris
+http://ipsatpro.com:8000/live/kamal/kamal/676.ts
+#EXTINF:-1,Fox HD
+http://ipsatpro.com:8000/live/kamal/kamal/664.ts
+#EXTINF:-1,Fox Life HD
+http://ipsatpro.com:8000/live/kamal/kamal/665.ts
+#EXTINF:-1,Fox Crime HD
+http://ipsatpro.com:8000/live/kamal/kamal/663.ts
+#EXTINF:-1,Fox Comedy HD
+http://ipsatpro.com:8000/live/kamal/kamal/662.ts
+#EXTINF:-1,Sky Top Crime
+http://ipsatpro.com:8000/live/kamal/kamal/559.ts
+#EXTINF:-1,Sky Atlantic HD
+http://ipsatpro.com:8000/live/kamal/kamal/666.ts
+#EXTINF:-1,Sky Uno HD
+http://ipsatpro.com:8000/live/kamal/kamal/667.ts
+#EXTINF:-1,Sky Focus
+http://ipsatpro.com:8000/live/kamal/kamal/660.ts
+#EXTINF:-1,Sky Mediaset Extra
+http://ipsatpro.com:8000/live/kamal/kamal/603.ts
+#EXTINF:-1,Sky Mediaset Italia 2
+http://ipsatpro.com:8000/live/kamal/kamal/661.ts
+#EXTINF:-1,---------- sport ----------
+http://ipsatpro.com:8000/live/kamal/kamal/656.ts
+#EXTINF:-1,Fox Sports 1 HD
+http://ipsatpro.com:8000/live/kamal/kamal/650.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://ipsatpro.com:8000/live/kamal/kamal/655.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://ipsatpro.com:8000/live/kamal/kamal/654.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://ipsatpro.com:8000/live/kamal/kamal/653.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://ipsatpro.com:8000/live/kamal/kamal/652.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://ipsatpro.com:8000/live/kamal/kamal/651.ts
+#EXTINF:-1,Sky Moto GP HD
+http://ipsatpro.com:8000/live/kamal/kamal/646.ts
+#EXTINF:-1,Super Tennis HD
+http://ipsatpro.com:8000/live/kamal/kamal/645.ts
+#EXTINF:-1,---------- Calcio -----------
+http://ipsatpro.com:8000/live/kamal/kamal/644.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://ipsatpro.com:8000/live/kamal/kamal/643.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://ipsatpro.com:8000/live/kamal/kamal/642.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://ipsatpro.com:8000/live/kamal/kamal/641.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://ipsatpro.com:8000/live/kamal/kamal/640.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://ipsatpro.com:8000/live/kamal/kamal/568.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://ipsatpro.com:8000/live/kamal/kamal/567.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://ipsatpro.com:8000/live/kamal/kamal/566.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://ipsatpro.com:8000/live/kamal/kamal/565.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://ipsatpro.com:8000/live/kamal/kamal/564.ts
+#EXTINF:-1,Rai Sport 1
+http://ipsatpro.com:8000/live/kamal/kamal/639.ts
+#EXTINF:-1,Rai Sport 2
+http://ipsatpro.com:8000/live/kamal/kamal/560.ts
+#EXTINF:-1,SportTitalia
+http://ipsatpro.com:8000/live/kamal/kamal/638.ts
+#EXTINF:-1,Rete Sport
+http://ipsatpro.com:8000/live/kamal/kamal/1840.ts
+#EXTINF:-1,Sky Eurosport
+http://ipsatpro.com:8000/live/kamal/kamal/637.ts
+#EXTINF:-1,Sky Eurosport 2
+http://ipsatpro.com:8000/live/kamal/kamal/636.ts
+#EXTINF:-1,--------- Cultura ----------
+http://ipsatpro.com:8000/live/kamal/kamal/635.ts
+#EXTINF:-1,Sky TG 24
+http://ipsatpro.com:8000/live/kamal/kamal/629.ts
+#EXTINF:-1,Discovery HD
+http://ipsatpro.com:8000/live/kamal/kamal/630.ts
+#EXTINF:-1,Sky History HD
+http://ipsatpro.com:8000/live/kamal/kamal/634.ts
+#EXTINF:-1,National Geo HD
+http://ipsatpro.com:8000/live/kamal/kamal/633.ts
+#EXTINF:-1,NatGeo Wild HD
+http://ipsatpro.com:8000/live/kamal/kamal/632.ts
+#EXTINF:-1,NatGeo People HD
+http://ipsatpro.com:8000/live/kamal/kamal/631.ts
+#EXTINF:-1,Sky Animal Planet
+http://ipsatpro.com:8000/live/kamal/kamal/604.ts
+#EXTINF:-1,----PREMIUM CINEMA ----
+http://ipsatpro.com:8000/live/kamal/kamal/628.ts
+#EXTINF:-1,Premium Cinema HD
+http://ipsatpro.com:8000/live/kamal/kamal/627.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://ipsatpro.com:8000/live/kamal/kamal/609.ts
+#EXTINF:-1,Premium Cinema +24
+http://ipsatpro.com:8000/live/kamal/kamal/612.ts
+#EXTINF:-1,Premium Crime
+http://ipsatpro.com:8000/live/kamal/kamal/621.ts
+#EXTINF:-1,Premium Crime +24
+http://ipsatpro.com:8000/live/kamal/kamal/611.ts
+#EXTINF:-1,Premium Action HD
+http://ipsatpro.com:8000/live/kamal/kamal/626.ts
+#EXTINF:-1,Premium Comedy
+http://ipsatpro.com:8000/live/kamal/kamal/620.ts
+#EXTINF:-1,Premium Action +24 HD
+http://ipsatpro.com:8000/live/kamal/kamal/618.ts
+#EXTINF:-1,Premium Stories
+http://ipsatpro.com:8000/live/kamal/kamal/625.ts
+#EXTINF:-1,Premium Joy
+http://ipsatpro.com:8000/live/kamal/kamal/624.ts
+#EXTINF:-1,Premium Energy
+http://ipsatpro.com:8000/live/kamal/kamal/623.ts
+#EXTINF:-1,Premium Emotion
+http://ipsatpro.com:8000/live/kamal/kamal/622.ts
+#EXTINF:-1,Premium Studio Universal
+http://ipsatpro.com:8000/live/kamal/kamal/619.ts
+#EXTINF:-1,Premium Disney Junior
+http://ipsatpro.com:8000/live/kamal/kamal/617.ts
+#EXTINF:-1,Premium Disney Channel
+http://ipsatpro.com:8000/live/kamal/kamal/616.ts
+#EXTINF:-1,Premium Stories +24
+http://ipsatpro.com:8000/live/kamal/kamal/614.ts
+#EXTINF:-1,Premium Cartoon Network
+http://ipsatpro.com:8000/live/kamal/kamal/613.ts
+#EXTINF:-1,----PREMIUM SPORT ----
+http://ipsatpro.com:8000/live/kamal/kamal/628.ts
+#EXTINF:-1,Premium Sport
+http://ipsatpro.com:8000/live/kamal/kamal/615.ts
+#EXTINF:-1,Premium EuroSport 1 HD
+http://ipsatpro.com:8000/live/kamal/kamal/608.ts
+#EXTINF:-1,Premium EuroSport 2 HD
+http://ipsatpro.com:8000/live/kamal/kamal/610.ts
+#EXTINF:-1,Premium Calcio HD
+http://ipsatpro.com:8000/live/kamal/kamal/607.ts
+#EXTINF:-1,Premium Calcio 1
+http://ipsatpro.com:8000/live/kamal/kamal/606.ts
+#EXTINF:-1,Premium Calcio 2
+http://ipsatpro.com:8000/live/kamal/kamal/605.ts
+#EXTINF:-1,----------PRIMAFILA---------
+http://ipsatpro.com:8000/live/kamal/kamal/602.ts
+#EXTINF:-1,Sky Prima fila 1 HD
+http://ipsatpro.com:8000/live/kamal/kamal/601.ts
+#EXTINF:-1,Sky Prima fila 2 HD
+http://ipsatpro.com:8000/live/kamal/kamal/600.ts
+#EXTINF:-1,Sky Prima fila 3 HD
+http://ipsatpro.com:8000/live/kamal/kamal/599.ts
+#EXTINF:-1,Sky Prima fila 4 HD
+http://ipsatpro.com:8000/live/kamal/kamal/598.ts
+#EXTINF:-1,Sky Prima fila 5 HD
+http://ipsatpro.com:8000/live/kamal/kamal/597.ts
+#EXTINF:-1,Sky Prima fila 6 HD
+http://ipsatpro.com:8000/live/kamal/kamal/596.ts
+#EXTINF:-1,Sky Prima fila 7 HD
+http://ipsatpro.com:8000/live/kamal/kamal/595.ts
+#EXTINF:-1,Sky Prima fila 8 HD
+http://ipsatpro.com:8000/live/kamal/kamal/594.ts
+#EXTINF:-1,Sky Prima fila 9 HD
+http://ipsatpro.com:8000/live/kamal/kamal/593.ts
+#EXTINF:-1,Sky Prima fila 10 HD
+http://ipsatpro.com:8000/live/kamal/kamal/592.ts
+#EXTINF:-1,Sky Prima fila 11 HD
+http://ipsatpro.com:8000/live/kamal/kamal/591.ts
+#EXTINF:-1,Sky Prima fila 12 HD
+http://ipsatpro.com:8000/live/kamal/kamal/590.ts
+#EXTINF:-1,Sky Prima fila 13 HD
+http://ipsatpro.com:8000/live/kamal/kamal/589.ts
+#EXTINF:-1,Sky Prima fila 14 HD
+http://ipsatpro.com:8000/live/kamal/kamal/588.ts
+#EXTINF:-1,Sky Prima fila 15 HD
+http://ipsatpro.com:8000/live/kamal/kamal/587.ts
+#EXTINF:-1,Sky Prima Fila WWE HD
+http://ipsatpro.com:8000/live/kamal/kamal/586.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

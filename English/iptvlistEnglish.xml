@@ -1,212 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <List>
 #EXTM3U
-#EXTINF:-1,----------- SKY UK -----------
-http://ipsatpro.com:8000/live/bozil/bozil/551.ts
-#EXTINF:-1,Sky News HD
-http://ipsatpro.com:8000/live/kamal/kamal/550.ts
-#EXTINF:-1,Sky Sports News HD
-http://ipsatpro.com:8000/live/kamal/kamal/549.ts
-#EXTINF:-1,Sky Sports 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/548.ts
-#EXTINF:-1,Sky Sport 1 SD
-http://ipsatpro.com:8000/live/kamal/kamal/533.ts
-#EXTINF:-1,Sky Sports 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/547.ts
-#EXTINF:-1,Sky Sport 2 SD
-http://ipsatpro.com:8000/live/kamal/kamal/532.ts
-#EXTINF:-1,Sky Sports 3 HD
-http://ipsatpro.com:8000/live/kamal/kamal/546.ts
-#EXTINF:-1,Sky Sport 3 SD
-http://ipsatpro.com:8000/live/kamal/kamal/531.ts
-#EXTINF:-1,Sky Sports 4 HD
-http://ipsatpro.com:8000/live/kamal/kamal/545.ts
-#EXTINF:-1,Sky Sport 4 SD
-http://ipsatpro.com:8000/live/kamal/kamal/530.ts
-#EXTINF:-1,Sky Sports 5 HD
-http://ipsatpro.com:8000/live/kamal/kamal/544.ts
-#EXTINF:-1,Sky Sport 5 SD
-http://ipsatpro.com:8000/live/kamal/kamal/529.ts
-#EXTINF:-1,Sky Sports F1
-http://ipsatpro.com:8000/live/kamal/kamal/539.ts
-#EXTINF:-1,Sky Premier Sports HD
-http://ipsatpro.com:8000/live/kamal/kamal/513.ts
-#EXTINF:-1,Sky Setanta Sports
-http://ipsatpro.com:8000/live/kamal/kamal/484.ts
-#EXTINF:-1,Sky Eurosport 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/541.ts
-#EXTINF:-1,Sky Eurosport 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/540.ts
-#EXTINF:-1,Sky BT Sport 1
-http://ipsatpro.com:8000/live/kamal/kamal/543.ts
-#EXTINF:-1,Sky BT Sport 2
-http://ipsatpro.com:8000/live/kamal/kamal/542.ts
-#EXTINF:-1,Sky BT Sport 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/528.ts
-#EXTINF:-1,Sky BT Sport 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/527.ts
-#EXTINF:-1,Sky BT Sport Europe
-http://ipsatpro.com:8000/live/kamal/kamal/453.ts
-#EXTINF:-1,Sky Liverpool FC TV HD
-http://ipsatpro.com:8000/live/kamal/kamal/536.ts
-#EXTINF:-1,Sky Chelsea TV HD
-http://ipsatpro.com:8000/live/kamal/kamal/537.ts
-#EXTINF:-1,Sky MUTV
-http://ipsatpro.com:8000/live/kamal/kamal/535.ts
-#EXTINF:-1,Sky LFC TV
-http://ipsatpro.com:8000/live/kamal/kamal/461.ts
-#EXTINF:-1,Sky Movies Premiere HD
-http://ipsatpro.com:8000/live/kamal/kamal/519.ts
-#EXTINF:-1,Sky Movies Disney
-http://ipsatpro.com:8000/live/kamal/kamal/516.ts
-#EXTINF:-1,Sky Movies Select HD
-http://ipsatpro.com:8000/live/kamal/kamal/517.ts
-#EXTINF:-1,Sky Movies Action HD
-http://ipsatpro.com:8000/live/kamal/kamal/511.ts
-#EXTINF:-1,Sky Movies Greats
-http://ipsatpro.com:8000/live/kamal/kamal/518.ts
-#EXTINF:-1,Sky Movies Family HD
-http://ipsatpro.com:8000/live/kamal/kamal/520.ts
-#EXTINF:-1,Sky Movies Drama HD
-http://ipsatpro.com:8000/live/kamal/kamal/521.ts
-#EXTINF:-1,Sky Movies Comedy HD
-http://ipsatpro.com:8000/live/kamal/kamal/524.ts
-#EXTINF:-1,Sky Movies Crime
-http://ipsatpro.com:8000/live/kamal/kamal/512.ts
-#EXTINF:-1,Sky Movies Sci-Fi+
-http://ipsatpro.com:8000/live/kamal/kamal/515.ts
-#EXTINF:-1,Sky Movies 24
-http://ipsatpro.com:8000/live/kamal/kamal/523.ts
-#EXTINF:-1,Sky True Movies1
-http://ipsatpro.com:8000/live/kamal/kamal/472.ts
-#EXTINF:-1,Sky True Movies 2
-http://ipsatpro.com:8000/live/kamal/kamal/534.ts
-#EXTINF:-1,Sky More 4 HD
-http://ipsatpro.com:8000/live/kamal/kamal/504.ts
-#EXTINF:-1,Sky Film 4 HD
-http://ipsatpro.com:8000/live/kamal/kamal/505.ts
-#EXTINF:-1,Sky ITV 1
-http://ipsatpro.com:8000/live/kamal/kamal/471.ts
-#EXTINF:-1,Sky ITV 2
-http://ipsatpro.com:8000/live/kamal/kamal/470.ts
-#EXTINF:-1,Sky ITV 3
-http://ipsatpro.com:8000/live/kamal/kamal/469.ts
-#EXTINF:-1,Sky ITV 4
-http://ipsatpro.com:8000/live/kamal/kamal/468.ts
-#EXTINF:-1,Sky ITV Encore
-http://ipsatpro.com:8000/live/kamal/kamal/467.ts
-#EXTINF:-1,Sky Cbs Drama
-http://ipsatpro.com:8000/live/kamal/kamal/482.ts
-#EXTINF:-1,Sky Cbs Action
-http://ipsatpro.com:8000/live/kamal/kamal/481.ts
-#EXTINF:-1,Sky CBS Reality
-http://ipsatpro.com:8000/live/kamal/kamal/510.ts
-#EXTINF:-1,Sky BBC One HD
-http://ipsatpro.com:8000/live/kamal/kamal/488.ts
-#EXTINF:-1,Sky BBC Two HD
-http://ipsatpro.com:8000/live/kamal/kamal/487.ts
-#EXTINF:-1,Sky BBC Three HD
-http://ipsatpro.com:8000/live/kamal/kamal/486.ts
-#EXTINF:-1,Sky BBC Four HD
-http://ipsatpro.com:8000/live/kamal/kamal/485.ts
-#EXTINF:-1,Sky BT Sport Extra
-http://ipsatpro.com:8000/live/kamal/kamal/479.ts
-#EXTINF:-1,Sky Comedy Central
-http://ipsatpro.com:8000/live/kamal/kamal/463.ts
-#EXTINF:-1,Sky Comedy Central Ex
-http://ipsatpro.com:8000/live/kamal/kamal/462.ts
-#EXTINF:-1,Sky History 2
-http://ipsatpro.com:8000/live/kamal/kamal/452.ts
-#EXTINF:-1,Sky Nickelodeon
-http://ipsatpro.com:8000/live/kamal/kamal/503.ts
-#EXTINF:-1,Sky Disney XD HD
-http://ipsatpro.com:8000/live/kamal/kamal/493.ts
-#EXTINF:-1,Sky Disney Junior HD
-http://ipsatpro.com:8000/live/kamal/kamal/494.ts
-#EXTINF:-1,Sky Food Network
-http://ipsatpro.com:8000/live/kamal/kamal/495.ts
-#EXTINF:-1,Sky Discovery
-http://ipsatpro.com:8000/live/kamal/kamal/464.ts
-#EXTINF:-1,Sky Disney Chaneel HD
-http://ipsatpro.com:8000/live/kamal/kamal/492.ts
-#EXTINF:-1,Sky Cartoon Network
-http://ipsatpro.com:8000/live/kamal/kamal/522.ts
-#EXTINF:-1,Sky Discovery Science
-http://ipsatpro.com:8000/live/kamal/kamal/526.ts
-#EXTINF:-1,Sky Discovery History
-http://ipsatpro.com:8000/live/kamal/kamal/491.ts
-#EXTINF:-1,Sky Discovery Turbo
-http://ipsatpro.com:8000/live/kamal/kamal/465.ts
-#EXTINF:-1,Sky Ci
-http://ipsatpro.com:8000/live/kamal/kamal/514.ts
-#EXTINF:-1,Sky Animal Planet HD
-http://ipsatpro.com:8000/live/kamal/kamal/497.ts
-#EXTINF:-1,Sky National Geographic HD
-http://ipsatpro.com:8000/live/kamal/kamal/499.ts
-#EXTINF:-1,Sky Nat Geo Wild HD
-http://ipsatpro.com:8000/live/kamal/kamal/498.ts
-#EXTINF:-1,Sky History HD
-http://ipsatpro.com:8000/live/kamal/kamal/496.ts
-#EXTINF:-1,Sky 1
-http://ipsatpro.com:8000/live/kamal/kamal/475.ts
-#EXTINF:-1,Sky 2
-http://ipsatpro.com:8000/live/kamal/kamal/507.ts
-#EXTINF:-1,Sky Atlantic
-http://ipsatpro.com:8000/live/kamal/kamal/483.ts
-#EXTINF:-1,Sky VH1
-http://ipsatpro.com:8000/live/kamal/kamal/449.ts
-#EXTINF:-1,Sky E4
-http://ipsatpro.com:8000/live/kamal/kamal/451.ts
-#EXTINF:-1,Sky Syfy
-http://ipsatpro.com:8000/live/kamal/kamal/538.ts
-#EXTINF:-1,Sky MTV Classic
-http://ipsatpro.com:8000/live/kamal/kamal/500.ts
-#EXTINF:-1,Sky CNBC
-http://ipsatpro.com:8000/live/kamal/kamal/466.ts
-#EXTINF:-1,Sky Dave HD
-http://ipsatpro.com:8000/live/kamal/kamal/506.ts
-#EXTINF:-1,Sky RTE One
-http://ipsatpro.com:8000/live/kamal/kamal/474.ts
-#EXTINF:-1,Sky RTE Two
-http://ipsatpro.com:8000/live/kamal/kamal/478.ts
-#EXTINF:-1,SKY Fox
-http://ipsatpro.com:8000/live/kamal/kamal/460.ts
-#EXTINF:-1,Sky Five
-http://ipsatpro.com:8000/live/kamal/kamal/473.ts
-#EXTINF:-1,Sky Arts 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/489.ts
-#EXTINF:-1,Sky Alibi
-http://ipsatpro.com:8000/live/kamal/kamal/509.ts
-#EXTINF:-1,Sky Living HD
-http://ipsatpro.com:8000/live/kamal/kamal/502.ts
-#EXTINF:-1,Sky BoxNation
-http://ipsatpro.com:8000/live/kamal/kamal/490.ts
-#EXTINF:-1,Sky Racing
-http://ipsatpro.com:8000/live/kamal/kamal/458.ts
-#EXTINF:-1,Sky Gold
-http://ipsatpro.com:8000/live/kamal/kamal/508.ts
-#EXTINF:-1,Sky 5 USA
-http://ipsatpro.com:8000/live/kamal/kamal/480.ts
-#EXTINF:-1,Sky 5 star
-http://ipsatpro.com:8000/live/kamal/kamal/477.ts
-#EXTINF:-1,Sky life Time
-http://ipsatpro.com:8000/live/kamal/kamal/476.ts
-#EXTINF:-1,Sky E4+1
-http://ipsatpro.com:8000/live/kamal/kamal/525.ts
-#EXTINF:-1,Sky Good Food HD
-http://ipsatpro.com:8000/live/kamal/kamal/501.ts
-#EXTINF:-1,Sky TCM
-http://ipsatpro.com:8000/live/kamal/kamal/459.ts
-#EXTINF:-1,Mtv Rocks
-http://ipsatpro.com:8000/live/kamal/kamal/450.ts
-#EXTINF:-1,CNN
-http://ipsatpro.com:8000/live/kamal/kamal/454.ts
-#EXTINF:-1,Dmax
-http://ipsatpro.com:8000/live/kamal/kamal/456.ts
-#EXTINF:-1,Sky Bloomberg HD
-http://ipsatpro.com:8000/live/kamal/kamal/457.ts
-#EXTINF:-1,Sky TLC
-http://ipsatpro.com:8000/live/kamal/kamal/455.ts
-#EXTINF:-1,Sky Magic
-http://ipsatpro.com:8000/live/kamal/kamal/448.ts
+#EXTINF:-1,----------SKY UK
+http://dummylink.com
+#EXTINF:-1, CNN_NEWS
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2383.ts
+#EXTINF:-1, ITV1
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/447.ts
+#EXTINF:-1, ITV2
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/448.ts
+#EXTINF:-1, ITV3
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/321.ts
+#EXTINF:-1, ITV4
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/320.ts
+#EXTINF:-1, MORE_4
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/1813.ts
+#EXTINF:-1, BBC1
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/318.ts
+#EXTINF:-1, BBC2
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/317.ts
+#EXTINF:-1, BBC3
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/316.ts
+#EXTINF:-1, BBC4
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/315.ts
+#EXTINF:-1, DISNEY_CHANNEL
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/286.ts
+#EXTINF:-1, NICKELODEON
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/288.ts
+#EXTINF:-1, DISNEY_XD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/950.ts
+#EXTINF:-1, RTE_JR
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/322.ts
+#EXTINF:-1, RTE1HD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/323.ts
+#EXTINF:-1, SENTANTA_IRELAND
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/276.ts
+#EXTINF:-1, SKY_ONE
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/289.ts
+#EXTINF:-1, SKY_TWO
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/285.ts
+#EXTINF:-1, SKY_MOVIES_THRILLER
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/290.ts
+#EXTINF:-1, SKY_MOVIES_SELECT
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/291.ts
+#EXTINF:-1, SKY_MOVIES_PREMIERE
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/293.ts
+#EXTINF:-1, SKY_MOVIES_MODERN_GREAT
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/295.ts
+#EXTINF:-1, SKY_MOVIES_FAMILY
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/309.ts
+#EXTINF:-1, SKY_MOVIES_DRAMA_ROMANCE
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/299.ts
+#EXTINF:-1, SKY_MOVIES_COMEDY
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/311.ts
+#EXTINF:-1, SKY_MOVIES_ACTION
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/300.ts
+#EXTINF:-1, TRUE_MOVIES2
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/1399.ts
+#EXTINF:-1, CBS_DRAMA
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/1398.ts
+#EXTINF:-1, CARTOON_NETWORK
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/1400.ts
+#EXTINF:-1, SKY_ATLANTIC_HD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/306.ts
+#EXTINF:-1, TRUE_MOVIES1
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/287.ts
+#EXTINF:-1, ANIMAL_PLANETE
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/314.ts
+#EXTINF:-1, NATIONAL_GEOGRAPHY
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/312.ts
+#EXTINF:-1, DISCOVERY
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/313.ts
+#EXTINF:-1, HISTORY_CHANNEL
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/284.ts
+#EXTINF:-1, LIVING
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/319.ts
+#EXTINF:-1, BT_SPORTS_2HD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/281.ts
+#EXTINF:-1, BT_SPORTS_1HD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/282.ts
+#EXTINF:-1, BOX_NATION
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/280.ts
+#EXTINF:-1, ESPN_HD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/279.ts
+#EXTINF:-1, SKY_SPORTS_NEWS
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/271.ts
+#EXTINF:-1, SKY_SPORTS_F1HD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/272.ts
+#EXTINF:-1, SKY_SPORTS_1HD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/275.ts
+#EXTINF:-1, SKY_SPORTS_2HD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/274.ts
+#EXTINF:-1, SKY_SPORTS_3HD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/273.ts
+#EXTINF:-1, SKY_SPORTS_4HD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/776.ts
+#EXTINF:-1, SKY_SPORTS_5HD
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/777.ts
 </List>

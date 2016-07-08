@@ -24,27 +24,27 @@ http://1speed.dyndns.tv:8000/movie/svezia/svezia/1676.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/693.ts
+http://178.33.237.109:8600/live/lexar/lexar/590.ts
 #EXTINF:-1, Rai 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/692.ts
+http://178.33.237.109:8600/live/lexar/lexar/589.ts
 #EXTINF:-1, Rai 3 HD
-http://ipsatpro.com:8000/live/kamal/kamal/691.ts
+http://178.33.237.109:8600/live/lexar/lexar/588.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://ipsatpro.com:8000/live/kamal/kamal/1848.ts
+http://178.33.237.109:8600/live/lexar/lexar/605.ts
 #EXTINF:-1, Canale 5 HD
-http://ipsatpro.com:8000/live/kamal/kamal/686.ts
+http://178.33.237.109:8600/live/lexar/lexar/606.ts
 #EXTINF:-1, Italia 1 HD
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1, La 5
-http://ipsatpro.com:8000/live/kamal/kamal/556.ts
+http://178.33.237.109:8600/live/lexar/lexar/777.ts
 #EXTINF:-1,La7
-http://ipsatpro.com:8000/live/kamal/kamal/683.ts
+http://178.33.237.109:8600/live/lexar/lexar/608.ts
 #EXTINF:-1 ,Rai 4
-http://ipsatpro.com:8000/live/kamal/kamal/690.ts
+http://178.33.237.109:8600/live/lexar/lexar/592.ts
 #EXTINF:-1,Iris
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Iris HD
@@ -98,9 +98,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/688.ts
+http://178.33.237.109:8600/live/lexar/lexar/861.ts
 #EXTINF:-1,RSI LA 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/687.ts
+http://178.33.237.109:8600/live/lexar/lexar/610.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83
@@ -529,216 +529,308 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,---------- SKY CINEMA ----------
-http://ipsatpro.com:8000/live/kamal/kamal/682.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/681.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/680.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://ipsatpro.com:8000/live/kamal/kamal/679.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://ipsatpro.com:8000/live/kamal/kamal/675.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://ipsatpro.com:8000/live/kamal/kamal/672.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://ipsatpro.com:8000/live/kamal/kamal/677.ts
-#EXTINF:-1,Sky Cinema +Max HD
-http://ipsatpro.com:8000/live/kamal/kamal/673.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://ipsatpro.com:8000/live/kamal/kamal/678.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://ipsatpro.com:8000/live/kamal/kamal/671.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://ipsatpro.com:8000/live/kamal/kamal/670.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://ipsatpro.com:8000/live/kamal/kamal/674.ts
-#EXTINF:-1,Sky Cinema 3D
-http://ipsatpro.com:8000/live/kamal/kamal/562.ts
-#EXTINF:-1,------ Intrattenimento ----
-http://ipsatpro.com:8000/live/kamal/kamal/669.ts
-#EXTINF:-1,Mtv Music
-http://ipsatpro.com:8000/live/kamal/kamal/668.ts
-#EXTINF:-1,Cielo
-http://ipsatpro.com:8000/live/kamal/kamal/658.ts
-#EXTINF:-1,Boing
-http://ipsatpro.com:8000/live/kamal/kamal/659.ts
-#EXTINF:-1,Super!
-http://ipsatpro.com:8000/live/kamal/kamal/558.ts
-#EXTINF:-1,k2
-http://ipsatpro.com:8000/live/kamal/kamal/557.ts
-#EXTINF:-1,Iris
-http://ipsatpro.com:8000/live/kamal/kamal/676.ts
-#EXTINF:-1,Fox HD
-http://ipsatpro.com:8000/live/kamal/kamal/664.ts
-#EXTINF:-1,Fox Life HD
-http://ipsatpro.com:8000/live/kamal/kamal/665.ts
-#EXTINF:-1,Fox Crime HD
-http://ipsatpro.com:8000/live/kamal/kamal/663.ts
-#EXTINF:-1,Fox Comedy HD
-http://ipsatpro.com:8000/live/kamal/kamal/662.ts
-#EXTINF:-1,Sky Top Crime
-http://ipsatpro.com:8000/live/kamal/kamal/559.ts
-#EXTINF:-1,Sky Atlantic HD
-http://ipsatpro.com:8000/live/kamal/kamal/666.ts
-#EXTINF:-1,Sky Uno HD
-http://ipsatpro.com:8000/live/kamal/kamal/667.ts
-#EXTINF:-1,Sky Focus
-http://ipsatpro.com:8000/live/kamal/kamal/660.ts
-#EXTINF:-1,Sky Mediaset Extra
-http://ipsatpro.com:8000/live/kamal/kamal/603.ts
-#EXTINF:-1,Sky Mediaset Italia 2
-http://ipsatpro.com:8000/live/kamal/kamal/661.ts
-#EXTINF:-1,---------- sport ----------
-http://ipsatpro.com:8000/live/kamal/kamal/656.ts
-#EXTINF:-1,Fox Sports 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/650.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/655.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/654.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://ipsatpro.com:8000/live/kamal/kamal/653.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://ipsatpro.com:8000/live/kamal/kamal/652.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/651.ts
-#EXTINF:-1,Sky Moto GP HD
-http://ipsatpro.com:8000/live/kamal/kamal/646.ts
-#EXTINF:-1,Super Tennis HD
-http://ipsatpro.com:8000/live/kamal/kamal/645.ts
-#EXTINF:-1,---------- Calcio -----------
-http://ipsatpro.com:8000/live/kamal/kamal/644.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://ipsatpro.com:8000/live/kamal/kamal/643.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/642.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/641.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://ipsatpro.com:8000/live/kamal/kamal/640.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://ipsatpro.com:8000/live/kamal/kamal/568.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://ipsatpro.com:8000/live/kamal/kamal/567.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://ipsatpro.com:8000/live/kamal/kamal/566.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://ipsatpro.com:8000/live/kamal/kamal/565.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://ipsatpro.com:8000/live/kamal/kamal/564.ts
-#EXTINF:-1,Rai Sport 1
-http://ipsatpro.com:8000/live/kamal/kamal/639.ts
-#EXTINF:-1,Rai Sport 2
-http://ipsatpro.com:8000/live/kamal/kamal/560.ts
-#EXTINF:-1,SportTitalia
-http://ipsatpro.com:8000/live/kamal/kamal/638.ts
-#EXTINF:-1,Rete Sport
-http://ipsatpro.com:8000/live/kamal/kamal/1840.ts
-#EXTINF:-1,Sky Eurosport
-http://ipsatpro.com:8000/live/kamal/kamal/637.ts
-#EXTINF:-1,Sky Eurosport 2
-http://ipsatpro.com:8000/live/kamal/kamal/636.ts
-#EXTINF:-1,--------- Cultura ----------
-http://ipsatpro.com:8000/live/kamal/kamal/635.ts
-#EXTINF:-1,Sky TG 24
-http://ipsatpro.com:8000/live/kamal/kamal/629.ts
-#EXTINF:-1,Discovery HD
-http://ipsatpro.com:8000/live/kamal/kamal/630.ts
-#EXTINF:-1,Sky History HD
-http://ipsatpro.com:8000/live/kamal/kamal/634.ts
-#EXTINF:-1,National Geo HD
-http://ipsatpro.com:8000/live/kamal/kamal/633.ts
-#EXTINF:-1,NatGeo Wild HD
-http://ipsatpro.com:8000/live/kamal/kamal/632.ts
-#EXTINF:-1,NatGeo People HD
-http://ipsatpro.com:8000/live/kamal/kamal/631.ts
-#EXTINF:-1,Sky Animal Planet
-http://ipsatpro.com:8000/live/kamal/kamal/604.ts
-#EXTINF:-1,----PREMIUM CINEMA ----
-http://ipsatpro.com:8000/live/kamal/kamal/628.ts
-#EXTINF:-1,Premium Cinema HD
-http://ipsatpro.com:8000/live/kamal/kamal/627.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/609.ts
-#EXTINF:-1,Premium Cinema +24
-http://ipsatpro.com:8000/live/kamal/kamal/612.ts
-#EXTINF:-1,Premium Crime
-http://ipsatpro.com:8000/live/kamal/kamal/621.ts
-#EXTINF:-1,Premium Crime +24
-http://ipsatpro.com:8000/live/kamal/kamal/611.ts
-#EXTINF:-1,Premium Action HD
-http://ipsatpro.com:8000/live/kamal/kamal/626.ts
-#EXTINF:-1,Premium Comedy
-http://ipsatpro.com:8000/live/kamal/kamal/620.ts
-#EXTINF:-1,Premium Action +24 HD
-http://ipsatpro.com:8000/live/kamal/kamal/618.ts
-#EXTINF:-1,Premium Stories
-http://ipsatpro.com:8000/live/kamal/kamal/625.ts
-#EXTINF:-1,Premium Joy
-http://ipsatpro.com:8000/live/kamal/kamal/624.ts
-#EXTINF:-1,Premium Energy
-http://ipsatpro.com:8000/live/kamal/kamal/623.ts
-#EXTINF:-1,Premium Emotion
-http://ipsatpro.com:8000/live/kamal/kamal/622.ts
-#EXTINF:-1,Premium Studio Universal
-http://ipsatpro.com:8000/live/kamal/kamal/619.ts
-#EXTINF:-1,Premium Disney Junior
-http://ipsatpro.com:8000/live/kamal/kamal/617.ts
-#EXTINF:-1,Premium Disney Channel
-http://ipsatpro.com:8000/live/kamal/kamal/616.ts
-#EXTINF:-1,Premium Stories +24
-http://ipsatpro.com:8000/live/kamal/kamal/614.ts
-#EXTINF:-1,Premium Cartoon Network
-http://ipsatpro.com:8000/live/kamal/kamal/613.ts
-#EXTINF:-1,----PREMIUM SPORT ----
-http://ipsatpro.com:8000/live/kamal/kamal/628.ts
-#EXTINF:-1,Premium Sport
-http://ipsatpro.com:8000/live/kamal/kamal/615.ts
-#EXTINF:-1,Premium EuroSport 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/608.ts
-#EXTINF:-1,Premium EuroSport 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/610.ts
-#EXTINF:-1,Premium Calcio HD
-http://ipsatpro.com:8000/live/kamal/kamal/607.ts
-#EXTINF:-1,Premium Calcio 1
-http://ipsatpro.com:8000/live/kamal/kamal/606.ts
-#EXTINF:-1,Premium Calcio 2
-http://ipsatpro.com:8000/live/kamal/kamal/605.ts
-#EXTINF:-1,----------PRIMAFILA---------
-http://ipsatpro.com:8000/live/kamal/kamal/602.ts
-#EXTINF:-1,Sky Prima fila 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/601.ts
-#EXTINF:-1,Sky Prima fila 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/600.ts
-#EXTINF:-1,Sky Prima fila 3 HD
-http://ipsatpro.com:8000/live/kamal/kamal/599.ts
-#EXTINF:-1,Sky Prima fila 4 HD
-http://ipsatpro.com:8000/live/kamal/kamal/598.ts
-#EXTINF:-1,Sky Prima fila 5 HD
-http://ipsatpro.com:8000/live/kamal/kamal/597.ts
-#EXTINF:-1,Sky Prima fila 6 HD
-http://ipsatpro.com:8000/live/kamal/kamal/596.ts
-#EXTINF:-1,Sky Prima fila 7 HD
-http://ipsatpro.com:8000/live/kamal/kamal/595.ts
-#EXTINF:-1,Sky Prima fila 8 HD
-http://ipsatpro.com:8000/live/kamal/kamal/594.ts
-#EXTINF:-1,Sky Prima fila 9 HD
-http://ipsatpro.com:8000/live/kamal/kamal/593.ts
-#EXTINF:-1,Sky Prima fila 10 HD
-http://ipsatpro.com:8000/live/kamal/kamal/592.ts
-#EXTINF:-1,Sky Prima fila 11 HD
-http://ipsatpro.com:8000/live/kamal/kamal/591.ts
-#EXTINF:-1,Sky Prima fila 12 HD
-http://ipsatpro.com:8000/live/kamal/kamal/590.ts
-#EXTINF:-1,Sky Prima fila 13 HD
-http://ipsatpro.com:8000/live/kamal/kamal/589.ts
-#EXTINF:-1,Sky Prima fila 14 HD
-http://ipsatpro.com:8000/live/kamal/kamal/588.ts
-#EXTINF:-1,Sky Prima fila 15 HD
-http://ipsatpro.com:8000/live/kamal/kamal/587.ts
-#EXTINF:-1,Sky Prima Fila WWE HD
-http://ipsatpro.com:8000/live/kamal/kamal/586.ts
+#EXTINF:-1,- - - - - - SKY CINEMA - - - - - -
+http://178.33.237.109:8600/live/lexar/lexar/306.ts
+#EXTINF:-1,SKY CINEMA 1 HD
+http://178.33.237.109:8600/live/lexar/lexar/326.ts
+#EXTINF:-1,SKY CINEMA+ 1 HD
+http://178.33.237.109:8600/live/lexar/lexar/525.ts
+#EXTINF:-1,SKY CINEMA+ 24 HD
+http://178.33.237.109:8600/live/lexar/lexar/524.ts
+#EXTINF:-1,SKY CINEMA HITS HD
+http://178.33.237.109:8600/live/lexar/lexar/519.ts
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://178.33.237.109:8600/live/lexar/lexar/7.ts
+#EXTINF:-1,SKY CINEMA FAMILY+1 HD
+http://178.33.237.109:8600/live/lexar/lexar/824.ts
+#EXTINF:-1,SKY CINEMA PASSION HD
+http://178.33.237.109:8600/live/lexar/lexar/478.ts
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://178.33.237.109:8600/live/lexar/lexar/516.ts
+#EXTINF:-1,SKY CINEMA MAX HD
+http://178.33.237.109:8600/live/lexar/lexar/324.ts
+#EXTINF:-1,SKY CINEMA CULT HD
+http://178.33.237.109:8600/live/lexar/lexar/518.ts
+#EXTINF:-1,SKY CLASSICS HD
+http://178.33.237.109:8600/live/lexar/lexar/520.ts
+#EXTINF:-1,SKY GOMORRA 2
+http://178.33.237.109:8600/live/lexar/lexar/3449.ts
+#EXTINF:-1,- - - - - - SKY SPORT - - - - - -
+http://178.33.237.109:8600/live/lexar/lexar/305.ts
+#EXTINF:-1,SKY SPORT 24 HD
+http://178.33.237.109:8600/live/lexar/lexar/586.ts
+#EXTINF:-1,SKY SPORT 1 HD
+http://178.33.237.109:8600/live/lexar/lexar/5.ts
+#EXTINF:-1,SKY SPORT 2 HD
+http://178.33.237.109:8600/live/lexar/lexar/517.ts
+#EXTINF:-1,SKY SPORT 3 HD
+http://178.33.237.109:8600/live/lexar/lexar/805.ts
+#EXTINF:-1,SKY SPORT PLUS HD
+http://178.33.237.109:8600/live/lexar/lexar/1363.ts
+#EXTINF:-1,SKY FOX SPORTS HD
+http://178.33.237.109:8600/live/lexar/lexar/935.ts
+#EXTINF:-1,SKY SPORT F1 HD
+http://178.33.237.109:8600/live/lexar/lexar/291.ts
+#EXTINF:-1,SKY MOTOGP HD
+http://178.33.237.109:8600/live/lexar/lexar/566.ts
+#EXTINF:-1,SPORT ITALIA
+http://178.33.237.109:8600/live/lexar/lexar/1831.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://178.33.237.109:8600/live/lexar/lexar/1364.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://178.33.237.109:8600/live/lexar/lexar/1365.ts
+#EXTINF:-1,SUPERTENNIS HD
+http://178.33.237.109:8600/live/lexar/lexar/784.ts
+#EXTINF:-1,POKER CENTRAL
+http://178.33.237.109:8600/live/lexar/lexar/3364.ts
+#EXTINF:-1,SKY TG24
+http://178.33.237.109:8600/live/lexar/lexar/587.ts
+#EXTINF:-1,- - - - - -  SKY CALCIO   - - - - - -
+http://178.33.237.109:8600/live/lexar/lexar/1828.ts
+#EXTINF:-1,SKY SUPERCALCIO HD
+http://178.33.237.109:8600/live/lexar/lexar/515.ts
+#EXTINF:-1,SKY CALCIO 1 HD
+http://178.33.237.109:8600/live/lexar/lexar/522.ts
+#EXTINF:-1,SKY CALCIO 2 HD
+http://178.33.237.109:8600/live/lexar/lexar/521.ts
+#EXTINF:-1,SKY CALCIO 3 HD
+http://178.33.237.109:8600/live/lexar/lexar/828.ts
+#EXTINF:-1,SKY CALCIO 4 HD
+http://178.33.237.109:8600/live/lexar/lexar/827.ts
+#EXTINF:-1,SKY CALCIO 5 HD
+http://178.33.237.109:8600/live/lexar/lexar/1620.ts
+#EXTINF:-1,SKY CALCIO 6 HD
+http://178.33.237.109:8600/live/lexar/lexar/826.ts
+#EXTINF:-1,SKY CALCIO 7 HD
+http://178.33.237.109:8600/live/lexar/lexar/825.ts
+#EXTINF:-1,SKY CALCIO 8 HD
+http://178.33.237.109:8600/live/lexar/lexar/1246.ts
+#EXTINF:-1,SKY CALCIO 9 HD
+http://178.33.237.109:8600/live/lexar/lexar/1247.ts
+#EXTINF:-1,- - - - - - SKY INTRATTENIMENTO - - - - -
+http://178.33.237.109:8600/live/lexar/lexar/301.ts
+#EXTINF:-1,SKY UNO HD
+http://178.33.237.109:8600/live/lexar/lexar/564.ts
+#EXTINF:-1,SKY ATLANTIC HD
+http://178.33.237.109:8600/live/lexar/lexar/1223.ts
+#EXTINF:-1,FOX HD
+http://178.33.237.109:8600/live/lexar/lexar/565.ts
+#EXTINF:-1,FOX LIFE HD
+http://178.33.237.109:8600/live/lexar/lexar/1368.ts
+#EXTINF:-1,FOX CRIME HD
+http://178.33.237.109:8600/live/lexar/lexar/807.ts
+#EXTINF:-1,FOX COMEDY HD
+http://178.33.237.109:8600/live/lexar/lexar/1371.ts
+#EXTINF:-1,FOX ANIMATION HD
+http://178.33.237.109:8600/live/lexar/lexar/930.ts
+#EXTINF:-1,AXN HD
+http://178.33.237.109:8600/live/lexar/lexar/1243.ts
+#EXTINF:-1,GIALLO
+http://178.33.237.109:8600/live/lexar/lexar/774.ts
+#EXTINF:-1,CIELO
+http://178.33.237.109:8600/live/lexar/lexar/780.ts
+#EXTINF:-1,LEI
+http://178.33.237.109:8600/live/lexar/lexar/799.ts
+#EXTINF:-1,REAL TIME
+http://178.33.237.109:8600/live/lexar/lexar/794.ts
+#EXTINF:-1,REAL TIME+ 1
+http://178.33.237.109:8600/live/lexar/lexar/3366.ts
+#EXTINF:-1,- - - - - - SKY CULTURA - - - - -
+http://178.33.237.109:8600/live/lexar/lexar/1827.ts
+#EXTINF:-1,EXPLORA HD
+http://178.33.237.109:8600/live/lexar/lexar/2806.ts
+#EXTINF:-1,NAT GEO HD
+http://178.33.237.109:8600/live/lexar/lexar/1407.ts
+#EXTINF:-1,NATGEO PEOPLE HD
+http://178.33.237.109:8600/live/lexar/lexar/932.ts
+#EXTINF:-1,NATGEO GEO WILD HD
+http://178.33.237.109:8600/live/lexar/lexar/933.ts
+#EXTINF:-1,DISCOVERY HD
+http://178.33.237.109:8600/live/lexar/lexar/611.ts
+#EXTINF:-1,DISCOVERY SCI HD
+http://178.33.237.109:8600/live/lexar/lexar/4.ts
+#EXTINF:-1,DISCOVERY TRAVEL e LIVING
+http://178.33.237.109:8600/live/lexar/lexar/1245.ts
+#EXTINF:-1,FOCUS
+http://178.33.237.109:8600/live/lexar/lexar/785.ts
+#EXTINF:-1,DMAX HD
+http://178.33.237.109:8600/live/lexar/lexar/786.ts
+#EXTINF:-1,DMAX +1
+http://178.33.237.109:8600/live/lexar/lexar/3365.ts
+#EXTINF:-1,ANIMAL PLANET
+http://178.33.237.109:8600/live/lexar/lexar/1375.ts
+#EXTINF:-1,HISTORY HD
+http://178.33.237.109:8600/live/lexar/lexar/1252.ts
+#EXTINF:-1,SKY ARTE HD
+http://178.33.237.109:8600/live/lexar/lexar/323.ts
+#EXTINF:-1,GAMBERO ROSSO HD
+http://178.33.237.109:8600/live/lexar/lexar/1253.ts
+#EXTINF:-1,PESCA e CACCIA
+http://178.33.237.109:8600/live/lexar/lexar/1406.ts
+#EXTINF:-1,CACCIA e PESCA
+http://178.33.237.109:8600/live/lexar/lexar/1405.ts
+#EXTINF:-1,- - - - - - PREMIUM - - - - - -
+http://178.33.237.109:8600/live/lexar/lexar/329.ts
+#EXTINF:-1,PREMIUM CINEMA HD
+http://178.33.237.109:8600/live/lexar/lexar/560.ts
+#EXTINF:-1,PREMIUM CINEMA+ 24 HD
+http://178.33.237.109:8600/live/lexar/lexar/562.ts
+#EXTINF:-1,PREMIUM CINEMA 2 HD
+http://178.33.237.109:8600/live/lexar/lexar/555.ts
+#EXTINF:-1,PREMIUM CINEMA 2 +24
+http://178.33.237.109:8600/live/lexar/lexar/595.ts
+#EXTINF:-1,PREMIUM CINEMA ENERGY
+http://178.33.237.109:8600/live/lexar/lexar/600.ts
+#EXTINF:-1,PREMIUM CINEMA EMOTION
+http://178.33.237.109:8600/live/lexar/lexar/558.ts
+#EXTINF:-1,PREMIUM CINEMA COMEDY
+http://178.33.237.109:8600/live/lexar/lexar/601.ts
+#EXTINF:-1,PREMIUM CINEMA ACTION HD
+http://178.33.237.109:8600/live/lexar/lexar/596.ts
+#EXTINF:-1,PREMIUM ACTION+ 24
+http://178.33.237.109:8600/live/lexar/lexar/563.ts
+#EXTINF:-1,PREMIUM STUDIO UNIVERSAL
+http://178.33.237.109:8600/live/lexar/lexar/829.ts
+#EXTINF:-1,PREMIUM STORIES
+http://178.33.237.109:8600/live/lexar/lexar/556.ts
+#EXTINF:-1,PREMIUM STORIES +24
+http://178.33.237.109:8600/live/lexar/lexar/2461.ts
+#EXTINF:-1,PREMIUM JOY
+http://178.33.237.109:8600/live/lexar/lexar/557.ts
+#EXTINF:-1,PREMIUM DISCOVERY WORLD
+http://178.33.237.109:8600/live/lexar/lexar/1621.ts
+#EXTINF:-1,PREMIUM CRIME HD
+http://178.33.237.109:8600/live/lexar/lexar/597.ts
+#EXTINF:-1,PREMIUM CRIME+ 24
+http://178.33.237.109:8600/live/lexar/lexar/598.ts
+#EXTINF:-1,PREMIUM SPORT HD
+http://178.33.237.109:8600/live/lexar/lexar/481.ts
+#EXTINF:-1,PREMIUM SPORT 2
+http://178.33.237.109:8600/live/lexar/lexar/2463.ts
+#EXTINF:-1,PREMIUM CALCIO HD
+http://178.33.237.109:8600/live/lexar/lexar/758.ts
+#EXTINF:-1,PREMIUM CALCIO
+http://178.33.237.109:8600/live/lexar/lexar/759.ts
+#EXTINF:-1,PREMIUM CALCIO 1 HD
+http://178.33.237.109:8600/live/lexar/lexar/321.ts
+#EXTINF:-1,PREMIUM CALCIO 1
+http://178.33.237.109:8600/live/lexar/lexar/760.ts
+#EXTINF:-1,PREMIUM CALCIO 2 HD
+http://178.33.237.109:8600/live/lexar/lexar/761.ts
+#EXTINF:-1,PREMIUM CALCIO 2
+http://178.33.237.109:8600/live/lexar/lexar/762.ts
+#EXTINF:-1,PREMIUM CALCIO 3
+http://178.33.237.109:8600/live/lexar/lexar/763.ts
+#EXTINF:-1,PREMIUM CALCIO 4
+http://178.33.237.109:8600/live/lexar/lexar/764.ts
+#EXTINF:-1,PREMIUM CALCIO 5
+http://178.33.237.109:8600/live/lexar/lexar/765.ts
+#EXTINF:-1,PREMIUM CALCIO 6
+http://178.33.237.109:8600/live/lexar/lexar/766.ts
+#EXTINF:-1,PREMIUM CALCIO 7
+http://178.33.237.109:8600/live/lexar/lexar/767.ts
+#EXTINF:-1,PREMIUM CARTOON NETWORK
+http://178.33.237.109:8600/live/lexar/lexar/771.ts
+#EXTINF:-1,PREMIUM DISNEY JUNIOR
+http://178.33.237.109:8600/live/lexar/lexar/770.ts
+#EXTINF:-1,PREMIUM DISNEY CHANNEL
+http://178.33.237.109:8600/live/lexar/lexar/768.ts
+#EXTINF:-1,PREMIUM DISNEY 1
+http://178.33.237.109:8600/live/lexar/lexar/769.ts
+#EXTINF:-1,- - - - - -  PRIMAFILA  - - - - - -
+http://178.33.237.109:8600/live/lexar/lexar/297.ts
+#EXTINF:-1,VETRINA PRIMAFILA
+http://178.33.237.109:8600/movie/lexar/lexar/3360.mkv
+#EXTINF:-1,SKY PRIMAFILA 3D HD
+http://178.33.237.109:8600/movie/lexar/lexar/2056.mkv
+#EXTINF:-1,PRIMAFILA 1 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1971.mkv
+#EXTINF:-1,PRIMAFILA 2 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1972.mkv
+#EXTINF:-1,PRIMAFILA 3 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1973.mkv
+#EXTINF:-1,PRIMAFILA 4 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1974.mkv
+#EXTINF:-1,PRIMAFILA 5 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1975.mkv
+#EXTINF:-1,PRIMAFILA 6 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1976.mkv
+#EXTINF:-1,PRIMAFILA 7 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1977.mkv
+#EXTINF:-1,PRIMAFILA 8 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1978.mkv
+#EXTINF:-1,PRIMAFILA 9 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1979.mkv
+#EXTINF:-1,PRIMAFILA 10 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1980.mkv
+#EXTINF:-1,PRIMAFILA 11 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1981.mkv
+#EXTINF:-1,PRIMAFILA 12 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1982.mkv
+#EXTINF:-1,PRIMAFILA 13 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1983.mkv
+#EXTINF:-1,PRIMAFILA 14 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1984.mkv
+#EXTINF:-1,PRIMAFILA 15 HD
+http://178.33.237.109:8600/movie/lexar/lexar/1985.mkv
+#EXTINF:-1,PRIMAFILA 16 HD
+http://178.33.237.109:8600/movie/lexar/lexar/2172.mkv
+#EXTINF:-1,PRIMAFILA 17 HD
+http://178.33.237.109:8600/movie/lexar/lexar/2173.mkv
+#EXTINF:-1,PRIMAFILA 18 HD
+http://178.33.237.109:8600/movie/lexar/lexar/2174.mkv
+#EXTINF:-1,- - - - - - SKY BAMBINI - - - - - -
+http://178.33.237.109:8600/live/lexar/lexar/1520.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://178.33.237.109:8600/live/lexar/lexar/1409.ts
+#EXTINF:-1,DISNEY XD
+http://178.33.237.109:8600/live/lexar/lexar/791.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://178.33.237.109:8600/live/lexar/lexar/1412.ts
+#EXTINF:-1,DEA JUNIOR
+http://178.33.237.109:8600/live/lexar/lexar/1414.ts
+#EXTINF:-1,DEA KIDS
+http://178.33.237.109:8600/live/lexar/lexar/1987.ts
+#EXTINF:-1,NIKELODEON
+http://178.33.237.109:8600/live/lexar/lexar/1416.ts
+#EXTINF:-1,CARTOON NETWORK
+http://178.33.237.109:8600/live/lexar/lexar/1408.ts
+#EXTINF:-1,FRISBEE
+http://178.33.237.109:8600/live/lexar/lexar/1989.ts
+#EXTINF:-1,SUPER!
+http://178.33.237.109:8600/live/lexar/lexar/793.ts
+#EXTINF:-1,K2
+http://178.33.237.109:8600/live/lexar/lexar/800.ts
+#EXTINF:-1,MAN-GA
+http://178.33.237.109:8600/live/lexar/lexar/1415.ts
+#EXTINF:-1,BOING
+http://178.33.237.109:8600/live/lexar/lexar/1988.ts
+#EXTINF:-1,RAI YOYO
+http://178.33.237.109:8600/live/lexar/lexar/795.ts
+#EXTINF:-1,CARTOONITO
+http://178.33.237.109:8600/live/lexar/lexar/790.ts
+#EXTINF:-1,RAI GLUP
+http://178.33.237.109:8600/live/lexar/lexar/798.ts
+#EXTINF:-1,- - - - - - SKY MUSICA - - - - - -
+http://178.33.237.109:8600/live/lexar/lexar/2000.ts
+#EXTINF:-1,MTV BRAND NEW
+http://178.33.237.109:8600/live/lexar/lexar/1990.ts
+#EXTINF:-1,RADIO ITALIA TV
+http://178.33.237.109:8600/live/lexar/lexar/1995.ts
+#EXTINF:-1,MTV CH
+http://178.33.237.109:8600/live/lexar/lexar/1991.ts
+#EXTINF:-1,NAPOLI INTERNAZIONAL
+http://178.33.237.109:8600/live/lexar/lexar/2085.ts
+#EXTINF:-1,RADIO 101 TV
+http://178.33.237.109:8600/live/lexar/lexar/1996.ts
+#EXTINF:-1,MUSIC ITALIA
+http://178.33.237.109:8600/live/lexar/lexar/1994.ts
+#EXTINF:-1,M2O MUSIC
+http://178.33.237.109:8600/live/lexar/lexar/1998.ts
+#EXTINF:-1,DEEJAY 1
+http://178.33.237.109:8600/live/lexar/lexar/1993.ts
+#EXTINF:-1,BEST MUSIC HD
+http://178.33.237.109:8600/live/lexar/lexar/1997.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

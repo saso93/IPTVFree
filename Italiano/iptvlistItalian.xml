@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <List>
 #EXTM3U
-#EXTINF:-1,-----NOVITA -----
-http://dummylink.com
-#EXTINF:-1,Il Trono Di Spade 6 (in fondo)
-http://dummylink.com
 #EXTINF:-1,-----CINEMA ESCLUSIVA -----
 http://dummylink.com
 #EXTINF:-1,Now you see me 2
@@ -38,7 +34,7 @@ http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://ipsatpro.com:8000/live/kamal/kamal/690.ts
+http://ipsatpro.com:8000/live/kamal/kamal/1848.ts
 #EXTINF:-1, Canale 5 HD
 http://ipsatpro.com:8000/live/kamal/kamal/686.ts
 #EXTINF:-1, Italia 1 HD
@@ -533,216 +529,450 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,---------- SKY CINEMA ----------
-http://ipsatpro.com:8000/live/kamal/kamal/682.ts
+#EXTINF:-1,- - - - - -SKY CINEMA - - - - - -
+http://iptv.proff.co:15003/live/liverpool/liverpool/159.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/681.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/1.ts
+#EXTINF:-1,Sky Cinema  1 HD (DSL Lente)
+http://iptv.proff.co:15003/live/liverpool/liverpool/1579.ts
 #EXTINF:-1,Sky Cinema +1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/680.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/2.ts
+#EXTINF:-1,Sky Cinema 1 (DSL Lente)
+http://iptv.proff.co:15003/live/liverpool/liverpool/1588.ts
 #EXTINF:-1,Sky Cinema +24 HD
-http://ipsatpro.com:8000/live/kamal/kamal/679.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/3.ts
+#EXTINF:-1,Sky Cinema +24 +1
+http://iptv.proff.co:15003/live/liverpool/liverpool/1714.ts
+#EXTINF:-1,Sky Cinema  24 SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1557.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://ipsatpro.com:8000/live/kamal/kamal/675.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://ipsatpro.com:8000/live/kamal/kamal/672.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://ipsatpro.com:8000/live/kamal/kamal/677.ts
-#EXTINF:-1,Sky Cinema +Max HD
-http://ipsatpro.com:8000/live/kamal/kamal/673.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://ipsatpro.com:8000/live/kamal/kamal/678.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://ipsatpro.com:8000/live/kamal/kamal/671.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://ipsatpro.com:8000/live/kamal/kamal/670.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/4.ts
+#EXTINF:-1,Sky Cinema Hits +1
+http://iptv.proff.co:15003/live/liverpool/liverpool/1715.ts
+#EXTINF:-1,Sky Cinema Hits (DSL Lente)
+http://iptv.proff.co:15003/live/liverpool/liverpool/1587.ts
 #EXTINF:-1,Sky Cinema Family HD
-http://ipsatpro.com:8000/live/kamal/kamal/674.ts
-#EXTINF:-1,Sky Cinema 3D
-http://ipsatpro.com:8000/live/kamal/kamal/562.ts
-#EXTINF:-1,------ Intrattenimento ----
-http://ipsatpro.com:8000/live/kamal/kamal/669.ts
-#EXTINF:-1,Mtv Music
-http://ipsatpro.com:8000/live/kamal/kamal/668.ts
-#EXTINF:-1,Cielo
-http://ipsatpro.com:8000/live/kamal/kamal/658.ts
-#EXTINF:-1,Boing
-http://ipsatpro.com:8000/live/kamal/kamal/659.ts
-#EXTINF:-1,Super!
-http://ipsatpro.com:8000/live/kamal/kamal/558.ts
-#EXTINF:-1,k2
-http://ipsatpro.com:8000/live/kamal/kamal/557.ts
-#EXTINF:-1,Iris
-http://ipsatpro.com:8000/live/kamal/kamal/676.ts
-#EXTINF:-1,Fox HD
-http://ipsatpro.com:8000/live/kamal/kamal/664.ts
-#EXTINF:-1,Fox Life HD
-http://ipsatpro.com:8000/live/kamal/kamal/665.ts
-#EXTINF:-1,Fox Crime HD
-http://ipsatpro.com:8000/live/kamal/kamal/663.ts
-#EXTINF:-1,Fox Comedy HD
-http://ipsatpro.com:8000/live/kamal/kamal/662.ts
-#EXTINF:-1,Sky Top Crime
-http://ipsatpro.com:8000/live/kamal/kamal/559.ts
-#EXTINF:-1,Sky Atlantic HD
-http://ipsatpro.com:8000/live/kamal/kamal/666.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/5.ts
+#EXTINF:-1,Sky Cinema Family 1 HD (DSL Lente)
+http://iptv.proff.co:15003/live/liverpool/liverpool/1578.ts
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/6.ts
+#EXTINF:-1,Sky CinemaFamily SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1591.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/7.ts
+#EXTINF:-1,Sky Cinema Passion +1
+http://iptv.proff.co:15003/live/liverpool/liverpool/1716.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/10.ts
+#EXTINF:-1,Sky Cinema Max 1 HD Dsl Lente
+http://iptv.proff.co:15003/live/liverpool/liverpool/1575.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/11.ts
+#EXTINF:-1,Sky Cinema Max SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1592.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/9.ts
+#EXTINF:-1,Sky Cinema Comedy SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1593.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/12.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/13.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://iptv.proff.co:15003/live/liverpool/liverpool/1639.ts
+#EXTINF:-1,- - - - - - INTRATTENIMENTO - - - - - -
+http://iptv.proff.co:15003/live/liverpool/liverpool/160.ts
+#EXTINF:-1,Sky 3D
+http://iptv.proff.co:15003/live/liverpool/liverpool/28.ts
 #EXTINF:-1,Sky Uno HD
-http://ipsatpro.com:8000/live/kamal/kamal/667.ts
-#EXTINF:-1,Sky Focus
-http://ipsatpro.com:8000/live/kamal/kamal/660.ts
-#EXTINF:-1,Sky Mediaset Extra
-http://ipsatpro.com:8000/live/kamal/kamal/603.ts
-#EXTINF:-1,Sky Mediaset Italia 2
-http://ipsatpro.com:8000/live/kamal/kamal/661.ts
-#EXTINF:-1,---------- sport ----------
-http://ipsatpro.com:8000/live/kamal/kamal/656.ts
-#EXTINF:-1,Fox Sports 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/650.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/655.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/654.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://ipsatpro.com:8000/live/kamal/kamal/653.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/15.ts
+#EXTINF:-1,Sky Uno (DSL Lente)
+http://iptv.proff.co:15003/live/liverpool/liverpool/1583.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/157.ts
+#EXTINF:-1,Sky Atlantic HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/16.ts
+#EXTINF:-1,Sky Atlantic (dsl Lente)
+http://iptv.proff.co:15003/live/liverpool/liverpool/1585.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/234.ts
+#EXTINF:-1,Fox HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/18.ts
+#EXTINF:-1,Fox SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1589.ts
+#EXTINF:-1,Fox +1
+http://iptv.proff.co:15003/live/liverpool/liverpool/142.ts
+#EXTINF:-1,Fox Life HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/19.ts
+#EXTINF:-1,Fox Life SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1590.ts
+#EXTINF:-1,Fox Life +1
+http://iptv.proff.co:15003/live/liverpool/liverpool/235.ts
+#EXTINF:-1,Fox Crime HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/20.ts
+#EXTINF:-1,Fox Crime (Dsl Lente)
+http://iptv.proff.co:15003/live/liverpool/liverpool/1586.ts
+#EXTINF:-1,Fox Crime +1
+http://iptv.proff.co:15003/live/liverpool/liverpool/236.ts
+#EXTINF:-1,Comedy Central
+http://iptv.proff.co:15003/live/liverpool/liverpool/24.ts
+#EXTINF:-1,AXN HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/23.ts
+#EXTINF:-1,ITA - AXN  HD  Dsl Lente
+http://iptv.proff.co:15003/live/liverpool/liverpool/1577.ts
+#EXTINF:-1,AXN +1
+http://iptv.proff.co:15003/live/liverpool/liverpool/620.ts
+#EXTINF:-1,AXN Sci-Fi
+http://iptv.proff.co:15003/live/liverpool/liverpool/27.ts
+#EXTINF:-1,Fox Animation HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/25.ts
+#EXTINF:-1,Fox Animation +1
+http://iptv.proff.co:15003/live/liverpool/liverpool/1717.ts
+#EXTINF:-1,Fox Comedy HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/60.ts
+#EXTINF:-1,Fox Comedy +1
+http://iptv.proff.co:15003/live/liverpool/liverpool/1718.ts
+#EXTINF:-1,Lei
+http://iptv.proff.co:15003/live/liverpool/liverpool/26.ts
+#EXTINF:-1,Topcrime
+http://iptv.proff.co:15003/live/liverpool/liverpool/196.ts
+#EXTINF:-1,Cielo HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/198.ts
+#EXTINF:-1,Real Time HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/529.ts
+#EXTINF:-1,Rai 4
+http://iptv.proff.co:15003/live/liverpool/liverpool/535.ts
+#EXTINF:-1,Rai Premium
+http://iptv.proff.co:15003/live/liverpool/liverpool/532.ts
+#EXTINF:-1,Rai Movie
+http://iptv.proff.co:15003/live/liverpool/liverpool/534.ts
+#EXTINF:-1,La 5
+http://iptv.proff.co:15003/live/liverpool/liverpool/537.ts
+#EXTINF:-1,Italia 2
+http://iptv.proff.co:15003/live/liverpool/liverpool/536.ts
+#EXTINF:-1,IRIS
+http://iptv.proff.co:15003/live/liverpool/liverpool/540.ts
+#EXTINF:-1,Mediaset Extra
+http://iptv.proff.co:15003/live/liverpool/liverpool/543.ts
+#EXTINF:-1,FOR MUSIC
+http://iptv.proff.co:15003/live/liverpool/liverpool/542.ts
+#EXTINF:-1,Dove TV
+http://iptv.proff.co:15003/live/liverpool/liverpool/1597.ts
+#EXTINF:-1,- - - - - - SPORT - - - - - -
+http://iptv.proff.co:15003/live/liverpool/liverpool/161.ts
 #EXTINF:-1,Sky Sport 24 HD
-http://ipsatpro.com:8000/live/kamal/kamal/652.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/651.ts
-#EXTINF:-1,Sky Moto GP HD
-http://ipsatpro.com:8000/live/kamal/kamal/646.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/29.ts
+#EXTINF:-1,SKY Sport 24 (DSL Lente)
+http://iptv.proff.co:15003/live/liverpool/liverpool/1584.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/30.ts
+#EXTINF:-1,Sky Sport 1 Dsl Lente
+http://iptv.proff.co:15003/live/liverpool/liverpool/1559.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/31.ts
+#EXTINF:-1,Sky Sport 2 HD Dsl Lente
+http://iptv.proff.co:15003/live/liverpool/liverpool/1574.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/32.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/33.ts
+#EXTINF:-1,Sport Plus SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1560.ts
+#EXTINF:-1,Fox Sports HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/35.ts
+#EXTINF:-1,FOX SPORT SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1595.ts
+#EXTINF:-1,Sky Sport  F1 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/36.ts
+#EXTINF:-1,Sport F1 SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1562.ts
+#EXTINF:-1,Sky Sport MotoGP  HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/37.ts
+#EXTINF:-1,MOTOGP SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1594.ts
+#EXTINF:-1,EuroSport HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/38.ts
+#EXTINF:-1,EuroSport 2 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/39.ts
 #EXTINF:-1,Super Tennis HD
-http://ipsatpro.com:8000/live/kamal/kamal/645.ts
-#EXTINF:-1,---------- Calcio -----------
-http://ipsatpro.com:8000/live/kamal/kamal/644.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://ipsatpro.com:8000/live/kamal/kamal/643.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/642.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/641.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://ipsatpro.com:8000/live/kamal/kamal/640.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://ipsatpro.com:8000/live/kamal/kamal/568.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://ipsatpro.com:8000/live/kamal/kamal/567.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://ipsatpro.com:8000/live/kamal/kamal/566.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://ipsatpro.com:8000/live/kamal/kamal/565.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://ipsatpro.com:8000/live/kamal/kamal/564.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/557.ts
+#EXTINF:-1,Bike Channel
+http://iptv.proff.co:15003/live/liverpool/liverpool/326.ts
 #EXTINF:-1,Rai Sport 1
-http://ipsatpro.com:8000/live/kamal/kamal/639.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/243.ts
 #EXTINF:-1,Rai Sport 2
-http://ipsatpro.com:8000/live/kamal/kamal/560.ts
-#EXTINF:-1,SportTitalia
-http://ipsatpro.com:8000/live/kamal/kamal/638.ts
-#EXTINF:-1,Rete Sport
-http://ipsatpro.com:8000/live/kamal/kamal/1840.ts
-#EXTINF:-1,Sky Eurosport
-http://ipsatpro.com:8000/live/kamal/kamal/637.ts
-#EXTINF:-1,Sky Eurosport 2
-http://ipsatpro.com:8000/live/kamal/kamal/636.ts
-#EXTINF:-1,--------- Cultura ----------
-http://ipsatpro.com:8000/live/kamal/kamal/635.ts
-#EXTINF:-1,Sky TG 24
-http://ipsatpro.com:8000/live/kamal/kamal/629.ts
-#EXTINF:-1,Discovery HD
-http://ipsatpro.com:8000/live/kamal/kamal/630.ts
-#EXTINF:-1,Sky History HD
-http://ipsatpro.com:8000/live/kamal/kamal/634.ts
-#EXTINF:-1,National Geo HD
-http://ipsatpro.com:8000/live/kamal/kamal/633.ts
-#EXTINF:-1,NatGeo Wild HD
-http://ipsatpro.com:8000/live/kamal/kamal/632.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/244.ts
+#EXTINF:-1,Milan Channel
+http://iptv.proff.co:15003/live/liverpool/liverpool/41.ts
+#EXTINF:-1,JUVENTUS TV
+http://iptv.proff.co:15003/live/liverpool/liverpool/42.ts
+#EXTINF:-1,Inter Channel
+http://iptv.proff.co:15003/live/liverpool/liverpool/43.ts
+#EXTINF:-1,Lazio Style Channel
+http://iptv.proff.co:15003/live/liverpool/liverpool/44.ts
+#EXTINF:-1,ROMA TV
+http://iptv.proff.co:15003/live/liverpool/liverpool/45.ts
+#EXTINF:-1,Poker Italia 24
+http://iptv.proff.co:15003/live/liverpool/liverpool/191.ts
+#EXTINF:-1,CACCIA e pesca
+http://iptv.proff.co:15003/live/liverpool/liverpool/46.ts
+#EXTINF:-1,PESCA e caccia
+http://iptv.proff.co:15003/live/liverpool/liverpool/47.ts
+#EXTINF:-1,Class Horse TV
+http://iptv.proff.co:15003/live/liverpool/liverpool/1460.ts
+#EXTINF:-1,GAZZETTA TV
+http://iptv.proff.co:15003/live/liverpool/liverpool/506.ts
+#EXTINF:-1,- - - - - - CALCIO - - - - - - -
+http://iptv.proff.co:15003/live/liverpool/liverpool/246.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/34.ts
+#EXTINF:-1,sky supercalcio SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1561.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/48.ts
+#EXTINF:-1,SKY CALCIO 1 SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1482.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/49.ts
+#EXTINF:-1,Sky Calcio 2 Dsl Lente
+http://iptv.proff.co:15003/live/liverpool/liverpool/1564.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/50.ts
+#EXTINF:-1,Sky Calcio 3 Dsl Lente
+http://iptv.proff.co:15003/live/liverpool/liverpool/1565.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/51.ts
+#EXTINF:-1,CALCIO 4 SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1566.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/52.ts
+#EXTINF:-1,CALCIO 5 SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1567.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/53.ts
+#EXTINF:-1,Sky Calcio 6 SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1568.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/54.ts
+#EXTINF:-1,CALCIO 7 SD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1569.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/55.ts
+#EXTINF:-1,Sky Calcio 9
+http://iptv.proff.co:15003/live/liverpool/liverpool/1463.ts
+#EXTINF:-1,Sky Calcio 10
+http://iptv.proff.co:15003/live/liverpool/liverpool/1462.ts
+#EXTINF:-1,Sky Calcio 11
+http://iptv.proff.co:15003/live/liverpool/liverpool/1461.ts
+#EXTINF:-1,SKY CALCIO 12
+http://iptv.proff.co:15003/live/liverpool/liverpool/1480.ts
+#EXTINF:-1,- - - - - - DOCUMENTARI - - - - - -
+http://iptv.proff.co:15003/live/liverpool/liverpool/162.ts
+#EXTINF:-1,eXplora HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/146.ts
+#EXTINF:-1,NationalGeo HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/57.ts
+#EXTINF:-1,Nat Geo Wild  1
+http://iptv.proff.co:15003/live/liverpool/liverpool/1570.ts
 #EXTINF:-1,NatGeo People HD
-http://ipsatpro.com:8000/live/kamal/kamal/631.ts
-#EXTINF:-1,Sky Animal Planet
-http://ipsatpro.com:8000/live/kamal/kamal/604.ts
-#EXTINF:-1,----PREMIUM CINEMA ----
-http://ipsatpro.com:8000/live/kamal/kamal/628.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/63.ts
+#EXTINF:-1,NatGeo Wild HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/62.ts
+#EXTINF:-1,Discovery HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/56.ts
+#EXTINF:-1,Sky Discovery channel  1
+http://iptv.proff.co:15003/live/liverpool/liverpool/1598.ts
+#EXTINF:-1,Discovery Sci HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/58.ts
+#EXTINF:-1,Discovery TeL HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/59.ts
+#EXTINF:-1,CI Crime + Investigation HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/21.ts
+#EXTINF:-1,Focus
+http://iptv.proff.co:15003/live/liverpool/liverpool/199.ts
+#EXTINF:-1,DMAX
+http://iptv.proff.co:15003/live/liverpool/liverpool/204.ts
+#EXTINF:-1,Animal Planet
+http://iptv.proff.co:15003/live/liverpool/liverpool/144.ts
+#EXTINF:-1,History HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/61.ts
+#EXTINF:-1,Sky Arte HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/22.ts
+#EXTINF:-1,Gambero Rosso HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/147.ts
+#EXTINF:-1,Classica HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/1466.ts
+#EXTINF:-1,- - - - - - RAGAZZI - - - - - -
+http://iptv.proff.co:15003/live/liverpool/liverpool/163.ts
+#EXTINF:-1,Disney Channel HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/64.ts
+#EXTINF:-1,Disney Channel 1
+http://iptv.proff.co:15003/live/liverpool/liverpool/1571.ts
+#EXTINF:-1,Disney Channel +1
+http://iptv.proff.co:15003/live/liverpool/liverpool/197.ts
+#EXTINF:-1,Disney Channel  2
+http://iptv.proff.co:15003/live/liverpool/liverpool/1572.ts
+#EXTINF:-1,Cartoon Network
+http://iptv.proff.co:15003/live/liverpool/liverpool/65.ts
+#EXTINF:-1,Boomerang
+http://iptv.proff.co:15003/live/liverpool/liverpool/66.ts
+#EXTINF:-1,DeA Junior
+http://iptv.proff.co:15003/live/liverpool/liverpool/74.ts
+#EXTINF:-1,DeA Kids
+http://iptv.proff.co:15003/live/liverpool/liverpool/67.ts
+#EXTINF:-1,Disney in English
+http://iptv.proff.co:15003/live/liverpool/liverpool/72.ts
+#EXTINF:-1,Disney Junior
+http://iptv.proff.co:15003/live/liverpool/liverpool/70.ts
+#EXTINF:-1,Disney XD HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/71.ts
+#EXTINF:-1,Nick Junior
+http://iptv.proff.co:15003/live/liverpool/liverpool/424.ts
+#EXTINF:-1,Nickelodeon
+http://iptv.proff.co:15003/live/liverpool/liverpool/69.ts
+#EXTINF:-1,SPIDERMAN CHANNEL
+http://iptv.proff.co:15003/live/liverpool/liverpool/1464.ts
+#EXTINF:-1,Super!
+http://iptv.proff.co:15003/live/liverpool/liverpool/515.ts
+#EXTINF:-1,RAI YOYO
+http://iptv.proff.co:15003/live/liverpool/liverpool/470.ts
+#EXTINF:-1,MAN-GA
+http://iptv.proff.co:15003/live/liverpool/liverpool/143.ts
+#EXTINF:-1,K2
+http://iptv.proff.co:15003/live/liverpool/liverpool/382.ts
+#EXTINF:-1,BABY TV
+http://iptv.proff.co:15003/live/liverpool/liverpool/420.ts
+#EXTINF:-1,CARTONITO
+http://iptv.proff.co:15003/live/liverpool/liverpool/516.ts
+#EXTINF:-1,Cartoon +1
+http://iptv.proff.co:15003/live/liverpool/liverpool/419.ts
+#EXTINF:-1,Nick Jr
+http://iptv.proff.co:15003/live/liverpool/liverpool/68.ts
+#EXTINF:-1,BOING
+http://iptv.proff.co:15003/live/liverpool/liverpool/539.ts
+#EXTINF:-1,PEPPA PIG CHANNEL
+http://iptv.proff.co:15003/live/liverpool/liverpool/1481.ts
+#EXTINF:-1,- - - - - - NOTIZIARI - - - - - -
+http://iptv.proff.co:15003/live/liverpool/liverpool/164.ts
+#EXTINF:-1,Sky TG 24 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/75.ts
+#EXTINF:-1,TG COM 24
+http://iptv.proff.co:15003/live/liverpool/liverpool/530.ts
+#EXTINF:-1,RAI NEWS 24
+http://iptv.proff.co:15003/live/liverpool/liverpool/533.ts
+#EXTINF:-1,- - - - - - PRIMAFILA - - - - - -
+http://iptv.proff.co:15003/live/liverpool/liverpool/165.ts
+#EXTINF:-1,Vetrina Primafila
+http://iptv.proff.co:15003/movie/liverpool/liverpool/156.mp4
+#EXTINF:-1,Primafila 1 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/92.mkv
+#EXTINF:-1,Primafila 2 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/104.ts
+#EXTINF:-1,Primafila 3 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/93.mkv
+#EXTINF:-1,Primafila 4 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/105.ts
+#EXTINF:-1,Primafila 5 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/94.mkv
+#EXTINF:-1,Primafila 6 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/106.ts
+#EXTINF:-1,Primafila 7 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/95.mkv
+#EXTINF:-1,Primafila 8 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/107.ts
+#EXTINF:-1,Primafila 9 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/96.mkv
+#EXTINF:-1,Primafila 10 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/108.ts
+#EXTINF:-1,Primafila 11 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/97.mkv
+#EXTINF:-1,Primafila 12 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/109.ts
+#EXTINF:-1,Primafila 13 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/98.mkv
+#EXTINF:-1,Primafila 14 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/110.ts
+#EXTINF:-1,Primafila 15 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/100.mkv
+#EXTINF:-1,Primafila 16 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/99.mkv
+#EXTINF:-1,Primafila 17 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/101.mkv
+#EXTINF:-1,Primafila 18 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/102.mkv
+#EXTINF:-1,Primafila 19 HD
+http://iptv.proff.co:15003/movie/liverpool/liverpool/103.mkv
+#EXTINF:-1,- - - - - - PREMIUM - - - - - -
+http://iptv.proff.co:15003/live/liverpool/liverpool/167.ts
 #EXTINF:-1,Premium Cinema HD
-http://ipsatpro.com:8000/live/kamal/kamal/627.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/609.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/88.ts
+#EXTINF:-1,Premium Cinema HD X ADSL Lente
+http://iptv.proff.co:15003/live/liverpool/liverpool/1580.ts
 #EXTINF:-1,Premium Cinema +24
-http://ipsatpro.com:8000/live/kamal/kamal/612.ts
-#EXTINF:-1,Premium Crime
-http://ipsatpro.com:8000/live/kamal/kamal/621.ts
-#EXTINF:-1,Premium Crime +24
-http://ipsatpro.com:8000/live/kamal/kamal/611.ts
-#EXTINF:-1,Premium Action HD
-http://ipsatpro.com:8000/live/kamal/kamal/626.ts
-#EXTINF:-1,Premium Comedy
-http://ipsatpro.com:8000/live/kamal/kamal/620.ts
-#EXTINF:-1,Premium Action +24 HD
-http://ipsatpro.com:8000/live/kamal/kamal/618.ts
-#EXTINF:-1,Premium Stories
-http://ipsatpro.com:8000/live/kamal/kamal/625.ts
-#EXTINF:-1,Premium Joy
-http://ipsatpro.com:8000/live/kamal/kamal/624.ts
-#EXTINF:-1,Premium Energy
-http://ipsatpro.com:8000/live/kamal/kamal/623.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/372.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/465.ts
+#EXTINF:-1,Premium Cinema2  HD X ADSL Lente
+http://iptv.proff.co:15003/live/liverpool/liverpool/1581.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://iptv.proff.co:15003/live/liverpool/liverpool/466.ts
 #EXTINF:-1,Premium Emotion
-http://ipsatpro.com:8000/live/kamal/kamal/622.ts
-#EXTINF:-1,Premium Studio Universal
-http://ipsatpro.com:8000/live/kamal/kamal/619.ts
-#EXTINF:-1,Premium Disney Junior
-http://ipsatpro.com:8000/live/kamal/kamal/617.ts
-#EXTINF:-1,Premium Disney Channel
-http://ipsatpro.com:8000/live/kamal/kamal/616.ts
-#EXTINF:-1,Premium Stories +24
-http://ipsatpro.com:8000/live/kamal/kamal/614.ts
-#EXTINF:-1,Premium Cartoon Network
-http://ipsatpro.com:8000/live/kamal/kamal/613.ts
-#EXTINF:-1,----PREMIUM SPORT ----
-http://ipsatpro.com:8000/live/kamal/kamal/628.ts
-#EXTINF:-1,Premium Sport
-http://ipsatpro.com:8000/live/kamal/kamal/615.ts
-#EXTINF:-1,Premium EuroSport 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/608.ts
-#EXTINF:-1,Premium EuroSport 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/610.ts
-#EXTINF:-1,Premium Calcio HD
-http://ipsatpro.com:8000/live/kamal/kamal/607.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/90.ts
+#EXTINF:-1,Premium Energy
+http://iptv.proff.co:15003/live/liverpool/liverpool/89.ts
+#EXTINF:-1,Premium Comedy
+http://iptv.proff.co:15003/live/liverpool/liverpool/111.ts
+#EXTINF:-1,Premium Stories
+http://iptv.proff.co:15003/live/liverpool/liverpool/918.ts
+#EXTINF:-1,Studio Universal - Premium
+http://iptv.proff.co:15003/live/liverpool/liverpool/112.ts
+#EXTINF:-1,Premium Joi
+http://iptv.proff.co:15003/live/liverpool/liverpool/113.ts
+#EXTINF:-1,Premium Action HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/469.ts
+#EXTINF:-1,Premium Action HD X ADSL Lente
+http://iptv.proff.co:15003/live/liverpool/liverpool/1582.ts
+#EXTINF:-1,Premium Action +24
+http://iptv.proff.co:15003/live/liverpool/liverpool/115.ts
+#EXTINF:-1,Premium Crime HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/622.ts
+#EXTINF:-1,Premium Crime HD (DSL Lente)
+http://iptv.proff.co:15003/live/liverpool/liverpool/1573.ts
+#EXTINF:-1,Premium Crime +24
+http://iptv.proff.co:15003/live/liverpool/liverpool/116.ts
+#EXTINF:-1,ALICE
+http://iptv.proff.co:15003/live/liverpool/liverpool/916.ts
+#EXTINF:-1,MARCO POLO
+http://iptv.proff.co:15003/live/liverpool/liverpool/917.ts
+#EXTINF:-1,Discovery World - Premium
+http://iptv.proff.co:15003/live/liverpool/liverpool/119.ts
+#EXTINF:-1,BBC Knowledge - Premium
+http://iptv.proff.co:15003/live/liverpool/liverpool/121.ts
+#EXTINF:-1,- - - - - - PREMIUM SPORT- - - - - -
+http://iptv.proff.co:15003/live/liverpool/liverpool/167.ts
+#EXTINF:-1,Premium Sport HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/468.ts
+#EXTINF:-1,Premium Sport Dsl Lente
+http://iptv.proff.co:15003/live/liverpool/liverpool/1596.ts
+#EXTINF:-1,Premium Sport 2
+http://iptv.proff.co:15003/live/liverpool/liverpool/122.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://iptv.proff.co:15003/live/liverpool/liverpool/131.ts
+#EXTINF:-1,Premium Calcio HD Dsl Lente
+http://iptv.proff.co:15003/live/liverpool/liverpool/1576.ts
 #EXTINF:-1,Premium Calcio 1
-http://ipsatpro.com:8000/live/kamal/kamal/606.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/124.ts
 #EXTINF:-1,Premium Calcio 2
-http://ipsatpro.com:8000/live/kamal/kamal/605.ts
-#EXTINF:-1,----------PRIMAFILA---------
-http://ipsatpro.com:8000/live/kamal/kamal/602.ts
-#EXTINF:-1,Sky Prima fila 1 HD
-http://ipsatpro.com:8000/live/kamal/kamal/601.ts
-#EXTINF:-1,Sky Prima fila 2 HD
-http://ipsatpro.com:8000/live/kamal/kamal/600.ts
-#EXTINF:-1,Sky Prima fila 3 HD
-http://ipsatpro.com:8000/live/kamal/kamal/599.ts
-#EXTINF:-1,Sky Prima fila 4 HD
-http://ipsatpro.com:8000/live/kamal/kamal/598.ts
-#EXTINF:-1,Sky Prima fila 5 HD
-http://ipsatpro.com:8000/live/kamal/kamal/597.ts
-#EXTINF:-1,Sky Prima fila 6 HD
-http://ipsatpro.com:8000/live/kamal/kamal/596.ts
-#EXTINF:-1,Sky Prima fila 7 HD
-http://ipsatpro.com:8000/live/kamal/kamal/595.ts
-#EXTINF:-1,Sky Prima fila 8 HD
-http://ipsatpro.com:8000/live/kamal/kamal/594.ts
-#EXTINF:-1,Sky Prima fila 9 HD
-http://ipsatpro.com:8000/live/kamal/kamal/593.ts
-#EXTINF:-1,Sky Prima fila 10 HD
-http://ipsatpro.com:8000/live/kamal/kamal/592.ts
-#EXTINF:-1,Sky Prima fila 11 HD
-http://ipsatpro.com:8000/live/kamal/kamal/591.ts
-#EXTINF:-1,Sky Prima fila 12 HD
-http://ipsatpro.com:8000/live/kamal/kamal/590.ts
-#EXTINF:-1,Sky Prima fila 13 HD
-http://ipsatpro.com:8000/live/kamal/kamal/589.ts
-#EXTINF:-1,Sky Prima fila 14 HD
-http://ipsatpro.com:8000/live/kamal/kamal/588.ts
-#EXTINF:-1,Sky Prima fila 15 HD
-http://ipsatpro.com:8000/live/kamal/kamal/587.ts
-#EXTINF:-1,Sky Prima Fila WWE HD
-http://ipsatpro.com:8000/live/kamal/kamal/586.ts
+http://iptv.proff.co:15003/live/liverpool/liverpool/125.ts
+#EXTINF:-1,Premium Calcio 3
+http://iptv.proff.co:15003/live/liverpool/liverpool/126.ts
+#EXTINF:-1,Premium Calcio 4
+http://iptv.proff.co:15003/live/liverpool/liverpool/127.ts
+#EXTINF:-1,Premium Calcio 5
+http://iptv.proff.co:15003/live/liverpool/liverpool/128.ts
+#EXTINF:-1,Premium Calcio 6
+http://iptv.proff.co:15003/live/liverpool/liverpool/129.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

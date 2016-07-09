@@ -529,308 +529,468 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,- - - - - - SKY CINEMA - - - - - -
-http://178.33.237.109:8600/live/lexar/lexar/306.ts
-#EXTINF:-1,SKY CINEMA 1 HD
-http://178.33.237.109:8600/live/lexar/lexar/326.ts
-#EXTINF:-1,SKY CINEMA+ 1 HD
-http://178.33.237.109:8600/live/lexar/lexar/525.ts
-#EXTINF:-1,SKY CINEMA+ 24 HD
-http://178.33.237.109:8600/live/lexar/lexar/524.ts
-#EXTINF:-1,SKY CINEMA HITS HD
-http://178.33.237.109:8600/live/lexar/lexar/519.ts
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://178.33.237.109:8600/live/lexar/lexar/7.ts
-#EXTINF:-1,SKY CINEMA FAMILY+1 HD
-http://178.33.237.109:8600/live/lexar/lexar/824.ts
-#EXTINF:-1,SKY CINEMA PASSION HD
-http://178.33.237.109:8600/live/lexar/lexar/478.ts
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://178.33.237.109:8600/live/lexar/lexar/516.ts
-#EXTINF:-1,SKY CINEMA MAX HD
-http://178.33.237.109:8600/live/lexar/lexar/324.ts
-#EXTINF:-1,SKY CINEMA CULT HD
-http://178.33.237.109:8600/live/lexar/lexar/518.ts
-#EXTINF:-1,SKY CLASSICS HD
-http://178.33.237.109:8600/live/lexar/lexar/520.ts
-#EXTINF:-1,SKY GOMORRA 2
-http://178.33.237.109:8600/live/lexar/lexar/3449.ts
-#EXTINF:-1,- - - - - - SKY SPORT - - - - - -
-http://178.33.237.109:8600/live/lexar/lexar/305.ts
-#EXTINF:-1,SKY SPORT 24 HD
-http://178.33.237.109:8600/live/lexar/lexar/586.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://178.33.237.109:8600/live/lexar/lexar/5.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://178.33.237.109:8600/live/lexar/lexar/517.ts
-#EXTINF:-1,SKY SPORT 3 HD
-http://178.33.237.109:8600/live/lexar/lexar/805.ts
-#EXTINF:-1,SKY SPORT PLUS HD
-http://178.33.237.109:8600/live/lexar/lexar/1363.ts
-#EXTINF:-1,SKY FOX SPORTS HD
-http://178.33.237.109:8600/live/lexar/lexar/935.ts
-#EXTINF:-1,SKY SPORT F1 HD
-http://178.33.237.109:8600/live/lexar/lexar/291.ts
-#EXTINF:-1,SKY MOTOGP HD
-http://178.33.237.109:8600/live/lexar/lexar/566.ts
-#EXTINF:-1,SPORT ITALIA
-http://178.33.237.109:8600/live/lexar/lexar/1831.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://178.33.237.109:8600/live/lexar/lexar/1364.ts
-#EXTINF:-1,EUROSPORT 2 HD
-http://178.33.237.109:8600/live/lexar/lexar/1365.ts
-#EXTINF:-1,SUPERTENNIS HD
-http://178.33.237.109:8600/live/lexar/lexar/784.ts
-#EXTINF:-1,POKER CENTRAL
-http://178.33.237.109:8600/live/lexar/lexar/3364.ts
-#EXTINF:-1,SKY TG24
-http://178.33.237.109:8600/live/lexar/lexar/587.ts
-#EXTINF:-1,- - - - - -  SKY CALCIO   - - - - - -
-http://178.33.237.109:8600/live/lexar/lexar/1828.ts
-#EXTINF:-1,SKY SUPERCALCIO HD
-http://178.33.237.109:8600/live/lexar/lexar/515.ts
-#EXTINF:-1,SKY CALCIO 1 HD
-http://178.33.237.109:8600/live/lexar/lexar/522.ts
-#EXTINF:-1,SKY CALCIO 2 HD
-http://178.33.237.109:8600/live/lexar/lexar/521.ts
-#EXTINF:-1,SKY CALCIO 3 HD
-http://178.33.237.109:8600/live/lexar/lexar/828.ts
-#EXTINF:-1,SKY CALCIO 4 HD
-http://178.33.237.109:8600/live/lexar/lexar/827.ts
-#EXTINF:-1,SKY CALCIO 5 HD
-http://178.33.237.109:8600/live/lexar/lexar/1620.ts
-#EXTINF:-1,SKY CALCIO 6 HD
-http://178.33.237.109:8600/live/lexar/lexar/826.ts
-#EXTINF:-1,SKY CALCIO 7 HD
-http://178.33.237.109:8600/live/lexar/lexar/825.ts
-#EXTINF:-1,SKY CALCIO 8 HD
-http://178.33.237.109:8600/live/lexar/lexar/1246.ts
-#EXTINF:-1,SKY CALCIO 9 HD
-http://178.33.237.109:8600/live/lexar/lexar/1247.ts
-#EXTINF:-1,- - - - - - SKY INTRATTENIMENTO - - - - -
-http://178.33.237.109:8600/live/lexar/lexar/301.ts
-#EXTINF:-1,SKY UNO HD
-http://178.33.237.109:8600/live/lexar/lexar/564.ts
-#EXTINF:-1,SKY ATLANTIC HD
-http://178.33.237.109:8600/live/lexar/lexar/1223.ts
-#EXTINF:-1,FOX HD
-http://178.33.237.109:8600/live/lexar/lexar/565.ts
-#EXTINF:-1,FOX LIFE HD
-http://178.33.237.109:8600/live/lexar/lexar/1368.ts
-#EXTINF:-1,FOX CRIME HD
-http://178.33.237.109:8600/live/lexar/lexar/807.ts
-#EXTINF:-1,FOX COMEDY HD
-http://178.33.237.109:8600/live/lexar/lexar/1371.ts
-#EXTINF:-1,FOX ANIMATION HD
-http://178.33.237.109:8600/live/lexar/lexar/930.ts
+#EXTINF:-1,----- PREMIUM CINEMA----
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/291.ts
+#EXTINF:-1,Premium Cinema HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/292.ts
+#EXTINF:-1,Premium Cinema SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4043.ts
+#EXTINF:-1,Premium Cinema +24
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2191.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2192.ts
+#EXTINF:-1,Premium Cinema 2 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4044.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2214.ts
+#EXTINF:-1,Premium Emotion
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/297.ts
+#EXTINF:-1,Premium Energy
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/298.ts
+#EXTINF:-1,Premium Comedy
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/295.ts
+#EXTINF:-1,Studio Universal
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/301.ts
+#EXTINF:-1,Paramount Channel
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4446.ts
+#EXTINF:-1,Premium Action HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/294.ts
+#EXTINF:-1,Premium Action +24
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2193.ts
+#EXTINF:-1,Premium Crime HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2196.ts
+#EXTINF:-1,Premium Crime +24
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2194.ts
+#EXTINF:-1,Premium Joy
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/300.ts
+#EXTINF:-1,Premium Joy +24
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4436.ts
+#EXTINF:-1,Premium Stories
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/299.ts
+#EXTINF:-1,Premium Stories +24
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4437.ts
+#EXTINF:-1,----- PREMIUM SPORT ----
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/291.ts
+#EXTINF:-1,Premium Sport HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2528.ts
+#EXTINF:-1,Premium Sport SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4111.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/349.ts
+#EXTINF:-1,Premium Sport 2 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4445.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/346.ts
+#EXTINF:-1,Premium Calcio 1 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2834.ts
+#EXTINF:-1,Premium Calcio 2
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/348.ts
+#EXTINF:-1,Premium Calcio 3
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/352.ts
+#EXTINF:-1,Premium Calcio 4
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/353.ts
+#EXTINF:-1,Premium Calcio 5
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/400.ts
+#EXTINF:-1,Premium Calcio 6
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/401.ts
+#EXTINF:-1,Premium Calcio 7
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/402.ts
+#EXTINF:-1,----SKY CINEMA ----
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/224.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/225.ts
+#EXTINF:-1,Sky Cinema 1 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3822.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/226.ts
+#EXTINF:-1,Sky Cinema +1 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3823.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/227.ts
+#EXTINF:-1,Sky Cinema +24 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3824.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/228.ts
+#EXTINF:-1,Sky Cinema Hits SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3825.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/229.ts
+#EXTINF:-1,Sky Cinema Family SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3826.ts
+#EXTINF:-1,Sky Cinema family +1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4687.ts
+#EXTINF:-1,Sky Cinema Family +1 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5017.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/230.ts
+#EXTINF:-1,Sky Cinema Passion SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3827.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/231.ts
+#EXTINF:-1,Sky Cinema Comedy SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3828.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/232.ts
+#EXTINF:-1,Sky Cinema Max SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3829.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3183.ts
+#EXTINF:-1,Sky Cinema Max +1 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3830.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/234.ts
+#EXTINF:-1,Sky Cinema Cult SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3831.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/235.ts
+#EXTINF:-1,Sky Cinema Classics SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5016.ts
+#EXTINF:-1,Rai Movie
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1552.ts
+#EXTINF:-1,Iris
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1481.ts
+#EXTINF:-1,---- INTRATTENIMENTO ----
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/236.ts
+#EXTINF:-1,Sky Uno HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/237.ts
+#EXTINF:-1,Sky Uno SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3908.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4672.ts
+#EXTINF:-1,Sky Atlantic HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/238.ts
+#EXTINF:-1,Sky Atlantic SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3909.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4685.ts
+#EXTINF:-1,Fox HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/239.ts
+#EXTINF:-1,Fox +1
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5018.ts
+#EXTINF:-1,Fox Life HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/240.ts
+#EXTINF:-1,Fox Life +1
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5019.ts
+#EXTINF:-1,Fox Crime HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/241.ts
+#EXTINF:-1,Fox Crime +1
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5020.ts
+#EXTINF:-1,Fox Comedy HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/242.ts
+#EXTINF:-1,Fox Animation HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/243.ts
+#EXTINF:-1,Fox Animation SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4411.ts
 #EXTINF:-1,AXN HD
-http://178.33.237.109:8600/live/lexar/lexar/1243.ts
-#EXTINF:-1,GIALLO
-http://178.33.237.109:8600/live/lexar/lexar/774.ts
-#EXTINF:-1,CIELO
-http://178.33.237.109:8600/live/lexar/lexar/780.ts
-#EXTINF:-1,LEI
-http://178.33.237.109:8600/live/lexar/lexar/799.ts
-#EXTINF:-1,REAL TIME
-http://178.33.237.109:8600/live/lexar/lexar/794.ts
-#EXTINF:-1,REAL TIME+ 1
-http://178.33.237.109:8600/live/lexar/lexar/3366.ts
-#EXTINF:-1,- - - - - - SKY CULTURA - - - - -
-http://178.33.237.109:8600/live/lexar/lexar/1827.ts
-#EXTINF:-1,EXPLORA HD
-http://178.33.237.109:8600/live/lexar/lexar/2806.ts
-#EXTINF:-1,NAT GEO HD
-http://178.33.237.109:8600/live/lexar/lexar/1407.ts
-#EXTINF:-1,NATGEO PEOPLE HD
-http://178.33.237.109:8600/live/lexar/lexar/932.ts
-#EXTINF:-1,NATGEO GEO WILD HD
-http://178.33.237.109:8600/live/lexar/lexar/933.ts
-#EXTINF:-1,DISCOVERY HD
-http://178.33.237.109:8600/live/lexar/lexar/611.ts
-#EXTINF:-1,DISCOVERY SCI HD
-http://178.33.237.109:8600/live/lexar/lexar/4.ts
-#EXTINF:-1,DISCOVERY TRAVEL e LIVING
-http://178.33.237.109:8600/live/lexar/lexar/1245.ts
-#EXTINF:-1,FOCUS
-http://178.33.237.109:8600/live/lexar/lexar/785.ts
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/245.ts
+#EXTINF:-1,AXN +1
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5023.ts
+#EXTINF:-1,AXN Sci-Fi
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1707.ts
+#EXTINF:-1,Comedy Central
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5024.ts
+#EXTINF:-1,Giallo
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2482.ts
+#EXTINF:-1,Cielo
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/246.ts
+#EXTINF:-1,Real Time
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/247.ts
+#EXTINF:-1,Real time +1
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4913.ts
+#EXTINF:-1,La7d
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1561.ts
+#EXTINF:-1,Tv 2000
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2049.ts
+#EXTINF:-1,Rai Premium
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1548.ts
+#EXTINF:-1,Rai 4 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/911.ts
+#EXTINF:-1,Rai 5
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1554.ts
+#EXTINF:-1,La 5
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1392.ts
+#EXTINF:-1,Mediaset Italia 2
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/912.ts
+#EXTINF:-1,Mediaset Extra
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1558.ts
+#EXTINF:-1,Top Crime
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1473.ts
+#EXTINF:-1,---- SPORT ----
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/249.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/250.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3910.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/251.ts
+#EXTINF:-1,Sky Sport 1 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4027.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/252.ts
+#EXTINF:-1,Sky Sport 2 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4028.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/253.ts
+#EXTINF:-1,Sky Sport 3 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4029.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2073.ts
+#EXTINF:-1,Sky Sport Plus SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4030.ts
+#EXTINF:-1,Fox Sports HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/413.ts
+#EXTINF:-1,Fox Sports SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4031.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/254.ts
+#EXTINF:-1,Sky Sport F1 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4325.ts
+#EXTINF:-1,Sky Moto GP HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/255.ts
+#EXTINF:-1,Sky Moto GP SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4326.ts
+#EXTINF:-1,Eurosport HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2633.ts
+#EXTINF:-1,Eurosport 2 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2634.ts
+#EXTINF:-1,Poker Italia
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5389.ts
+#EXTINF:-1,Sport Italia
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1547.ts
+#EXTINF:-1,Top Calcio 24
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5658.ts
+#EXTINF:-1,Class Horse TV
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4293.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1551.ts
+#EXTINF:-1,Rai Sport 2
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2048.ts
+#EXTINF:-1,Super Tennis HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/256.ts
+#EXTINF:-1,---- CALCIO ----
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/257.ts
+#EXTINF:-1,Milan channel
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5027.ts
+#EXTINF:-1,J | Juventus TV
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5026.ts
+#EXTINF:-1,Inter channel
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4862.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/258.ts
+#EXTINF:-1,Sky Supercalcio SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3875.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/259.ts
+#EXTINF:-1,Sky Calcio 1 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3900.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/260.ts
+#EXTINF:-1,Sky Calcio 2 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3901.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/261.ts
+#EXTINF:-1,Sky Calcio 3 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3911.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/262.ts
+#EXTINF:-1,Sky Calcio 4 SD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3912.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/263.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/264.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2739.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3803.ts
+#EXTINF:-1,Sky Calcio 9 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4346.ts
+#EXTINF:-1,--- BEIN SPORT ---
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4473.ts
+#EXTINF:-1,Bein Sport 1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4332.ts
+#EXTINF:-1,Bein Sport 2 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4333.ts
+#EXTINF:-1,Bein Sport 3 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4335.ts
+#EXTINF:-1,Bein Sport 4 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4462.ts
+#EXTINF:-1,Bein Sport 5 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4474.ts
+#EXTINF:-1,Bein Sport 6 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4481.ts
+#EXTINF:-1,Bein Sport 7 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4482.ts
+#EXTINF:-1,Bein Sport 8 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4492.ts
+#EXTINF:-1,Bein Sport 9 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4483.ts
+#EXTINF:-1,Bein Sport 10 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4484.ts
+#EXTINF:-1,---- CULTURA ----
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/266.ts
+#EXTINF:-1,Explora HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/284.ts
+#EXTINF:-1,NationalGeo HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/267.ts
+#EXTINF:-1,NatGeo People HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/268.ts
+#EXTINF:-1,NatGeo Wild HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/394.ts
+#EXTINF:-1,NatGeo Wild +1
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5657.ts
+#EXTINF:-1,Discovery Channel HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/269.ts
+#EXTINF:-1,Discovery Sci HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/357.ts
+#EXTINF:-1,Discovery Travel e Living HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2277.ts
+#EXTINF:-1,CI Crime+Investigation HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/244.ts
+#EXTINF:-1,Laeffe
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5656.ts
 #EXTINF:-1,DMAX HD
-http://178.33.237.109:8600/live/lexar/lexar/786.ts
-#EXTINF:-1,DMAX +1
-http://178.33.237.109:8600/live/lexar/lexar/3365.ts
-#EXTINF:-1,ANIMAL PLANET
-http://178.33.237.109:8600/live/lexar/lexar/1375.ts
-#EXTINF:-1,HISTORY HD
-http://178.33.237.109:8600/live/lexar/lexar/1252.ts
-#EXTINF:-1,SKY ARTE HD
-http://178.33.237.109:8600/live/lexar/lexar/323.ts
-#EXTINF:-1,GAMBERO ROSSO HD
-http://178.33.237.109:8600/live/lexar/lexar/1253.ts
-#EXTINF:-1,PESCA e CACCIA
-http://178.33.237.109:8600/live/lexar/lexar/1406.ts
-#EXTINF:-1,CACCIA e PESCA
-http://178.33.237.109:8600/live/lexar/lexar/1405.ts
-#EXTINF:-1,- - - - - - PREMIUM - - - - - -
-http://178.33.237.109:8600/live/lexar/lexar/329.ts
-#EXTINF:-1,PREMIUM CINEMA HD
-http://178.33.237.109:8600/live/lexar/lexar/560.ts
-#EXTINF:-1,PREMIUM CINEMA+ 24 HD
-http://178.33.237.109:8600/live/lexar/lexar/562.ts
-#EXTINF:-1,PREMIUM CINEMA 2 HD
-http://178.33.237.109:8600/live/lexar/lexar/555.ts
-#EXTINF:-1,PREMIUM CINEMA 2 +24
-http://178.33.237.109:8600/live/lexar/lexar/595.ts
-#EXTINF:-1,PREMIUM CINEMA ENERGY
-http://178.33.237.109:8600/live/lexar/lexar/600.ts
-#EXTINF:-1,PREMIUM CINEMA EMOTION
-http://178.33.237.109:8600/live/lexar/lexar/558.ts
-#EXTINF:-1,PREMIUM CINEMA COMEDY
-http://178.33.237.109:8600/live/lexar/lexar/601.ts
-#EXTINF:-1,PREMIUM CINEMA ACTION HD
-http://178.33.237.109:8600/live/lexar/lexar/596.ts
-#EXTINF:-1,PREMIUM ACTION+ 24
-http://178.33.237.109:8600/live/lexar/lexar/563.ts
-#EXTINF:-1,PREMIUM STUDIO UNIVERSAL
-http://178.33.237.109:8600/live/lexar/lexar/829.ts
-#EXTINF:-1,PREMIUM STORIES
-http://178.33.237.109:8600/live/lexar/lexar/556.ts
-#EXTINF:-1,PREMIUM STORIES +24
-http://178.33.237.109:8600/live/lexar/lexar/2461.ts
-#EXTINF:-1,PREMIUM JOY
-http://178.33.237.109:8600/live/lexar/lexar/557.ts
-#EXTINF:-1,PREMIUM DISCOVERY WORLD
-http://178.33.237.109:8600/live/lexar/lexar/1621.ts
-#EXTINF:-1,PREMIUM CRIME HD
-http://178.33.237.109:8600/live/lexar/lexar/597.ts
-#EXTINF:-1,PREMIUM CRIME+ 24
-http://178.33.237.109:8600/live/lexar/lexar/598.ts
-#EXTINF:-1,PREMIUM SPORT HD
-http://178.33.237.109:8600/live/lexar/lexar/481.ts
-#EXTINF:-1,PREMIUM SPORT 2
-http://178.33.237.109:8600/live/lexar/lexar/2463.ts
-#EXTINF:-1,PREMIUM CALCIO HD
-http://178.33.237.109:8600/live/lexar/lexar/758.ts
-#EXTINF:-1,PREMIUM CALCIO
-http://178.33.237.109:8600/live/lexar/lexar/759.ts
-#EXTINF:-1,PREMIUM CALCIO 1 HD
-http://178.33.237.109:8600/live/lexar/lexar/321.ts
-#EXTINF:-1,PREMIUM CALCIO 1
-http://178.33.237.109:8600/live/lexar/lexar/760.ts
-#EXTINF:-1,PREMIUM CALCIO 2 HD
-http://178.33.237.109:8600/live/lexar/lexar/761.ts
-#EXTINF:-1,PREMIUM CALCIO 2
-http://178.33.237.109:8600/live/lexar/lexar/762.ts
-#EXTINF:-1,PREMIUM CALCIO 3
-http://178.33.237.109:8600/live/lexar/lexar/763.ts
-#EXTINF:-1,PREMIUM CALCIO 4
-http://178.33.237.109:8600/live/lexar/lexar/764.ts
-#EXTINF:-1,PREMIUM CALCIO 5
-http://178.33.237.109:8600/live/lexar/lexar/765.ts
-#EXTINF:-1,PREMIUM CALCIO 6
-http://178.33.237.109:8600/live/lexar/lexar/766.ts
-#EXTINF:-1,PREMIUM CALCIO 7
-http://178.33.237.109:8600/live/lexar/lexar/767.ts
-#EXTINF:-1,PREMIUM CARTOON NETWORK
-http://178.33.237.109:8600/live/lexar/lexar/771.ts
-#EXTINF:-1,PREMIUM DISNEY JUNIOR
-http://178.33.237.109:8600/live/lexar/lexar/770.ts
-#EXTINF:-1,PREMIUM DISNEY CHANNEL
-http://178.33.237.109:8600/live/lexar/lexar/768.ts
-#EXTINF:-1,PREMIUM DISNEY 1
-http://178.33.237.109:8600/live/lexar/lexar/769.ts
-#EXTINF:-1,- - - - - -  PRIMAFILA  - - - - - -
-http://178.33.237.109:8600/live/lexar/lexar/297.ts
-#EXTINF:-1,VETRINA PRIMAFILA
-http://178.33.237.109:8600/movie/lexar/lexar/3360.mkv
-#EXTINF:-1,SKY PRIMAFILA 3D HD
-http://178.33.237.109:8600/movie/lexar/lexar/2056.mkv
-#EXTINF:-1,PRIMAFILA 1 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1971.mkv
-#EXTINF:-1,PRIMAFILA 2 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1972.mkv
-#EXTINF:-1,PRIMAFILA 3 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1973.mkv
-#EXTINF:-1,PRIMAFILA 4 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1974.mkv
-#EXTINF:-1,PRIMAFILA 5 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1975.mkv
-#EXTINF:-1,PRIMAFILA 6 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1976.mkv
-#EXTINF:-1,PRIMAFILA 7 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1977.mkv
-#EXTINF:-1,PRIMAFILA 8 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1978.mkv
-#EXTINF:-1,PRIMAFILA 9 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1979.mkv
-#EXTINF:-1,PRIMAFILA 10 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1980.mkv
-#EXTINF:-1,PRIMAFILA 11 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1981.mkv
-#EXTINF:-1,PRIMAFILA 12 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1982.mkv
-#EXTINF:-1,PRIMAFILA 13 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1983.mkv
-#EXTINF:-1,PRIMAFILA 14 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1984.mkv
-#EXTINF:-1,PRIMAFILA 15 HD
-http://178.33.237.109:8600/movie/lexar/lexar/1985.mkv
-#EXTINF:-1,PRIMAFILA 16 HD
-http://178.33.237.109:8600/movie/lexar/lexar/2172.mkv
-#EXTINF:-1,PRIMAFILA 17 HD
-http://178.33.237.109:8600/movie/lexar/lexar/2173.mkv
-#EXTINF:-1,PRIMAFILA 18 HD
-http://178.33.237.109:8600/movie/lexar/lexar/2174.mkv
-#EXTINF:-1,- - - - - - SKY BAMBINI - - - - - -
-http://178.33.237.109:8600/live/lexar/lexar/1520.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://178.33.237.109:8600/live/lexar/lexar/1409.ts
-#EXTINF:-1,DISNEY XD
-http://178.33.237.109:8600/live/lexar/lexar/791.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://178.33.237.109:8600/live/lexar/lexar/1412.ts
-#EXTINF:-1,DEA JUNIOR
-http://178.33.237.109:8600/live/lexar/lexar/1414.ts
-#EXTINF:-1,DEA KIDS
-http://178.33.237.109:8600/live/lexar/lexar/1987.ts
-#EXTINF:-1,NIKELODEON
-http://178.33.237.109:8600/live/lexar/lexar/1416.ts
-#EXTINF:-1,CARTOON NETWORK
-http://178.33.237.109:8600/live/lexar/lexar/1408.ts
-#EXTINF:-1,FRISBEE
-http://178.33.237.109:8600/live/lexar/lexar/1989.ts
-#EXTINF:-1,SUPER!
-http://178.33.237.109:8600/live/lexar/lexar/793.ts
-#EXTINF:-1,K2
-http://178.33.237.109:8600/live/lexar/lexar/800.ts
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/271.ts
+#EXTINF:-1,History HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/272.ts
+#EXTINF:-1,Focus
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/679.ts
+#EXTINF:-1,Sky Arte HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1526.ts
+#EXTINF:-1,Gambero Rosso HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1920.ts
+#EXTINF:-1,Caccia e Pesca
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/273.ts
+#EXTINF:-1,Pesca e Caccia
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/863.ts
+#EXTINF:-1,Animal planet
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5506.ts
+#EXTINF:-1,Alice
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1569.ts
+#EXTINF:-1,Fine living
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1395.ts
+#EXTINF:-1,Marcopolo
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1559.ts
+#EXTINF:-1,Nuvolari
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2096.ts
+#EXTINF:-1,--- BAMBINI ---
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1397.ts
+#EXTINF:-1,Premium Disney Channel HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/285.ts
+#EXTINF:-1,Premium Disney Junior
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/286.ts
+#EXTINF:-1,Premium Cartoon Network
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/287.ts
+#EXTINF:-1,Sky Disney Junior
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5399.ts
+#EXTINF:-1,Disney XD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4675.ts
+#EXTINF:-1,Nick Junior
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5029.ts
+#EXTINF:-1,DeAKids
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/5031.ts
 #EXTINF:-1,MAN-GA
-http://178.33.237.109:8600/live/lexar/lexar/1415.ts
-#EXTINF:-1,BOING
-http://178.33.237.109:8600/live/lexar/lexar/1988.ts
-#EXTINF:-1,RAI YOYO
-http://178.33.237.109:8600/live/lexar/lexar/795.ts
-#EXTINF:-1,CARTOONITO
-http://178.33.237.109:8600/live/lexar/lexar/790.ts
-#EXTINF:-1,RAI GLUP
-http://178.33.237.109:8600/live/lexar/lexar/798.ts
-#EXTINF:-1,- - - - - - SKY MUSICA - - - - - -
-http://178.33.237.109:8600/live/lexar/lexar/2000.ts
-#EXTINF:-1,MTV BRAND NEW
-http://178.33.237.109:8600/live/lexar/lexar/1990.ts
-#EXTINF:-1,RADIO ITALIA TV
-http://178.33.237.109:8600/live/lexar/lexar/1995.ts
-#EXTINF:-1,MTV CH
-http://178.33.237.109:8600/live/lexar/lexar/1991.ts
-#EXTINF:-1,NAPOLI INTERNAZIONAL
-http://178.33.237.109:8600/live/lexar/lexar/2085.ts
-#EXTINF:-1,RADIO 101 TV
-http://178.33.237.109:8600/live/lexar/lexar/1996.ts
-#EXTINF:-1,MUSIC ITALIA
-http://178.33.237.109:8600/live/lexar/lexar/1994.ts
-#EXTINF:-1,M2O MUSIC
-http://178.33.237.109:8600/live/lexar/lexar/1998.ts
-#EXTINF:-1,DEEJAY 1
-http://178.33.237.109:8600/live/lexar/lexar/1993.ts
-#EXTINF:-1,BEST MUSIC HD
-http://178.33.237.109:8600/live/lexar/lexar/1997.ts
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3603.ts
+#EXTINF:-1,Super!
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1546.ts
+#EXTINF:-1,K2
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1563.ts
+#EXTINF:-1,-frisbee-
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1564.ts
+#EXTINF:-1,Rai yoyo
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1549.ts
+#EXTINF:-1,Rai Gulp
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1553.ts
+#EXTINF:-1,Boing
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1393.ts
+#EXTINF:-1,Cartoonito
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1474.ts
+#EXTINF:-1,---- MUSICA ----
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3947.ts
+#EXTINF:-1,Mtv Music
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1556.ts
+#EXTINF:-1,Rtl 102.5
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4586.ts
+#EXTINF:-1,Mtv next
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/290.ts
+#EXTINF:-1,Radio taormina
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/277.ts
+#EXTINF:-1,m2o
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2517.ts
+#EXTINF:-1,Radio capital
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2518.ts
+#EXTINF:-1,Radio Virgin TV
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3393.ts
+#EXTINF:-1,Radio montecarlo tv
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/3787.ts
+#EXTINF:-1,RDS
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/1479.ts
+#EXTINF:-1,Vevo 1 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4064.ts
+#EXTINF:-1,Vevo 2 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4065.ts
+#EXTINF:-1,Vevo 3 HD
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4066.ts
+#EXTINF:-1,---- NOTIZIE ----
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/278.ts
+#EXTINF:-1,Sky TG 24
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/279.ts
+#EXTINF:-1,Tgcom 24
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4677.ts
+#EXTINF:-1,Rai News 24
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/281.ts
+#EXTINF:-1,Euronews
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/4914.ts
+#EXTINF:-1,---- SKY PRIMAFILA ----
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/304.ts
+#EXTINF:-1,Vetrina Primafila
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2174.mp4
+#EXTINF:-1,PRIMA FILA 1 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/4915.mp4
+#EXTINF:-1,PRIMA FILA 2 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2120.mp4
+#EXTINF:-1,PRIMA FILA 3 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2123.mkv
+#EXTINF:-1,PRIMA FILA 4 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2124.mkv
+#EXTINF:-1,PRIMA FILA 5 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2125.mkv
+#EXTINF:-1,PRIMA FILA 6 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2126.mkv
+#EXTINF:-1,PRIMA FILA 7 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2127.mkv
+#EXTINF:-1,PRIMA FILA 8 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2128.mkv
+#EXTINF:-1,PRIMA FILA 9 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2129.mkv
+#EXTINF:-1,PRIMA FILA 10 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2130.mkv
+#EXTINF:-1,PRIMA FILA 11 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2434.mkv
+#EXTINF:-1,PRIMA FILA 12 HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2435.mkv
+#EXTINF:-1,PRIMA FILA WWE HD
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2186.mp4
+#EXTINF:-1,---- FILM IN SALA ----
+http://gameserver5.streamiptv.online:80/live/eROKuIGlwf/smCK4a7Qxl/2693.ts
+#EXTINF:-1,Vetrina Film In Sala
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2692.mkv
+#EXTINF:-1,Film In Sala 1
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2668.mp4
+#EXTINF:-1,Film In Sala 2
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2669.mp4
+#EXTINF:-1,Film In Sala 3
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2670.mkv
+#EXTINF:-1,Film In Sala 4
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2671.mp4
+#EXTINF:-1,Film In Sala 5
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2672.mp4
+#EXTINF:-1,Film In Sala 6
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2673.mkv
+#EXTINF:-1,Film in Sala 7
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2676.mp4
+#EXTINF:-1,Film In Sala 8
+http://gameserver5.streamiptv.online:80/movie/eROKuIGlwf/smCK4a7Qxl/2675.mkv
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

@@ -623,8 +623,6 @@ http://178.33.237.109:8600/live/lexar/lexar/807.ts
 http://178.33.237.109:8600/live/lexar/lexar/1371.ts
 #EXTINF:-1,FOX ANIMATION HD
 http://178.33.237.109:8600/live/lexar/lexar/930.ts
-#EXTINF:-1,AXN HD
-http://178.33.237.109:8600/live/lexar/lexar/1243.ts
 #EXTINF:-1,GIALLO
 http://178.33.237.109:8600/live/lexar/lexar/774.ts
 #EXTINF:-1,CIELO
@@ -640,7 +638,7 @@ http://178.33.237.109:8600/live/lexar/lexar/1827.ts
 #EXTINF:-1,EXPLORA HD
 http://178.33.237.109:8600/live/lexar/lexar/2806.ts
 #EXTINF:-1,NAT GEO HD
-http://178.33.237.109:8600/live/lexar/lexar/1407.ts
+http://www.x-media.tv:58080/live/theglades/3wRhMHlxqZ/194.ts
 #EXTINF:-1,NATGEO PEOPLE HD
 http://178.33.237.109:8600/live/lexar/lexar/932.ts
 #EXTINF:-1,NATGEO GEO WILD HD

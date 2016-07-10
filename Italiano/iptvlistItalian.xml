@@ -24,25 +24,25 @@ http://1speed.dyndns.tv:8000/movie/svezia/svezia/1676.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://178.33.237.109:8600/live/lexar/lexar/590.ts
-#EXTINF:-1, Rai 2 HD
-http://178.33.237.109:8600/live/lexar/lexar/589.ts
-#EXTINF:-1, Rai 3 HD
-http://178.33.237.109:8600/live/lexar/lexar/588.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/681.ts
+#EXTINF:-1,Rai 2 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/689.ts
+#EXTINF:-1,Rai 3 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/682.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://178.33.237.109:8600/live/lexar/lexar/605.ts
-#EXTINF:-1, Canale 5 HD
-http://178.33.237.109:8600/live/lexar/lexar/606.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/678.ts
+#EXTINF:-1,Canale 5 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/752.ts
 #EXTINF:-1, Italia 1 HD
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1, La 5
 http://178.33.237.109:8600/live/lexar/lexar/777.ts
 #EXTINF:-1,La7
-http://178.33.237.109:8600/live/lexar/lexar/608.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/721.ts
 #EXTINF:-1 ,Rai 4
 http://178.33.237.109:8600/live/lexar/lexar/592.ts
 #EXTINF:-1,Iris
@@ -98,9 +98,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://178.33.237.109:8600/live/lexar/lexar/861.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/677.ts
 #EXTINF:-1,RSI LA 2 HD
-http://178.33.237.109:8600/live/lexar/lexar/610.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/676.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83
@@ -529,450 +529,340 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,---SKY CINEMA
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2801.ts
+#EXTINF:-1,=====SKY Cinema ======
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/115.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2805.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2502.ts
 #EXTINF:-1,Sky Cinema +1 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2802.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2803.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/658.ts
+#EXTINF:-1,Sky Cinema + 24 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/790.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2808.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2809.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/8080.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2811.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2806.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2804.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/657.ts
+#EXTINF:-1,SKY Cinema Family HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/793.ts
+#EXTINF:-1,Sky Cinema Family +1
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/755.ts
 #EXTINF:-1,Sky Cinema Passion HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2807.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2810.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/792.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3213.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3275.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2507.ts
+#EXTINF:-1,Sky Cinema Cult
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/791.ts
 #EXTINF:-1,Sky Cinema Classic HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2812.ts
-#EXTINF:-1,Sky 3D
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/84.ts
-#EXTINF:-1,==*** SKY INTRATTENIMENTO ***==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/275.ts
-#EXTINF:-1,Sky Arte HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/143.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/659.ts
+#EXTINF:-1,===== Intrattenimento ======
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2204.ts
 #EXTINF:-1,Sky Uno HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/86.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/8081.ts
-#EXTINF:-1,Sky Atlantic HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2082.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2083.ts
-#EXTINF:-1,Fox HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/87.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/668.ts
+#EXTINF:-1,Sky Uno  +1 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/652.ts
+#EXTINF:-1,Sky Classica HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/5001.ts
+#EXTINF:-1,Sky  Dove TV
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/5023.ts
+#EXTINF:-1,Fox  HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/735.ts
 #EXTINF:-1,Fox +1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10263.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/4794.ts
 #EXTINF:-1,Fox Life HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/88.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/673.ts
+#EXTINF:-1,Fox Life +1
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/4793.ts
 #EXTINF:-1,Fox Crime HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/90.ts
-#EXTINF:-1,Fox Crime +1 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10261.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/733.ts
+#EXTINF:-1,Fox  Animation HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/736.ts
 #EXTINF:-1,Fox Comedy HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/89.ts
-#EXTINF:-1,Fox Animation HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/91.ts
-#EXTINF:-1,CI Crime Investigation HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/48.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/734.ts
+#EXTINF:-1,Sky Atlantic HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2170.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/4464.ts
 #EXTINF:-1,AXN HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/92.ts
-#EXTINF:-1,AXN +1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/46.ts
-#EXTINF:-1,AXN Sci-Fi
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/45.ts
-#EXTINF:-1,Lei
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/94.ts
-#EXTINF:-1,Real Time HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/95.ts
-#EXTINF:-1,Comedy Central
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11200.ts
-#EXTINF:-1,DMAX
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/137.ts
-#EXTINF:-1,CLASSICA HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2817.ts
-#EXTINF:-1,LaEffe
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2086.ts
-#EXTINF:-1,==*** SKY CULTURA ***==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/276.ts
-#EXTINF:-1,Discovery Channel HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/131.ts
-#EXTINF:-1,Discovery Sci HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/128.ts
-#EXTINF:-1,Discovery TraveleLiving HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2199.ts
-#EXTINF:-1,National Geo HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/129.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/133.ts
-#EXTINF:-1,Nat Geo People HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/132.ts
-#EXTINF:-1,Sky History HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/142.ts
-#EXTINF:-1,Explora HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/96.ts
-#EXTINF:-1,Gambero Rosso HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/138.ts
-#EXTINF:-1,Animal Planet
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/140.ts
-#EXTINF:-1,MarcoPolo
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/144.ts
-#EXTINF:-1,Leonardo
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/8162.ts
-#EXTINF:-1,Alice
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2198.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2503.ts
+#EXTINF:-1,Sky Comedy Central
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3214.ts
+#EXTINF:-1,Real Ttime HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/679.ts
+#EXTINF:-1,Real Time +1
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3185.ts
+#EXTINF:-1,Cielo
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/750.ts
+#EXTINF:-1,MTV
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/715.ts
 #EXTINF:-1,Focus
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/135.ts
-#EXTINF:-1,Dove
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2822.ts
-#EXTINF:-1,==*** SKY Primafila Live ***==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/5041.ts
-#EXTINF:-1,Vetrina Primafila Live
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10199.ts
-#EXTINF:-1,Prima Fila 1 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10200.ts
-#EXTINF:-1,Prima Fila 2 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10201.ts
-#EXTINF:-1,Prima Fila 3 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10202.ts
-#EXTINF:-1,Prima Fila 4 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10203.ts
-#EXTINF:-1,Prima Fila 5 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10204.ts
-#EXTINF:-1,Prima Fila 6 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10205.ts
-#EXTINF:-1,Prima Fila 7 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10206.ts
-#EXTINF:-1,Prima Fila 8 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10207.ts
-#EXTINF:-1,Prima Fila 9 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10208.ts
-#EXTINF:-1,Prima Fila 10 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10209.ts
-#EXTINF:-1,Prima Fila 11 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11151.ts
-#EXTINF:-1,Prima Fila 12 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11152.ts
-#EXTINF:-1,Prima Fila 13 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11153.ts
-#EXTINF:-1,Prima Fila 14 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11154.ts
-#EXTINF:-1,Prima Fila 15 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11155.ts
-#EXTINF:-1,Prima Fila 16 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11156.ts
-#EXTINF:-1,Prima Fila 17 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11157.ts
-#EXTINF:-1,Prima Fila 18 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11158.ts
-#EXTINF:-1,Prima Fila 19 LIVE
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11159.ts
-#EXTINF:-1,==***** SKY SPORT *****==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/277.ts
-#EXTINF:-1,Fox Sports HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/49.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/51.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/737.ts
+#EXTINF:-1,Giallo
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/730.ts
+#EXTINF:-1,Alice
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/757.ts
+#EXTINF:-1,Tv 2000
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/663.ts
+#EXTINF:-1,Sky Cinema 3D
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/915.ts
+#EXTINF:-1,Lei
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3193.ts
+#EXTINF:-1,Iris
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/727.ts
+#EXTINF:-1,Mediaset Italia 2
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/725.ts
+#EXTINF:-1,La 5
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/723.ts
+#EXTINF:-1,Mediaset Extra
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/718.ts
+#EXTINF:-1,Top Crime
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3215.ts
+#EXTINF:-1,Deejay TV
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/749.ts
+#EXTINF:-1,---- SPORT ----
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/144.ts
 #EXTINF:-1,Sky Sport 24 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/99.ts
-#EXTINF:-1,Sky Sport 1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11496.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/653.ts
+#EXTINF:-1,Sport Mix HD (Euro 2016)
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/4795.ts
 #EXTINF:-1,Sky Sport 1 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/100.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/655.ts
 #EXTINF:-1,SKY Sport 2 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/101.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/918.ts
 #EXTINF:-1,Sky Sport 3 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/102.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/104.ts
-#EXTINF:-1,Sky Sport MotoGP HD.
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/105.ts
-#EXTINF:-1,Eurosport HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/103.ts
-#EXTINF:-1,Eurosport 2 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/106.ts
-#EXTINF:-1,Juventus Tv
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/125.ts
-#EXTINF:-1,Milan channel
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/123.ts
-#EXTINF:-1,Inter Channel
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/126.ts
-#EXTINF:-1,Roma Channel
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/124.ts
-#EXTINF:-1,Lazio Style Channel
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2826.ts
-#EXTINF:-1,BIKE HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2828.ts
-#EXTINF:-1,Uniresat
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2843.ts
-#EXTINF:-1,Class Horse Tv HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2818.ts
-#EXTINF:-1,CACCIA
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/882.ts
-#EXTINF:-1,PESCA
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/3951.ts
-#EXTINF:-1,Poker Italia 24
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2833.ts
-#EXTINF:-1,Super Tennis HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/107.ts
-#EXTINF:-1,Auto Moto TV
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/177.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/671.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3194.ts
+#EXTINF:-1,Fox Sport HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/732.ts
+#EXTINF:-1,Sport F1 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/667.ts
+#EXTINF:-1,Sky Moto GP HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/716.ts
+#EXTINF:-1,Sky Automoto TV
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/5002.ts
+#EXTINF:-1,Eurosport 1
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/739.ts
+#EXTINF:-1,Eurosport  2
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/740.ts
+#EXTINF:-1,Supertennis
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/1057.ts
 #EXTINF:-1,Sport Italia
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/3266.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/666.ts
 #EXTINF:-1,Rai Sport 1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/108.ts
-#EXTINF:-1,Rai Sport 2
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/109.ts
-#EXTINF:-1,==***** SKY CALCIO *****==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/278.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/684.ts
+#EXTINF:-1,Rai sport 2
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/683.ts
+#EXTINF:-1,Bike Channel  HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3269.ts
+#EXTINF:-1,JUVENTUS tv
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3149.ts
+#EXTINF:-1,Milan Channel
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3177.ts
+#EXTINF:-1,ROMATV
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3234.ts
+#EXTINF:-1,Inter Channel
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3238.ts
+#EXTINF:-1,Lazio Style Channel
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/4784.ts
+#EXTINF:-1,SSC Napoli Channel
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/4786.ts
+#EXTINF:-1,===== Sky Calcio ======
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/181.ts
 #EXTINF:-1,Sky Supercalcio HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/113.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/654.ts
 #EXTINF:-1,Sky Calcio 1 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/114.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/662.ts
 #EXTINF:-1,Sky Calcio 2 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2850.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/661.ts
 #EXTINF:-1,Sky Calcio 3 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/115.ts
-#EXTINF:-1,Sky Calcio  4 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/116.ts
-#EXTINF:-1,Sky Calcio  5 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/117.ts
-#EXTINF:-1,Sky Calcio  6 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/118.ts
-#EXTINF:-1,Sky Calcio  7 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/119.ts
-#EXTINF:-1,Sky Calcio  8 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/120.ts
-#EXTINF:-1,Sky Calcio 9 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2849.ts
-#EXTINF:-1,Sky Calcio 10 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2848.ts
-#EXTINF:-1,Sky Calcio 11 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2847.ts
-#EXTINF:-1,==*** NOTIZIE E NEWS ***==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/160.ts
-#EXTINF:-1,SKY TG24
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/6579.ts
-#EXTINF:-1,Tg Com 24
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/162.ts
-#EXTINF:-1,TG Norba24
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/5188.ts
-#EXTINF:-1,Rai News 24
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/163.ts
-#EXTINF:-1,Il Meteo.It Oggi
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/7894.ts
-#EXTINF:-1,Rai Senato
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/166.ts
-#EXTINF:-1,==****** BAMBINI ******==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/269.ts
-#EXTINF:-1,Boing
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/153.ts
-#EXTINF:-1,Rai Yoyo
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/155.ts
-#EXTINF:-1,Rai Gulp
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/154.ts
-#EXTINF:-1,Cartoonito
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/152.ts
-#EXTINF:-1,MANGA
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/1958.ts
-#EXTINF:-1,TeenNick
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2841.ts
-#EXTINF:-1,Baby Tv
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2829.ts
-#EXTINF:-1,Frisbee
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/97.ts
-#EXTINF:-1,Dea Junior
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2820.ts
-#EXTINF:-1,Super
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/151.ts
-#EXTINF:-1,Disney XD HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/149.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/660.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/1060.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/1061.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2276.ts
+#EXTINF:-1,---- CULTURA ----
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/130.ts
+#EXTINF:-1,Sky eXplora HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/753.ts
+#EXTINF:-1,National Geographic HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/672.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/714.ts
+#EXTINF:-1,NatGeo people HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/713.ts
+#EXTINF:-1,Discovery Channel HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/748.ts
+#EXTINF:-1,Discovery Science HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/747.ts
+#EXTINF:-1,Discovery Travel e Living HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2504.ts
+#EXTINF:-1,CI Crime e Investigation HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2506.ts
+#EXTINF:-1,Dmax
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/741.ts
+#EXTINF:-1,Dmax +1
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2942.ts
+#EXTINF:-1,SKY Gambero Rosso HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/746.ts
+#EXTINF:-1,History HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/729.ts
+#EXTINF:-1,Sky Arte HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/675.ts
+#EXTINF:-1,Pesca e Caccia
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/1056.ts
+#EXTINF:-1,Caccia e Pesca
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3286.ts
+#EXTINF:-1,Animal Planet
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/756.ts
+#EXTINF:-1,Marco Polo
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/719.ts
+#EXTINF:-1,Fine Living
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/738.ts
+#EXTINF:-1,Nuvolari
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/674.ts
+#EXTINF:-1,===== Bambini ======
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2203.ts
+#EXTINF:-1,MAN-GA
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/4869.ts
+#EXTINF:-1,Masha e L Orso Channel
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/917.ts
+#EXTINF:-1,Disney Channel HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/745.ts
+#EXTINF:-1,Disney Channel + 1
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/744.ts
+#EXTINF:-1,Disney Xd
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/742.ts
+#EXTINF:-1,Disney Junior
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/743.ts
 #EXTINF:-1,Cartoon Network
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/150.ts
-#EXTINF:-1,Premium Disney Junior
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/158.ts
-#EXTINF:-1,Premium Cartoon Network
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/1220.ts
-#EXTINF:-1,Holly e Benjy Channel
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/8083.ts
-#EXTINF:-1,Masha e Orso Channel
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/7916.ts
-#EXTINF:-1,Heidy Channel
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/8079.ts
-#EXTINF:-1,Peppa Pig Channel
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/8002.ts
-#EXTINF:-1,Premium Disney Channel
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/156.ts
-#EXTINF:-1,Premium Disney Channel  1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/157.ts
-#EXTINF:-1,Peppa Pig TV
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/2824.ts
-#EXTINF:-1,=***ADSL LENTA ***=
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11166.ts
-#EXTINF:-1,RAI 1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/9316.ts
-#EXTINF:-1,RAI 2
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/9317.ts
-#EXTINF:-1,RAI 3
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/9318.ts
-#EXTINF:-1,Rete 4
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11167.ts
-#EXTINF:-1,Canale 5
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/9315.ts
-#EXTINF:-1,Italia 1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/11168.ts
-#EXTINF:-1,Sky Cinema 1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/9323.ts
-#EXTINF:-1,Sky Cinema +1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/9322.ts
-#EXTINF:-1,Sky Cinema  +24
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/9324.ts
-#EXTINF:-1,Sky Cinema Hits
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/9325.ts
-#EXTINF:-1,Sky Cinema Family
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/9326.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/9329.ts
-#EXTINF:-1,Sky Cinema Max
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/9327.ts
-#EXTINF:-1,Sky Uno
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10228.ts
-#EXTINF:-1,Sky Atlantic
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10223.ts
-#EXTINF:-1,Fox
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10258.ts
-#EXTINF:-1,Fox Life
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10259.ts
-#EXTINF:-1,Fox Crime
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10262.ts
-#EXTINF:-1,AXN
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10264.ts
-#EXTINF:-1,Fox Sports
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/10260.ts
-#EXTINF:-1,Sky Sport 24
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/3843.ts
-#EXTINF:-1,Sky Sport 2
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/3844.ts
-#EXTINF:-1,Sky Sport F1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/7899.ts
-#EXTINF:-1,Sky Sport MotoGP
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/3851.ts
-#EXTINF:-1,Sky SuperCalcio
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/3842.ts
-#EXTINF:-1,Sky Calcio 1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/1762.ts
-#EXTINF:-1,Sky Calcio 2
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/1763.ts
-#EXTINF:-1,Sky Calcio 3
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/1764.ts
-#EXTINF:-1,Sky Calcio 4
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/1765.ts
-#EXTINF:-1,Sky Calcio 5
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/1766.ts
-#EXTINF:-1,Sky Calcio 6
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/1767.ts
-#EXTINF:-1,Sky Calcio 7
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/1768.ts
-#EXTINF:-1,==*** PREMIUM CINEMA ***==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/267.ts
-#EXTINF:-1,Premium Cinema
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/3848.ts
-#EXTINF:-1,Premium Cinema HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/185.ts
-#EXTINF:-1,Premium Cinema +24
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/186.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/187.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/188.ts
-#EXTINF:-1,Premium Cinema Energy
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/193.ts
-#EXTINF:-1,Premium Cinema Emotion
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/194.ts
-#EXTINF:-1,Premium Cinema Comedy
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/195.ts
-#EXTINF:-1,Studio Universal - Premium
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/196.ts
-#EXTINF:-1,==*** PREMIUM SERIE TV ***==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/268.ts
-#EXTINF:-1,Premium Action
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/3850.ts
-#EXTINF:-1,Premium Action HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/189.ts
-#EXTINF:-1,Premium Action +24
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/190.ts
-#EXTINF:-1,Premium Crime HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/191.ts
-#EXTINF:-1,Premium Crime
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/3847.ts
-#EXTINF:-1,Premium Crime +24
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/192.ts
-#EXTINF:-1,Premium Joy
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/197.ts
-#EXTINF:-1,Premium Stories
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/199.ts
-#EXTINF:-1,==*** DOC e LIFESTYLE ***==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/270.ts
-#EXTINF:-1,Discovery Sci HD - Premium
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/130.ts
-#EXTINF:-1,Premium Discovery World.
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/145.ts
-#EXTINF:-1,BBC Knowledge - Premium
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/200.ts
-#EXTINF:-1,==*** PREMIUM SPORT ***==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/271.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3219.ts
+#EXTINF:-1,Sky Boomerang
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3216.ts
+#EXTINF:-1,Sky Nickelodeon
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3217.ts
+#EXTINF:-1,Sky Nickelodeon + 1
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3218.ts
+#EXTINF:-1,Sky Nick Jr
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3220.ts
+#EXTINF:-1,Sky DeAKids
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3221.ts
+#EXTINF:-1,Super!
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/665.ts
+#EXTINF:-1,Rai yoyo
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/680.ts
+#EXTINF:-1,Rai Gulp
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/688.ts
+#EXTINF:-1,Cartoonito
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/751.ts
+#EXTINF:-1,Boing
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/754.ts
+#EXTINF:-1,Frisbee
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/731.ts
+#EXTINF:-1,K2
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/724.ts
+#EXTINF:-1,Baby TV
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3270.ts
+#EXTINF:-1,===== Notizie ======
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2202.ts
+#EXTINF:-1,Sky TG 24 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/669.ts
+#EXTINF:-1,Rai News 24
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/686.ts
+#EXTINF:-1,TG COM 24
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/664.ts
+#EXTINF:-1,======= Musica Italia  =========
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/77.ts
+#EXTINF:-1,Radio Monte Carlo TV
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/693.ts
+#EXTINF:-1,Radio 105
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/692.ts
+#EXTINF:-1,=========PREMIUM CALCIO==========
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/208.ts
 #EXTINF:-1,Premium Sport
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/3276.ts
-#EXTINF:-1,Premium Sport HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/50.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/5029.ts
-#EXTINF:-1,==*** PREMIUM CALCIO ***==
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/266.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/202.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/702.ts
+#EXTINF:-1,Premium Sport 2
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/709.ts
 #EXTINF:-1,Premium Calcio 1
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/203.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/708.ts
 #EXTINF:-1,Premium Calcio 2
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/204.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/707.ts
 #EXTINF:-1,Premium Calcio 3
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/205.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/706.ts
 #EXTINF:-1,Premium Calcio 4
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/206.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/705.ts
 #EXTINF:-1,Premium Calcio 5
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/207.ts
-#EXTINF:-1,Premium Calcio 6
-http://speedy.momy.mooo.com:8000/live/J6xvAl7JMV/eCXD2tonSI/208.ts
-#EXTINF:-1,- - - - - - MUSICA - - - - - -
-http://178.33.237.109:8600/live/lexar/lexar/2000.ts
-#EXTINF:-1,MTV BRAND NEW
-http://178.33.237.109:8600/live/lexar/lexar/1990.ts
-#EXTINF:-1,RADIO ITALIA TV
-http://178.33.237.109:8600/live/lexar/lexar/1995.ts
-#EXTINF:-1,MTV CH
-http://178.33.237.109:8600/live/lexar/lexar/1991.ts
-#EXTINF:-1,NAPOLI INTERNAZIONAL
-http://178.33.237.109:8600/live/lexar/lexar/2085.ts
-#EXTINF:-1,RADIO 101 TV
-http://178.33.237.109:8600/live/lexar/lexar/1996.ts
-#EXTINF:-1,MUSIC ITALIA
-http://178.33.237.109:8600/live/lexar/lexar/1994.ts
-#EXTINF:-1,M2O MUSIC
-http://178.33.237.109:8600/live/lexar/lexar/1998.ts
-#EXTINF:-1,DEEJAY 1
-http://178.33.237.109:8600/live/lexar/lexar/1993.ts
-#EXTINF:-1,BEST MUSIC HD
-http://178.33.237.109:8600/live/lexar/lexar/1997.ts
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/704.ts
+#EXTINF:-1,----- MEDIASET PREMIUM ----
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/191.ts
+#EXTINF:-1,Premium Cinema HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/698.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/699.ts
+#EXTINF:-1,Premium Cinema  +24
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/701.ts
+#EXTINF:-1,Premium Cinema 2  +24
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/700.ts
+#EXTINF:-1,Premium  Emotion
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/712.ts
+#EXTINF:-1,Premium comedy
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/697.ts
+#EXTINF:-1,Premium  Energy
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/711.ts
+#EXTINF:-1,Premium Action HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/710.ts
+#EXTINF:-1,Premium Action  +24
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3224.ts
+#EXTINF:-1,Premium Studio Universal
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3223.ts
+#EXTINF:-1,Premium Cinema Joy
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/694.ts
+#EXTINF:-1,Premium Joi  +24
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/3146.ts
+#EXTINF:-1,Premium Crime HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/695.ts
+#EXTINF:-1,Premium Crime  +24
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/696.ts
+#EXTINF:-1,=========VETRINA PRIMAFILA==========
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/217.ts
+#EXTINF:-1,PRIMAFILA 1 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/768.ts
+#EXTINF:-1,PRIMAFILA 2 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/765.ts
+#EXTINF:-1,PRIMAFILA  3HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/764.ts
+#EXTINF:-1,PRIMAFILA 4 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/763.ts
+#EXTINF:-1,PRIMAFILA 5 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/762.ts
+#EXTINF:-1,PRIMAFILA 6 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/761.ts
+#EXTINF:-1,PRIMAFILA 7HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/760.ts
+#EXTINF:-1,PRIMAFILA 8 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/759.ts
+#EXTINF:-1,PRIMAFILA 9 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/758.ts
+#EXTINF:-1,PRIMAFILA 10  HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/767.ts
+#EXTINF:-1,PRIMAFILA 11  HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/766.ts
+#EXTINF:-1,PRIMAFILA 12 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2508.ts
+#EXTINF:-1,PRIMAFILA 13 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2509.ts
+#EXTINF:-1,PRIMAFILA 14 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2510.ts
+#EXTINF:-1,PRIMAFILA 15 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/2511.ts
+#EXTINF:-1,PRIMAFILA 16 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/4790.ts
+#EXTINF:-1,PRIMAFILA 17 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/4791.ts
+#EXTINF:-1,PRIMAFILA 18 HD
+http://solofast.ddns.net:44222/live/2srganiptvvranj2016/Serganvranjetest2019/4792.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

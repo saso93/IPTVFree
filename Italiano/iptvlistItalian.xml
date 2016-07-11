@@ -531,53 +531,53 @@ http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
 #EXTINF:-1,- - - - - - SKY CINEMA - - - - - -
 http://178.33.237.109:8600/live/lexar/lexar/306.ts
-#EXTINF:-1,SKY CINEMA 1 HD
+#EXTINF:-1,Sky Cinema 1 HD
 http://178.33.237.109:8600/live/lexar/lexar/326.ts
-#EXTINF:-1,SKY CINEMA+ 1 HD
+#EXTINF:-1,Sky Cinema +1 HD
 http://178.33.237.109:8600/live/lexar/lexar/525.ts
-#EXTINF:-1,SKY CINEMA+ 24 HD
+#EXTINF:-1,Sky Cinema +24 HD
 http://178.33.237.109:8600/live/lexar/lexar/524.ts
-#EXTINF:-1,SKY CINEMA HITS HD
+#EXTINF:-1,Sky Cinema Hits HD
 http://178.33.237.109:8600/live/lexar/lexar/519.ts
-#EXTINF:-1,SKY CINEMA FAMILY HD
+#EXTINF:-1,Sky Cinema Family HD
 http://178.33.237.109:8600/live/lexar/lexar/7.ts
-#EXTINF:-1,SKY CINEMA FAMILY+1 HD
+#EXTINF:-1,Sky Cinema Family +1 HD
 http://178.33.237.109:8600/live/lexar/lexar/824.ts
-#EXTINF:-1,SKY CINEMA PASSION HD
+#EXTINF:-1,Sky Cinema Passion HD
 http://178.33.237.109:8600/live/lexar/lexar/478.ts
-#EXTINF:-1,SKY CINEMA COMEDY HD
+#EXTINF:-1,Sky Cinema Comedy HD
 http://178.33.237.109:8600/live/lexar/lexar/516.ts
-#EXTINF:-1,SKY CINEMA MAX HD
+#EXTINF:-1,Sky Cinema Max HD
 http://178.33.237.109:8600/live/lexar/lexar/324.ts
-#EXTINF:-1,SKY CINEMA CULT HD
+#EXTINF:-1,Sky Cinema Cult HD
 http://178.33.237.109:8600/live/lexar/lexar/518.ts
-#EXTINF:-1,SKY CLASSICS HD
+#EXTINF:-1,Sky Classics HD
 http://178.33.237.109:8600/live/lexar/lexar/520.ts
-#EXTINF:-1,SKY GOMORRA 2
+#EXTINF:-1,Sky GOMORRA 2
 http://178.33.237.109:8600/live/lexar/lexar/3449.ts
 #EXTINF:-1,- - - - - - SKY SPORT - - - - - -
 http://178.33.237.109:8600/live/lexar/lexar/305.ts
-#EXTINF:-1,SKY SPORT 24 HD
+#EXTINF:-1,Sky Sport 24 HD
 http://178.33.237.109:8600/live/lexar/lexar/586.ts
-#EXTINF:-1,SKY SPORT 1 HD
+#EXTINF:-1,Sky Sport 1 HD
 http://178.33.237.109:8600/live/lexar/lexar/5.ts
-#EXTINF:-1,SKY SPORT 2 HD
+#EXTINF:-1,Sky Sport 2 HD
 http://178.33.237.109:8600/live/lexar/lexar/517.ts
-#EXTINF:-1,SKY SPORT 3 HD
+#EXTINF:-1,Sky Sport 3 HD
 http://178.33.237.109:8600/live/lexar/lexar/805.ts
-#EXTINF:-1,SKY SPORT PLUS HD
+#EXTINF:-1,Sky Sport PlusHD
 http://178.33.237.109:8600/live/lexar/lexar/1363.ts
-#EXTINF:-1,SKY FOX SPORTS HD
+#EXTINF:-1,Sky Fox Sport HD
 http://178.33.237.109:8600/live/lexar/lexar/935.ts
-#EXTINF:-1,SKY SPORT F1 HD
+#EXTINF:-1,Sky Sport F1 HD
 http://178.33.237.109:8600/live/lexar/lexar/291.ts
-#EXTINF:-1,SKY MOTOGP HD
+#EXTINF:-1,Sky MotoGP HD
 http://178.33.237.109:8600/live/lexar/lexar/566.ts
 #EXTINF:-1,SPORT ITALIA
 http://178.33.237.109:8600/live/lexar/lexar/1831.ts
-#EXTINF:-1,EUROSPORT 1 HD
+#EXTINF:-1,Eurosport 1 HD
 http://178.33.237.109:8600/live/lexar/lexar/1364.ts
-#EXTINF:-1,EUROSPORT 2 HD
+#EXTINF:-1,Eurosport 2 HD
 http://178.33.237.109:8600/live/lexar/lexar/1365.ts
 #EXTINF:-1,SUPERTENNIS HD
 http://178.33.237.109:8600/live/lexar/lexar/784.ts
@@ -587,41 +587,41 @@ http://178.33.237.109:8600/live/lexar/lexar/3364.ts
 http://178.33.237.109:8600/live/lexar/lexar/587.ts
 #EXTINF:-1,- - - - - -  SKY CALCIO   - - - - - -
 http://178.33.237.109:8600/live/lexar/lexar/1828.ts
-#EXTINF:-1,SKY SUPERCALCIO HD
+#EXTINF:-1,Sky Supercalcio HD
 http://178.33.237.109:8600/live/lexar/lexar/515.ts
-#EXTINF:-1,SKY CALCIO 1 HD
+#EXTINF:-1,Sky Calcio 1 HD
 http://178.33.237.109:8600/live/lexar/lexar/522.ts
-#EXTINF:-1,SKY CALCIO 2 HD
+#EXTINF:-1,Sky Calcio 2 HD
 http://178.33.237.109:8600/live/lexar/lexar/521.ts
-#EXTINF:-1,SKY CALCIO 3 HD
+#EXTINF:-1,Sky Calcio 3 HD
 http://178.33.237.109:8600/live/lexar/lexar/828.ts
-#EXTINF:-1,SKY CALCIO 4 HD
+#EXTINF:-1,Sky Calcio 4 HD
 http://178.33.237.109:8600/live/lexar/lexar/827.ts
-#EXTINF:-1,SKY CALCIO 5 HD
+#EXTINF:-1,Sky Calcio 5 HD
 http://178.33.237.109:8600/live/lexar/lexar/1620.ts
-#EXTINF:-1,SKY CALCIO 6 HD
+#EXTINF:-1,Sky Calcio 6 HD
 http://178.33.237.109:8600/live/lexar/lexar/826.ts
-#EXTINF:-1,SKY CALCIO 7 HD
+#EXTINF:-1,Sky Calcio 7 HD
 http://178.33.237.109:8600/live/lexar/lexar/825.ts
-#EXTINF:-1,SKY CALCIO 8 HD
+#EXTINF:-1,Sky Calcio 8 HD
 http://178.33.237.109:8600/live/lexar/lexar/1246.ts
-#EXTINF:-1,SKY CALCIO 9 HD
+#EXTINF:-1,Sky Calcio 9 HD
 http://178.33.237.109:8600/live/lexar/lexar/1247.ts
 #EXTINF:-1,- - - - - - SKY INTRATTENIMENTO - - - - -
 http://178.33.237.109:8600/live/lexar/lexar/301.ts
-#EXTINF:-1,SKY UNO HD
+#EXTINF:-1,Sky Uno HD
 http://178.33.237.109:8600/live/lexar/lexar/564.ts
-#EXTINF:-1,SKY ATLANTIC HD
+#EXTINF:-1,Sky Altantic HD
 http://178.33.237.109:8600/live/lexar/lexar/1223.ts
-#EXTINF:-1,FOX HD
+#EXTINF:-1,Fox HD
 http://178.33.237.109:8600/live/lexar/lexar/565.ts
-#EXTINF:-1,FOX LIFE HD
+#EXTINF:-1,Fox Life HD
 http://178.33.237.109:8600/live/lexar/lexar/1368.ts
-#EXTINF:-1,FOX CRIME HD
+#EXTINF:-1,Fox Crime HD
 http://178.33.237.109:8600/live/lexar/lexar/807.ts
-#EXTINF:-1,FOX COMEDY HD
+#EXTINF:-1,Fox Comedy HD
 http://178.33.237.109:8600/live/lexar/lexar/1371.ts
-#EXTINF:-1,FOX ANIMATION HD
+#EXTINF:-1,Fox Animation HD
 http://178.33.237.109:8600/live/lexar/lexar/930.ts
 #EXTINF:-1,AXN HD
 http://178.33.237.109:8600/live/lexar/lexar/1243.ts
@@ -649,7 +649,7 @@ http://178.33.237.109:8600/live/lexar/lexar/933.ts
 http://178.33.237.109:8600/live/lexar/lexar/611.ts
 #EXTINF:-1,DISCOVERY SCI HD
 http://178.33.237.109:8600/live/lexar/lexar/4.ts
-#EXTINF:-1,DISCOVERY TRAVEL & LIVING
+#EXTINF:-1,DISCOVERY TRAVEL e LIVING
 http://178.33.237.109:8600/live/lexar/lexar/1245.ts
 #EXTINF:-1,FOCUS
 http://178.33.237.109:8600/live/lexar/lexar/785.ts
@@ -671,37 +671,37 @@ http://178.33.237.109:8600/live/lexar/lexar/1406.ts
 http://178.33.237.109:8600/live/lexar/lexar/1405.ts
 #EXTINF:-1,- - - - - - PREMIUM CINEMA- - - - - -
 http://178.33.237.109:8600/live/lexar/lexar/329.ts
-#EXTINF:-1,PREMIUM CINEMA HD
+#EXTINF:-1,Premium Cinema HD
 http://178.33.237.109:8600/live/lexar/lexar/560.ts
-#EXTINF:-1,PREMIUM CINEMA+ 24 HD
+#EXTINF:-1,Premium Cinema +24 HD
 http://178.33.237.109:8600/live/lexar/lexar/562.ts
-#EXTINF:-1,PREMIUM CINEMA 2 HD
+#EXTINF:-1,Premium Cinema 2 HD
 http://178.33.237.109:8600/live/lexar/lexar/555.ts
-#EXTINF:-1,PREMIUM CINEMA 2 +24
+#EXTINF:-1,Premium Cinema 2 +24
 http://178.33.237.109:8600/live/lexar/lexar/595.ts
-#EXTINF:-1,PREMIUM CINEMA ENERGY
+#EXTINF:-1,Premium Cinema Energy
 http://178.33.237.109:8600/live/lexar/lexar/600.ts
-#EXTINF:-1,PREMIUM CINEMA EMOTION
+#EXTINF:-1,Premium Cinema Emotion
 http://178.33.237.109:8600/live/lexar/lexar/558.ts
-#EXTINF:-1,PREMIUM CINEMA COMEDY
+#EXTINF:-1,Premium Cinema Comedy
 http://178.33.237.109:8600/live/lexar/lexar/601.ts
-#EXTINF:-1,PREMIUM CINEMA ACTION HD
+#EXTINF:-1,Premium Cinema Action HD
 http://178.33.237.109:8600/live/lexar/lexar/596.ts
-#EXTINF:-1,PREMIUM ACTION+ 24
+#EXTINF:-1,Premium Action +24
 http://178.33.237.109:8600/live/lexar/lexar/563.ts
-#EXTINF:-1,PREMIUM STUDIO UNIVERSAL
+#EXTINF:-1,Premium Studio Universal
 http://178.33.237.109:8600/live/lexar/lexar/829.ts
-#EXTINF:-1,PREMIUM STORIES
+#EXTINF:-1,Premium Stories 
 http://178.33.237.109:8600/live/lexar/lexar/556.ts
-#EXTINF:-1,PREMIUM STORIES +24
+#EXTINF:-1,Premium Stories  +24
 http://178.33.237.109:8600/live/lexar/lexar/2461.ts
-#EXTINF:-1,PREMIUM JOY
+#EXTINF:-1,Premium Joy
 http://178.33.237.109:8600/live/lexar/lexar/557.ts
-#EXTINF:-1,PREMIUM DISCOVERY WORLD
+#EXTINF:-1,Premium Discovery World
 http://178.33.237.109:8600/live/lexar/lexar/1621.ts
-#EXTINF:-1,PREMIUM CRIME HD
+#EXTINF:-1,Premium Crime HD
 http://178.33.237.109:8600/live/lexar/lexar/597.ts
-#EXTINF:-1,PREMIUM CRIME+ 24
+#EXTINF:-1,Premium Crime +24
 http://178.33.237.109:8600/live/lexar/lexar/598.ts
 #EXTINF:-1,- - - - - - PREMIUM SPORT - - - - - -
 http://178.33.237.109:8600/live/lexar/lexar/329.ts

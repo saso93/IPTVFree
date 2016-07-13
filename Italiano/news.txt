@@ -1,2 +1,3 @@
 News Test\nProva
-\nTest\nA Capo
+\nTest\nA Capo\n
+Ciao

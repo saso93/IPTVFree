@@ -2,4 +2,4 @@ News Test
 
 Ecco le nuove news!!
 
-Tutto pronto per la 2.0.0
+Tutto pronto per la v2.0.0

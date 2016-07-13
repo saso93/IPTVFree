@@ -1,5 +1,1 @@
-News Test!
 
-Ecco le nuove news!!
-
-Tutto pronto per la v2.0.0

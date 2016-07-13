@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <List>
 #EXTM3U
-#EXTINF:-1,- - - - - DISNEY OGGI ESCLUSIVA - - - - - -
+#EXTINF:-1,----DISNEY OGGI ESCLUSIVA
 http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/313.mkv
 #EXTINF:-1,VETRINA DISNEY HD
 http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/210.mkv
@@ -25,7 +25,7 @@ http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/222.mkv
 http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/211.mkv
 #EXTINF:-1,Disney 10 HD
 http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/223.mkv
-#EXTINF:-1,- - - - - CINEMA OGGI ESCLUSIVA  - - - - - -
+#EXTINF:-1,----CINEMA OGGI ESCLUSIVA
 http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/306.mkv
 #EXTINF:-1,VETRINA OGGI AL CINEMA...
 http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/203.mkv

@@ -1,26 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <List>
 #EXTM3U
-#EXTINF:-1,-----CINEMA ESCLUSIVA -----
-http://dummylink.com
-#EXTINF:-1,Now you see me 2
-http://1speed.dyndns.tv:8000/movie/svezia/svezia/1690.mkv
-#EXTINF:-1,The Conjuring Il Caso Enfield
-http://1speed.dyndns.tv:8000/movie/svezia/svezia/1686.mkv
-#EXTINF:-1,Mother s Day
-http://1speed.dyndns.tv:8000/movie/svezia/svezia/1689.mkv
-#EXTINF:-1,Tutti vogliono qualcosa
-http://1speed.dyndns.tv:8000/movie/svezia/svezia/1675.mkv
-#EXTINF:-1,Alice attraverso lo specchio
-http://1speed.dyndns.tv:8000/movie/svezia/svezia/1527.avi
-#EXTINF:-1,The Nice Guys
-http://1speed.dyndns.tv:8000/movie/svezia/svezia/1622.mkv
-#EXTINF:-1,La Cospirazione 
-http://1speed.dyndns.tv:8000/movie/svezia/svezia/1631.mkv
-#EXTINF:-1,Angry Bird il Film
-http://1speed.dyndns.tv:8000/movie/svezia/svezia/1630.mkv
-#EXTINF:-1,The Boss
-http://1speed.dyndns.tv:8000/movie/svezia/svezia/1676.mkv
+#EXTINF:-1,- - - - - DISNEY OGGI ESCLUSIVA - - - - - -
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/313.mkv
+#EXTINF:-1,VETRINA DISNEY HD
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/210.mkv
+#EXTINF:-1,Disney 1 HD
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/209.mkv
+#EXTINF:-1,Disney 2 HD
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/216.mkv
+#EXTINF:-1,Disney 3 HD
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/217.mkv
+#EXTINF:-1,Disney 4 HD
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/218.mkv
+#EXTINF:-1,Disney 5 HD
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/219.mkv
+#EXTINF:-1,Disney 6 HD
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/220.mkv
+#EXTINF:-1,Disney 7 HD
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/221.mkv
+#EXTINF:-1,Disney 8 HD
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/222.mkv
+#EXTINF:-1,Disney 9 HD
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/211.mkv
+#EXTINF:-1,Disney 10 HD
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/223.mkv
+#EXTINF:-1,- - - - - CINEMA OGGI ESCLUSIVA  - - - - - -
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/306.mkv
+#EXTINF:-1,VETRINA OGGI AL CINEMA...
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/203.mkv
+#EXTINF:-1,OGGI AL CINEMA 1
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/204.mkv
+#EXTINF:-1,OGGI AL CINEMA 2
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/205.mkv
+#EXTINF:-1,OGGI AL CINEMA 3
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/206.mkv
+#EXTINF:-1,OGGI AL CINEMA 4
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/207.mkv
+#EXTINF:-1,OGGI AL CINEMA 5
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/208.mkv
+#EXTINF:-1,OGGI AL CINEMA 6
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/212.mkv
+#EXTINF:-1,OGGI AL CINEMA 7
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/574.mkv
+#EXTINF:-1,OGGI AL CINEMA 8
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/575.mkv
+#EXTINF:-1,OGGI AL CINEMA 9
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/576.mkv
+#EXTINF:-1,OGGI AL CINEMA 10
+http://work.myvisio.me:9889/movie/WfTBc6UQ0v/xpPwp2fe5M/577.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
@@ -833,6 +861,26 @@ http://178.33.237.109:8600/live/lexar/lexar/1998.ts
 http://178.33.237.109:8600/live/lexar/lexar/1993.ts
 #EXTINF:-1,BEST MUSIC HD
 http://178.33.237.109:8600/live/lexar/lexar/1997.ts
+#EXTINF:-1,-----CINEMA ESCLUSIVA -----
+http://dummylink.com
+#EXTINF:-1,Now you see me 2
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1690.mkv
+#EXTINF:-1,The Conjuring Il Caso Enfield
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1686.mkv
+#EXTINF:-1,Mother s Day
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1689.mkv
+#EXTINF:-1,Tutti vogliono qualcosa
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1675.mkv
+#EXTINF:-1,Alice attraverso lo specchio
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1527.avi
+#EXTINF:-1,The Nice Guys
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1622.mkv
+#EXTINF:-1,La Cospirazione 
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1631.mkv
+#EXTINF:-1,Angry Bird il Film
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1630.mkv
+#EXTINF:-1,The Boss
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1676.mkv
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC

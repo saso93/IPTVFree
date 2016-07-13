@@ -1,4 +1,4 @@
-News Test\nProva
-\nTest\nA Capo\n
-Ciao
-asd
+News Test
+Ecco le nuove news!!
+
+Tutto pronto per la 2.0.0

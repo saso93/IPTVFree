@@ -3,446 +3,246 @@
 #EXTM3U
 #EXTINF:-1,----SKY UK
 http://dummylink.com
-#EXTINF:-1,Sky Sports 1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1.ts
-#EXTINF:-1,Sky Sports 2
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/2.ts
-#EXTINF:-1,Sky Sports 3
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/3.ts
-#EXTINF:-1,Sky Sports 4
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/4.ts
-#EXTINF:-1,Sky Sports 5
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/5.ts
-#EXTINF:-1,Sky Sports F1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/6.ts
-#EXTINF:-1,Sky Sports News
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/7.ts
-#EXTINF:-1,ESPN
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/8.ts
-#EXTINF:-1,BT Sport 1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/9.ts
+#EXTINF:-1,BT Sports 1
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1837.ts
+#EXTINF:-1,BT Sports 2
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1836.ts
+#EXTINF:-1,CHT Stadium X
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1691.ts
+#EXTINF:-1,CTH Stadium 1 HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1685.ts
+#EXTINF:-1,CTH Stadium 5 HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1689.ts
+#EXTINF:-1,CTH Stadium 6 HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1690.ts
+#EXTINF:-1,BT SPORT 1
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/892.ts
 #EXTINF:-1,BT Sport 2
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/10.ts
-#EXTINF:-1,BT Sport Europe
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/11.ts
-#EXTINF:-1,BT SPORT Extra
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/119.ts
-#EXTINF:-1,British Eurosport
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/12.ts
-#EXTINF:-1,British Eurosport 2
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/13.ts
-#EXTINF:-1,Premier Sports
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/14.ts
-#EXTINF:-1,Racing UK
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/15.ts
-#EXTINF:-1,Setanta Ireland
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/16.ts
-#EXTINF:-1,Chelsea
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/17.ts
-#EXTINF:-1,MUTV
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/18.ts
-#EXTINF:-1,BoxNation
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/19.ts
-#EXTINF:-1,Liverpool
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/20.ts
-#EXTINF:-1,RealMadrid
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/21.ts
-#EXTINF:-1,Sky Sports 1 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/22.ts
-#EXTINF:-1,Sky Sports 2 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/23.ts
-#EXTINF:-1,Sky Sports 3 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/24.ts
-#EXTINF:-1,Sky Sports 4 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/25.ts
-#EXTINF:-1,Sky Sports 5 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/26.ts
-#EXTINF:-1,Sky Sports News HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/27.ts
-#EXTINF:-1,Sky Sports F1 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/28.ts
-#EXTINF:-1,BT Sport 1 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/29.ts
-#EXTINF:-1,BT Sport 2 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/30.ts
-#EXTINF:-1,BT Sport europe HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/31.ts
-#EXTINF:-1,Eurosport 1 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1926.ts
-#EXTINF:-1,Eurosport 2 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1913.ts
-#EXTINF:-1,FIGHTBOX HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1941.ts
-#EXTINF:-1,At The Races UK
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/32.ts
-#EXTINF:-1,Motor TV
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/86.ts
-#EXTINF:-1,Sky Select
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/33.ts
-#EXTINF:-1,Sky Scifi and horror
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/34.ts
-#EXTINF:-1,Sky Premiere +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/35.ts
-#EXTINF:-1,Sky Premiere
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/36.ts
-#EXTINF:-1,Sky Monsters
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/37.ts
-#EXTINF:-1,Sky Greats
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/38.ts
-#EXTINF:-1,Sky Family
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/39.ts
-#EXTINF:-1,Sky Drama
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/40.ts
-#EXTINF:-1,Sky Action
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/41.ts
-#EXTINF:-1,Sky Thriller
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/42.ts
-#EXTINF:-1,Sky Comedy
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/43.ts
-#EXTINF:-1,Sky Atlantic
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/44.ts
-#EXTINF:-1,Sky Atlantic +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/123.ts
-#EXTINF:-1,Sky Movies ShowCase
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/100.ts
-#EXTINF:-1,Sky One HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/45.ts
-#EXTINF:-1,Sky One HD +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1942.ts
-#EXTINF:-1,Sky Two HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/46.ts
-#EXTINF:-1,Sky Arts +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/47.ts
-#EXTINF:-1,TCM
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/58.ts
-#EXTINF:-1,TCM  +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1924.ts
-#EXTINF:-1,Horror Channel
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/122.ts
-#EXTINF:-1,True Movies
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/55.ts
-#EXTINF:-1,True Movies 2
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/56.ts
-#EXTINF:-1,Sony Movie Channel
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1937.ts
-#EXTINF:-1,Sony Movie Channel +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1944.ts
-#EXTINF:-1,MOVIES24
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1909.ts
-#EXTINF:-1,Comedy Central
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/54.ts
-#EXTINF:-1,Comedy Central Extra
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1917.ts
-#EXTINF:-1,RTEjr
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1903.ts
-#EXTINF:-1,RTE 1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/72.ts
-#EXTINF:-1,RTE 2
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/73.ts
-#EXTINF:-1,Universal
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1889.ts
-#EXTINF:-1,Universal +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/124.ts
-#EXTINF:-1,Film 4 UK
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/52.ts
-#EXTINF:-1,Movies 4 Men
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/87.ts
-#EXTINF:-1,Fox
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/90.ts
-#EXTINF:-1,Dmax
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/79.ts
-#EXTINF:-1,E!
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1900.ts
-#EXTINF:-1,SyFy
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/51.ts
-#EXTINF:-1,Syfy +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/121.ts
-#EXTINF:-1,Dave
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/53.ts
-#EXTINF:-1,Spike
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1902.ts
-#EXTINF:-1,Drama
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1899.ts
-#EXTINF:-1,Tru TV UK
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1927.ts
-#EXTINF:-1,CBS Action
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1896.ts
-#EXTINF:-1,CBS Drama
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1895.ts
-#EXTINF:-1,CBS Reality
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1894.ts
-#EXTINF:-1,CBS Reality+
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/120.ts
-#EXTINF:-1,Utv
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1932.ts
-#EXTINF:-1,UTV Ireland
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1901.ts
-#EXTINF:-1,BET
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1951.ts
-#EXTINF:-1,BBC Entertainment
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1893.ts
-#EXTINF:-1,BBC One HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/59.ts
-#EXTINF:-1,BBC2 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/60.ts
-#EXTINF:-1,BBC 3 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/61.ts
-#EXTINF:-1,BBC 4 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/62.ts
-#EXTINF:-1,BBC News
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/63.ts
-#EXTINF:-1,ITV Encore
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/64.ts
-#EXTINF:-1,ITV BE
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/65.ts
-#EXTINF:-1,ITV 1 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/66.ts
-#EXTINF:-1,ITV One SD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/67.ts
-#EXTINF:-1,ITV One  +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/68.ts
-#EXTINF:-1,ITV 2 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/69.ts
-#EXTINF:-1,ITV 3 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/70.ts
-#EXTINF:-1,ITV 4 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/71.ts
-#EXTINF:-1,Yesterday
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/57.ts
-#EXTINF:-1,More4
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/75.ts
-#EXTINF:-1,Sky Living
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/76.ts
-#EXTINF:-1,Sky Living +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1943.ts
-#EXTINF:-1,REAL Lives
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1907.ts
-#EXTINF:-1,Alibi
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/84.ts
-#EXTINF:-1,Alibi +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1934.ts
-#EXTINF:-1,TV3
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/48.ts
-#EXTINF:-1,Home
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/77.ts
-#EXTINF:-1,Gold
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/78.ts
-#EXTINF:-1,Channel5
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/80.ts
-#EXTINF:-1,Channel 5 USA
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/81.ts
-#EXTINF:-1,Channel 5Star
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/82.ts
-#EXTINF:-1,Channel4 HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/83.ts
-#EXTINF:-1,Pick TV
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/85.ts
-#EXTINF:-1,3E
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1888.ts
-#EXTINF:-1,TV3 IE
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1887.ts
-#EXTINF:-1,E4
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/88.ts
-#EXTINF:-1,Watch
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/49.ts
-#EXTINF:-1,Vintage TV
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1949.ts
-#EXTINF:-1,Quest
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1898.ts
-#EXTINF:-1,Five
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1897.ts
-#EXTINF:-1,AKA
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1948.ts
-#EXTINF:-1,CITV
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1933.ts
-#EXTINF:-1,Lifetime
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1925.ts
-#EXTINF:-1,iConcerts HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1947.ts
-#EXTINF:-1,Nautical HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1945.ts
-#EXTINF:-1,REALLY
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1908.ts
-#EXTINF:-1,The Vault
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1906.ts
-#EXTINF:-1,Eden
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1905.ts
-#EXTINF:-1,Magic
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1910.ts
-#EXTINF:-1,Cartoon Network
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/89.ts
-#EXTINF:-1,Nicktoons
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/91.ts
-#EXTINF:-1,Nickelodeon Jr
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/92.ts
-#EXTINF:-1,Nickelodeon
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/93.ts
-#EXTINF:-1,Baby Tv
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/94.ts
-#EXTINF:-1,Boomerang
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/95.ts
-#EXTINF:-1,NickJr Too
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1916.ts
-#EXTINF:-1,Sky Disney
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/96.ts
-#EXTINF:-1,Disney Channel
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/97.ts
-#EXTINF:-1,Disney Channel +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/125.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/98.ts
-#EXTINF:-1,Disney Junior +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/127.ts
-#EXTINF:-1,Disney XD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/99.ts
-#EXTINF:-1,Disney XD +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/126.ts
-#EXTINF:-1,Viva
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1928.ts
-#EXTINF:-1,Vh1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/115.ts
-#EXTINF:-1,MTV
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/116.ts
-#EXTINF:-1,MTV Music
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/117.ts
-#EXTINF:-1,MTV Hits
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/118.ts
-#EXTINF:-1,MTV Live HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1923.ts
-#EXTINF:-1,MTV +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1922.ts
-#EXTINF:-1,MTV Base
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1921.ts
-#EXTINF:-1,MTV Dance
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1920.ts
-#EXTINF:-1,MTV Rocks
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1919.ts
-#EXTINF:-1,MTV Classic
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1918.ts
-#EXTINF:-1,Nat Geo Channel
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/102.ts
-#EXTINF:-1,Animal planet
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1890.ts
-#EXTINF:-1,Travel Channe +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1950.ts
-#EXTINF:-1,ID Xtra HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1946.ts
-#EXTINF:-1,Crime Investigation
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1939.ts
-#EXTINF:-1,Fine Living Network
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1938.ts
-#EXTINF:-1,National Geography Wild
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/101.ts
-#EXTINF:-1,National Geographic HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1931.ts
-#EXTINF:-1, NatGeo Wild HD
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1930.ts
-#EXTINF:-1,Horse and Country
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1929.ts
-#EXTINF:-1,History +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1915.ts
-#EXTINF:-1,H2
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/50.ts
-#EXTINF:-1,Discovery Channel
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/104.ts
-#EXTINF:-1,Discovery +1
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1914.ts
-#EXTINF:-1,Discovery Home e Health
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1912.ts
-#EXTINF:-1,Discovery History
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/105.ts
-#EXTINF:-1,Discovery Science
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/106.ts
-#EXTINF:-1,Discovery Turbo
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/107.ts
-#EXTINF:-1,Investion Discovery
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/103.ts
-#EXTINF:-1,TLC
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/108.ts
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1386.ts
+#EXTINF:-1,Manchester United TV
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1830.ts
+#EXTINF:-1,Sky Sport 1
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1109.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1112.ts
+#EXTINF:-1,SKY Sport 2
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1113.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1115.ts
+#EXTINF:-1,Sky Sport 3
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1116.ts
+#EXTINF:-1,Sky Sport 4
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1388.ts
+#EXTINF:-1,Sky Sport 5 HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1119.ts
+#EXTINF:-1,Sky Sports F1
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1796.ts
+#EXTINF:-1,Sky Sports 1
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1799.ts
+#EXTINF:-1,Sky Sports 2
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1798.ts
+#EXTINF:-1,Sky Sports 3
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1797.ts
+#EXTINF:-1,Sky Sports 4
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1828.ts
+#EXTINF:-1,Sky Sports 5
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1827.ts
+#EXTINF:-1,Sky Syfy
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1123.ts
 #EXTINF:-1,History Channel
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/109.ts
-#EXTINF:-1,Travel Channel
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/110.ts
-#EXTINF:-1,Food Network
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/111.ts
-#EXTINF:-1,TG4
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/74.ts
-#EXTINF:-1,RT News
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1935.ts
-#EXTINF:-1,SkyNews
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/112.ts
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1268.ts
+#EXTINF:-1,Watch
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1738.ts
+#EXTINF:-1,US: ABC
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1928.ts
+#EXTINF:-1,TV Nasa
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1568.ts
+#EXTINF:-1,TLC-IRELAND
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1746.ts
+#EXTINF:-1,CHANNEL 5
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1742.ts
+#EXTINF:-1,BBC 1 HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/878.ts
+#EXTINF:-1,BBC 4 HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1745.ts
+#EXTINF:-1,FR: EuroNews
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/920.ts
+#EXTINF:-1,CBS Action
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1277.ts
+#EXTINF:-1,CBS Drama
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1276.ts
+#EXTINF:-1,CBS Reality
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1275.ts
+#EXTINF:-1,ITV 1
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1267.ts
+#EXTINF:-1,ITV 2 HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1266.ts
+#EXTINF:-1,ITV 3
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1265.ts
+#EXTINF:-1,ITV 4
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1264.ts
+#EXTINF:-1,SKY 1 HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1260.ts
+#EXTINF:-1,SKY Two HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1259.ts
+#EXTINF:-1,SKY Atlantic HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1258.ts
+#EXTINF:-1,SKY Living HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1257.ts
+#EXTINF:-1,Sky Action HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1060.ts
+#EXTINF:-1,Sky Movies Action
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1747.ts
+#EXTINF:-1,Sky Movies Drama
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1694.ts
+#EXTINF:-1,SKY Movies Premier HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1253.ts
+#EXTINF:-1,Sky Movies  Premiere
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1748.ts
+#EXTINF:-1,Sky Movies Thriller HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1251.ts
+#EXTINF:-1,Sky Movies Sci-fi e Horror HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1252.ts
+#EXTINF:-1,Sky Movies Greats HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1254.ts
+#EXTINF:-1,SKY Movies Disney HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1255.ts
+#EXTINF:-1,Sky Movies Modern
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1098.ts
+#EXTINF:-1,Sky Movies Family
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1097.ts
+#EXTINF:-1,Sky Movies Comedy
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1096.ts
+#EXTINF:-1,Sky Movies Select
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1099.ts
+#EXTINF:-1,BoomeRang
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/891.ts
+#EXTINF:-1,UK_Yesterday
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1789.ts
+#EXTINF:-1,UK_Sky Living
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1784.ts
+#EXTINF:-1,UK_Sky Arts
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1782.ts
+#EXTINF:-1,UK_Sky 1
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1785.ts
+#EXTINF:-1,UK_Home
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1786.ts
+#EXTINF:-1,UK_Gold
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1788.ts
+#EXTINF:-1,Watch
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1792.ts
+#EXTINF:-1,Vintage_TV
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1800.ts
+#EXTINF:-1,Ulster TV Ireland
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1801.ts
+#EXTINF:-1,Travel
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1802.ts
+#EXTINF:-1,TLC
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1803.ts
+#EXTINF:-1,TCM+1
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1804.ts
+#EXTINF:-1,Sky Thriller
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1805.ts
+#EXTINF:-1,Sky News
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1829.ts
+#EXTINF:-1,Sky Movies Comedy Central
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1795.ts
+#EXTINF:-1,Sky 2
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1806.ts
+#EXTINF:-1,Quest
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1807.ts
+#EXTINF:-1,PICK
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1808.ts
+#EXTINF:-1,More 4
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1809.ts
+#EXTINF:-1,Life Time
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1831.ts
+#EXTINF:-1,Horror Channel
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1810.ts
+#EXTINF:-1,H2
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1811.ts
+#EXTINF:-1,Good Food
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1791.ts
 #EXTINF:-1,Fox News
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1904.ts
-#EXTINF:-1,CNN
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1940.ts
-#EXTINF:-1,NHK News
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/1936.ts
-#EXTINF:-1,Bloomberg
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/114.ts
-#EXTINF:-1,Cnn Int
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/113.ts
-#EXTINF:-1,Zee TV
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/547.ts
-#EXTINF:-1,Star Plus
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/546.ts
-#EXTINF:-1,Sony Entertainment (SET)
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/545.ts
-#EXTINF:-1,Sab TV (SET)
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/548.ts
-#EXTINF:-1,And TV
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/549.ts
-#EXTINF:-1,Life OK
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/551.ts
-#EXTINF:-1,Rishtey
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/550.ts
-#EXTINF:-1,Rishtey Europe
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/544.ts
-#EXTINF:-1,Colors
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/617.ts
-#EXTINF:-1,Colors Europe
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/618.ts
-#EXTINF:-1,Zee Cinema
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/555.ts
-#EXTINF:-1,Star Gold
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/553.ts
-#EXTINF:-1,SET Max
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/554.ts
-#EXTINF:-1,B4U Movies
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/556.ts
-#EXTINF:-1,B4U PLUS
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/558.ts
-#EXTINF:-1,B4U Aflam
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/559.ts
-#EXTINF:-1,B4U Music
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/557.ts
-#EXTINF:-1,Zing
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/560.ts
-#EXTINF:-1,Zee Punjabi
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/561.ts
-#EXTINF:-1,CareWorld
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/542.ts
-#EXTINF:-1,Star Jalsha
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/552.ts
-#EXTINF:-1,Aaj Tak
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/562.ts
-#EXTINF:-1,ABP News
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/563.ts
-#EXTINF:-1,Geo News
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/535.ts
-#EXTINF:-1,DM Global
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/536.ts
-#EXTINF:-1,Samaa
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/537.ts
-#EXTINF:-1,Ary Digital
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/678.ts
-#EXTINF:-1,Ary News
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/679.ts
-#EXTINF:-1,Hum tv Europe
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/539.ts
-#EXTINF:-1,Hum World
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/540.ts
-#EXTINF:-1,PTV Prime
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/541.ts
-#EXTINF:-1,TV Colors
-http://www.x-media.tv:58080/live/kool/UaRGNAfIbs/543.ts
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1812.ts
+#EXTINF:-1,FOX
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1783.ts
+#EXTINF:-1,Film 4
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1813.ts
+#EXTINF:-1,Eden
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1787.ts
+#EXTINF:-1,Drama
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1794.ts
+#EXTINF:-1,Disney XD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1832.ts
+#EXTINF:-1,Disney Jr
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1833.ts
+#EXTINF:-1,Disney Channel
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1814.ts
+#EXTINF:-1,Discovery Turbo
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1815.ts
+#EXTINF:-1,Discovery Science
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1816.ts
+#EXTINF:-1,Discovery Home Health
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1817.ts
+#EXTINF:-1,Discovery
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1818.ts
+#EXTINF:-1,Dave
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1790.ts
+#EXTINF:-1,Community
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1834.ts
+#EXTINF:-1,CI
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1819.ts
+#EXTINF:-1,Chelsea TV
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1835.ts
+#EXTINF:-1,Channel 4
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1820.ts
+#EXTINF:-1,BBC_one
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1838.ts
+#EXTINF:-1,BBC TOW
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1839.ts
+#EXTINF:-1,BBC Three
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1840.ts
+#EXTINF:-1,BBC News
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1841.ts
+#EXTINF:-1,At The Races
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1821.ts
+#EXTINF:-1,Animal Planet
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1822.ts
+#EXTINF:-1,Alibi
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1793.ts
+#EXTINF:-1,AKA
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1823.ts
+#EXTINF:-1,5 USA
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1824.ts
+#EXTINF:-1,3E
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1825.ts
+#EXTINF:-1,Sky Sport News HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1675.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1120.ts
+#EXTINF:-1,REALLY
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1935.ts
+#EXTINF:-1,ITVBE
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1936.ts
+#EXTINF:-1,EuroSport 1
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1861.ts
+#EXTINF:-1,Carton Network
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1672.ts
+#EXTINF:-1,Disney Junior
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1271.ts
+#EXTINF:-1,Nickelodeon
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1261.ts
+#EXTINF:-1,Nat Geo Wild
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1262.ts
+#EXTINF:-1,National Geographic Channel
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1322.ts
+#EXTINF:-1,Nat Geo
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1263.ts
+#EXTINF:-1,Discovery Channel
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1673.ts
+#EXTINF:-1,Discovery History
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1274.ts
+#EXTINF:-1,BT Sport ESPN
+http://ksportiptv.com:1557/live/iptv14/TOyaywpx3I/1671.ts
 </List>

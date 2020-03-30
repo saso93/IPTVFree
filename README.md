@@ -1,12 +1,10 @@
 # ALT!
 
 <img src="https://digilander.libero.it/supergabry.casa/STOP.png" alt="ALT" width="200"/>
-This project was carried out for informational purposes only. We take no responsibility for the use and / or earnings activity through this project.
+This project was developed for informational purposes only. We take no responsibility for the use and / or earnings activity through this project.
 
 
-## VIDEO
-
-#### [See full video here](https://youtu.be/Ssf2w-1ZfbU)
+## IPTV
 
 [![IPTV Free](http://i.giphy.com/l41Yh6nk82VgjeFGM.gif)](https://youtu.be/Ssf2w-1ZfbU)
 

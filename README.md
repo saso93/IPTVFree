@@ -1,61 +1,26 @@
-![alt tag](https://s31.postimg.org/nk8td88dn/Progetto_Icona_Copia.png) 
+# ALT!
 
-<h2 align="center">Watch all your favorite channels!!</h1>
+<img src="https://digilander.libero.it/supergabry.casa/STOP.png" alt="ALT" width="200"/>
+This project was carried out for informational purposes only. We take no responsibility for the use and / or earnings activity through this project.
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-IPTVFree-green.svg?style=true)](https://android-arsenal.com/details/3/3625)
 
-##DOWNLOAD
+## VIDEO
 
-####IPTV Free is on Google Play!!!
-
-<a href="https://play.google.com/store/apps/details?id=it.michelelacorte.iptvfree">
-<img alt="Get it on Google Play" src="https://s32.postimg.org/50h5qj4lx/google_play_badge.png" />
-</a>
-
-##DONATE
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D6QRUWYCM5DFE)
-
-##VIDEO
-
-####[See full video here](https://youtu.be/Ssf2w-1ZfbU)
+#### [See full video here](https://youtu.be/Ssf2w-1ZfbU)
 
 [![IPTV Free](http://i.giphy.com/l41Yh6nk82VgjeFGM.gif)](https://youtu.be/Ssf2w-1ZfbU)
-
-##SCREENSHOT
-
-![alt tag](http://s33.postimg.org/kpqtu12yn/screen1.png) 
-![alt tag](http://s33.postimg.org/6pgk0owu7/screen2.png) 
-![alt tag](http://s33.postimg.org/t9ck470hr/screen3.png) 
-![alt tag](http://s33.postimg.org/jclag818f/screen5.png) 
-![alt tag](http://s32.postimg.org/4bcs10j6t/screen4.png) 
 
 ##SYSTEM REQUIREMENT
 
 Android API 14+
 
-[![API](https://img.shields.io/badge/API-14%2B-yellow.svg?style=flat)](https://android-arsenal.com/api?level=14)
+## STATUS
+Project no longer maintained. For informational purposes only.
 
-##STATUS
-
-![project maintained](https://img.shields.io/badge/Project-Maintained-green.svg)
-
-##PROJECT CERTIFICATION
-
+## PROJECT CERTIFICATION
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c068046882c74214bae960a958798c87)](https://www.codacy.com/app/micky1995/IPTVFree?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=michelelacorte/IPTVFree&amp;utm_campaign=Badge_Grade)
 
-##CHANGELOG
-
-**v2.0.0 (Coming Soon!)**
-
-- Re-styling layout
-- `Firebase` integration
-- Possibility to download `Films` and `Series`
-- Now on air `EPG`
-- Improved parsing `XML` list
-- Improved parsing icon
-- Added News `CardView`
-- Support `Android N`
+## CHANGELOG
 
 **v1.0.3**
 
@@ -88,12 +53,12 @@ Android API 14+
 - Possibility to add channel to `Favorite` category
 - System language supported `Italian` and `English`
 
-##TODO
+## TODO
 
 - EPG list
 - Multimedia native video player
 
-##CREDITS
+## CREDITS
 
 Michele Lacorte: [GitHub Profile](https://github.com/michelelacorte) (micky1995g@gmail.com)
 
@@ -103,7 +68,7 @@ Salvatore Vestita: [GitHub Profile](https://github.com/saso93) (salvatore.vestit
 
 Rubens Pischedda for the video demo: (rubens.pischedda@outlook.it)
 
-#####Third part library:
+##### Third part library:
 
 deano2390 for [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) license [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
@@ -111,13 +76,12 @@ square for [Picasso](http://square.github.io/picasso/) license [Apache v2.0](htt
 
 MiguelCatalan for [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView) license [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-##CONTRIBUTING
+## CONTRIBUTING
 
-If you want to contribute to the project fork it and open [Pull Request](https://github.com/michelelacorte/IPTVFree/pulls), or contact developers by e-mail.
-
+If you want to contribute to the project fork it and open or contact developers by e-mail.
 Each proposal will be accepted!
 
-##LICENSE
+## LICENSE
 
 ```
 Copyright 2016 Michele Lacorte, Davide Mantellini, Salvatore Vestita
